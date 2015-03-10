@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#297ad3",
+        "marker-size": "small",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.385244965553284,
+          47.709815687304705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#297ad3",
+        "marker-size": "small",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.873345375061033,
+          47.70629616881157
+        ]
+      }
+    }
+  ]
+}
