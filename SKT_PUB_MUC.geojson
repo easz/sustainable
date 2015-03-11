@@ -87,7 +87,7 @@
         "marker-color": "#297ad3",
         "marker-size": "small",
         "marker-symbol": "bus",
-        "name": "Taubensteinbahn"
+        "name": "Spitzing Taubensteinbahn"
       },
       "geometry": {
         "type": "Point",
@@ -110,6 +110,77 @@
         "coordinates": [
           11.887738108634949,
           47.661741997892236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#297ad3",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Spitzingsee Stümpflingbahn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.878774166107178,
+          47.66054247840547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.265664100646973,
+          47.440076473707634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.266822814941406,
+          47.39191439297055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.878846645355223,
+          47.40548031483419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.833474397659302,
+          47.41979046360031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.21802806854248,
+          47.63419307000045
         ]
       }
     }
