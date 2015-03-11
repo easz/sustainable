@@ -6,7 +6,8 @@
       "properties": {
         "marker-color": "#297ad3",
         "marker-size": "small",
-        "marker-symbol": "bus"
+        "marker-symbol": "bus",
+        "name": "Ettenhausen"
       },
       "geometry": {
         "type": "Point",
@@ -21,13 +22,94 @@
       "properties": {
         "marker-color": "#297ad3",
         "marker-size": "small",
-        "marker-symbol": "rail"
+        "marker-symbol": "rail",
+        "name": "Fischhausen-Neuhaus"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           11.873345375061033,
           47.70629616881157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#297ad3",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Osterhofen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.986475586891174,
+          47.687850006343204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#297ad3",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Bayrischzell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.010996341705322,
+          47.67571147948915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#297ad3",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Pitzingsattel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.88618779182434,
+          47.67230163810067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#297ad3",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Taubensteinbahn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.888617873191833,
+          47.666012352574405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#297ad3",
+        "marker-size": "small",
+        "marker-symbol": "bus",
+        "name": "Spitzingsee Kirche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.887738108634949,
+          47.661741997892236
         ]
       }
     }
