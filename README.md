@@ -1,1 +1,1 @@
-### A Sustainable Ski Touring Mapping Project
+### A Sustainable Ski Touring Project
