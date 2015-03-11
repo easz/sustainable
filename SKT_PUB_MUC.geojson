@@ -71,7 +71,7 @@
         "marker-color": "#297ad3",
         "marker-size": "small",
         "marker-symbol": "bus",
-        "name": "Pitzingsattel"
+        "name": "Spitzingsattel"
       },
       "geometry": {
         "type": "Point",
