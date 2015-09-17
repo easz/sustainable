@@ -179,7 +179,8 @@
       "properties": {
         "marker-size": "small",
         "marker-color": "#297ad3",
-        "marker-symbol": "rail"
+        "marker-symbol": "rail",
+        "name": "Lahn"
       },
       "geometry": {
         "type": "Point",
@@ -366,6 +367,38 @@
         "coordinates": [
           11.872444152832031,
           47.642680107565084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#297ad3",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Brannenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.106847763061523,
+          47.74105497889003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#297ad3",
+        "marker-size": "small",
+        "marker-symbol": "rail",
+        "name": "Aschau im Chiemgau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.325780391693115,
+          47.779092735382974
         ]
       }
     }
