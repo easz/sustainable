@@ -1,0 +1,208 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 11.789488792419432,
+                                 47.449480142100214
+                                 ]
+                 },
+                 "properties": {
+                 "name": "Grubalackenspitze",
+                 "_storage_options": {
+                 "iconUrl": "/uploads/pictogram/embassy-24_1.png"
+                 }
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 12.106633186340332,
+                                 47.72685401498223
+                                 ]
+                 },
+                 "properties": {
+                 "_storage_options": {
+                 "color": "DimGray",
+                 "iconUrl": "/uploads/pictogram/pitch-24_1.png"
+                 },
+                 "name": "Biber"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 12.0810383107576,
+                                 47.6753542849532
+                                 ]
+                 },
+                 "properties": {
+                 "_storage_options": {
+                 "color": "Gray",
+                 "iconUrl": "/uploads/pictogram/pitch-24_1.png"
+                 },
+                 "name": "Blockwelt Sudelfeld"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 12.1245540481001,
+                                 47.7176544430005
+                                 ]
+                 },
+                 "properties": {
+                 "_storage_options": {
+                 "color": "Gray",
+                 "iconUrl": "/uploads/pictogram/pitch-24_1.png"
+                 },
+                 "name": "Flintsbach"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 12.1693087994012,
+                                 47.6407688785715
+                                 ]
+                 },
+                 "properties": {
+                 "_storage_options": {
+                 "iconUrl": "/uploads/pictogram/pitch-24_1.png",
+                 "color": "Gray"
+                 },
+                 "name": "Oberaudorf (Luegsteinsee)"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 12.106847763061523,
+                                 47.74105497889003
+                                 ]
+                 },
+                 "properties": {
+                 "_storage_options": {
+                 "color": "OrangeRed",
+                 "iconUrl": "/uploads/pictogram/rail-24-white.png"
+                 },
+                 "name": "Brannenburg"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 12.128219604492188,
+                                 47.72402490516458
+                                 ]
+                 },
+                 "properties": {
+                 "_storage_options": {
+                 "color": "OrangeRed",
+                 "iconUrl": "/uploads/pictogram/rail-24-white.png"
+                 },
+                 "name": "Flintsbach"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 11.749518513679504,
+                                 47.42457053714144
+                                 ]
+                 },
+                 "properties": {
+                 "name": "Maurach",
+                 "_storage_options": {
+                 "color": "SandyBrown",
+                 "iconUrl": "/uploads/pictogram/bus-24_1.png"
+                 }
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 11.833198070526123,
+                                 47.420908393637156
+                                 ]
+                 },
+                 "properties": {
+                 "name": "Münster",
+                 "_storage_options": {
+                 "iconUrl": "/uploads/pictogram/bus-24_1.png",
+                 "color": "SandyBrown"
+                 }
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 12.175233364105225,
+                                 47.65264013567813
+                                 ]
+                 },
+                 "properties": {
+                 "_storage_options": {
+                 "color": "OrangeRed",
+                 "iconUrl": "/uploads/pictogram/rail-24-white.png"
+                 },
+                 "name": "Oberraudorf"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 11.986486315727234,
+                                 47.687842784019196
+                                 ]
+                 },
+                 "properties": {
+                 "_storage_options": {
+                 "iconUrl": "/uploads/pictogram/rail-24-white.png",
+                 "color": "OrangeRed"
+                 },
+                 "name": "Osterhofen"
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 12.08471417427063,
+                                 47.67227274018763
+                                 ]
+                 },
+                 "properties": {
+                 "_storage_options": {
+                 "color": "SandyBrown",
+                 "iconUrl": "/uploads/pictogram/bus-24_1.png"
+                 },
+                 "name": "Tatzelwurm"
+                 }
+                 }
+                 ]
+}
