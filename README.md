@@ -1,12 +1,12 @@
 # Sustainable Mountaineering
 
-## Idea:
+### Idea
 - Travel with Public Transportation
 - Carpooling , car sharing
 - DIY, Repair, [second-hand, sharing](#sharing), recycle
 - Environment-friendly product
 - [Community](#community) support
-- Spread the word and help with the project
+- Spread the word and fork the project
 
 ## Sharing
 - [TODO](http://www.fuereinebesserewelt.info/linktipps-zum-tauschen-teilen-leihen/)
