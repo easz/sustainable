@@ -2,8 +2,8 @@
 
 ### Idea
 - Travel with [public transportation](#public-transportation)
-- Carpooling , car sharing
-- DIY, Repair, [second-hand, sharing](#sharing), recycle
+- Carpooling , car [sharing](#sharing)
+- DIY, repair, second-hand, [sharing](#sharing), recycle
 - Environment-friendly product
 - [Community](#community) support
 - Spread the word and fork the project
@@ -23,8 +23,8 @@
   - [27 Crags](http://27crags.com/)
 
 ## Public Transportation
-- Ski Touring [ÖAV](http://www.alpenverein.at/portal/news/aktuelle_news/2013_12_19_skitouren-mit-oeffis.php)
-- Ski Touring [DAV](http://www.alpinjournal.de/html/skitouren_mit_bus_und_bahn.html)
+- Skitouren mit Öffis [ÖAV](http://www.alpenverein.at/portal/news/aktuelle_news/2013_12_19_skitouren-mit-oeffis.php)
+- Skitouren mit Bus und Bahn [DAV](http://www.alpinjournal.de/html/skitouren_mit_bus_und_bahn.html)
 - [Mapping](mapping/) 
 
 ## Community
@@ -32,4 +32,4 @@
 - [Respect the Mountain](http://www.respectthemountains.com/)
 
 ## Sharing
-- [TODO](http://www.fuereinebesserewelt.info/linktipps-zum-tauschen-teilen-leihen/)
+- [Linktipps zum Tauschen, teilen, leihen](http://www.fuereinebesserewelt.info/linktipps-zum-tauschen-teilen-leihen/)
