@@ -1,7 +1,7 @@
 # Sustainable Mountaineering
 
 ### Idea
-- Travel with [public transportation](#public_transportation)
+- Travel with [public transportation](#public-transportation)
 - Carpooling , car sharing
 - DIY, Repair, [second-hand, sharing](#sharing), recycle
 - Environment-friendly product
@@ -10,24 +10,24 @@
 
 ## Tours
 - Alps
- - [Bergtour Online](http://www.bergtour-online.de/wanderkarte/)
- - [Markus Stadler](http://www.stadler-markus.de/skitouren/tourentipps.htm)
- - [Touren Tipp](http://www.tourentipp.de/)
- - [Bergsteigen](http://www.bergsteigen.com/)
- - [Camp to Camp](http://www.camptocamp.org/)
- - Ski Touring
-  - [skitourengehen.info](http://www.skitourengehen.info/skitouren)
-  - [skitourenkarte](http://skitourenkarte.eu/)
-- [hikr](http://www.hikr.org/map.php)
-- Climbing
- - [The Crag](https://www.thecrag.com/climbing/germany/oberbayern)
- - [27 Crags](climbing http://27crags.com/)
+  - [Bergtour Online](http://www.bergtour-online.de/wanderkarte/)
+  - [Markus Stadler](http://www.stadler-markus.de/skitouren/tourentipps.htm)
+  - [Touren Tipp](http://www.tourentipp.de/)
+  - [Bergsteigen](http://www.bergsteigen.com/)
+  - [Camp to Camp](http://www.camptocamp.org/)
+  - Ski Touring
+    - [skitourengehen.info](http://www.skitourengehen.info/skitouren)
+    - [skitourenkarte](http://skitourenkarte.eu/)
+ - [hikr](http://www.hikr.org/map.php)
+ - Climbing
+   - [The Crag](https://www.thecrag.com/climbing/germany/oberbayern)
+   - [27 Crags](climbing http://27crags.com/)
 
 ## Public Transportation
 - Alps
- - Ski Touring
-  - [ÖAV](http://www.alpenverein.at/portal/news/aktuelle_news/2013_12_19_skitouren-mit-oeffis.php)
-  - [DAV](http://www.alpinjournal.de/html/skitouren_mit_bus_und_bahn.html)
+  - Ski Touring
+    - [ÖAV](http://www.alpenverein.at/portal/news/aktuelle_news/2013_12_19_skitouren-mit-oeffis.php)
+    - [DAV](http://www.alpinjournal.de/html/skitouren_mit_bus_und_bahn.html)
 - TODO [Mapping](mapping/README.md) 
 
 ## Community
