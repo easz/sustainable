@@ -20,8 +20,8 @@
     - [skitourenkarte](http://skitourenkarte.eu/)
  - [hikr](http://www.hikr.org/map.php)
  - Climbing
-   - [The Crag](https://www.thecrag.com/climbing/germany/oberbayern)
-   - [27 Crags](climbing http://27crags.com/)
+    - [The Crag](https://www.thecrag.com/climbing/germany/oberbayern)
+    - [27 Crags](http://27crags.com/)
 
 ## Public Transportation
 - Alps
