@@ -12,7 +12,7 @@
 - Alps
   - [Bergtour Online](http://www.bergtour-online.de/wanderkarte/)
   - [Markus Stadler](http://www.stadler-markus.de/skitouren/tourentipps.htm)
-  - [Touren Tipp](http://www.tourentipp.de/)
+  - [Tourentipp](http://www.tourentipp.de/)
   - [Bergsteigen](http://www.bergsteigen.com/)
   - [Camp to Camp](http://www.camptocamp.org/)
   - Ski Touring
@@ -28,7 +28,7 @@
   - Ski Touring
     - [ÖAV](http://www.alpenverein.at/portal/news/aktuelle_news/2013_12_19_skitouren-mit-oeffis.php)
     - [DAV](http://www.alpinjournal.de/html/skitouren_mit_bus_und_bahn.html)
-- TODO [Mapping](mapping/README.md) 
+- [Mapping](mapping/) 
 
 ## Community
 - [Ride Green](http://www.ridegreener.com/)
@@ -36,15 +36,3 @@
 
 ## Sharing
 - [TODO](http://www.fuereinebesserewelt.info/linktipps-zum-tauschen-teilen-leihen/)
-
-
-TODO
-
-Use sustainable/mapping/SKT_Public_Transportation.geojson to mark the ski tour destinations and their closest train/bus stops.
-
-There are many ways to view and edit a geojson map, for example: http://geojson.io/#id=github:easz/sustainable/blob/master/mapping/SKT_Public_Transportation.geojson&map=9/47.2904/10.9712
-
-Another mapping tool: http://umap.openstreetmap.fr/en/user/easz/ TODO: integrate it into GitHub repository seamlessly.
-
-
-
