@@ -28,7 +28,11 @@
   - [Swiss Topo](https://map.geo.admin.ch/)
   - [Bayern Atlas](http://geoportal.bayern.de/bayernatlas/)
   - [Austria](http://www.oetk.at/ausr%C3%BCstung/kartenmaterial/digitale-karten/)
+- Locals
+  - [Oberammergau](http://www.ammergauer-alpen.de/Media/Touren)
+  - [Spitzingsee](http://www.alpenbahnen-spitzingsee.de/sommer/sommer/klettern/)
 
+  
 ## Public Transportation
 - Skitouren mit Öffis [ÖAV](http://www.alpenverein.at/portal/news/aktuelle_news/2013_12_19_skitouren-mit-oeffis.php)
 - Skitouren mit Bus und Bahn [DAV](http://www.alpinjournal.de/html/skitouren_mit_bus_und_bahn.html)
