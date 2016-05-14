@@ -24,6 +24,7 @@
   - [27 Crags](http://27crags.com/)
 - Map
   - [OpenTopoMap](https://opentopomap.org/)
+  - [OSM Topo](https://geo.dianacht.de/topo/)
   - [Outdooractive](http://www.outdooractive.com/de/)
   - [Swiss Topo](https://map.geo.admin.ch/)
   - [Bayern Atlas](http://geoportal.bayern.de/bayernatlas/)
@@ -31,6 +32,7 @@
 - Locals
   - [Oberammergau](http://www.ammergauer-alpen.de/Media/Touren)
   - [Spitzingsee](http://www.alpenbahnen-spitzingsee.de/sommer/sommer/klettern/)
+  - [Bay. Voralpen](http://www.bromba.com/berge/berge.htm)
 
   
 ## Public Transportation
