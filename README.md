@@ -12,6 +12,7 @@
 - [Bergtour Online](http://www.bergtour-online.de/wanderkarte/)
 - [Markus Stadler](http://www.stadler-markus.de/skitouren/tourentipps.htm)
 - [Gamssteig](http://www.gamssteig.de/karte.htm) 
+- [MyMountains](http://www.mymountains.de/Karte)
 - [Tourentipp](http://www.tourentipp.de/)
 - [Bergsteigen](http://www.bergsteigen.com/)
 - [Camp to Camp](http://www.camptocamp.org/)
