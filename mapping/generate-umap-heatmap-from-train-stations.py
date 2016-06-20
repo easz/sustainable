@@ -86,7 +86,7 @@ for station in stations:
 	feature["properties"]["_storage_options"]["iconClass"] = "Circle"
 	feature["properties"]["_storage_options"]["color"] = time_color
 	feature["properties"]["name"] = station_name
-	feature["properties"]["description"] = time_string_hh_mm
+	feature["properties"]["description"] = time_string_hh_mm + " from " + CALCULATE_FROM_STATION
 	transportation_heatmap_layer["features"].append(feature)
 
 	# relax a bit
