@@ -24,7 +24,7 @@ Example:
 ![Example](transportation.heatmap.png)
 
 Color code:
-- green-ish: less than 1h30
-- yelloe/brown-ish: around 2h
-- purple/pink-ish: 3h or more
+- green-ish: < 1h
+- yelloe/brown-ish: < 2h
+- purple/pink-ish: around 3h or more
 - grey: info not available at this time point
