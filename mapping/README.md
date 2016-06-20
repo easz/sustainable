@@ -26,5 +26,6 @@ Example:
 Color code:
 - green-ish: < 1h
 - yelloe/brown-ish: < 2h
-- purple/pink-ish: around 3h or more
-- grey: info not available at this time point
+- purple/pink-ish: < 3h
+- grey: > 3h
+- black: info not available at this time point
