@@ -1,5 +1,10 @@
 # Mapping
 
+### Make a map with umap
+
+A map http://umap.openstreetmap.fr/en/map/mtn_53474 is create to collect hiking and climbing destination around Munich.
+Their closest train or bus stations are also marked in the map.
+
 ### Create a heatmap to represent travel duration by public transportation
 
 At the moment umap does not really support a full functional heatmap feature, 
