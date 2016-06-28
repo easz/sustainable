@@ -6,23 +6,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.08020544052124,
-          47.59633885528883
-        ]
-      },
-      "properties": {
-        "_storage_options": {
-          "color": "SandyBrown",
-          "iconUrl": "/uploads/pictogram/bus-24_1.png"
-        },
-        "name": " Aufackerstraße, Oberammergau"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           11.743483543395996,
           47.55234613131679
         ]
@@ -74,6 +57,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.100440025329588,
+          47.56485720093761
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Am Berg, Ettal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           12.325587272644043,
           47.77890528336972
         ]
@@ -84,6 +84,40 @@
           "iconUrl": "/uploads/pictogram/rail-24-white.png"
         },
         "name": "Aschau(Chiemgau)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08020544052124,
+          47.59633885528883
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Aufackerstraße, Oberammergau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.46148681640625,
+          47.492761761403315
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Aufstieg Tölzer Hütte, Österreich"
       }
     },
     {
@@ -135,6 +169,91 @@
           "iconUrl": "/uploads/pictogram/rail-24-white.png"
         },
         "name": "Benediktbeuern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.000259399414062,
+          47.625140638632644
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Berchtesgaden Hbf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.721969604492188,
+          47.3912316472092
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Berwang Brand, Österreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.747439861297607,
+          47.40834120348175
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Berwang Oberdorf Kirchplatz, Österreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.718300342559814,
+          47.40359233367022
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Berwang Rinnen Feuerwehr, Österreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.888094902038572,
+          47.37254712906324
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Biberwier Marienbergbahn Talstation, Österreich"
       }
     },
     {
@@ -203,6 +322,23 @@
           "iconUrl": "/uploads/pictogram/rail-24-white.png"
         },
         "name": "Brannenburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.881370544433594,
+          47.43412575348544
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Brixlegg"
       }
     },
     {
@@ -295,6 +431,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.304802894592285,
+          47.57115504627893
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Einsiedl, Kochel a. See"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.502406597137451,
           47.46307475773903
         ]
@@ -346,8 +499,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.567042469978333,
-          47.402484928619224
+          12.30419397354126,
+          47.51359210481966
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Ellmau Dorf, Österreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.567230224609375,
+          47.40253212996519
         ]
       },
       "properties": {
@@ -356,6 +526,125 @@
           "iconUrl": "/uploads/pictogram/bus-24_1.png"
         },
         "name": "Eng/Tirol Gasthaus, Österreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.188545227050781,
+          47.601880561086176
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Eschenlohe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.530580520629883,
+          47.57004031042246
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Fall Abzw. (B307), Lenggries"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.115245819091797,
+          47.53111102290634
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Farchant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.819816589355467,
+          47.34609271389728
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Fernpass Hotel Fernsteinsee, Österreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.933212280273438,
+          47.70589186018684
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Fischbachau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.873817443847656,
+          47.705718584101895
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Fischhausen-Neuhaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.588795185089111,
+          47.64976363176438
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Fleck Gh. Papyrer, Lenggries"
       }
     },
     {
@@ -373,6 +662,23 @@
           "iconUrl": "/uploads/pictogram/rail-24-white.png"
         },
         "name": "Flintsbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.278423309326172,
+          47.70548754842597
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Geigelstein Aufstieg, Aschau i. Chiemgau"
       }
     },
     {
@@ -500,6 +806,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.388238310813904,
+          47.58160635029047
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Griesenau (Tirol), Österreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           13.042294979095457,
           47.726291092111
         ]
@@ -510,6 +833,23 @@
           "iconUrl": "/uploads/pictogram/bus-24_1.png"
         },
         "name": "Grödig Untersbergbahn Talstation (Busterminal), Ös"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.331968307495117,
+          47.0284531394291
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Gschnitz Gh Feuerstein, Österreich"
       }
     },
     {
@@ -551,6 +891,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.50217056274414,
+          47.27689976031072
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Hall in Tirol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.04649543762207,
           47.46606307067127
         ]
@@ -561,6 +918,23 @@
           "iconUrl": "/uploads/pictogram/rail-24-white.png"
         },
         "name": "Hammersbach Zugspitzbahn, Grainau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.748147964477539,
+          47.442079247671344
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Heiterwang-Plansee"
       }
     },
     {
@@ -619,6 +993,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.747667789459229,
+          47.666182147950195
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Hirschbergweg, Kreuth-Scharling"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.249785423278809,
+          47.280859411143915
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Hochzirl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.74061632156372,
           47.5565602627253
         ]
@@ -653,6 +1061,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.401147842407227,
+          47.26321339124972
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Innsbruck Hbf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.433763504028319,
           47.605902632630006
         ]
@@ -663,6 +1088,23 @@
           "iconUrl": "/uploads/pictogram/bus-24_1.png"
         },
         "name": "Jachenau Post"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.77858829498291,
+          47.388355301990096
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Jenbach"
       }
     },
     {
@@ -773,6 +1215,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.238584518432617,
+          47.4829307962478
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Klais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.714043617248535,
           47.62245063642757
         ]
@@ -834,6 +1293,23 @@
           "iconUrl": "/uploads/pictogram/bus-24_1.png"
         },
         "name": "Klostergasthof, Ettal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.371922492980957,
+          47.660820682668934
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Kochel a. See Bahnhof"
       }
     },
     {
@@ -1011,6 +1487,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.725544929504395,
+          47.712172729366706
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Lindenplatz, Bad Wiessee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           10.956909656524658,
           47.569692855435115
         ]
@@ -1021,6 +1514,23 @@
           "iconUrl": "/uploads/pictogram/bus-24_1.png"
         },
         "name": "Linderhof Schloß, Ettal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.734042167663574,
+          47.43351612951016
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Maurach Buchau, Österreich"
       }
     },
     {
@@ -1055,6 +1565,23 @@
           "iconUrl": "/uploads/pictogram/rail-24-white.png"
         },
         "name": "Mittenwald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.834292411804197,
+          47.65420118705451
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Moni-Alm, Rottach-Egern"
       }
     },
     {
@@ -1106,6 +1633,23 @@
           "color": "OrangeRed"
         },
         "name": "Oberammergau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.139450073242186,
+          47.559297094375545
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Oberau"
       }
     },
     {
@@ -1306,8 +1850,8 @@
       },
       "properties": {
         "_storage_options": {
-          "iconUrl": "/uploads/pictogram/bus-24_1.png",
-          "color": "SandyBrown"
+          "iconUrl": "/uploads/pictogram/rail-24-white.png",
+          "color": "OrangeRed"
         },
         "name": "Pflach Unterletzen, Österreich"
       }
@@ -1334,6 +1878,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.67722225189209,
+          47.32384330004647
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Pill-Vomperbach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.074014902114868,
+          47.590022331286015
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Rainenbichl, Oberammergau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.462401390075684,
+          47.75805063312682
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Rathaus, Marquartstein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.721626281738281,
+          47.492848752881066
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Reutte in Tirol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.745221614837645,
           47.643749925862856
         ]
@@ -1344,6 +1956,23 @@
           "iconUrl": "/uploads/pictogram/bus-24_1.png"
         },
         "name": "Riedlerbrücke, Kreuth"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.649555206298828,
+          47.76229146748842
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Ruhpolding"
       }
     },
     {
@@ -1368,6 +1997,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.260699272155762,
+          47.689803608266374
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Sachrang Ort, Aschau i. Chiemgau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.266908645629883,
           47.391783655105186
         ]
@@ -1378,6 +2024,41 @@
           "iconUrl": "/uploads/pictogram/rail-24-white.png"
         },
         "name": "Scharnitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.250099182128906,
+          47.52821334270141
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Scheffau am Wilden Kaiser Ort, Österreich",
+        "description": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.86025619506836,
+          47.734936339209426
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Schliersee"
       }
     },
     {
@@ -1419,6 +2100,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.19009017944336,
+          47.32835210850964
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Seefeld in Tirol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.621917724609375,
+          47.71028132887223
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Seehaus, Ruhpolding"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.88618779182434,
           47.67220771982475
         ]
@@ -1446,6 +2161,23 @@
           "iconUrl": "/uploads/pictogram/bus-24_1.png"
         },
         "name": "Spitzingsee Kirche, Schliersee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.469812393188475,
+          47.089176220266616
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "OrangeRed",
+          "iconUrl": "/uploads/pictogram/rail-24-white.png"
+        },
+        "name": "Steinach am Brenner Bahnhst (Vorplatz), Österreich"
       }
     },
     {
@@ -1589,6 +2321,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          11.175069808959961,
+          47.388936394485135
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Unterleutasch-Puitbach, Österreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           11.179404258728026,
           47.39865421686805
         ]
@@ -1599,6 +2348,57 @@
           "iconUrl": "/uploads/pictogram/bus-24_1.png"
         },
         "name": "Unterleutasch-Reindlau, Österreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.89342975616455,
+          47.61654950157821
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Valepp Forsthaus, Schliersee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.317720413208008,
+          47.5963822651869
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Walchensee Herzogstandbahn, Kochel a. See"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.775755882263184,
+          47.67527081337229
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Wallbergbahn, Rottach-Egern"
       }
     },
     {
@@ -1657,8 +2457,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.924342155456543,
-          47.603240576716246
+          11.003966331481932,
+          47.31214769364974
+        ]
+      },
+      "properties": {
+        "_storage_options": {
+          "color": "SandyBrown",
+          "iconUrl": "/uploads/pictogram/bus-24_1.png"
+        },
+        "name": "Wildermieming Affenhausen, Österreich"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.924470901489258,
+          47.60332738502412
         ]
       },
       "properties": {

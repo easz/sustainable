@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 # create sort-of heatmap on umap
 
@@ -10,7 +10,7 @@ import random
 
 OUTPUT_TRANSPORT_HEATMAP_LAYER_GEOJSON = 'Transport.heatmap.geojson'
 INPUT_TRANSPORT_LAYER_GEOJSON = 'Transport.geojson'
-CALCULATE_FROM_STATION = 'München Hbf'
+CALCULATE_FROM_STATION = u'München Hbf'
 
 COLOR_CODE = {}
 COLOR_CODE[31] = "LawnGreen"
@@ -86,7 +86,7 @@ for station in stations:
 	feature["properties"]["_storage_options"]["iconClass"] = "Circle"
 	feature["properties"]["_storage_options"]["color"] = time_color
 	feature["properties"]["name"] = station_name
-	feature["properties"]["description"] = time_string_hh_mm + " from " + CALCULATE_FROM_STATION
+	feature["properties"]["description"] = time_string_hh_mm + u' from ' + CALCULATE_FROM_STATION
 	transportation_heatmap_layer["features"].append(feature)
 
 	# relax a bit

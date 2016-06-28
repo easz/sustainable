@@ -5,31 +5,13 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          11.08020544052124, 
-          47.59633885528883
-        ]
-      }, 
-      "type": "Feature", 
-      "properties": {
-        "description": "2:02 from Munich from Munich", 
-        "_storage_options": {
-          "iconClass": "Circle", 
-          "color": "SaddleBrown"
-        }, 
-        "name": "Aufackerstra\u00dfe, Oberammergau"
-      }
-    }, 
-    {
-      "geometry": {
-        "type": "Point", 
-        "coordinates": [
           11.743483543395996, 
           47.55234613131679
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:03 from Munich from Munich", 
+        "description": "3:03 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DarkViolet"
@@ -47,7 +29,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:25 from Munich", 
+        "description": "2:25 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -65,12 +47,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:02 from Munich", 
+        "description": "3:02 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DarkViolet"
         }, 
         "name": "Alpe Eschbach, Oberstdorf"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.100440025329588, 
+          47.56485720093761
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:30 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Am Berg, Ettal"
       }
     }, 
     {
@@ -83,12 +83,48 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:13 from Munich", 
+        "description": "1:13 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
         }, 
         "name": "Aschau(Chiemgau)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.08020544052124, 
+          47.59633885528883
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:40 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Aufackerstra\u00dfe, Oberammergau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.46148681640625, 
+          47.492761761403315
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:45 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Aufstieg T\u00f6lzer H\u00fctte, \u00d6sterreich"
       }
     }, 
     {
@@ -101,7 +137,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:22 from Munich", 
+        "description": "3:22 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DimGrey"
@@ -119,7 +155,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:19 from Munich", 
+        "description": "1:19 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
@@ -137,12 +173,102 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "0:58 from Munich", 
+        "description": "0:58 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
         }, 
         "name": "Benediktbeuern"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.000259399414062, 
+          47.625140638632644
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:35 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Berchtesgaden Hbf"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.721969604492188, 
+          47.3912316472092
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:43 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Berwang Brand, \u00d6sterreich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.747439861297607, 
+          47.40834120348175
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:35 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Berwang Oberdorf Kirchplatz, \u00d6sterreich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.718300342559814, 
+          47.40359233367022
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:40 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Berwang Rinnen Feuerwehr, \u00d6sterreich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.888094902038572, 
+          47.37254712906324
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": " from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "Black"
+        }, 
+        "name": "Biberwier Marienbergbahn Talstation, \u00d6sterreich"
       }
     }, 
     {
@@ -155,7 +281,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:11 from Munich", 
+        "description": "2:11 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -173,7 +299,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:31 from Munich", 
+        "description": "2:31 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -191,7 +317,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:27 from Munich", 
+        "description": "2:27 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -209,12 +335,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "0:56 from Munich", 
+        "description": "0:55 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
         }, 
         "name": "Brannenburg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.881370544433594, 
+          47.43412575348544
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:33 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Brixlegg"
       }
     }, 
     {
@@ -227,7 +371,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:27 from Munich", 
+        "description": "2:27 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -245,7 +389,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:43 from Munich", 
+        "description": "2:43 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -263,7 +407,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "", 
+        "description": " from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Black"
@@ -281,7 +425,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:57 from Munich", 
+        "description": "1:57 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -299,12 +443,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:13 from Munich", 
+        "description": "2:13 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
         }, 
         "name": "Eibsee Zugspitzbahn, Grainau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.304802894592285, 
+          47.57115504627893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:38 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Einsiedl, Kochel a. See"
       }
     }, 
     {
@@ -317,7 +479,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:54 from Munich", 
+        "description": "1:54 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -335,7 +497,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:59 from Munich", 
+        "description": "1:59 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -353,7 +515,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:36 from Munich", 
+        "description": "3:58 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DimGrey"
@@ -365,18 +527,162 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          11.567042469978333, 
-          47.402484928619224
+          12.30419397354126, 
+          47.51359210481966
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:10 from Munich", 
+        "description": "2:24 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Ellmau Dorf, \u00d6sterreich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.567230224609375, 
+          47.40253212996519
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:10 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
         }, 
         "name": "Eng/Tirol Gasthaus, \u00d6sterreich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.188545227050781, 
+          47.601880561086176
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:05 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "Green"
+        }, 
+        "name": "Eschenlohe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.530580520629883, 
+          47.57004031042246
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:29 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Fall Abzw. (B307), Lenggries"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.115245819091797, 
+          47.53111102290634
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:15 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "Green"
+        }, 
+        "name": "Farchant"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.819816589355467, 
+          47.34609271389728
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:30 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Fernpass Hotel Fernsteinsee, \u00d6sterreich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.933212280273438, 
+          47.70589186018684
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:08 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "Green"
+        }, 
+        "name": "Fischbachau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.873817443847656, 
+          47.705718584101895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:01 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "Green"
+        }, 
+        "name": "Fischhausen-Neuhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.588795185089111, 
+          47.64976363176438
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:16 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Fleck Gh. Papyrer, Lenggries"
       }
     }, 
     {
@@ -389,12 +695,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "0:59 from Munich", 
+        "description": "0:58 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
         }, 
         "name": "Flintsbach"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.278423309326172, 
+          47.70548754842597
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:33 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Geigelstein Aufstieg, Aschau i. Chiemgau"
       }
     }, 
     {
@@ -407,7 +731,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:12 from Munich", 
+        "description": "1:12 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
@@ -425,7 +749,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:57 from Munich", 
+        "description": "1:52 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -443,7 +767,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "", 
+        "description": " from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Black"
@@ -461,7 +785,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:34 from Munich", 
+        "description": "2:34 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -479,7 +803,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:15 from Munich", 
+        "description": "1:15 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
@@ -497,7 +821,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:45 from Munich", 
+        "description": "4:24 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DimGrey"
@@ -515,12 +839,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:47 from Munich", 
+        "description": "1:47 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
         }, 
         "name": "Griesen(Oberbay)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.388238310813904, 
+          47.58160635029047
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "3:16 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DimGrey"
+        }, 
+        "name": "Griesenau (Tirol), \u00d6sterreich"
       }
     }, 
     {
@@ -533,12 +875,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:07 from Munich", 
+        "description": "2:17 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "SaddleBrown"
+          "color": "DeepPink"
         }, 
         "name": "Gr\u00f6dig Untersbergbahn Talstation (Busterminal), \u00d6s"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.331968307495117, 
+          47.0284531394291
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "3:30 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DimGrey"
+        }, 
+        "name": "Gschnitz Gh Feuerstein, \u00d6sterreich"
       }
     }, 
     {
@@ -551,7 +911,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:02 from Munich", 
+        "description": "2:02 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -569,12 +929,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:18 from Munich", 
+        "description": "2:30 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
         }, 
         "name": "Halblech Ortsmitte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.50217056274414, 
+          47.27689976031072
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:37 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Hall in Tirol"
       }
     }, 
     {
@@ -587,12 +965,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:55 from Munich", 
+        "description": "1:55 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
         }, 
         "name": "Hammersbach Zugspitzbahn, Grainau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.748147964477539, 
+          47.442079247671344
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:16 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Heiterwang-Plansee"
       }
     }, 
     {
@@ -605,7 +1001,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:52 from Munich", 
+        "description": "1:52 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -623,7 +1019,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:50 from Munich", 
+        "description": "1:50 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -641,12 +1037,48 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:21 from Munich", 
+        "description": "3:21 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DimGrey"
         }, 
         "name": "Hintersee Zauberwald, Ramsau b. Berchtesgaden"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.747667789459229, 
+          47.666182147950195
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:39 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Hirschbergweg, Kreuth-Scharling"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.249785423278809, 
+          47.280859411143915
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:26 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Hochzirl"
       }
     }, 
     {
@@ -659,7 +1091,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:20 from Munich", 
+        "description": "2:20 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -677,12 +1109,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:20 from Munich", 
+        "description": "3:20 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DimGrey"
         }, 
         "name": "Holzlagerplatz Blaueis, Ramsau b. Berchtesgaden"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.401147842407227, 
+          47.26321339124972
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:45 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Innsbruck Hbf"
       }
     }, 
     {
@@ -695,12 +1145,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:36 from Munich", 
+        "description": "1:36 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
         }, 
         "name": "Jachenau Post"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.77858829498291, 
+          47.388355301990096
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:26 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Jenbach"
       }
     }, 
     {
@@ -713,7 +1181,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:00 from Munich", 
+        "description": "3:00 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DarkViolet"
@@ -731,7 +1199,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:47 from Munich", 
+        "description": "1:47 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -749,7 +1217,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:43 from Munich", 
+        "description": "1:43 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
@@ -767,7 +1235,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:32 from Munich", 
+        "description": "3:31 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DimGrey"
@@ -785,7 +1253,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:30 from Munich", 
+        "description": "1:24 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
@@ -803,12 +1271,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:42 from Munich", 
+        "description": "1:42 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
         }, 
         "name": "Kistenwinterstube, Rottach-Egern"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.238584518432617, 
+          47.4829307962478
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:42 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Klais"
       }
     }, 
     {
@@ -821,7 +1307,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:50 from Munich", 
+        "description": "1:50 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -839,7 +1325,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:22 from Munich", 
+        "description": "3:22 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DimGrey"
@@ -857,7 +1343,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:17 from Munich", 
+        "description": "3:17 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DimGrey"
@@ -875,12 +1361,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:42 from Munich", 
+        "description": "1:32 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
         }, 
         "name": "Klostergasthof, Ettal"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.371922492980957, 
+          47.660820682668934
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:08 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "Green"
+        }, 
+        "name": "Kochel a. See Bahnhof"
       }
     }, 
     {
@@ -893,7 +1397,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:58 from Munich", 
+        "description": "3:00 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DarkViolet"
@@ -911,7 +1415,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:56 from Munich", 
+        "description": "1:56 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -929,7 +1433,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:46 from Munich", 
+        "description": "1:46 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -947,7 +1451,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:01 from Munich", 
+        "description": "1:01 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
@@ -965,7 +1469,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:24 from Munich", 
+        "description": "2:24 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -983,7 +1487,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:13 from Munich", 
+        "description": "2:13 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -1001,7 +1505,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:58 from Munich", 
+        "description": "2:08 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -1019,7 +1523,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:03 from Munich", 
+        "description": "1:06 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
@@ -1037,7 +1541,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:02 from Munich", 
+        "description": "2:02 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -1055,12 +1559,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:30 from Munich", 
+        "description": "2:30 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
         }, 
         "name": "Leutasch Gh. R\u00f6ssl, \u00d6sterreich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.725544929504395, 
+          47.712172729366706
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:11 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "Green"
+        }, 
+        "name": "Lindenplatz, Bad Wiessee"
       }
     }, 
     {
@@ -1073,12 +1595,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:16 from Munich", 
+        "description": "2:16 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
         }, 
         "name": "Linderhof Schlo\u00df, Ettal"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.734042167663574, 
+          47.43351612951016
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:48 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Maurach Buchau, \u00d6sterreich"
       }
     }, 
     {
@@ -1091,7 +1631,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:43 from Munich", 
+        "description": "2:43 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -1109,12 +1649,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:51 from Munich", 
+        "description": "1:51 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
         }, 
         "name": "Mittenwald"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.834292411804197, 
+          47.65420118705451
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:46 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "SaddleBrown"
+        }, 
+        "name": "Moni-Alm, Rottach-Egern"
       }
     }, 
     {
@@ -1127,7 +1685,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:46 from Munich", 
+        "description": "1:46 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -1145,10 +1703,10 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:03 from Munich", 
+        "description": "3:25 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DimGrey"
         }, 
         "name": "Nesselw\u00e4ngle Gh K\u00f6llenspitze, \u00d6sterreich"
       }
@@ -1163,12 +1721,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:40 from Munich", 
+        "description": "1:40 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
         }, 
         "name": "Oberammergau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.139450073242186, 
+          47.559297094375545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:12 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "Green"
+        }, 
+        "name": "Oberau"
       }
     }, 
     {
@@ -1181,7 +1757,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:05 from Munich", 
+        "description": "1:04 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
@@ -1199,7 +1775,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:16 from Munich", 
+        "description": "1:16 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
@@ -1217,7 +1793,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "0:59 from Munich", 
+        "description": "1:02 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
@@ -1235,7 +1811,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:20 from Munich", 
+        "description": "2:21 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -1253,10 +1829,10 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:43 from Munich", 
+        "description": "1:48 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "GoldenRod"
+          "color": "SaddleBrown"
         }, 
         "name": "Oberw\u00f6ssen Gasthaus Post, Unterw\u00f6ssen"
       }
@@ -1271,7 +1847,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:01 from Munich", 
+        "description": "1:01 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
@@ -1289,7 +1865,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:15 from Munich", 
+        "description": "1:15 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
@@ -1307,7 +1883,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:40 from Munich", 
+        "description": "1:40 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
@@ -1325,7 +1901,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:45 from Munich", 
+        "description": "3:45 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DimGrey"
@@ -1343,7 +1919,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:25 from Munich", 
+        "description": "1:25 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
@@ -1361,7 +1937,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:53 from Munich", 
+        "description": "2:53 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DarkViolet"
@@ -1379,7 +1955,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:47 from Munich", 
+        "description": "2:47 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DarkViolet"
@@ -1397,12 +1973,84 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:32 from Munich", 
+        "description": "2:32 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
         }, 
         "name": "Pfronten-Steinach"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.67722225189209, 
+          47.32384330004647
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:00 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "SaddleBrown"
+        }, 
+        "name": "Pill-Vomperbach"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.074014902114868, 
+          47.590022331286015
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:38 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Rainenbichl, Oberammergau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.462401390075684, 
+          47.75805063312682
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:34 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Rathaus, Marquartstein"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.721626281738281, 
+          47.492848752881066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:28 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Reutte in Tirol"
       }
     }, 
     {
@@ -1415,12 +2063,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:48 from Munich", 
+        "description": "1:43 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Riedlerbr\u00fccke, Kreuth"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.649555206298828, 
+          47.76229146748842
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:48 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
         }, 
-        "name": "Riedlerbr\u00fccke, Kreuth"
+        "name": "Ruhpolding"
       }
     }, 
     {
@@ -1433,12 +2099,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:29 from Munich", 
+        "description": "2:29 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
         }, 
         "name": "Saalfelden"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.260699272155762, 
+          47.689803608266374
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:37 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Sachrang Ort, Aschau i. Chiemgau"
       }
     }, 
     {
@@ -1451,12 +2135,48 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:01 from Munich", 
+        "description": "2:01 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
         }, 
         "name": "Scharnitz"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.250099182128906, 
+          47.52821334270141
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:13 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "SaddleBrown"
+        }, 
+        "name": "Scheffau am Wilden Kaiser Ort, \u00d6sterreich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.86025619506836, 
+          47.734936339209426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "0:51 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "Green"
+        }, 
+        "name": "Schliersee"
       }
     }, 
     {
@@ -1469,7 +2189,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:58 from Munich", 
+        "description": "1:58 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -1487,12 +2207,48 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:49 from Munich", 
+        "description": "1:47 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
         }, 
         "name": "Schwaz"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.19009017944336, 
+          47.32835210850964
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:13 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "SaddleBrown"
+        }, 
+        "name": "Seefeld in Tirol"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.621917724609375, 
+          47.71028132887223
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:11 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "SaddleBrown"
+        }, 
+        "name": "Seehaus, Ruhpolding"
       }
     }, 
     {
@@ -1505,7 +2261,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:12 from Munich", 
+        "description": "1:12 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
@@ -1523,12 +2279,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:18 from Munich", 
+        "description": "1:18 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
         }, 
         "name": "Spitzingsee Kirche, Schliersee"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.469812393188475, 
+          47.089176220266616
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:36 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Steinach am Brenner Bahnhst (Vorplatz), \u00d6sterreich"
       }
     }, 
     {
@@ -1541,7 +2315,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:10 from Munich", 
+        "description": "3:10 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DarkViolet"
@@ -1559,7 +2333,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "3:32 from Munich", 
+        "description": "3:52 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DimGrey"
@@ -1577,7 +2351,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:39 from Munich", 
+        "description": "1:39 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
@@ -1595,7 +2369,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:25 from Munich", 
+        "description": "2:38 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -1613,7 +2387,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "0:59 from Munich", 
+        "description": "1:04 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "Green"
@@ -1631,7 +2405,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:12 from Munich", 
+        "description": "2:12 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -1649,7 +2423,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:39 from Munich", 
+        "description": "1:39 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
@@ -1667,12 +2441,30 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:50 from Munich", 
+        "description": "1:50 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
         }, 
         "name": "Unteres Sudelfeld Jugenherberge, Bayrischzell"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.175069808959961, 
+          47.388936394485135
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "2:35 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DeepPink"
+        }, 
+        "name": "Unterleutasch-Puitbach, \u00d6sterreich"
       }
     }, 
     {
@@ -1685,12 +2477,66 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:33 from Munich", 
+        "description": "2:33 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
         }, 
         "name": "Unterleutasch-Reindlau, \u00d6sterreich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.89342975616455, 
+          47.61654950157821
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:50 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "SaddleBrown"
+        }, 
+        "name": "Valepp Forsthaus, Schliersee"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.317720413208008, 
+          47.5963822651869
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:32 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Walchensee Herzogstandbahn, Kochel a. See"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.775755882263184, 
+          47.67527081337229
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "1:32 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "GoldenRod"
+        }, 
+        "name": "Wallbergbahn, Rottach-Egern"
       }
     }, 
     {
@@ -1703,7 +2549,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:44 from Munich", 
+        "description": "2:44 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -1721,7 +2567,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:24 from Munich", 
+        "description": "2:24 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DeepPink"
@@ -1739,7 +2585,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:52 from Munich", 
+        "description": "1:47 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "SaddleBrown"
@@ -1751,13 +2597,31 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          12.924342155456543, 
-          47.603240576716246
+          11.003966331481932, 
+          47.31214769364974
         ]
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "2:59 from Munich", 
+        "description": "3:05 from M\u00fcnchen Hbf", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wildermieming Affenhausen, \u00d6sterreich"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.924470901489258, 
+          47.60332738502412
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "3:04 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "DarkViolet"
@@ -1775,7 +2639,7 @@
       }, 
       "type": "Feature", 
       "properties": {
-        "description": "1:45 from Munich", 
+        "description": "1:44 from M\u00fcnchen Hbf", 
         "_storage_options": {
           "iconClass": "Circle", 
           "color": "GoldenRod"
