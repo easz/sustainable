@@ -65,6 +65,7 @@ for station in stations:
 
 	# FIXME: search for week days or weekend. search for early morning and late evening
 	conn = api.connections(CALCULATE_FROM_STATION, station_name)	
+	print >> api_debug, repr(station_name)
 	print >> api_debug, json.dumps(conn, indent=2)
 
 	time_string_hh_mm = ""
