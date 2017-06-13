@@ -11,6 +11,7 @@
 ## Tours, Map, Planning
 - [Bergtour Online](http://www.bergtour-online.de/wanderkarte/)
 - [Markus Stadler](http://www.stadler-markus.de/skitouren/tourentipps.htm)
+- [Bergheimat](http://www.bergheimat.net/)
 - [Gamssteig](http://www.gamssteig.de/karte.htm) !! All tours are with publich transportation :)
 - [steinmandl](http://www.steinmandl.de/Homepage.htm?Fahrplan.htm) public transportation :)
 - [sirdar](http://www.sirdar.de/index.php)
@@ -40,11 +41,11 @@
   - [Spitzingsee](http://www.alpenbahnen-spitzingsee.de/sommer/sommer/klettern/)
   - [Bay. Voralpen](http://www.bromba.com/berge/berge.htm)
 
-  
+
 ## Public Transportation
 - Skitouren mit Öffis [ÖAV](http://www.alpenverein.at/portal/news/aktuelle_news/2013_12_19_skitouren-mit-oeffis.php)
 - Skitouren mit Bus und Bahn [DAV](http://www.alpinjournal.de/html/skitouren_mit_bus_und_bahn.html)
-- [Mapping with umap](http://umap.openstreetmap.fr/en/map/mtn_53474) 
+- [Mapping with umap](http://umap.openstreetmap.fr/en/map/mtn_53474)
 
 ## Community
 - [Ride Green](http://www.ridegreener.com/)

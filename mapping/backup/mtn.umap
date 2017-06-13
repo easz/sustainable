@@ -1,0 +1,4249 @@
+{
+  "type": "umap",
+  "properties": {
+    "easing": true,
+    "tilelayersControl": true,
+    "embedControl": true,
+    "fullscreenControl": true,
+    "searchControl": true,
+    "datalayersControl": true,
+    "zoomControl": true,
+    "slideshow": {},
+    "captionBar": false,
+    "limitBounds": {},
+    "tilelayer": {
+      "maxZoom": 18,
+      "url_template": "http://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png",
+      "minZoom": 0,
+      "attribution": "Tiles © [[http://www.thunderforest.com/outdoors/|Gravitystorm]] / map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL ",
+      "name": "OSM Outdoors (Thunderforest)"
+    },
+    "licence": {
+      "url": "",
+      "name": "No licence set"
+    },
+    "description": "",
+    "name": "MTN",
+    "displayPopupFooter": false,
+    "miniMap": false,
+    "moreControl": true,
+    "scaleControl": true,
+    "scrollWheelZoom": true,
+    "zoom": 9
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      12.15362548828125,
+      47.777174925180354
+    ]
+  },
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif",
+              "color": "White"
+            },
+            "name": "Arnspitzgruppe",
+            "description": "http://www.bergtour-online.de/bergtouren/bergtourenalpin/alpineklettertouren/leichteklettertouren/arnspitzgruppe-uberschreitung-arnplattenspitze/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.222362518310545,
+              47.39497937665848
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-benediktenwand-jachenau/",
+            "name": "Benediktenwand"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.467065811157227,
+              47.65261122687922
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Berchtesgadener Hochthron",
+            "description": "http://www.gamssteig.de/touren/mittagsloch-berchtesgadener-hochthron.htm\n\nhttp://www.gamssteig.de/touren/untersberg-ueberschreitung.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.986376285552979,
+              47.69355171907948
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Bettlerkarspitze",
+            "description": "http://www.tourentipp.de/de/touren/Bettlerkarspitze-Bergtour_1459.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.61778450012207,
+              47.43070015568947
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Breitenkopf",
+            "description": "http://www.gamssteig.de/touren/breitenkopf.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.987443923950194,
+              47.36150184339388
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/lalidererspitze-lalidererbiwak-dreizinkenspitze/",
+            "name": "Dreizinkenspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.513800621032715,
+              47.38831171979471
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-fleischbank-hoelzelstalljoch-grasbergjoch-im-karwendel/",
+            "name": "Fleischbank"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.519508361816404,
+              47.47869624436103
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Gamsjoch",
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-gamsjoch/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.54611587524414,
+              47.41769246588695
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif",
+              "color": "White"
+            },
+            "description": "http://www.outdooractive.com/de/bergtour/tiroler-zugspitz-arena/gartnerwand/107295627/#dm=1\n\nhttp://www.hikr.org/tour/post38682.html",
+            "name": "Gartnerwand"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.814752578735352,
+              47.38457804461302
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Gehrenspitze-Bergtour_511.html",
+            "name": "Gehrenspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.135330200195312,
+              47.38637953958612
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Geiselstein-Bergtour-Klettern_52.html",
+            "name": "Geiselstein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.829429626464844,
+              47.56094781260149
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/erlspitze-solstein-solsteinhaus/",
+            "name": "Großer Solstein "
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.308364868164062,
+              47.30274860185288
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.gamssteig.de/touren/grosser-widderstein.htm",
+            "name": "Grosser Widderstein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.12913703918457,
+              47.28473143014317
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.gamssteig.de/touren/laufbacher-eck-grosser-wilder.htm",
+            "name": "Grosser Wilder."
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.38856029510498,
+              47.37135551218413
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Grubalackenspitze",
+            "_storage_options": {
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif",
+              "color": "White"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.789488792419432,
+              47.449480142100214
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Guffert-Bergtour-Rofan_246.html\n\nhttp://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/bergwanderung-guffert-im-rofan/",
+            "name": "Guffert"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.789188385009766,
+              47.54582876601261
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Halserspitze",
+            "description": "http://www.steinmandl.de/Tegernseer.htm#Halserspitze\n\nhttp://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/halserspitze/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.781034469604492,
+              47.59111493464383
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Hennenkopfs",
+            "description": "http://www.tourentipp.de/de/touren/Hennenkopf-Probstwand-Bergtour-Lenggries_593.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.481925249099731,
+              47.662078002927444
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.gamssteig.de/touren/eckleitengraben-hirschberg.htm",
+            "name": "Hirschberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.241545677185059,
+              47.60118607138276
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Hochgundspitze",
+            "description": "http://www.gamssteig.de/touren/hochgundspitze.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.263075828552246,
+              47.28458587064588
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/hochiss/",
+            "name": "Hochiss"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.764812469482422,
+              47.45801164570331
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.gamssteig.de/touren/hochkalter-ueberschreitung.htm",
+            "name": "Hochkalter"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.865848541259766,
+              47.5692440559982
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Hochnissl-Bergtour-Karwendel_609.html\n\nhttp://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/hochnissl/",
+            "name": "Hochnissl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.618127822875977,
+              47.36696664222576
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Hochplatte",
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/wanderung-hochplatte/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.842304229736326,
+              47.55191166550984
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergsteigen.com/klettersteig/salzburg/berchtesgadener-alpen/hochseiler-mooshammersteig",
+            "name": "Hochseiler"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.030643463134766,
+              47.430642092788176
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.gamssteig.de/touren/hoefats-ostgipfel.htm",
+            "name": "Hoefats Ostgipfel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.350494384765625,
+              47.366298106804166
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.gamssteig.de/touren/wasserstein-hohe-kisten.htm",
+            "name": "Hohe Kisten"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.208028793334961,
+              47.56109260996465
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Hoher Gaif ",
+            "description": "http://www.gamssteig.de/touren/bernadeinkopf-hoher-gaif.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.067824363708496,
+              47.42254169029995
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Hoher-Gleirsch-Bergtour-Karwendel_1701.html\n\nhttp://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/hoher-gleirsch/",
+            "name": "Hoher Gleirsch"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.356258392333984,
+              47.36097858827746
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Hoher Göll",
+            "description": "http://www.gamssteig.de/touren/mannlgrat-hoher-goell-hohes-brett.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.067121505737303,
+              47.593893372872294
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Kleiner Watzmann",
+            "description": "http://www.gamssteig.de/touren/kleiner-watzmann-mooslahnerkopf.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.942538261413574,
+              47.55883372552486
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Kofel",
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/kofel/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.059370040893555,
+              47.586628603222366
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Kohlbergspitze",
+            "description": "http://www.gamssteig.de/touren/kohlbergspitze-pitzenegg.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.799689292907715,
+              47.43789945901148
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Kramerspitz",
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/kramerspitze/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.047439575195312,
+              47.506823512189456
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Krapfenkarspitze-Bayerkarspitze-Bergtour_1437.html",
+            "name": "Krapfenkarspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.369218826293945,
+              47.49360267298549
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Krottenkopf",
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/krottenkopf/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.191635131835938,
+              47.544148602685
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif",
+              "color": "White"
+            },
+            "name": "Lamsenspitze",
+            "description": "http://www.gamssteig.de/touren/brudertunnel-lamsenspitze.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.591155529022215,
+              47.38252949568352
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Maiwand",
+            "description": "http://www.gamssteig.de/touren/maiwand-flintsbach.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.11491584777832,
+              47.710454589788824
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/montscheinspitze/",
+            "name": "Montscheinspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.613750457763672,
+              47.465932516858956
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Mooslahnerkopf",
+            "description": "http://www.gamssteig.de/touren/kleiner-watzmann-mooslahnerkopf.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.95661449432373,
+              47.56094781260149
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Moserkarspitze",
+            "description": "http://www.tourentipp.de/de/touren/Moserkarspitze-Bergtour-Karwendel_1647.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.469812393188475,
+              47.39707101673847
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Nagelspitz-Bergtour-Bayerische-Voralpen_1785.html",
+            "name": "Nagelspitz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.907999515533447,
+              47.68484904459377
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/notkarspitze-wanderung-ettal/",
+            "name": "Notkarspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.05499267578125,
+              47.55359158000093
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Obere Wettersteinspitze",
+            "description": "http://www.gamssteig.de/touren/gamsanger-obere-wettersteinspitze.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.191163063049315,
+              47.426809799671524
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/oedkarspitzen-birkkarspitze-karwendel/",
+            "name": "Ödkarspitzen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.420502662658691,
+              47.41173921449175
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Partenkirchner-Dreitorspitze-Bergtour_603.html",
+            "name": "Partenkirchner Dreitorspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.122798919677734,
+              47.406017650949344
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Predigtstuhl-Bergtour-Mittenwald_439.html",
+            "name": "Predigtstuhl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.313600540161133,
+              47.4401054999617
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/pyramidenspitze/",
+            "name": "Pyramidenspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.276792526245115,
+              47.60995332735
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Rappenklammspitze-Bergtour_342.html",
+            "name": "Rappenklammspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.407585144042969,
+              47.469007698298505
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Riffelspitze-Suedliche-Bergtour-Wetterstein_691.html",
+            "name": "Riffelspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.003837585449219,
+              47.43697057199198
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Saeuling-Bergtour_596.html",
+            "name": "Saeuling"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.753898620605469,
+              47.53476187202277
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergtourenalpin/alpineklettertouren/mittelschwereklettertouren/bergtour-bettlerkarspitze-schaufelspitze-karwendel/\n\nhttp://www.tourentipp.de/de/touren/Schaufelspitze-Bergtour-Karwendel_1442.html",
+            "name": "Schaufelspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.607527732849121,
+              47.42265783391063
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/scheffauer/",
+            "name": "Scheffauer"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.2422456741333,
+              47.55724086384493
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Schellschlicht",
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/schellschlicht/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.916290283203123,
+              47.50931654292719
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/schildenstein/",
+            "name": "Schildenstein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.725029945373535,
+              47.594703722902004
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Schinder",
+            "description": "http://www.tourentipp.de/de/touren/Schinder-Bergtour-Tegernsee_215.html\n\nhttp://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/schinder/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.860942840576172,
+              47.600983510149305
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "name": "Schöttelkarspitze",
+            "description": "http://www.hoehenrausch.de/berge/schoettelkarspitze/\n\nhttp://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/schoettelkarspitze/",
+            "_storage_options": {
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif",
+              "color": "White"
+            }
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.329822540283203,
+              47.494066618439184
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/bergwanderung-seebergspitze-am-achensee/",
+            "name": "Seebergspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.679325103759764,
+              47.465932516858956
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/soiernspitze/\n\nhttp://www.alpenvereinaktiv.com/de/tour/tour-planned-at-june-15-2016/106861857/?share=%7Ezaqu7tog%244ossoazt#dm=1",
+            "name": "Soiernspitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.357331275939941,
+              47.48142263881837
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Sonnenspitze",
+            "description": "http://www.gamssteig.de/touren/ehrwalder-sonnenspitze-ueberschreitung.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.922040939331055,
+              47.368216490068086
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Sonnjoch",
+            "description": "http://www.tourentipp.de/de/touren/Sonnjoch-Bergtour-Achensee_514.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.605081558227539,
+              47.4122329243459
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Sonntagshorn",
+            "description": "http://www.tourentipp.de/de/touren/Sonntagshorn-Bergtour-Ruhpolding_43.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.695817947387694,
+              47.68208988530503
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Speckkarspitze",
+            "description": "http://www.tourentipp.de/de/touren/Speckkarspitze-Bergtour_419.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.485991477966309,
+              47.345656540985104
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif",
+              "color": "White"
+            },
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/steinfalk/",
+            "name": "Steinfalk"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.512813568115234,
+              47.42675173247839
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Hinterer-Tajakopf-Bergtour_748.html",
+            "name": "Tajakopf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.948648452758789,
+              47.36025183645077
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.tourentipp.de/de/touren/Talelespitze-Bergtour-Karwendel_1703.html",
+            "name": "Talelespitze"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.468524932861328,
+              47.43946691867256
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Törlspitze",
+            "description": "http://www.bergtour-online.de/bergtouren/bergwanderungen/schwer/toerlspitze-schachen-meilerhuette/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.130298376083374,
+              47.41266854684413
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Viererspitze",
+            "description": "http://www.gamssteig.de/touren/kreuzwand-viererspitze.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.29568338394165,
+              47.437478559112535
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Watzmann Überschreitung",
+            "description": "http://www.tourentipp.de/de/touren/Watzmann-Ueberschreitung-Bergtour_433.html"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.921209335327148,
+              47.554112921824355
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Waxenstein",
+            "description": "http://www.tourentipp.de/de/touren/Kleiner-Waxenstein-Bergtour-Klettern_321.html\n\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.02398633956909,
+              47.44607005539937
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Wechselkopf",
+            "description": "http://www.gamssteig.de/touren/rappenklammspitze-wechselkopf.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.412134170532227,
+              47.45821475987167
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif",
+              "color": "White"
+            },
+            "name": "Werfener Hochthron",
+            "description": "http://www.bergsteigen.com/klettern/salzburg/tennen-gebirge/hochthron-suedgrat\n\nhttp://www.bergsteigen.com/klettern/salzburg/tennen-gebirge/suedrampe-hochthron\n\nhttp://www.sirdar.de/index.php?id=2+&bericht=b514\n\nhttp://www.hikr.org/tour/post9512.html\n"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.242859840393066,
+              47.492384796667814
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Wörner",
+            "description": "http://www.bergtour-online.de/bergtouren/bergtourenalpin/alpineklettertouren/leichteklettertouren/woerner/"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.338083744049072,
+              47.44966152349799
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "name": "Zellerhorn",
+            "description": "http://www.gamssteig.de/touren/zellerhorn-laubenstein.htm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.29421615600586,
+              47.75580025410669
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.gamssteig.de/touren/zettenkaiser.htm",
+            "name": "Zettenkaiser"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.235615253448486,
+              47.55695124742776
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "White",
+              "iconUrl": "http://southpacifickayaks.com/newSPK/wp-content/uploads/2014/11/icon-hiking-50.gif"
+            },
+            "description": "http://www.gamssteig.de/touren/zwoelferkoepfl-mineckergrat.htm\nÜber den weglosen Mineckergrat",
+            "name": "Zwölferköpfl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.213500499725342,
+              47.571705166918605
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Hiking / Alpine ",
+        "id": 121579,
+        "remoteData": {}
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_storage": {
+        "displayOnLoad": false,
+        "browsable": true,
+        "name": "Transport",
+        "id": 119485
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "_storage": {
+        "displayOnLoad": false,
+        "browsable": true,
+        "name": "climbing / Bouldering",
+        "id": 119496
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "SandyBrown",
+              "iconUrl": "/uploads/pictogram/bus-24.png"
+            },
+            "name": "Berggasthaus Bleckenau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.776461362838745,
+              47.53850662578573
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "SandyBrown",
+              "iconUrl": "/uploads/pictogram/bus-24.png"
+            },
+            "name": "Ebbs Kaisertal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.188429832458496,
+              47.59400913793055
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "SandyBrown",
+              "iconUrl": "/uploads/pictogram/bus-24.png"
+            },
+            "name": "Eichat Betterlwurfsiedlung"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.5191650390625,
+              47.30583331777237
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "SandyBrown",
+              "iconUrl": "/uploads/pictogram/bus-24.png"
+            },
+            "name": "Hinterthal Ortsmitte"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.975497245788572,
+              47.409183465962435
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "SandyBrown",
+              "iconUrl": "/uploads/pictogram/bus-24.png"
+            },
+            "name": "Kenzenhütte"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.857517719268799,
+              47.56649326575236
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "SandyBrown",
+              "iconUrl": "/uploads/pictogram/bus-24.png"
+            },
+            "name": "Mutterbergalm"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.15562915802002,
+              47.01113278834335
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "SandyBrown",
+              "iconUrl": "/uploads/pictogram/bus-24.png"
+            },
+            "name": "Niederndorf Bruckhäusl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.23003625869751,
+              47.64746520572399
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "_storage_options": {
+              "color": "SandyBrown",
+              "iconUrl": "/uploads/pictogram/bus-24.png"
+            },
+            "name": "Walchsee Durchholzen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.287242412567139,
+              47.638574115029876
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Transport_out",
+        "id": 214930,
+        "remoteData": {},
+        "description": "not available on bahn.de"
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:03 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DarkViolet"
+            },
+            "name": "Achenkirch Abzw Gufferthütte, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.743483543395996,
+              47.55234613131679
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:25 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Almbachklamm, Marktschellenberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.034913539886475,
+              47.66608099332474
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:02 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DarkViolet"
+            },
+            "name": "Alpe Eschbach, Oberstdorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.267496109008789,
+              47.3303009581953
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:30 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Am Berg, Ettal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.100440025329588,
+              47.56485720093761
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:13 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Aschau(Chiemgau)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.325587272644043,
+              47.77890528336972
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:40 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Aufackerstraße, Oberammergau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.08020544052124,
+              47.59633885528883
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:45 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Aufstieg Tölzer Hütte, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.46148681640625,
+              47.492761761403315
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:22 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Auzinger, Ramsau b. Berchtesgaden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.8454852104187,
+              47.60073754188286
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:19 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Bayrischzell"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.011661529541014,
+              47.67521302081865
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "0:58 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Benediktbeuern"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.403636932373045,
+              47.70941501564913
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:35 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Berchtesgaden Hbf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.000259399414062,
+              47.625140638632644
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:43 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Berwang Brand, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.721969604492188,
+              47.3912316472092
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:35 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Berwang Oberdorf Kirchplatz, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.747439861297607,
+              47.40834120348175
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:40 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Berwang Rinnen Feuerwehr, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.718300342559814,
+              47.40359233367022
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": " from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Black"
+            },
+            "name": "Biberwier Marienbergbahn Talstation, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.888094902038572,
+              47.37254712906324
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:11 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Bichlbach-Berwang"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.793380737304688,
+              47.42088661600601
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:31 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Bischofshofen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.219985961914062,
+              47.41775054307326
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:27 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Bischofswiesen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.960262298583984,
+              47.65157049946028
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "0:55 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Brannenburg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.106847763061523,
+              47.74105497889003
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:33 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Brixlegg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.881370544433594,
+              47.43412575348544
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:27 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Busbahnhof, Bad Hindelang"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.370793342590332,
+              47.50475072787994
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:43 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Christlessee, Oberstdorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.302793979644774,
+              47.36716647453842
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": " from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Black"
+            },
+            "name": "Ehrwald Almbahn Talstation, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.938413143157959,
+              47.38749817886598
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:57 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Ehrwald Zugspitzbahn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.913629531860352,
+              47.40927059579516
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:13 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Eibsee Zugspitzbahn, Grainau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.993709564208984,
+              47.45635768683895
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:38 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Einsiedl, Kochel a. See"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.304802894592285,
+              47.57115504627893
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:54 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Einstieg Johannestal, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.502406597137451,
+              47.46307475773903
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:59 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Einstieg Laliderertal, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.547918319702148,
+              47.44800004651681
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:58 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Elbigenalp Hotel Alpenrose, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.430510044097899,
+              47.287613425713516
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:24 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Ellmau Dorf, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.30419397354126,
+              47.51359210481966
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:10 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Eng/Tirol Gasthaus, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.567230224609375,
+              47.40253212996519
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:05 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Eschenlohe"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.188545227050781,
+              47.601880561086176
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:29 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Fall Abzw. (B307), Lenggries"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.530580520629883,
+              47.57004031042246
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:15 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Farchant"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.115245819091797,
+              47.53111102290634
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:30 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Fernpass Hotel Fernsteinsee, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.819816589355467,
+              47.34609271389728
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:08 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Fischbachau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.933212280273438,
+              47.70589186018684
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:01 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Fischhausen-Neuhaus"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.873817443847656,
+              47.705718584101895
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:16 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Fleck Gh. Papyrer, Lenggries"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.588795185089111,
+              47.64976363176438
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "0:58 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Flintsbach"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.128219604492188,
+              47.72402490516458
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:33 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Geigelstein Aufstieg, Aschau i. Chiemgau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.278423309326172,
+              47.70548754842597
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:12 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Geitau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.96632146835327,
+              47.69381891515127
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:52 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Gh. Post/Cafe Kranzbach, Krün"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.278324127197266,
+              47.50582336774143
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": " from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Black"
+            },
+            "name": "Giebelhaus, Bad Hindelang"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.412099361419678,
+              47.42219325793046
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:34 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Gießenbach in Tirol"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.23695373535156,
+              47.37466872173785
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:15 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Grainbach, Samerberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.235400676727293,
+              47.77584827823543
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "4:24 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Grän Obergrän, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.555200576782227,
+              47.50633068977054
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:47 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Griesen(Oberbay)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.946674346923828,
+              47.47800012097561
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:16 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Griesenau (Tirol), Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.388238310813904,
+              47.58160635029047
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:17 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Grödig Untersbergbahn Talstation (Busterminal), Ös"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.042294979095457,
+              47.726291092111
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:30 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Gschnitz Gh Feuerstein, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.331968307495117,
+              47.0284531394291
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:02 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Haglhütte, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.572449803352356,
+              47.44045381376169
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:30 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Halblech Ortsmitte"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.820846557617186,
+              47.63034670127972
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:37 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Hall in Tirol"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.50217056274414,
+              47.27689976031072
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:55 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Hammersbach Zugspitzbahn, Grainau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.04649543762207,
+              47.46606307067127
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:16 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Heiterwang-Plansee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.748147964477539,
+              47.442079247671344
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:52 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Hinterriß Alpenhof, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.485412120819092,
+              47.46694792685248
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:50 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Hinterriß Gh. Post, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.466851234436035,
+              47.47263386032597
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:21 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Hintersee Zauberwald, Ramsau b. Berchtesgaden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.857844829559326,
+              47.605193728800735
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:39 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Hirschbergweg, Kreuth-Scharling"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.747667789459229,
+              47.666182147950195
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:26 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Hochzirl"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.249785423278809,
+              47.280859411143915
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:20 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Hohenschwangau, Schwangau (Schlösser)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.74061632156372,
+              47.5565602627253
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:20 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Holzlagerplatz Blaueis, Ramsau b. Berchtesgaden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.862179279327393,
+              47.60584476328979
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:45 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Innsbruck Hbf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.401147842407227,
+              47.26321339124972
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:36 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Jachenau Post"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.433763504028319,
+              47.605902632630006
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:26 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Jenbach"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.77858829498291,
+              47.388355301990096
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:00 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DarkViolet"
+            },
+            "name": "Jennerbahn, Schönau a. Königssee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.994079589843748,
+              47.59144777616703
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:47 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Johannesbrücke, Schliersee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.89119815826416,
+              47.62013654528296
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:43 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Kainzenbad"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.116361618041992,
+              47.48299605208241
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:31 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Kehlsteinparkplatz, Kreis Berchtesgadener Land"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.041608333587646,
+              47.612774161573824
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:24 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Kesselberg Paßhöhe, Kochel a. See"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.349349021911621,
+              47.62178534571469
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:42 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Kistenwinterstube, Rottach-Egern"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.82901382446289,
+              47.65804579977095
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:42 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Klais"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.238584518432617,
+              47.4829307962478
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:50 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Klamm, Kreuth"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.714043617248535,
+              47.62245063642757
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:22 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Kleinwalsertal Baad, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.122356414794922,
+              47.30923793673154
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:17 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Kleinwalsertal Gemse, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.145487785339354,
+              47.31488271908446
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:32 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Klostergasthof, Ettal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.093316078186035,
+              47.568715625924945
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:08 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Kochel a. See Bahnhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.371922492980957,
+              47.660820682668934
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:00 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DarkViolet"
+            },
+            "name": "Königssee Parkplatz, Schönau a. Königssee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.98809289932251,
+              47.59095574881921
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:56 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Kreuzbrücke, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.524744033813477,
+              47.45815672733221
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:46 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Kreuzeck/Alpspitzbahn Bhf., Garmisch-Partenkirchen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.063146591186523,
+              47.47196666529539
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:01 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Kufstein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.165684700012205,
+              47.58295241923363
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:24 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Kugelmühle, Marktschellenberg"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.036415576934813,
+              47.67207767885599
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:13 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Lähn b.Bichlbach Dorf, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.834064483642578,
+              47.41972512929253
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:08 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Laubau/Holzknechtmuseum, Ruhpolding"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.65723705291748,
+              47.7241403820426
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:06 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Lenggries"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.57358169555664,
+              47.67983622284605
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:02 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Lermoos"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.879039764404297,
+              47.405088201236765
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:30 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Leutasch Gh. Rössl, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.157324314117432,
+              47.37696459572699
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:11 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Lindenplatz, Bad Wiessee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.725544929504395,
+              47.712172729366706
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:16 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Linderhof Schloß, Ettal"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.956909656524658,
+              47.569692855435115
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:48 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DarkViolet"
+            },
+            "name": "Maurach Buchau, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.734042167663574,
+              47.43351612951016
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:43 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Maurach Mittelschule, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.749518513679504,
+              47.42457053714144
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:51 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Mittenwald"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.266136169433592,
+              47.43993134219698
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:46 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Moni-Alm, Rottach-Egern"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.834292411804197,
+              47.65420118705451
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:46 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Münster/Inn Gemeindeamt, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.833198070526123,
+              47.420908393637156
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:25 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Nesselwängle Gh Köllenspitze, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.611848831176758,
+              47.48380086737799
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:40 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Oberammergau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.056280136108398,
+              47.59986940934607
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:12 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Oberau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.139450073242186,
+              47.559297094375545
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:04 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Oberaudorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.175233364105225,
+              47.65264013567813
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:16 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Oberenzenau Altenheim, Bad Heilbrunn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.452367305755615,
+              47.740997259233886
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:02 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Obergries"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.563539505004883,
+              47.70756683264426
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:21 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Oberstdorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.280799865722656,
+              47.4128137535428
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:48 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Oberwössen Gasthaus Post, Unterwössen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.48071014881134,
+              47.70694955379905
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:01 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Ohlstadt"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.218156814575195,
+              47.63419307000045
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:15 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Osterhofen(Oberbay)"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.986486315727234,
+              47.687842784019196
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:40 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Oswaldhütte, Lenggries"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.442840099334717,
+              47.52220014551983
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:45 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Pertisau Karwendellift, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.68795108795166,
+              47.43959753820317
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:25 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Petern, Jachenau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.500775814056396,
+              47.61643378639368
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:53 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DarkViolet"
+            },
+            "name": "Pfarrwerfen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.199858665466309,
+              47.46152250874388
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:47 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DarkViolet"
+            },
+            "name": "Pflach Unterletzen, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.7181715965271,
+              47.5138819608144
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:32 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Pfronten-Steinach"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.57436227798462,
+              47.566145787233914
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:00 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Pill-Vomperbach"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.67722225189209,
+              47.32384330004647
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:38 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Rainenbichl, Oberammergau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.074014902114868,
+              47.590022331286015
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:34 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Rathaus, Marquartstein"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.462401390075684,
+              47.75805063312682
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:28 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Reutte in Tirol"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.721626281738281,
+              47.492848752881066
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:43 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Riedlerbrücke, Kreuth"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.745221614837645,
+              47.643749925862856
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:48 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Ruhpolding"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.649555206298828,
+              47.76229146748842
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:29 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Saalfelden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.829885482788086,
+              47.42672269885777
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:37 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Sachrang Ort, Aschau i. Chiemgau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.260699272155762,
+              47.689803608266374
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:01 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Scharnitz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.266908645629883,
+              47.391783655105186
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:13 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Scheffau am Wilden Kaiser Ort, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.250099182128906,
+              47.52821334270141
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "0:51 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Schliersee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.86025619506836,
+              47.734936339209426
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:58 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Schönhofen Gh Feuerer, Nittendorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.961590051651001,
+              49.01057967639679
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:47 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Schwaz"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.701469421386719,
+              47.34981457614942
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:13 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Seefeld in Tirol"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.19009017944336,
+              47.32835210850964
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:11 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Seehaus, Ruhpolding"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.621917724609375,
+              47.71028132887223
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:12 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Spitzingsattel, Schliersee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.88618779182434,
+              47.67220771982475
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:18 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Spitzingsee Kirche, Schliersee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.887936592102049,
+              47.66162999573324
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:36 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Steinach am Brenner Bahnhst (Vorplatz), Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.469812393188475,
+              47.089176220266616
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:10 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DarkViolet"
+            },
+            "name": "Steinberg am Rofan Abzw Waldhäusl, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.78856611251831,
+              47.52020042361525
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:52 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DimGrey"
+            },
+            "name": "Tannheim in Tirol Vilsalpsee, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.506448745727539,
+              47.46918175979224
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:39 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Tatzelwurm Gasthof, Oberaudorf"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.08471417427063,
+              47.67227274018763
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:38 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Tegelbergbahn, Schwangau"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.756194591522217,
+              47.568520177834856
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:04 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "Green"
+            },
+            "name": "Tegernsee Bahnhof"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.757087707519531,
+              47.714150685458925
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:12 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Tegernseer Hütte Bushst., Kreuth"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.675806045532227,
+              47.61558037899914
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:39 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Überfilzen, Nußdorf a. Inn"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.161521911621094,
+              47.72995719851869
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:50 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Unteres Sudelfeld Jugenherberge, Bayrischzell"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.036895751953125,
+              47.683332247339834
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:35 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Unterleutasch-Puitbach, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.175069808959961,
+              47.388936394485135
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:33 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Unterleutasch-Reindlau, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.179404258728026,
+              47.39865421686805
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:50 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Valepp Forsthaus, Schliersee"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.89342975616455,
+              47.61654950157821
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:32 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Walchensee Herzogstandbahn, Kochel a. See"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.317720413208008,
+              47.5963822651869
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:32 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Wallbergbahn, Rottach-Egern"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.775755882263184,
+              47.67527081337229
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:44 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Wängle Dorf, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              10.68920373916626,
+              47.487266507686755
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "2:24 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DeepPink"
+            },
+            "name": "Werfen"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              13.195395469665527,
+              47.47286592617717
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:47 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "SaddleBrown"
+            },
+            "name": "Wildbad Kreuth, Kreuth"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.746487617492676,
+              47.626731435012644
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:05 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DarkViolet"
+            },
+            "name": "Wildermieming Affenhausen, Österreich"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              11.003966331481932,
+              47.31214769364974
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "3:04 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "DarkViolet"
+            },
+            "name": "Wimbachbrücke, Ramsau b. Berchtesgaden"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.924470901489258,
+              47.60332738502412
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "description": "1:44 from München Hbf",
+            "_storage_options": {
+              "iconClass": "Circle",
+              "color": "GoldenRod"
+            },
+            "name": "Zellerwand, Schleching"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              12.412694692611694,
+              47.73056338022722
+            ]
+          }
+        }
+      ],
+      "_storage": {
+        "displayOnLoad": true,
+        "browsable": true,
+        "name": "Transport.heatmap",
+        "id": 215054,
+        "remoteData": {}
+      }
+    }
+  ]
+}
