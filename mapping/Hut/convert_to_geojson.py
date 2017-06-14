@@ -5,8 +5,8 @@
 
 import json
 
-INPUT_HUT_JSON = 'alps.hut.json'
-OUTPUT_HUT_LAYER_GEOJSON = 'Hut.geojson'
+INPUT_HUT_JSON = 'Hut.France.json'
+OUTPUT_HUT_LAYER_GEOJSON = 'Hut.France.geojson'
 
 hut_data = {}
 with open(INPUT_HUT_JSON) as hut:    
@@ -25,12 +25,12 @@ for hut in huts:
   hut_lat = hut["lat"]
   hut_lon = hut["lon"]
   hut_tags = {}
+  hut_name = ""
+  hut_website = ""
   if "tags" in hut:
     hut_tags = hut["tags"]
-  hut_name = ""
   if "name" in hut_tags:
     hut_name = hut_tags["name"]
-  hut_website = ""
   if "website" in hut_tags:
     hut_website = hut_tags["website"]
   
@@ -42,7 +42,7 @@ for hut in huts:
   feature["properties"] = {}
   feature["properties"]["_storage_options"] = {}
   feature["properties"]["_storage_options"]["iconClass"] = "Circle"
-  feature["properties"]["_storage_options"]["color"] = "white"
+  feature["properties"]["_storage_options"]["color"] = "DarkViolet"
   feature["properties"]["name"] = hut_name
   feature["properties"]["description"] = hut_website
   hut_layer["features"].append(feature)

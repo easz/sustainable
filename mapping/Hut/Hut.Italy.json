@@ -1,0 +1,8034 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-06-14T05:38:12Z",
+    "timestamp_areas_base": "2017-06-14T05:27:12Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 253475243,
+  "lat": 46.3402757,
+  "lon": 11.5792346,
+  "tags": {
+    "is_in": "Predazzo, Trento, Trentino-Alto Adige, Italy",
+    "name": "Baita Gardonè",
+    "place": "locality",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 279305580,
+  "lat": 44.4039462,
+  "lon": 10.0053743,
+  "tags": {
+    "ele": "1508",
+    "name": "Rifugio Mariotti",
+    "operator": "Club Alpino Italiano",
+    "phone": "+39 0521 889334",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 282865095,
+  "lat": 46.7448060,
+  "lon": 11.9909326,
+  "tags": {
+    "alt_name": "Lorenzihütte",
+    "amenity": "restaurant",
+    "email": "michi.lorenzi@gmail.com",
+    "name": "Lorenzi Hütte",
+    "opening_hours": "Ende November bis Anfang April",
+    "phone": "+39 0474 592100",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 286290910,
+  "lat": 46.2605258,
+  "lon": 11.5990083,
+  "tags": {
+    "ele": "1594",
+    "name": "Baita Monte Cauriol",
+    "operator": "private",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2142849",
+    "wikipedia": "it:Rifugio Cauriol"
+  }
+},
+{
+  "type": "node",
+  "id": 290831118,
+  "lat": 46.6706028,
+  "lon": 11.0065797,
+  "tags": {
+    "addr:city": "Naturns",
+    "addr:country": "IT",
+    "addr:housenumber": "77a",
+    "addr:postcode": "39025",
+    "addr:street": "Sonnenberg",
+    "ele": "1445",
+    "email": "info@pirchhof.it",
+    "name": "Pirch",
+    "phone": "+39 0473 667812",
+    "tourism": "alpine_hut",
+    "website": "http://www.pirchhof.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 292494112,
+  "lat": 40.9818439,
+  "lon": 14.6973050,
+  "tags": {
+    "name": "Rifugio Acqua delle Vene",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 296371541,
+  "lat": 46.6914956,
+  "lon": 10.4546503,
+  "tags": {
+    "ele": "2076",
+    "name": "Schleiser Alm",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpwirtschaft.it/schleiseralm/index.html"
+  }
+},
+{
+  "type": "node",
+  "id": 297527135,
+  "lat": 46.1646411,
+  "lon": 10.6394096,
+  "tags": {
+    "ele": "1600",
+    "name": "Baita Cioc",
+    "place": "locality",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 297528160,
+  "lat": 46.1626752,
+  "lon": 10.6311381,
+  "tags": {
+    "is_in": "Strembo",
+    "landuse": "residential",
+    "name": "Baita Folgorida",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 298467485,
+  "lat": 46.5039384,
+  "lon": 10.7035292,
+  "tags": {
+    "name": "Lyfialm",
+    "name:it": "Malga Lyfi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 298537706,
+  "lat": 46.7648006,
+  "lon": 10.7111991,
+  "tags": {
+    "ele": "2670",
+    "name": "Oberetteshütte - Rifugio Oberettes",
+    "operator": "Deutscher Alpenverein, Sektion Mals",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 299497542,
+  "lat": 46.9418689,
+  "lon": 12.0916565,
+  "tags": {
+    "name:de": "Jausenstation Indereder",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 299497543,
+  "lat": 46.9408434,
+  "lon": 12.0861525,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional;pizza",
+    "name:de": "Jausenstation Säge",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 299497544,
+  "lat": 46.9429060,
+  "lon": 12.0813868,
+  "tags": {
+    "name:de": "Jausenstation Angerer",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 299503405,
+  "lat": 46.9415409,
+  "lon": 11.7871074,
+  "tags": {
+    "ele": "1860",
+    "name": "Enzianhütte - Rifugio Genziana",
+    "name:de": "Enzianhütte",
+    "name:it": "Rifugio Genziana",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 299927723,
+  "lat": 46.1158602,
+  "lon": 10.8085216,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Rifugio Ghedina",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 300524772,
+  "lat": 46.1078796,
+  "lon": 9.4360824,
+  "tags": {
+    "name": "Alpe e Rifugio Legnone",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 302377280,
+  "lat": 46.6347005,
+  "lon": 11.7655741,
+  "tags": {
+    "email": "info@zanseralm.com",
+    "name": "Zanser Alm - Malga Zannes",
+    "name:de": "Zanser Alm",
+    "name:it": "Malga Zannes",
+    "tourism": "alpine_hut",
+    "website": "http://www.zanseralm.com",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 303927447,
+  "lat": 44.4801747,
+  "lon": 8.7084597,
+  "tags": {
+    "name": "Rifugio Forte Geremia",
+    "phone": "+39 348 3781060",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 307086009,
+  "lat": 45.9327404,
+  "lon": 10.8386181,
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity": "18",
+    "ele": "976",
+    "name": "Rifugio Monte Calino - San Pietro",
+    "operator": "Società degli Alpinisti Tridentini",
+    "phone": "+39 0464 500647",
+    "tourism": "alpine_hut",
+    "winter_room": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 313719252,
+  "lat": 46.5073038,
+  "lon": 11.5745844,
+  "tags": {
+    "ele": "2457",
+    "name": "Rifugio Bolzano / Schlernhaus",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1583697",
+    "wikipedia": "de:Schlernhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 323218389,
+  "lat": 45.8974017,
+  "lon": 11.3927132,
+  "tags": {
+    "ele": "1541",
+    "name": "Rifugio Campolongo",
+    "phone": "+39 0424 66487",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 323622387,
+  "lat": 45.7599369,
+  "lon": 11.3948082,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1196",
+    "name": "Bar Santorso Summano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 333258432,
+  "lat": 44.0916404,
+  "lon": 11.0777161,
+  "tags": {
+    "name": "Eremo del Viandante",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 334526689,
+  "lat": 45.6730890,
+  "lon": 11.1278192,
+  "tags": {
+    "ele": "1499",
+    "name": "Malga Terazzo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 335693712,
+  "lat": 46.4634457,
+  "lon": 11.8620181,
+  "tags": {
+    "name": "Rifugio Marmolada Castiglioni",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiomarmolada.it"
+  }
+},
+{
+  "type": "node",
+  "id": 338816355,
+  "lat": 46.5877629,
+  "lon": 11.7398694,
+  "tags": {
+    "ele": "2020",
+    "name": "Cuca",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 338816664,
+  "lat": 46.5763055,
+  "lon": 11.7472594,
+  "tags": {
+    "ele": "1823",
+    "name": "Sangon",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 342491396,
+  "lat": 41.8762612,
+  "lon": 13.7455178,
+  "tags": {
+    "name": "Rifugio Passo del Diavolo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 344538453,
+  "lat": 39.3169993,
+  "lon": 16.4238316,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Rifugio Monte Curcio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 353049715,
+  "lat": 45.6027461,
+  "lon": 7.5214985,
+  "tags": {
+    "ele": "2582",
+    "name": "Rifugio del Misérin",
+    "operator": "Parrocchia di Champorcher",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 353049719,
+  "lat": 45.6491892,
+  "lon": 7.5884154,
+  "tags": {
+    "ele": "2132",
+    "name": "Rifugio Barbustel",
+    "operator": "Club Alpino Italiano",
+    "tourism": "alpine_hut",
+    "wikidata": "Q116108",
+    "wikipedia": "it:Rifugio Barbustel"
+  }
+},
+{
+  "type": "node",
+  "id": 353049733,
+  "lat": 45.5887886,
+  "lon": 7.0603502,
+  "tags": {
+    "capacity": "80",
+    "contact:phone": "+39 0165 97215",
+    "contact:website": "http://www.rifugioepee.com/",
+    "ele": "2370",
+    "name": "Chalet de l'Epée",
+    "operator": "private",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2152679",
+    "wikipedia": "it:Rifugio Chalet de l'Épée"
+  }
+},
+{
+  "type": "node",
+  "id": 353049737,
+  "lat": 45.6245355,
+  "lon": 7.0295843,
+  "tags": {
+    "ele": "2916",
+    "name": "Rifugio degli Angeli",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1133997",
+    "wikipedia": "it:Rifugio degli Angeli al Morion"
+  }
+},
+{
+  "type": "node",
+  "id": 353049741,
+  "lat": 45.6753816,
+  "lon": 6.9859172,
+  "tags": {
+    "ele": "2500",
+    "email": "info@rifugiodeffeyes.it",
+    "fax": "+39 0165 884239",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Rifugio Deffeyes",
+    "phone": "+39 0165 884239",
+    "smoking": "no",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiodeffeyes.it/",
+    "wheelchair": "no",
+    "wikidata": "Q786066",
+    "wikipedia": "it:Rifugio Alberto Deffeyes"
+  }
+},
+{
+  "type": "node",
+  "id": 353049747,
+  "lat": 45.8543498,
+  "lon": 7.8496032,
+  "tags": {
+    "ele": "2370",
+    "name": "Rifugio Gabiet",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 353049753,
+  "lat": 45.8743718,
+  "lon": 7.8500386,
+  "tags": {
+    "ele": "2625",
+    "name": "Orestes Hütte",
+    "tourism": "alpine_hut",
+    "wikidata": "Q21294420",
+    "wikipedia": "it:Orestes_Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 353049771,
+  "lat": 45.7990878,
+  "lon": 7.8163501,
+  "tags": {
+    "ele": "1779",
+    "name": "Alpenzu Grande",
+    "operator": "Club Alpino Italiano",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935399",
+    "wikipedia": "it:Rifugio Alpenzù"
+  }
+},
+{
+  "type": "node",
+  "id": 353049774,
+  "lat": 45.9270668,
+  "lon": 7.8770155,
+  "tags": {
+    "addr:city": "Alagna Valsesia",
+    "amenity": "shelter",
+    "ele": "4554",
+    "name": "Rifugio Capanna Regina Margherita",
+    "name:it": "Rifugio Capanna Regina Margherita",
+    "operator": "CAI Varallo Sesia",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugimonterosa.it/",
+    "wikidata": "Q373275",
+    "wikipedia": "it:Capanna Regina Margherita"
+  }
+},
+{
+  "type": "node",
+  "id": 353049781,
+  "lat": 45.7872819,
+  "lon": 7.7771534,
+  "tags": {
+    "capacity": "100",
+    "contact:email": "info@rifugioarp.it",
+    "contact:phone": "+39 348 1548012",
+    "contact:website": "www.rifugioarp.it",
+    "ele": "2439",
+    "name": "Rifugio Arp",
+    "operator": "private",
+    "shower": "yes",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q179978",
+    "wikipedia": "it:Rifugio Arp",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353049783,
+  "lat": 45.9136412,
+  "lon": 7.7594408,
+  "tags": {
+    "capacity": "36",
+    "contact:phone": "+39 0125 307226",
+    "ele": "3009",
+    "name": "Rifugio Ottorino Mezzalama",
+    "operator": "CAI sezione di Torino",
+    "shower": "no",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1118173",
+    "wikipedia": "it:Rifugio Ottorino Mezzalama",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353049786,
+  "lat": 45.9206025,
+  "lon": 7.7671383,
+  "tags": {
+    "capacity": "85",
+    "contact:phone": "+39 0125 308083",
+    "ele": "3425",
+    "name": "Rifugio Guide d'Ayas",
+    "operator": "Soc. Guide di Champoluc-Ayas",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q743709",
+    "wikipedia": "it:Rifugio Guide d'Ayas",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353049795,
+  "lat": 45.8578035,
+  "lon": 7.7319924,
+  "tags": {
+    "capacity": "36",
+    "contact:phone": "+39 0125 307226",
+    "ele": "1695",
+    "name": "Rifugio Cai Città di Casale Monferrato",
+    "note": "distrutto da un incendio la notte fra il 22 ed il 23 maggio 2013",
+    "operator": "Cai Casale Monferrato",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 353049798,
+  "lat": 45.8333523,
+  "lon": 7.7392614,
+  "tags": {
+    "capacity": "40",
+    "contact:phone": "+39 0125 307983",
+    "ele": "1934",
+    "name": "Rifugio Vieux Crest",
+    "operator": "private",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "winter_room": "no (apertura invernale con gestore)"
+  }
+},
+{
+  "type": "node",
+  "id": 353049800,
+  "lat": 45.8660230,
+  "lon": 7.7398828,
+  "tags": {
+    "capacity": "26",
+    "contact:email": "mail@rifugioferraro.com",
+    "contact:phone": "+39 0125 307612",
+    "ele": "2077",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "Rifugio G.B. Ferraro",
+    "operator": "private",
+    "smoking": "no",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugioferraro.com/",
+    "wheelchair": "no",
+    "winter_room": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 353049803,
+  "lat": 45.8657804,
+  "lon": 7.7393751,
+  "tags": {
+    "capacity": "40",
+    "contact:email": "rifugioguidefrachey@libero.it",
+    "contact:phone": "+39 0125 307468",
+    "contact:website": "www.rifugioguidefrachey.it",
+    "ele": "2072",
+    "name": "Rifugio Guide di Frachey",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "winter_room": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 353049806,
+  "lat": 45.8417512,
+  "lon": 7.6168909,
+  "tags": {
+    "addr:city": "Chamois",
+    "addr:country": "IT",
+    "addr:street": "Loc. Lavoré",
+    "capacity": "36",
+    "contact:email": "info@rifugioermitage.com",
+    "contact:fax": "+39 0165 1820277",
+    "contact:phone": "+39 0166 47140",
+    "contact:website": "http://www.rifugioermitage.com/",
+    "ele": "1922",
+    "name": "Rifugio L'Ermitage",
+    "operator": "private",
+    "showers": "yes",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935525",
+    "wikipedia": "it:Rifugio L'Ermitage"
+  }
+},
+{
+  "type": "node",
+  "id": 353049808,
+  "lat": 45.8585089,
+  "lon": 7.6938018,
+  "tags": {
+    "capacity": "40",
+    "contact:phone": "+39 0125 307003",
+    "ele": "2550",
+    "name": "Rifugio Grand Tournalin",
+    "operator": "private",
+    "shower": "yes",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1140512",
+    "wikipedia": "it:Rifugio Grand Tournalin",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353049817,
+  "lat": 45.8766866,
+  "lon": 7.5933535,
+  "tags": {
+    "capacity": "24",
+    "ele": "2165",
+    "name": "Rifugio Jean Barmasse",
+    "operator": "private",
+    "shower": "no",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q537363",
+    "wikipedia": "it:Rifugio Barmasse",
+    "winter_room": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 353049825,
+  "lat": 45.9210880,
+  "lon": 7.5329516,
+  "tags": {
+    "addr:city": "Bionaz",
+    "addr:country": "IT",
+    "addr:street": "Loc. Prarayer",
+    "capacity": "50",
+    "contact:email": "info@rifugio-prarayer.it",
+    "contact:phone": "+39 0165 730040",
+    "contact:website": "http://www.rifugio-prarayer.it/",
+    "ele": "2005",
+    "name": "Rifugio Prarayer",
+    "shower": "yes",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q379335",
+    "wikipedia": "it:Rifugio Prarayer"
+  }
+},
+{
+  "type": "node",
+  "id": 353049828,
+  "lat": 45.9484535,
+  "lon": 7.5005230,
+  "tags": {
+    "ele": "2818",
+    "name": "Rifugio Nacamuli al col Collon",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1106492",
+    "wikipedia": "it:Rifugio Nacamuli al col Collon"
+  }
+},
+{
+  "type": "node",
+  "id": 353049833,
+  "lat": 45.9695538,
+  "lon": 7.5614355,
+  "tags": {
+    "capacity": "30",
+    "contact:email": "info@rifugioaosta.it",
+    "contact:phone": "+39 0165 730006",
+    "contact:website": "http://www.rifugioaosta.it/a/",
+    "ele": "2788",
+    "name": "Rifugio Capanna Aosta",
+    "source": "Club Alpino Italiano sezione di Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q570262",
+    "wikipedia": "it:Rifugio Aosta",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353049840,
+  "lat": 45.9102874,
+  "lon": 7.3046433,
+  "tags": {
+    "capacity": "44",
+    "contact:phone": "+39 0165 521020",
+    "contact:website": "http://www.caitorino.it/",
+    "ele": "2979",
+    "name": "Rifugio Franco Chiarella all'Amianthe",
+    "operator": "CAI Sezione di Torino",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2152701",
+    "wikipedia": "it:Rifugio Franco Chiarella all'Amianthe",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353049844,
+  "lat": 45.8415305,
+  "lon": 7.4841751,
+  "tags": {
+    "capacity": "32",
+    "contact:email": "rifugiocuney@libero.it",
+    "contact:fax": "+39 0165 766607",
+    "contact:phone": "+39 0165 770049",
+    "contact:website": "http://www.rifugiocuney.it/",
+    "ele": "2655",
+    "name": "Rifugio Oratorio di Cuney",
+    "source": "CAI Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2152732",
+    "wikipedia": "it:Rifugio Oratorio di Cunéy",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353049847,
+  "lat": 45.8823253,
+  "lon": 7.3988665,
+  "tags": {
+    "ele": "2396",
+    "name": "Rifugio Crête Sèche",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1140719",
+    "wikipedia": "it:Rifugio Crête Sèche"
+  }
+},
+{
+  "type": "node",
+  "id": 353081755,
+  "lat": 45.8499376,
+  "lon": 7.2691816,
+  "tags": {
+    "addr:city": "Doues",
+    "addr:hamlet": "Champillon",
+    "addr:housenumber": "1",
+    "ele": "2425",
+    "name": "Rifugio Letey-Champillon",
+    "old_name": "Adolfo Letey",
+    "operator": "Società Hibou di Ronc Silvy & C. SAS",
+    "ref:vatin": "IT01211850076",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 353082192,
+  "lat": 45.7783558,
+  "lon": 7.2514865,
+  "tags": {
+    "ele": "1939",
+    "name": "Chaligne",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 353083148,
+  "lat": 45.7620413,
+  "lon": 7.1813143,
+  "tags": {
+    "addr:city": "Saint Pierre",
+    "addr:country": "IT",
+    "capacity": "50",
+    "contact:email": "info@rifugiomontfallere.it",
+    "contact:phone": "+39 366 1745090",
+    "contact:website": "http://www.rifugiomontfallere.it/",
+    "ele": "2385",
+    "name": "Rifugio Mont Fallère",
+    "operator": "private",
+    "shower": "yes",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 353083724,
+  "lat": 45.8847187,
+  "lon": 7.0656381,
+  "tags": {
+    "addr:hamlet": "Pré de Bard",
+    "addr:housenumber": "1",
+    "capacity": "127",
+    "contact:email": "rifugioelena@virgilio.it",
+    "contact:phone": "+39 0165 844688",
+    "contact:website": "http://www.rifugioelena.it",
+    "ele": "2055",
+    "name": "Rifugio Elena",
+    "ref:vatin": "IT00495120073",
+    "tourism": "alpine_hut",
+    "wikidata": "Q889026",
+    "wikipedia": "it:Rifugio Elena"
+  }
+},
+{
+  "type": "node",
+  "id": 353084260,
+  "lat": 45.8939167,
+  "lon": 7.0405764,
+  "tags": {
+    "contact:email": "info@rifugiodalmazzi.com",
+    "contact:phone": "+39 0165 869098",
+    "contact:website": "http://www.rifugiodalmazzi.com/",
+    "ele": "2584",
+    "name": "Rifugio Cesare Dalmazzi",
+    "operator": "Club Alpino Italiano Sezione di Torino",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1455968",
+    "wikipedia": "it:Rifugio Cesare Dalmazzi al Triolet"
+  }
+},
+{
+  "type": "node",
+  "id": 353084580,
+  "lat": 45.8530916,
+  "lon": 6.9773630,
+  "tags": {
+    "ele": "2806",
+    "name": "Rifugio Gabriele Boccalatte e Mario Piolti",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q888850",
+    "wikipedia": "it:Rifugio Gabriele Boccalatte e Mario Piolti"
+  }
+},
+{
+  "type": "node",
+  "id": 353084898,
+  "lat": 45.8291398,
+  "lon": 6.9508150,
+  "tags": {
+    "ele": "2174",
+    "name": "Rifugio Pavillon",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935591",
+    "wikipedia": "it:Rifugio Pavillon"
+  }
+},
+{
+  "type": "node",
+  "id": 353085969,
+  "lat": 45.8005845,
+  "lon": 6.9308894,
+  "tags": {
+    "contact:email": "info@rifugiomontebianco.com",
+    "contact:phone": "+39 0165 869097",
+    "contact:website": "http://www.rifugiomontebianco.com/",
+    "ele": "1680",
+    "name": "Rifugio Monte Bianco",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1093074",
+    "wikipedia": "it:Rifugio Monte Bianco"
+  }
+},
+{
+  "type": "node",
+  "id": 353086852,
+  "lat": 45.7907870,
+  "lon": 6.9310687,
+  "tags": {
+    "ele": "1955",
+    "name": "Rifugio - Restaurante Maison Vieille",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 353087453,
+  "lat": 45.7994639,
+  "lon": 6.8837430,
+  "tags": {
+    "ele": "2590",
+    "name": "Rifugio Monzino",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1141333",
+    "wikipedia": "it:Rifugio Monzino"
+  }
+},
+{
+  "type": "node",
+  "id": 362577606,
+  "lat": 46.5093892,
+  "lon": 11.6529204,
+  "tags": {
+    "addr:city": "Kastelruth",
+    "addr:country": "IT",
+    "addr:housenumber": "28",
+    "addr:place": "Seiser Alm - Alpe di Siusi",
+    "addr:postcode": "I-39040",
+    "addr:street": "Joch",
+    "amenity": "restaurant",
+    "ele": "2054",
+    "internet_access": "wlan",
+    "name": "Mahlknecht Hütte - Rifugio Molignon",
+    "name:de": "Mahlknecht Hütte",
+    "name:it": "Rifugio Molignon",
+    "tourism": "alpine_hut",
+    "website": "http://www.mahlknechthuette.com/deutsch/schutzhaus-auf-der-seiseralm/index.html"
+  }
+},
+{
+  "type": "node",
+  "id": 367989958,
+  "lat": 44.4078433,
+  "lon": 9.9795372,
+  "tags": {
+    "capacity": "5",
+    "ele": "1350",
+    "name": "Giulio Tifoni",
+    "operator": "Sezione CAI Pontremoli",
+    "shelter_type": "basic_hut",
+    "source": "CAI",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935652",
+    "wikipedia": "it:Rifugio Tifoni"
+  }
+},
+{
+  "type": "node",
+  "id": 367989963,
+  "lat": 44.3943944,
+  "lon": 9.9605223,
+  "tags": {
+    "capacity": "25",
+    "ele": "1150",
+    "name": "Enrico Mattei",
+    "operator": "Sezione CAI Pontremoli",
+    "source": "CAI",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 367989969,
+  "lat": 44.1147933,
+  "lon": 10.6366320,
+  "tags": {
+    "capacity": "9",
+    "ele": "1730",
+    "name": "Lago Nero",
+    "operator": "Sezione CAI Pistoia",
+    "source": "CAI",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935527",
+    "wikipedia": "it:Rifugio Lago Nero",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 367989976,
+  "lat": 44.0977038,
+  "lon": 10.8532758,
+  "tags": {
+    "capacity": "20",
+    "ele": "1580",
+    "internet_access": "no",
+    "name": "Porta Franca",
+    "note": "Per ulteriori informazioni: http://www.caitoscana.it/?page_id=299",
+    "opening_hours": "May 1-Oct 24 Sa-Su; Jul 24- Aug 22 Mo-Su",
+    "operator": "Sezione CAI Pistoia",
+    "phone": "Rifugio: +39 0573 490338 Sez. CAI +39 0573 365582 Roberto Gori: +39 347 5931961 Tiziano Mati +39 328 4181824",
+    "source": "CAI",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935606",
+    "wikipedia": "it:Rifugio Porta Franca"
+  }
+},
+{
+  "type": "node",
+  "id": 367989979,
+  "lat": 44.0647870,
+  "lon": 11.0324113,
+  "tags": {
+    "capacity": "10",
+    "ele": "1000",
+    "name": "Ca' di Torri",
+    "operator": "Sezione CAI Prato",
+    "source": "CAI",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 367989987,
+  "lat": 43.8666722,
+  "lon": 11.7307604,
+  "tags": {
+    "addr:city": "Santa Sofia",
+    "addr:housenumber": "93",
+    "addr:postcode": "47018",
+    "addr:street": "Via CAI",
+    "name": "Rifugio \"Città di Forlì\"",
+    "note": "Località Campigna",
+    "operator": "CAI Sezione di Forlì",
+    "phone": "+39 0543 980 074",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 391597028,
+  "lat": 46.7832938,
+  "lon": 11.7544981,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1829",
+    "name": "Ronerhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 393892579,
+  "lat": 46.4696416,
+  "lon": 10.6730592,
+  "tags": {
+    "ele": "2610",
+    "name": "Martellerhütte - Rifugio Martello",
+    "name:de": "Martellerhütte",
+    "name:it": "Rifugio Martello",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1902967",
+    "wikipedia": "de:Marteller Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 394924262,
+  "lat": 46.3865800,
+  "lon": 10.5402500,
+  "tags": {
+    "ele": "3420",
+    "name": "Bivacco Seveso",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 398230272,
+  "lat": 46.6945403,
+  "lon": 11.2393732,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1810",
+    "name": "Ifinger Hütte - Rifugio Ivigna",
+    "name:de": "Ifinger Hütte",
+    "name:it": "Rifugio Ivigna",
+    "tourism": "alpine_hut",
+    "wheelchair": "no",
+    "wikidata": "Q1657053",
+    "wikipedia": "de:Ifingerhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 417322481,
+  "lat": 46.0734662,
+  "lon": 11.3881872,
+  "tags": {
+    "contact:mobile": "+39 3496011481",
+    "ele": "1566",
+    "email": "info@rifugioserot.eu",
+    "name": "Rifugio Serot",
+    "phone": "+39 0461 764690",
+    "solarium": "yes",
+    "tourism": "alpine_hut",
+    "website": "www.rifugioserot.eu",
+    "wikidata": "Q3935629",
+    "wikipedia": "it:Rifugio Serot"
+  }
+},
+{
+  "type": "node",
+  "id": 418013504,
+  "lat": 46.7428378,
+  "lon": 12.0386574,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1401",
+    "name": "Angereralm - Malga Angerer",
+    "name:de": "Angereralm",
+    "name:it": "Malga Angerer",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 418013950,
+  "lat": 46.7013998,
+  "lon": 12.0163007,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2215",
+    "name": "Ütia Fojadora",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 418014079,
+  "lat": 46.7306170,
+  "lon": 12.0281941,
+  "tags": {
+    "ele": "1822",
+    "name": "Lanzwiese Alm - Malga Lanzwiese",
+    "name:de": "Lanzwiese Alm",
+    "name:it": "Malga Lanzwiese",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 419163589,
+  "lat": 46.6513691,
+  "lon": 12.3538462,
+  "tags": {
+    "name": "Talschlusshütte - Rifugio Fondo Valle",
+    "name:de": "Talschlusshütte",
+    "name:it": "Rifugio Fondo Valle",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 420287136,
+  "lat": 46.6270212,
+  "lon": 11.7658714,
+  "tags": {
+    "cuisine": "regional",
+    "ele": "1906",
+    "email": "info@glatschalm.com",
+    "name": "Glatsch Alm - Malga Glatsch",
+    "name:de": "Glatsch Alm",
+    "name:it": "Malga Glatsch",
+    "phone": "+39 0472 670978",
+    "tourism": "alpine_hut",
+    "website": "http://glatschalm.com/",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 430868024,
+  "lat": 46.2986022,
+  "lon": 11.8043403,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Baita Segantini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 435499762,
+  "lat": 46.4216216,
+  "lon": 11.7931307,
+  "tags": {
+    "ele": "2340",
+    "name": "Rifugio Passo di S. Nicolo",
+    "phone": "+39 0462 601466",
+    "tourism": "alpine_hut",
+    "website": "http://www.fassa.com/IT/RifugioPassoSanNicolo/"
+  }
+},
+{
+  "type": "node",
+  "id": 436225796,
+  "lat": 46.1565030,
+  "lon": 8.1585444,
+  "tags": {
+    "cuisine": "regional",
+    "ele": "1993",
+    "name": "Rifugio Gattascosa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 438233441,
+  "lat": 41.8487862,
+  "lon": 13.8363538,
+  "tags": {
+    "amenity": "shelter",
+    "ele": "1536",
+    "name": "Rifugio Prato Rosso",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 439199693,
+  "lat": 45.9543829,
+  "lon": 11.1955351,
+  "tags": {
+    "building": "yes",
+    "capacity": "38",
+    "contact:mobile": "+39 348 0985560",
+    "ele": "1572",
+    "email": "paolo.moschen@virgilio.it",
+    "name": "Rifugio Casarota",
+    "opening_hours": "Jun 12-Sep 20",
+    "operator": "Società degli Alpinisti Tridentini",
+    "phone": "+39 0464 783677",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935440",
+    "wikipedia": "it:Rifugio Casarota",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 439199700,
+  "lat": 45.9810883,
+  "lon": 11.2073515,
+  "tags": {
+    "ele": "1032",
+    "name": "Rifugio Madonnina",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 439594940,
+  "lat": 46.6949927,
+  "lon": 11.7321657,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Plosehütte - Rifugio Plose",
+    "name:de": "Plosehütte",
+    "name:it": "Rifugio Plose",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1703686",
+    "wikipedia": "it:Rifugio Plose"
+  }
+},
+{
+  "type": "node",
+  "id": 439763472,
+  "lat": 46.6121694,
+  "lon": 12.0142074,
+  "tags": {
+    "ele": "2060",
+    "name": "Rifugio Fanes",
+    "name:de": "Fanes-Hütte",
+    "name:it": "Rifugio Fanes",
+    "name:lld": "Utia de Fanes",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1395510",
+    "wikipedia": "it:Rifugio Fanes"
+  }
+},
+{
+  "type": "node",
+  "id": 439763549,
+  "lat": 46.5972254,
+  "lon": 12.0226904,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ucia de Gran Fanes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 441570811,
+  "lat": 46.6209626,
+  "lon": 11.7495041,
+  "tags": {
+    "email": "info@geisleralm.com",
+    "name": "Geisleralm - Malga Geisler",
+    "name:de": "Geisleralm",
+    "name:it": "Malga Geisler",
+    "old_name:de": "Neue Gschnagenhardt",
+    "phone": "+39 0472 840506",
+    "tourism": "alpine_hut",
+    "website": "http://www.geisleralm.com"
+  }
+},
+{
+  "type": "node",
+  "id": 441600251,
+  "lat": 46.3587304,
+  "lon": 10.4188733,
+  "tags": {
+    "ele": "1860",
+    "name": "Rifugio La Baita",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 441600964,
+  "lat": 46.4792457,
+  "lon": 10.4636777,
+  "tags": {
+    "name": "Baita del Zebrù",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 443032745,
+  "lat": 44.5040020,
+  "lon": 7.2466722,
+  "tags": {
+    "name": "Posto Tappa Pagliero",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 443032760,
+  "lat": 44.5050023,
+  "lon": 7.1092695,
+  "tags": {
+    "name": "Posto Tappa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 443032807,
+  "lat": 44.4871268,
+  "lon": 7.1382032,
+  "tags": {
+    "name": "Rifugio Alpino Palent (Posto Tappa)",
+    "phone": "+39 340 8237898",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugioalpinopalent.it"
+  }
+},
+{
+  "type": "node",
+  "id": 443354660,
+  "lat": 44.9027927,
+  "lon": 6.7957761,
+  "tags": {
+    "operator": "Brigata Alpina Taurinense",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 444383970,
+  "lat": 46.5195505,
+  "lon": 10.1464113,
+  "tags": {
+    "fixme": "Where is the alpine hut, nothing to see on Bing?",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 446187024,
+  "lat": 46.5449031,
+  "lon": 10.1286316,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 447910526,
+  "lat": 46.2159242,
+  "lon": 11.1943338,
+  "tags": {
+    "addr:city": "Giovo",
+    "addr:postcode": "38030",
+    "addr:street": "Località Sauch",
+    "contact:email": "rifugiosauch@hotmail.it",
+    "contact:phone": "+39 0461 683768",
+    "ele": "950",
+    "name": "Rifugio Sauch",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 447933952,
+  "lat": 46.1922209,
+  "lon": 12.3537019,
+  "tags": {
+    "name": "Rifugio Dolomieu al Dolada",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 447933953,
+  "lat": 46.1796648,
+  "lon": 12.3542959,
+  "tags": {
+    "name": "Rifugio Carota",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 448941830,
+  "lat": 46.2744423,
+  "lon": 8.1484143,
+  "tags": {
+    "ele": "1770",
+    "name": "Rifugio Citta Di Arona",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 448941867,
+  "lat": 46.3203445,
+  "lon": 8.2615837,
+  "tags": {
+    "name": "Rifugio Sesto Calende",
+    "tourism": "alpine_hut",
+    "website": "http://www.caisestocalende.org/rifugio.html"
+  }
+},
+{
+  "type": "node",
+  "id": 451702146,
+  "lat": 44.2145151,
+  "lon": 7.4309505,
+  "tags": {
+    "name": "GTA Posto-Tappa Trinità",
+    "phone": "+39 0171 978388",
+    "tourism": "alpine_hut",
+    "website": "http://www.locandadelsorriso.com"
+  }
+},
+{
+  "type": "node",
+  "id": 454099288,
+  "lat": 45.9965901,
+  "lon": 7.9788053,
+  "tags": {
+    "capacity": "24",
+    "contact:email": "info@ontemoropass.it",
+    "contact:phone": "+39 0324 65544",
+    "contact:website": "http://www.caimacugnaga.org/rifugi/30-gaspare-oberto.html",
+    "ele": "2796",
+    "name": "Rifugio Gaspare Oberto - Paolo Maroli",
+    "operator": "Club Alpino Italiano Sezione di Macugnaga",
+    "tourism": "alpine_hut",
+    "wikidata": "Q19060471",
+    "wikipedia": "it:Rifugio Gaspare Oberto-Paolo Maroli"
+  }
+},
+{
+  "type": "node",
+  "id": 454099980,
+  "lat": 45.9663274,
+  "lon": 7.9249347,
+  "tags": {
+    "contact:website": "http://www.caisaronno.it/06_Rifugio/Rifugio.htm",
+    "cuisine": "regional",
+    "ele": "1827",
+    "name": "Rifugio Cai Saronno",
+    "opening_hours": "Club Alpino Italiano Sezione di Saronno",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 454131489,
+  "lat": 46.3540634,
+  "lon": 12.0309776,
+  "tags": {
+    "capacity": "80+7",
+    "ele": "1714",
+    "name": "Rifugio Mario Vazzoler",
+    "operator": "CAI di Conegliano",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935561",
+    "wikipedia": "it:Rifugio Mario Vazzoler"
+  }
+},
+{
+  "type": "node",
+  "id": 454569408,
+  "lat": 45.8838271,
+  "lon": 7.9282197,
+  "tags": {
+    "capacity": "65",
+    "contact:email": "info@rifugiopastore.it",
+    "contact:phone": "+39 0163 91220",
+    "contact:website": "http://www.rifugiopastore.it/",
+    "ele": "1575",
+    "name": "Rifugio Pastore",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 455585412,
+  "lat": 39.1607582,
+  "lon": 8.8721077,
+  "tags": {
+    "name": "Centro escursioni WWF",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 455703644,
+  "lat": 46.1706488,
+  "lon": 10.9315840,
+  "tags": {
+    "ele": "1480",
+    "email": "info@rifugiocrozaltissimo.it",
+    "name": "Rifugio Croz dell'Altissimo",
+    "phone": "+39 339 7982922, +39 347 1184459",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiocrozaltissimo.it/",
+    "wikidata": "Q2624911",
+    "wikipedia": "it:Rifugio Croz dell'Altissimo"
+  }
+},
+{
+  "type": "node",
+  "id": 457557561,
+  "lat": 46.2782174,
+  "lon": 11.3852989,
+  "tags": {
+    "name": "Fraulalm - Malga Fraul",
+    "name:de": "Fraulalm",
+    "name:it": "Malga Fraul",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 458409539,
+  "lat": 46.1765565,
+  "lon": 10.6218158,
+  "tags": {
+    "name": "Baita Stablel",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 470624081,
+  "lat": 46.6659486,
+  "lon": 12.0835160,
+  "tags": {
+    "ele": "2314",
+    "name": "Centro Studi montani - Winter dormitory",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 471514046,
+  "lat": 39.9487861,
+  "lon": 16.1780023,
+  "tags": {
+    "ele": "1537",
+    "name": "Rifugio pino loricato",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 471522096,
+  "lat": 39.9398786,
+  "lon": 16.1469884,
+  "tags": {
+    "name": "Rifugio Visitone (2017: chiuso)",
+    "note": "Chiuso (2017)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 471831154,
+  "lat": 37.9297197,
+  "lon": 14.9381194,
+  "tags": {
+    "name": "Rifugio Santa Maria del Bosco",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 472136765,
+  "lat": 46.4592834,
+  "lon": 11.6230201,
+  "tags": {
+    "ele": "2621",
+    "name": "Gartlhütte - Rifugio Re Alberto",
+    "name:de": "Gartlhütte",
+    "name:it": "Rifugio Re Alberto",
+    "operator": "private",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1494776",
+    "wikipedia": "it:Rifugio Re Alberto"
+  }
+},
+{
+  "type": "node",
+  "id": 472201994,
+  "lat": 47.0468637,
+  "lon": 12.0932106,
+  "tags": {
+    "ele": "2068",
+    "name": "Waldneralm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 475860085,
+  "lat": 46.5054891,
+  "lon": 11.5350569,
+  "tags": {
+    "ele": "1364",
+    "name": "Hofer Alpl",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 476141980,
+  "lat": 41.7387894,
+  "lon": 13.8111597,
+  "tags": {
+    "amenity": "bar",
+    "name": "Rifugio Duca d'Aosta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 476270487,
+  "lat": 46.8369262,
+  "lon": 11.6074838,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1814",
+    "name": "Anratterhütte",
+    "name:de": "Anratterhütte",
+    "operator": "Fam. Sebastian Mair",
+    "phone": "+39 0472 849574",
+    "tourism": "alpine_hut",
+    "website": "http://www.anratterhof.info/"
+  }
+},
+{
+  "type": "node",
+  "id": 476635867,
+  "lat": 45.8135631,
+  "lon": 11.4687475,
+  "tags": {
+    "amenity": "pub",
+    "ele": "1270",
+    "name": "Bar Alpino",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 476867344,
+  "lat": 46.7018996,
+  "lon": 11.4998519,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "2306.791748",
+    "name": "Latzfonser Kreuz - Rifugio Santa Croce di Lazfons",
+    "name:de": "Schutzhaus Latzfonser Kreuz",
+    "name:it": "Rifugio Santa Croce di Lazfons",
+    "tourism": "alpine_hut",
+    "website": "http://www.latzfonserkreuz.com",
+    "wikidata": "Q2252304",
+    "wikipedia": "it:Rifugio Santa Croce di Lazfons"
+  }
+},
+{
+  "type": "node",
+  "id": 477377565,
+  "lat": 44.1135145,
+  "lon": 10.9284630,
+  "tags": {
+    "ele": "1283",
+    "name": "Rifugio Monte Cavallo",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiomontecavallo.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 480426473,
+  "lat": 46.5122813,
+  "lon": 11.6971397,
+  "tags": {
+    "name": "Murmeltierhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 500885148,
+  "lat": 43.8649093,
+  "lon": 11.2253696,
+  "tags": {
+    "addr:city": "Sesto Fiorentino",
+    "addr:postcode": "50019",
+    "addr:street": "Strada Panoramica dei Colli Alti",
+    "ele": "428m",
+    "internet_access": "yes",
+    "name": "Rif.Gualdo",
+    "phone": "+39 055 440420",
+    "tourism": "alpine_hut",
+    "website": "http://rifugiogualdo.it"
+  }
+},
+{
+  "type": "node",
+  "id": 515904641,
+  "lat": 46.1972252,
+  "lon": 11.2055716,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "38034",
+    "addr:street": "Località Lago Santo",
+    "name": "Rifugio Lago Santo",
+    "phone": "+39 0461 683066",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 519660695,
+  "lat": 46.5352771,
+  "lon": 11.6767966,
+  "tags": {
+    "name": "Zemmeralm",
+    "name:de": "Zemmeralm",
+    "name:it": "Malga Zemmer",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 529590043,
+  "lat": 46.6296642,
+  "lon": 11.0873019,
+  "tags": {
+    "addr:city": "Lana",
+    "addr:housenumber": "87",
+    "addr:street": "Vigiljoch",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1705",
+    "internet_access": "no",
+    "name": "Bärenbadalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 529644341,
+  "lat": 44.1603659,
+  "lon": 11.6467561,
+  "tags": {
+    "ele": "720",
+    "name": "Cà Malanca",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 530186826,
+  "lat": 45.9660199,
+  "lon": 7.9222708,
+  "tags": {
+    "contact:email": "valcot.rifugio@gmail.com",
+    "contact:website": "http://www.wengwaldhutte.it/",
+    "name": "Rifugio Wengwald Hutte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 540670102,
+  "lat": 45.9852180,
+  "lon": 8.4620223,
+  "tags": {
+    "building": "yes",
+    "ele": "1000",
+    "email": "info@rifugiofantoli.it",
+    "name": "Rifugio Fantoli",
+    "opening_hours": "Jun 01 - Sep 30",
+    "phone": "+39 340 5783883",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiofantoli.it"
+  }
+},
+{
+  "type": "node",
+  "id": 552421501,
+  "lat": 45.6762717,
+  "lon": 8.0645962,
+  "tags": {
+    "ele": "1050",
+    "name": "Rifugio Piana del Ponte",
+    "operator": "Alessandra Baldo",
+    "phone": "+39 366 397 65 95",
+    "source": "Not lawfully accessible by car. Parking available at Casa del Pescatore.",
+    "tourism": "alpine_hut",
+    "website": "http://www.pianadelponte.altervista.org/Il_Rifugio_Piana_del_Ponte.html"
+  }
+},
+{
+  "type": "node",
+  "id": 554849478,
+  "lat": 46.1612207,
+  "lon": 10.9263150,
+  "tags": {
+    "ele": "1630",
+    "email": "ddale@hotmail.it",
+    "name": "Rifugio Selvata",
+    "phone": "+39 0461 1862900, +39 340 8231972",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugioselvata.it/",
+    "wikidata": "Q3935628",
+    "wikipedia": "it:Rifugio Selvata"
+  }
+},
+{
+  "type": "node",
+  "id": 559428028,
+  "lat": 45.9889070,
+  "lon": 11.5330661,
+  "tags": {
+    "ele": "1730",
+    "name": "Rifugio Adriana - Malga Moline",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 563872971,
+  "lat": 44.3885435,
+  "lon": 9.7522405,
+  "tags": {
+    "name": "Rifugio del Faggio Crociato",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 577677783,
+  "lat": 44.2460826,
+  "lon": 10.2627546,
+  "tags": {
+    "name": "Monte Tondo",
+    "phone": "+39 347 9086410",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 580812844,
+  "lat": 44.4728605,
+  "lon": 9.5110084,
+  "tags": {
+    "name": "Rifugio Faggio dei Tre Comuni",
+    "operator": "Club Alpino Italiano - Sezione di Parma",
+    "phone": "+39 334 1091501",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiofaggiodeitrecomuni.it"
+  }
+},
+{
+  "type": "node",
+  "id": 588148437,
+  "lat": 45.8523698,
+  "lon": 11.3033104,
+  "tags": {
+    "name": "Malga Zolle di dentro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 598237143,
+  "lat": 46.4967373,
+  "lon": 10.6133431,
+  "tags": {
+    "ele": "2840",
+    "name": "Madritschhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 601180255,
+  "lat": 41.5393699,
+  "lon": 15.0855471,
+  "tags": {
+    "ele": "812",
+    "name": "Rifugio forestale Troilo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 601853491,
+  "lat": 43.8618842,
+  "lon": 11.8406955,
+  "tags": {
+    "name": "Rifugio Ca' di sopra",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 604320174,
+  "lat": 44.3191572,
+  "lon": 9.1786461,
+  "tags": {
+    "description": "agriturismo con 11 posti a dormire e punto di ristoro",
+    "ele": "195",
+    "name": "Agririfugio Molini",
+    "operator": "il giardino del borgo soc. coop. agricola",
+    "phone": "+39 0185 772291",
+    "tourism": "alpine_hut",
+    "website": "www.agririfugiomolini.it"
+  }
+},
+{
+  "type": "node",
+  "id": 605970341,
+  "lat": 45.9393837,
+  "lon": 11.5517332,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1530",
+    "name": "Rifugio Campomulo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 614447511,
+  "lat": 44.1025865,
+  "lon": 10.7048426,
+  "tags": {
+    "ele": "1220",
+    "name": "Rifugio Lagacciolo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 614447825,
+  "lat": 44.0888902,
+  "lon": 10.7253000,
+  "tags": {
+    "ele": "1310",
+    "name": "Rifugio Fonte dei Cecchini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 617763265,
+  "lat": 46.6854044,
+  "lon": 11.7388319,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Rossalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 619978092,
+  "lat": 44.6030244,
+  "lon": 9.5385195,
+  "tags": {
+    "email": "s.scaramuzza@alice.it",
+    "name": "Rifugio Monte Ragola",
+    "opening_hours": "Su",
+    "operator": "Pro Loco Ferriere",
+    "phone": "+39 339 8296372",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 632354244,
+  "lat": 46.5447887,
+  "lon": 10.1293385,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Tea del Plan",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 646590124,
+  "lat": 43.9567473,
+  "lon": 10.3631977,
+  "tags": {
+    "ele": "865",
+    "name": "Baita Paoli-Barsi",
+    "operator": "Amici della Montagna di Camaiore",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 672056692,
+  "lat": 44.0485738,
+  "lon": 11.5187376,
+  "tags": {
+    "access": "yes",
+    "description": "not locked but private",
+    "name": "Prati Piani",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 685530996,
+  "lat": 46.6739082,
+  "lon": 11.7536056,
+  "tags": {
+    "ele": "1984",
+    "name": "Schatzerhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 688808769,
+  "lat": 44.2105729,
+  "lon": 10.3403382,
+  "tags": {
+    "ele": "1292",
+    "name": "Rifugio Miramonti",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 688808777,
+  "lat": 44.2558568,
+  "lon": 10.3752579,
+  "tags": {
+    "ele": "1590",
+    "name": "Rifugio La Foce",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 697859347,
+  "lat": 46.2014537,
+  "lon": 11.7928516,
+  "tags": {
+    "addr:street": "Lago di Calaita",
+    "alt_name": "Albergo Ristorante Miralago",
+    "contact:phone": "+39 0439 719395",
+    "contact:website": "www.miralagocalaita.it",
+    "ele": "1620",
+    "name": "Rifugio Miralago",
+    "operator": "Stefenon Iginio & C. s.n.c.",
+    "ref:vatin": "IT02260260225",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 722738557,
+  "lat": 46.2613758,
+  "lon": 11.7608256,
+  "tags": {
+    "amenity": "bar",
+    "ele": "1880",
+    "layer": "5",
+    "name": "Malga Valcigolera",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 722739772,
+  "lat": 46.2706958,
+  "lon": 11.7732329,
+  "tags": {
+    "amenity": "bar",
+    "ele": "1670",
+    "name": "Rifugio Malga Ces",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 725285130,
+  "lat": 46.0892656,
+  "lon": 11.8421615,
+  "tags": {
+    "description": "Ultimo rifugio dell'Alta Via 2.",
+    "email": "info@rifugiodalpiaz.com",
+    "internet_access": "yes",
+    "name": "Rifugio G. Dal Piaz",
+    "phone": "+3904399065",
+    "tourism": "alpine_hut",
+    "website": "www.rifugiodalpiaz.com"
+  }
+},
+{
+  "type": "node",
+  "id": 739660877,
+  "lat": 46.1514974,
+  "lon": 11.8596065,
+  "tags": {
+    "ele": "1265",
+    "name": "Rifugio Caltena",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 759975837,
+  "lat": 46.2561026,
+  "lon": 9.6589072,
+  "tags": {
+    "ele": "1100",
+    "name": "Rifugio Mello",
+    "phone": "+39 338 5612670",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 769904327,
+  "lat": 46.8255474,
+  "lon": 10.7050410,
+  "tags": {
+    "ele": "2541",
+    "name": "Weißkugelhütte - Rifugio Pio XI alla Palla Bianca",
+    "name:de": "Weißkugelhütte",
+    "name:it": "Rifugio Pio XI alla Palla Bianca",
+    "operator": "Club Alpino Italiano, Sezione Desio",
+    "tourism": "alpine_hut",
+    "wikidata": "Q662387",
+    "wikipedia": "it:Rifugio Pio XI"
+  }
+},
+{
+  "type": "node",
+  "id": 770018629,
+  "lat": 45.7601004,
+  "lon": 11.3961268,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1203",
+    "name": "Baita GAM Monte Summano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 770561136,
+  "lat": 44.2266035,
+  "lon": 10.4753733,
+  "tags": {
+    "name": "Bivacco Le Maccherie",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 798563947,
+  "lat": 46.6171545,
+  "lon": 12.0136175,
+  "tags": {
+    "ele": "2007",
+    "name": "Ristoro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 802567867,
+  "lat": 46.2796541,
+  "lon": 11.6484818,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "name": "Malga Valmaggiore",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 803390631,
+  "lat": 46.9291177,
+  "lon": 12.1032038,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2274",
+    "name": "Kasseler Hütte",
+    "name:de": "Kasseler Hütte",
+    "name:it": "Rifugio Roma",
+    "tourism": "alpine_hut",
+    "wikidata": "Q993992",
+    "wikipedia": "it:Rifugio Roma alle Vedrette di Ries"
+  }
+},
+{
+  "type": "node",
+  "id": 804040391,
+  "lat": 46.8453799,
+  "lon": 11.6303070,
+  "tags": {
+    "name": "Luckner Huette",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 804040407,
+  "lat": 46.8410893,
+  "lon": 11.5933462,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Ochsenalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 805405165,
+  "lat": 42.1590293,
+  "lon": 12.9080775,
+  "tags": {
+    "ele": "1000",
+    "gestione": "no",
+    "name": "Colle Linzoli",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 805405252,
+  "lat": 42.0570514,
+  "lon": 12.8299295,
+  "tags": {
+    "amenity": "shelter",
+    "ele": "1028",
+    "gestione": "no",
+    "name": "Chiesetta del Pratone",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 806402339,
+  "lat": 45.9244086,
+  "lon": 11.5741887,
+  "tags": {
+    "name": "baita la solaia",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 806403431,
+  "lat": 42.3938705,
+  "lon": 13.6543934,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Rifugio Lago Racollo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 811268708,
+  "lat": 45.6942853,
+  "lon": 10.9756395,
+  "tags": {
+    "name": "Monti Lessini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 822566380,
+  "lat": 46.6725782,
+  "lon": 11.7661044,
+  "tags": {
+    "ele": "1967",
+    "name": "Enzianhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 824512166,
+  "lat": 45.4649387,
+  "lon": 7.3220974,
+  "tags": {
+    "description": "Chiuso: per le chiavi rivolgersi a Ristobar, Piazza Umberto 1° Noasca",
+    "ele": "1520",
+    "name": "Rifugio Noaschetta",
+    "operator": "Club Alpino Italiano sezione Rivarolo Canavese",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 825250098,
+  "lat": 45.4513575,
+  "lon": 7.1860274,
+  "tags": {
+    "ele": "1667",
+    "name": "Rifugio Guido Muzio",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiomuzio.com"
+  }
+},
+{
+  "type": "node",
+  "id": 831944801,
+  "lat": 46.1449454,
+  "lon": 8.5363762,
+  "tags": {
+    "ele": "1250",
+    "name": "Rifugio Blitz",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 835164289,
+  "lat": 44.3762815,
+  "lon": 10.2490715,
+  "tags": {
+    "name": "Rifugio Pratizzano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 843484008,
+  "lat": 46.6974468,
+  "lon": 12.3722888,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Mitterberg",
+    "ele": "1610",
+    "name": "Helmhanghütte - Rifugio Pendio Monte Elmo",
+    "name:de": "Helmhanghütte",
+    "name:it": "Rifugio Pendio Monte Elmo",
+    "phone": "+39 0474 710097",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 845708466,
+  "lat": 44.3165241,
+  "lon": 10.4188653,
+  "tags": {
+    "ele": "1330 m",
+    "name": "Rifugio Monte Orsaro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 847034356,
+  "lat": 46.7527923,
+  "lon": 12.3253272,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "1685",
+    "name": "Erharter Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 847034360,
+  "lat": 46.6787621,
+  "lon": 12.2012900,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "2018",
+    "name": "Flodige Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 847040322,
+  "lat": 46.7092312,
+  "lon": 12.2897344,
+  "tags": {
+    "cuisine": "alpine_hut",
+    "ele": "1706",
+    "name": "Gemeindekaser",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 847042673,
+  "lat": 46.7536529,
+  "lon": 12.3108737,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "1805",
+    "name": "Mehlhof Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 847052243,
+  "lat": 46.7687413,
+  "lon": 12.3027332,
+  "tags": {
+    "cuisine": "alpine_hut",
+    "ele": "1925",
+    "name": "Steinbergalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 847052252,
+  "lat": 46.6752057,
+  "lon": 12.1373691,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "1965",
+    "name": "Postmeister Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 848750805,
+  "lat": 45.9487187,
+  "lon": 11.5565442,
+  "tags": {
+    "ele": "1602",
+    "name": "Rifugio Campomuletto",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 848995348,
+  "lat": 46.3974678,
+  "lon": 11.7209115,
+  "tags": {
+    "name": "Rifugio Vallaccia",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 850806762,
+  "lat": 45.7938836,
+  "lon": 6.9378276,
+  "tags": {
+    "ele": "1895",
+    "name": "Rifugio Le Randonneur",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 851461469,
+  "lat": 46.4452143,
+  "lon": 10.3389333,
+  "tags": {
+    "name": "Baita La Mandria",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 857445705,
+  "lat": 45.8253552,
+  "lon": 6.8117987,
+  "tags": {
+    "ele": "3364",
+    "name": "Refuge Durier",
+    "source": "bing",
+    "tourism": "alpine_hut",
+    "wikidata": "Q888827",
+    "wikipedia": "fr:Refuge Durier"
+  }
+},
+{
+  "type": "node",
+  "id": 857491163,
+  "lat": 46.6652329,
+  "lon": 12.3703635,
+  "tags": {
+    "access": "public",
+    "capacity": "25",
+    "ele": "1924",
+    "email": "info@rotwandwiesenhuette.it",
+    "name": "Rotwandwiesenhütte - Rifugio Prati di Croda Rossa",
+    "name:de": "Rotwandwiesenhütte",
+    "name:it": "Rifugio Prati di Croda Rossa",
+    "operator": "Josef Pfeifhofer",
+    "phone": "+39 0474 710651",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 861037643,
+  "lat": 46.4561372,
+  "lon": 10.8525692,
+  "tags": {
+    "ele": "1890",
+    "name": "Kirchberg Kaser - Malga di Montechiesa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 885143239,
+  "lat": 46.1516533,
+  "lon": 8.1933186,
+  "tags": {
+    "name": "Refugio San Bernard",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 892723652,
+  "lat": 46.7472641,
+  "lon": 12.2196721,
+  "tags": {
+    "addr:housenumber": "2",
+    "addr:street": "Monte Rota - Ratsberg",
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "1581",
+    "name": "Gasthof Jörgerhof",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 893091007,
+  "lat": 46.6930703,
+  "lon": 11.4735592,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2094",
+    "name": "Getrum Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 897622450,
+  "lat": 46.7069108,
+  "lon": 11.2538123,
+  "tags": {
+    "addr:city": "Schenna",
+    "addr:country": "IT",
+    "addr:postcode": "39017",
+    "ele": "1560",
+    "name": "Streitweider Alm",
+    "source": "GPS",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 905147368,
+  "lat": 44.1277287,
+  "lon": 10.6434939,
+  "tags": {
+    "ele": "1892",
+    "name": "Rifugio Zeno Colò",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 905147377,
+  "lat": 44.1403995,
+  "lon": 10.6385932,
+  "tags": {
+    "name": "Rifugio Pulicchio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 905799756,
+  "lat": 46.7149977,
+  "lon": 11.2315471,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1130",
+    "name": "Waaler Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 907057102,
+  "lat": 46.4991045,
+  "lon": 12.3848124,
+  "tags": {
+    "ele": "1825",
+    "name": "Rifugio Baion",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 911125211,
+  "lat": 46.6896878,
+  "lon": 11.8129745,
+  "tags": {
+    "ele": "1951",
+    "name": "Pecol Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 914791656,
+  "lat": 45.8708077,
+  "lon": 11.2605819,
+  "tags": {
+    "name": "Rifugio Valbona",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 919485009,
+  "lat": 44.3611306,
+  "lon": 10.1105113,
+  "tags": {
+    "name": "Rifugio Albergo Prato Spilla",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 924003387,
+  "lat": 46.6645510,
+  "lon": 12.3723768,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Rudi-Hütte - Rifugio Rudi",
+    "name:de": "Rudi-Hütte",
+    "name:it": "Rifugio Rudi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 927112595,
+  "lat": 46.6978013,
+  "lon": 12.0338220,
+  "tags": {
+    "name": "Alter Kaser",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 928003397,
+  "lat": 46.8482391,
+  "lon": 11.8884345,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Plattner Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 929122662,
+  "lat": 47.0026007,
+  "lon": 11.9543143,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1430",
+    "name": "Bizathütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 937620695,
+  "lat": 42.0884837,
+  "lon": 12.9337322,
+  "tags": {
+    "amenity": "shelter",
+    "ele": "776",
+    "gestione": "no",
+    "name": "La Porcareccia",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 939279226,
+  "lat": 43.8095490,
+  "lon": 12.3166179,
+  "tags": {
+    "ele": "1350",
+    "internet_access": "no",
+    "name": "Rifugio Fontanelle",
+    "phone": "+39 0541 915274",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 944637758,
+  "lat": 46.6562676,
+  "lon": 11.3875967,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Waldrast",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 970679663,
+  "lat": 45.9505693,
+  "lon": 8.3617957,
+  "tags": {
+    "ele": "1518",
+    "email": "cai.gravellona@libero.it",
+    "internet_access": "no",
+    "name": "Rifugio Gravellona",
+    "phone": "+39 0323 837051",
+    "tourism": "alpine_hut",
+    "website": "http://www.caipiemonte.it/rifugi.php?p=&id=188"
+  }
+},
+{
+  "type": "node",
+  "id": 970680229,
+  "lat": 45.9633559,
+  "lon": 8.3806972,
+  "tags": {
+    "ele": "1287",
+    "name": "Capanna Legnano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 976102692,
+  "lat": 46.6745647,
+  "lon": 12.2972022,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "1640",
+    "name": "Dreischusterhütte",
+    "name:it": "Refugio Tre Scarperi",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1258083",
+    "wikipedia": "it:Rifugio Tre Scarperi"
+  }
+},
+{
+  "type": "node",
+  "id": 1013365540,
+  "lat": 44.6993060,
+  "lon": 9.1665806,
+  "tags": {
+    "capacity": "25",
+    "contact:website": "http://www.caitortona.net/rifugio.htm",
+    "ele": "1397",
+    "name": "Rifugio Ezio Orsi",
+    "operator": "Club Alpino Italiano Sezione di Tortona",
+    "phone": "+39 338 4964613",
+    "start_date": "2004",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935485",
+    "wikipedia": "it:Rifugio Ezio Orsi"
+  }
+},
+{
+  "type": "node",
+  "id": 1036112442,
+  "lat": 44.6710089,
+  "lon": 7.3352959,
+  "tags": {
+    "name": "Rifugio Mulatero",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1036987133,
+  "lat": 46.1049859,
+  "lon": 8.3534708,
+  "tags": {
+    "contact:mobile": "+39 3456143884",
+    "ele": "1240",
+    "name": "Alpe Parpinasca",
+    "operator": "Cooperativa Sociale \"La Coccinella\"",
+    "tourism": "alpine_hut",
+    "website": "http://www.bedandtrek.eu",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1073814171,
+  "lat": 46.6955867,
+  "lon": 11.5613573,
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "name": "Brugger Schupfe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1076060015,
+  "lat": 45.0586671,
+  "lon": 6.9074853,
+  "tags": {
+    "capacity": "16",
+    "contact:email": "info@rifugioarlaud.it",
+    "contact:website": "http://www.rifugioarlaud.it/",
+    "ele": "1770",
+    "name": "Rifugio alpino Daniele Arlaud",
+    "reservation": "recommended",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1082487647,
+  "lat": 45.8886596,
+  "lon": 7.9098910,
+  "tags": {
+    "ele": "1836",
+    "name": "Rifugio Crespi-Calderini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1085925753,
+  "lat": 43.7961976,
+  "lon": 11.7897642,
+  "tags": {
+    "name": "Rifugio Asqua",
+    "operator": "Private",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1094418457,
+  "lat": 41.8378216,
+  "lon": 14.0026491,
+  "tags": {
+    "name": "Esagono",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1102717471,
+  "lat": 44.8758574,
+  "lon": 7.2020611,
+  "tags": {
+    "ele": "1468",
+    "name": "Rifugio Vaccera",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1108414247,
+  "lat": 44.5835980,
+  "lon": 7.0325808,
+  "tags": {
+    "name": "Posto Tappa GTA",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1115756385,
+  "lat": 46.4815645,
+  "lon": 10.8413878,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2036",
+    "name": "Fiecht Alm 2036m",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1116937545,
+  "lat": 44.6618286,
+  "lon": 7.3315555,
+  "tags": {
+    "name": "Miravidi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1151845509,
+  "lat": 46.0764848,
+  "lon": 8.7771419,
+  "tags": {
+    "addr:city": "Veddasca",
+    "addr:street": "Passo Forcora",
+    "capacity": "8",
+    "ele": "1164",
+    "email": "info@rifugioforcora.it",
+    "name": "Rifugio Forcora",
+    "opening_hours": "Jan-Dec; Tu off",
+    "operator": "Paola Baratta",
+    "phone": "+39 0332 558132",
+    "source": "PCN ortofoto a colori 2006",
+    "tourism": "alpine_hut",
+    "website": "http://www.vareselandoftourism.it/?dove_dormire=search&lang=it&struttura=9&PAG=rifugio-forcora--rifugi-con-alloggio-dove-dormire&o=724"
+  }
+},
+{
+  "type": "node",
+  "id": 1184594388,
+  "lat": 46.5021181,
+  "lon": 9.3614429,
+  "tags": {
+    "access": "public",
+    "capacity": "9",
+    "description": "Costruzione metallica, nove materassi, coperte, tavolo, due panche, fornelletto, stoviglie, pronto soccorso, pannello fotovoltaico, elicottero",
+    "ele": "2748",
+    "name": "Bivacco Suretta",
+    "note": "Per il pernottamento 3 euro soci CAI, 5 altri, da lasciare in apposita cassetta",
+    "opening_hours": "24/7",
+    "shelter_type": "basic_hut",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1211064111,
+  "lat": 46.4077984,
+  "lon": 11.6030017,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1712",
+    "name": "Christomannos Alm",
+    "phone": "+39 0471 612359",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1212500269,
+  "lat": 46.3849889,
+  "lon": 11.7980503,
+  "tags": {
+    "ele": "2012",
+    "name": "Rif. Cima Uomo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1223468126,
+  "lat": 46.4332901,
+  "lon": 11.6640700,
+  "tags": {
+    "ele": "1988",
+    "email": "info@baitachecco.com",
+    "name": "Rif. Baita Checco",
+    "phone": "+39 335 7021414",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.baitachecco.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1230300453,
+  "lat": 45.9336358,
+  "lon": 12.0195871,
+  "tags": {
+    "ele": "1464",
+    "name": "Malga Barbaria",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1230300762,
+  "lat": 45.9411106,
+  "lon": 12.0289546,
+  "tags": {
+    "ele": "1501",
+    "name": "Malga Mariech",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1232576647,
+  "lat": 40.7064414,
+  "lon": 15.1049142,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1248773770,
+  "lat": 44.4855605,
+  "lon": 7.3551235,
+  "tags": {
+    "ele": "1000",
+    "name": "Rifugio privato",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1265828635,
+  "lat": 45.8271505,
+  "lon": 11.6292622,
+  "tags": {
+    "name": "Baita Rifugio Biancoia",
+    "operator": "famiglia Pertile",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1282760883,
+  "lat": 41.8418987,
+  "lon": 13.3882177,
+  "tags": {
+    "name": "Rifugio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1282760885,
+  "lat": 41.8271318,
+  "lon": 13.3882030,
+  "tags": {
+    "name": "Rifugio La Liscia",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1288185322,
+  "lat": 45.8449446,
+  "lon": 7.7515553,
+  "tags": {
+    "capacity": "15",
+    "contact:email": "request@rifugiobelvedere.net",
+    "contact:website": "http://www.rifugiobelvedere.net/",
+    "name": "Rifugio Belvedere",
+    "note": "ristorante e posto tappa, malgrado il nome non è un rifugio",
+    "operator": "private",
+    "tourism": "alpine_hut",
+    "winter_room": "no (apertura invernale con gestore)"
+  }
+},
+{
+  "type": "node",
+  "id": 1289042050,
+  "lat": 41.8396098,
+  "lon": 13.3870372,
+  "tags": {
+    "name": "Rifugio Collelungo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1289042053,
+  "lat": 41.8684271,
+  "lon": 13.3734332,
+  "tags": {
+    "name": "Rifugio Femmina Morta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1289042055,
+  "lat": 41.8743421,
+  "lon": 13.3873396,
+  "tags": {
+    "name": "Rifugio Cerasoli",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1289379697,
+  "lat": 44.4974131,
+  "lon": 6.9190950,
+  "tags": {
+    "addr:city": "Acceglio",
+    "ele": "1650",
+    "name": "Posto Tappa Campo Base",
+    "tourism": "alpine_hut",
+    "website": "http://www.campobaseacceglio.it/",
+    "wikidata": "Q3423107",
+    "wikipedia": "it:Rifugio Campo Base"
+  }
+},
+{
+  "type": "node",
+  "id": 1289379699,
+  "lat": 44.4512898,
+  "lon": 7.1025219,
+  "tags": {
+    "name": "Posto Tappa Arata",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1299330905,
+  "lat": 41.8281152,
+  "lon": 13.4195713,
+  "tags": {
+    "name": "Rifugio di Pietra Acquara",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1299330931,
+  "lat": 41.8274779,
+  "lon": 13.3650894,
+  "tags": {
+    "name": "Rifugio Enel di Campovano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1300584623,
+  "lat": 41.9682896,
+  "lon": 13.2507540,
+  "tags": {
+    "ele": "1929",
+    "name": "Casino di Troili",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1301667917,
+  "lat": 45.5155928,
+  "lon": 7.2060492,
+  "tags": {
+    "capacity": "41",
+    "contact:phone": "+39 335 6001921",
+    "ele": "1996",
+    "name": "Rifugio Tetras Lyre",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1305880729,
+  "lat": 41.8420987,
+  "lon": 13.4031888,
+  "tags": {
+    "name": "Rifugio Tassiti",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1306767727,
+  "lat": 45.7872757,
+  "lon": 8.3118677,
+  "tags": {
+    "ele": "970",
+    "name": "Rifugio Primatesta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1306859684,
+  "lat": 46.0038227,
+  "lon": 12.0776280,
+  "tags": {
+    "name": "Osteria Rifugio al Boz",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1327859731,
+  "lat": 42.4255874,
+  "lon": 13.7415796,
+  "tags": {
+    "ele": "1632",
+    "name": "Rifugio Fonte Vetica",
+    "note": "non fruibile",
+    "operator": "Corpo Forestale dello Stato",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1328619899,
+  "lat": 45.8706173,
+  "lon": 9.7801565,
+  "tags": {
+    "name": "Baita Carlo Nembrini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1330157904,
+  "lat": 41.9210008,
+  "lon": 13.1778201,
+  "tags": {
+    "ele": "1400",
+    "name": "Rifugio Forestale",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1332154768,
+  "lat": 45.6816435,
+  "lon": 11.1527357,
+  "tags": {
+    "ele": "1475",
+    "name": "Malga Fraselle di sotto",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1335024110,
+  "lat": 46.6785157,
+  "lon": 11.8130152,
+  "tags": {
+    "designation": "Costaces Hütte",
+    "name": "Costaces Hütte",
+    "source": "N46°40.717`/E011°48.807`",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1348532936,
+  "lat": 46.4323864,
+  "lon": 10.8891026,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1806",
+    "name": "Malga Bordolona di Sotto",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1350261025,
+  "lat": 46.4310383,
+  "lon": 12.3180704,
+  "tags": {
+    "ele": "1610",
+    "name": "Rifugio Costa Piana",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1361631209,
+  "lat": 46.1832514,
+  "lon": 11.9462178,
+  "tags": {
+    "ele": "1265",
+    "name": "Rifugio Forestale \"Val delle Moneghe\"",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1366655272,
+  "lat": 45.9481809,
+  "lon": 11.6118456,
+  "tags": {
+    "name": "Rifugio Marcesina",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1383536308,
+  "lat": 45.8780616,
+  "lon": 11.2999791,
+  "tags": {
+    "ele": "1600 m",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Rifugio Melegnon",
+    "phone": "+39 0445 749449",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1386444313,
+  "lat": 46.3263988,
+  "lon": 12.1748472,
+  "tags": {
+    "ele": "1588",
+    "name": "Rif. Sora I Sass G. Angelini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1387863240,
+  "lat": 46.7060967,
+  "lon": 11.1112824,
+  "tags": {
+    "addr:city": "Algund",
+    "addr:country": "IT",
+    "addr:postcode": "39022",
+    "beds": "16",
+    "contact:email": "info@leiteralm.com",
+    "contact:mobile": "+39 338 317 2484",
+    "ele": "1550",
+    "name": "Leiteralm",
+    "opening_hours": "Mar-Nov",
+    "opening_hours:alpine_hut": "Jun-Aug",
+    "source": "http://www.leiteralm.com/",
+    "source:date": "2017-01-10",
+    "tourism": "alpine_hut",
+    "website": "http://www.leiteralm.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1388585135,
+  "lat": 45.3892329,
+  "lon": 7.5572399,
+  "tags": {
+    "ele": "1546",
+    "email": "canischio@ruparpiemonte.it",
+    "internet_access": "no",
+    "name": "Rifugio San Bernardo di Mares (chiuso 4 posti)",
+    "operator": "Comune di Canischio",
+    "phone": "+39 0124 659998",
+    "tourism": "alpine_hut",
+    "website": "http://www.caicvl.eu/rifugio_mares.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 1389424780,
+  "lat": 46.6842200,
+  "lon": 11.7656036,
+  "tags": {
+    "name": "Gableralm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1393973101,
+  "lat": 45.9429644,
+  "lon": 12.0483500,
+  "tags": {
+    "ele": "1218",
+    "name": "Malga Budoi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1396800986,
+  "lat": 44.6366179,
+  "lon": 7.2451808,
+  "tags": {
+    "ele": "1380",
+    "name": "Rifugio Bertorello",
+    "operator": "ristorante damawilù ex scoiattolo di san lorenzo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1401704584,
+  "lat": 43.8047703,
+  "lon": 12.3338453,
+  "tags": {
+    "tourism": "alpine_hut",
+    "website": "www.eremomontecarpegna.it"
+  }
+},
+{
+  "type": "node",
+  "id": 1406215598,
+  "lat": 46.8457930,
+  "lon": 11.1901865,
+  "tags": {
+    "addr:city": "Moos in Passeier - Moso in Passiria",
+    "addr:postcode": "39013",
+    "capacity": "40",
+    "check_date": "2017-04-25",
+    "contact:email": "f.gufler@gmx.net",
+    "contact:mobile": "+39 348 411 0362",
+    "ele": "2174",
+    "name": "Schutzhütte Hochalm",
+    "name:it": "Rifugio Hochalm",
+    "note": "phone in winter time: +39 0473 231 851 ",
+    "opening_hours": "Jun-Oct; Dec 26 - Jan 07",
+    "operator": "Fam. Gufler",
+    "rooms": "5",
+    "source:date": "2016-07-02",
+    "source:de": "Unterkunftsverzeichnis Passeiertal  2017, S. 93, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+    "source:it": "Elenco degli alloggi della Val Passiria 2017, pagina 93, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+    "tourism": "alpine_hut",
+    "website": "http://www.schutzhuette-hochalm.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1406947746,
+  "lat": 46.5973677,
+  "lon": 11.7476415,
+  "tags": {
+    "ele": "2297",
+    "internet_access": "no",
+    "name": "Pieralongia Hütte - Rifugio Pieralongia",
+    "name:de": "Pieralongia Hütte",
+    "name:it": "Rifugio Pieralongia",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1407251340,
+  "lat": 45.8411545,
+  "lon": 7.0967646,
+  "tags": {
+    "ele": "2550",
+    "name": "Rifugio Pier Giorgio Frassati",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1407330867,
+  "lat": 41.8811635,
+  "lon": 14.1604853,
+  "tags": {
+    "name": "Rifugio Accio di Cotica",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1409284814,
+  "lat": 39.3450495,
+  "lon": 16.3993481,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "La Pagliara",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1411029986,
+  "lat": 46.2513352,
+  "lon": 11.1412315,
+  "tags": {
+    "contact:email": "info@rifugiomalgakraun.it",
+    "contact:fax": "+39 334 8122699",
+    "contact:phone": "+39 335 8173485",
+    "contact:website": "http://www.rifugiomalgakraun.it/",
+    "ele": "1222",
+    "name": "Malga Kraun",
+    "ref:vatin": "IT02244780223",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1411935556,
+  "lat": 46.4229359,
+  "lon": 12.0513184,
+  "tags": {
+    "ele": "2050",
+    "name": "Ristoro La Cesela",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1412880759,
+  "lat": 45.3666466,
+  "lon": 7.5186793,
+  "tags": {
+    "ele": "1670",
+    "email": "rifugioalpesoglia@alice.it",
+    "name": "Rifugio Alpe Soglia",
+    "phone": "+39 011 928946",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugioalpesoglia.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1414937192,
+  "lat": 46.0565425,
+  "lon": 8.6840634,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1417628251,
+  "lat": 45.7869146,
+  "lon": 9.0990043,
+  "tags": {
+    "name": "Baita Monte Goi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1423067541,
+  "lat": 46.7078933,
+  "lon": 11.5802001,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Radlseehütte - Rifugio Lago Rodella",
+    "name:de": "Radlseehütte",
+    "name:it": "Rifugio Lago Rodella",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1479871",
+    "wikipedia": "it:Rifugio Lago Rodella"
+  }
+},
+{
+  "type": "node",
+  "id": 1424260978,
+  "lat": 46.6999003,
+  "lon": 11.5212659,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Klausner Hütte - Rifugio Chiusa al Campaccio",
+    "name:de": "Klausner Hütte",
+    "name:it": "Rifugio Chiusa al Campaccio",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1745992",
+    "wikipedia": "it:Rifugio Chiusa al Campaccio"
+  }
+},
+{
+  "type": "node",
+  "id": 1426799561,
+  "lat": 45.6515181,
+  "lon": 11.2384508,
+  "tags": {
+    "amenity": "alp",
+    "int_name": "Malga Rialto",
+    "name": "Malga Rialto",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1428350482,
+  "lat": 41.4023959,
+  "lon": 14.4835352,
+  "tags": {
+    "name": "La Casella",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1434028840,
+  "lat": 44.0622130,
+  "lon": 11.4510900,
+  "tags": {
+    "building": "yes",
+    "name": "Serra",
+    "operator": "Cooperativa Rifugi Mugello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1437227056,
+  "lat": 45.8033143,
+  "lon": 7.8959120,
+  "tags": {
+    "capacity": "30",
+    "contact:phone": "+ 39 0163 91901",
+    "contact:website": "http://www.rifugimonterosa.it/",
+    "ele": "2201",
+    "name": "Rifugio Carestia",
+    "operator": "Club Alpino Italiano Sezione di Varallo Sesia",
+    "shower": "yes",
+    "source": "pcn 2006",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935684",
+    "wikipedia": "it:Rifugio abate Antonio Carestia",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1446859185,
+  "lat": 46.8390456,
+  "lon": 11.6028731,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1900",
+    "name": "Linderalm",
+    "phone": "+39 333 4331903",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1455061167,
+  "lat": 44.5187076,
+  "lon": 9.7908538,
+  "tags": {
+    "name": "Lavatoio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1458569403,
+  "lat": 46.1014192,
+  "lon": 8.5826349,
+  "tags": {
+    "name": "Rifugio Monte Vecchio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1460874341,
+  "lat": 45.6574299,
+  "lon": 11.2192623,
+  "tags": {
+    "int_name": "Cima Marana",
+    "name": "Bivacco Cima Marana",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1471123678,
+  "lat": 43.8829960,
+  "lon": 11.8620546,
+  "tags": {
+    "ele": "845",
+    "name": "Rifugio Alpicella",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1488917378,
+  "lat": 43.1159018,
+  "lon": 13.1633679,
+  "tags": {
+    "name": "Rifugio di Valcimarra",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1492565344,
+  "lat": 46.5487466,
+  "lon": 10.8098151,
+  "tags": {
+    "ele": "2220",
+    "name": "Obere Flimalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1492566237,
+  "lat": 46.5348101,
+  "lon": 10.7877907,
+  "tags": {
+    "ele": "2072",
+    "name": "Soyalm",
+    "name:it": "Malga Soi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1492566250,
+  "lat": 46.5514541,
+  "lon": 10.7994975,
+  "tags": {
+    "ele": "1860",
+    "name": "Untere Flimalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1502683557,
+  "lat": 45.6442657,
+  "lon": 7.9297250,
+  "tags": {
+    "fixme": "completare i tag, edificio ultimato ma nel 2017 non ha un gestore per cui è chiuso",
+    "name": "Rifugio del Lago della Balma",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1503360182,
+  "lat": 45.6675849,
+  "lon": 7.3456451,
+  "tags": {
+    "ele": "2507",
+    "name": "Rifugio Arbolle",
+    "operator": "Comune Di Chaversod",
+    "phone": "+39 0165 50011",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1139789",
+    "wikipedia": "it:Rifugio Arbolle"
+  }
+},
+{
+  "type": "node",
+  "id": 1505340644,
+  "lat": 44.0717944,
+  "lon": 9.8113355,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1548726751,
+  "lat": 43.6504882,
+  "lon": 12.7218750,
+  "tags": {
+    "ele": "600",
+    "name": "Rifugio del Furlo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1575573265,
+  "lat": 46.3105983,
+  "lon": 10.1896770,
+  "tags": {
+    "ele": "1883",
+    "name": "Alpe Piana",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1582982545,
+  "lat": 46.9111066,
+  "lon": 11.4107083,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "italian",
+    "name": "Enzianhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1595232714,
+  "lat": 43.9444180,
+  "lon": 11.7946689,
+  "tags": {
+    "name": "Rifugio della Fratta",
+    "operator": "Club Alpino Italiano",
+    "source": "Bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1595322817,
+  "lat": 43.9443149,
+  "lon": 11.8214137,
+  "tags": {
+    "name": "Bivacco Pinone",
+    "operator": "Club Alpino Italiano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1603857953,
+  "lat": 45.6120757,
+  "lon": 7.5515031,
+  "tags": {
+    "ele": "2110",
+    "name": "Rifugio Dondena",
+    "operator": "Soc. Dondena s.r.l.",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1140357",
+    "wikipedia": "it:Rifugio Dondena"
+  }
+},
+{
+  "type": "node",
+  "id": 1610817956,
+  "lat": 45.8091847,
+  "lon": 6.9788060,
+  "tags": {
+    "contact:phone": "+39 347.0325785",
+    "contact:website": "http://www.rifugiobertone.it/wp/it/home/",
+    "ele": "1980",
+    "name": "Rifugio Giorgio Bertone nuovo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1611919979,
+  "lat": 45.7976986,
+  "lon": 6.9918796,
+  "tags": {
+    "ele": "1816",
+    "name": "Posto Tappa Alessio Allegri",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1613337130,
+  "lat": 46.2774949,
+  "lon": 11.1060712,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1614936369,
+  "lat": 45.9011373,
+  "lon": 7.7927931,
+  "tags": {
+    "capacity": "142",
+    "contact:email": "felik@tiscali.it",
+    "contact:phone": "+39 0125 366113",
+    "contact:website": "www.rifugioquintinosella.com",
+    "ele": "3585",
+    "name": "Rifugio Quintino Sella",
+    "operator": "CAI Biella",
+    "tourism": "alpine_hut",
+    "wikidata": "Q912656",
+    "wikipedia": "it:Rifugio Quintino Sella al Felik",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1635492223,
+  "lat": 46.5157317,
+  "lon": 11.0541595,
+  "tags": {
+    "cuisine": "regional",
+    "name": "Castrin Alm - Malga Castrin",
+    "name:de": "Castrin Alm",
+    "name:it": "Malga Castrin",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1639990357,
+  "lat": 46.1296240,
+  "lon": 10.1461311,
+  "tags": {
+    "amenity": "bar",
+    "name": "Ristoro Malga Magnolta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1666029174,
+  "lat": 45.5801976,
+  "lon": 7.3032720,
+  "tags": {
+    "contact:email": "info@rifugiosella.com",
+    "contact:phone": "+39 0165 74310",
+    "contact:website": "http://www.rifugiosella.com",
+    "ele": "2584",
+    "name": "Rifugio Vittorio Sella",
+    "operator": "CAI Biella",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1410393",
+    "wikipedia": "it:Rifugio Vittorio Sella"
+  }
+},
+{
+  "type": "node",
+  "id": 1686383768,
+  "lat": 44.2609888,
+  "lon": 7.0441968,
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:street": "Frazione San Bernolfo",
+    "contact:mobile": "+39 335 5995023",
+    "email": "info@rifugiodahuds.com",
+    "internet_access": "yes",
+    "name": "Dahu de Sabarnui",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1696840537,
+  "lat": 45.9526196,
+  "lon": 12.0552411,
+  "tags": {
+    "ele": "1334 m",
+    "name": "Posa Puner",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugioposapuner.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 1699821865,
+  "lat": 46.5960248,
+  "lon": 11.4526253,
+  "tags": {
+    "name": "Gasthaus Schwarzseespitze",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1709143830,
+  "lat": 44.2439210,
+  "lon": 7.8772332,
+  "tags": {
+    "name": "Rifugio Navonera",
+    "tourism": "alpine_hut",
+    "website": "http://www.ana.mondovi.com/home/?id_pg=109"
+  }
+},
+{
+  "type": "node",
+  "id": 1710409710,
+  "lat": 46.3082618,
+  "lon": 9.7635628,
+  "tags": {
+    "ele": "1800",
+    "name": "Rifugio Tartaglione Crispo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1717898334,
+  "lat": 41.3883713,
+  "lon": 14.5566328,
+  "tags": {
+    "name": "Rifugio forestale",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1720721851,
+  "lat": 45.9044512,
+  "lon": 7.9939046,
+  "tags": {
+    "capacity": "20",
+    "contact:email": "residencepineta@gmail.com",
+    "contact:phone": "+39 328 4424913",
+    "ele": "2180",
+    "name": "Rifugio Vallè",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1724043238,
+  "lat": 41.8174946,
+  "lon": 13.4766787,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1725438344,
+  "lat": 41.4341210,
+  "lon": 14.3933340,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1729175627,
+  "lat": 42.1608005,
+  "lon": 13.3670499,
+  "tags": {
+    "ele": "2119",
+    "name": "Rifugio Capanna di Sevice",
+    "operator": "G.E.V. Magliano de' Marsi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1731603107,
+  "lat": 41.0842341,
+  "lon": 14.5936327,
+  "tags": {
+    "name": "Casermetta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1759978604,
+  "lat": 40.9338115,
+  "lon": 14.6925630,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1760715729,
+  "lat": 46.5221247,
+  "lon": 11.5836575,
+  "tags": {
+    "addr:city": "Kastelruth - Castelrotto",
+    "addr:city:de": "Kastelruth",
+    "addr:city:it": "Castelrotto",
+    "addr:hamlet": "Seiser Alm - Alpe di Siusi",
+    "addr:hamlet:de": "Seiser Alm",
+    "addr:hamlet:it": "Alpe di Siusi",
+    "addr:housenumber": "29",
+    "addr:postcode": "39040",
+    "addr:street": "Spitzbichel",
+    "ele": "1726",
+    "name": "Schlernbödele Hütte - Rifugio Malghetta Sciliar",
+    "name:de": "Schlernbödele Hütte",
+    "name:it": "Rifugio Malghetta Sciliar",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2239151",
+    "wikipedia": "de:Schlernbödelehütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1765944164,
+  "lat": 43.9652925,
+  "lon": 11.7397454,
+  "tags": {
+    "name": "Rifugio Poggio Cavallaro",
+    "note": "Close",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1779226634,
+  "lat": 43.8909557,
+  "lon": 11.7073951,
+  "tags": {
+    "ele": "1389",
+    "name": "Rifugio Fontanelle",
+    "operator": "Club Alpino Italiano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1781762453,
+  "lat": 45.3491435,
+  "lon": 7.4324882,
+  "tags": {
+    "ele": "1580",
+    "name": "Rifugio Salvin",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1792259505,
+  "lat": 44.2067727,
+  "lon": 10.3868560,
+  "tags": {
+    "name": "Rifugio Granaiola",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1792306738,
+  "lat": 44.2052255,
+  "lon": 10.3696041,
+  "tags": {
+    "alt_phone": "+39 3319165832",
+    "email": "info@rifugioisera.it",
+    "name": "Rifugio Isera",
+    "phone": "+39 0583 660203",
+    "tourism": "alpine_hut",
+    "website": "www.rifugioisera.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 1794687476,
+  "lat": 46.7188038,
+  "lon": 11.3026795,
+  "tags": {
+    "name": "Pramsfallötz",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1805493309,
+  "lat": 39.3337992,
+  "lon": 16.3872029,
+  "tags": {
+    "building": "yes",
+    "name": "CAI, Club Alpino",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1806198902,
+  "lat": 39.2782383,
+  "lon": 16.5471387,
+  "tags": {
+    "name": "Carlomagno",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1806198926,
+  "lat": 39.2423661,
+  "lon": 16.4938150,
+  "tags": {
+    "name": "Lo Scoiattolo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1806209351,
+  "lat": 39.3290531,
+  "lon": 16.3955569,
+  "tags": {
+    "name": "Rifugio Monte Scuro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1819313385,
+  "lat": 45.3265154,
+  "lon": 7.2319343,
+  "tags": {
+    "addr:city": "Balme",
+    "ele": "2279",
+    "name": "Bivacco Bruno Molino",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3640561",
+    "wikipedia": "it:Bivacco Molino"
+  }
+},
+{
+  "type": "node",
+  "id": 1836495924,
+  "lat": 46.4161018,
+  "lon": 11.7821697,
+  "tags": {
+    "ele": "2011",
+    "name": "Baita alle Cascate",
+    "phone": "+39 0462 64674",
+    "tourism": "alpine_hut",
+    "website": "http://www.baitaallecascate.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1836959868,
+  "lat": 46.4338434,
+  "lon": 11.6642711,
+  "tags": {
+    "building": "yes",
+    "capacity": "27",
+    "contact:mobile": "+39 339 4376354",
+    "ele": "1998",
+    "email": "info@rifugiociampedie.com",
+    "name": "Rifugio Ciampedie",
+    "opening_hours": "Jun 4-Oct 10",
+    "operator": "Società degli Alpinisti Tridentini",
+    "phone": "+39 0462 764432",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiociampedie.com/",
+    "wikidata": "Q1526124",
+    "wikipedia": "it:Rifugio Ciampedie",
+    "winter_room": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1836979545,
+  "lat": 46.4245333,
+  "lon": 11.6366551,
+  "tags": {
+    "ele": "2028",
+    "name": "Malga Vael",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1837581495,
+  "lat": 46.5054347,
+  "lon": 11.7069624,
+  "tags": {
+    "ele": "2249",
+    "name": "Malga Sasso Piatto",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1837590997,
+  "lat": 46.4953760,
+  "lon": 11.7482255,
+  "tags": {
+    "ele": "2480",
+    "name": "Rifugio Col Rodella",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1844329399,
+  "lat": 44.4358363,
+  "lon": 6.9859588,
+  "tags": {
+    "name": "Rifugio di Viviere",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiodiviviere.com"
+  }
+},
+{
+  "type": "node",
+  "id": 1850642500,
+  "lat": 40.5060475,
+  "lon": 15.7211846,
+  "tags": {
+    "addr:city": "sasso di castalda",
+    "ele": "1375",
+    "name": "il rifugio nel bosco",
+    "operator": "Scouting For ...",
+    "phone": "+39 333 9995991",
+    "smoking": "outside",
+    "tourism": "alpine_hut",
+    "website": "http://scoutingfor.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 1855394544,
+  "lat": 45.9590725,
+  "lon": 7.6438098,
+  "tags": {
+    "capacity": "21",
+    "contact:phone": "+39 347 6859289",
+    "contact:website": "www.rifugiorionde.it",
+    "ele": "2810",
+    "name": "Rif. Oriondé",
+    "operator": "private",
+    "payment:credit_cards": "continue",
+    "source": "gps+survey+pcn2006",
+    "tourism": "alpine_hut",
+    "wikidata": "Q478550",
+    "wikipedia": "it:Rifugio Duca degli Abruzzi all'Oriondé",
+    "winter_room": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 1864723891,
+  "lat": 45.9179767,
+  "lon": 11.4042741,
+  "tags": {
+    "ele": "1665",
+    "name": "Rifugio Verenetta",
+    "phone": "+39 0424 463798",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1870156385,
+  "lat": 45.6766422,
+  "lon": 7.9612252,
+  "tags": {
+    "name": "Rifugio Madonna della Neve",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1887408759,
+  "lat": 41.4079134,
+  "lon": 14.4552177,
+  "tags": {
+    "name": "Rifugio Concone delle Rose",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1891304503,
+  "lat": 45.0611097,
+  "lon": 6.9403550,
+  "tags": {
+    "name": "Rifugio Casa Assietta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1891307142,
+  "lat": 44.9896374,
+  "lon": 7.1078367,
+  "tags": {
+    "name": "Rifugio Serafin",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1894397361,
+  "lat": 46.2227133,
+  "lon": 9.6780746,
+  "tags": {
+    "access": "private",
+    "name": "Rifugio Scotti",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1894688688,
+  "lat": 46.2566553,
+  "lon": 9.6599538,
+  "tags": {
+    "name": "Luna Nascente",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1907077917,
+  "lat": 46.7398963,
+  "lon": 11.2532942,
+  "tags": {
+    "alt_name": "Gasthaus Tallneralm",
+    "contact:email": "info@hirzerhuette.com",
+    "contact:mobile": "+39 330 51 59 00",
+    "cuisine": "regional",
+    "ele": "1983",
+    "name": "Hirzer Hütte",
+    "name:de": "Hirzer Hütte",
+    "name:it": "Rifugio di Punta Cervina",
+    "opening_hours": "May 15-Nov 01: 07:00-22:00",
+    "operator": "Fam. Kofler",
+    "outdoor_seating": "yes",
+    "source": "https://www.merano-suedtirol.it/de/schenna/betrieb/hirzerhuette-5439/",
+    "tourism": "alpine_hut",
+    "website": "http://www.hirzerhuette.com/",
+    "wikidata": "Q1620617",
+    "wikipedia": "de:Hirzerhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1907615644,
+  "lat": 46.2939446,
+  "lon": 11.6351840,
+  "tags": {
+    "name": "Custode del Bosco che suona",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1911631399,
+  "lat": 46.1056631,
+  "lon": 9.3917183,
+  "tags": {
+    "name": "Alpe Rossa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1916910928,
+  "lat": 46.6113796,
+  "lon": 11.0081767,
+  "tags": {
+    "alt_name": "Frantschalm",
+    "name": "Mauslochalm",
+    "tourism": "alpine_hut",
+    "wpt_symbol": "Restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 1918249205,
+  "lat": 44.1281694,
+  "lon": 10.6312772,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1930399855,
+  "lat": 45.5994949,
+  "lon": 7.6841897,
+  "tags": {
+    "addr:city": "Pontboset",
+    "addr:country": "IT",
+    "addr:postcode": "11020",
+    "addr:street": "loc. Crest Damon",
+    "capacity": "9",
+    "contact:phone": "+39 328 0514516",
+    "name": "Dortoir Crest",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1930450197,
+  "lat": 45.5908453,
+  "lon": 7.6907568,
+  "tags": {
+    "addr:city": "Pontboset",
+    "addr:country": "IT",
+    "addr:postcode": "11020",
+    "addr:street": "Località Retempio",
+    "name": "Dortoir Retempio",
+    "note": "non ancora ultimato nel 2012",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1933561869,
+  "lat": 41.8212848,
+  "lon": 13.6529674,
+  "tags": {
+    "description": "POSTI LETTO : 14\nCapienza massima rifugio: 15 persone.\nMunirsi di sacco a pelo.\nRiscaldamento a legna.\nAcqua di pozzo non potabile.\nPermanenza consigliata: max. 3 giorni.",
+    "ele": "1860",
+    "email": "info@coppodellorso.it",
+    "name": "Rifugio Coppo Dell'Orso",
+    "phone": "+39.339.7418695",
+    "tourism": "alpine_hut",
+    "website": "www.coppodellorso.it"
+  }
+},
+{
+  "type": "node",
+  "id": 1934939375,
+  "lat": 45.8407977,
+  "lon": 8.1551371,
+  "tags": {
+    "name": "Alpe La Bonda",
+    "note": "nessuna notizia in ambito internet (rifugio nuovo ?)",
+    "operator": "Club Alpino Italiano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1944655299,
+  "lat": 43.6514857,
+  "lon": 12.1507564,
+  "tags": {
+    "name": "Pian de la Capanna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1968790913,
+  "lat": 44.2708457,
+  "lon": 7.6289914,
+  "tags": {
+    "name": "Rifugio Gias Morteis",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1973118867,
+  "lat": 46.8452169,
+  "lon": 12.0688221,
+  "tags": {
+    "cuisine": "regional",
+    "ele": "2002",
+    "name": "Grente Alm",
+    "note": "bewirtschaftet",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1975669700,
+  "lat": 46.1153875,
+  "lon": 8.6472865,
+  "tags": {
+    "ele": "1809",
+    "name": "Bivacco Giorgio Ielmoni",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1975693359,
+  "lat": 46.1092880,
+  "lon": 8.6250953,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1978446990,
+  "lat": 46.3775474,
+  "lon": 10.5879807,
+  "tags": {
+    "name": "Bivacco Meneghello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2000569554,
+  "lat": 46.3097369,
+  "lon": 11.3732535,
+  "tags": {
+    "name": "Pinter-Schupfe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2008990133,
+  "lat": 46.3944464,
+  "lon": 10.9012528,
+  "tags": {
+    "ele": "2059",
+    "name": "Malga Cortinga di Sopra",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2008990136,
+  "lat": 46.3892473,
+  "lon": 10.9005256,
+  "tags": {
+    "name": "Malga Cortinga di Sotto",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2044777046,
+  "lat": 46.8688245,
+  "lon": 11.2332713,
+  "tags": {
+    "name": "Klammalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2063187252,
+  "lat": 45.4405373,
+  "lon": 7.2109620,
+  "tags": {
+    "contact:email": "info@rifugiomila.it",
+    "contact:phone": "+39 0124 953230",
+    "contact:website": "http://www.rifugiomila.it/",
+    "name": "Rifugio Massimo Mila",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2081533875,
+  "lat": 42.0378595,
+  "lon": 14.1603662,
+  "tags": {
+    "name": "Rifugio Fonte Tari Lama dei Peligni",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2081533876,
+  "lat": 42.0337572,
+  "lon": 14.1422177,
+  "tags": {
+    "name": "Rifugio Taranta Peligna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2088697960,
+  "lat": 45.9752912,
+  "lon": 12.0159770,
+  "tags": {
+    "name": "Malga Monte Garda",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2098015376,
+  "lat": 45.8566277,
+  "lon": 7.9524386,
+  "tags": {
+    "amenity": "internet_access_yes",
+    "ele": "2093",
+    "internet_access": "yes",
+    "name": "B&B Alpe Sattal",
+    "note": "non è un rifugio ma un b&b",
+    "operator": "Giuseppe",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpesattal.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2109287526,
+  "lat": 46.6717319,
+  "lon": 11.7583940,
+  "tags": {
+    "name": "Peitlerknappenhütte",
+    "owner": "AVS",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2119277094,
+  "lat": 45.9027951,
+  "lon": 7.9099770,
+  "tags": {
+    "capacity": "26",
+    "contact:website": "http://www.caivercelli.it/barba-ferrero/barba-ferrero.php",
+    "ele": "2246",
+    "name": "Rifugio Barba Ferrero",
+    "operator": "Club Alpino Italiano Sezione di Vercelli",
+    "source": "pcn2006+gps",
+    "tourism": "alpine_hut",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2126346920,
+  "lat": 45.3536682,
+  "lon": 7.4817099,
+  "tags": {
+    "ele": "1810",
+    "name": "Peretti Griva",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2126538791,
+  "lat": 44.0713357,
+  "lon": 11.5280788,
+  "tags": {
+    "name": "Bivacco di Lozzole",
+    "source": "Bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2153284251,
+  "lat": 46.6450547,
+  "lon": 11.3884921,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Tengler",
+    "opening_hours": "Mo-Su 13:30-18:00",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2170939995,
+  "lat": 46.2581284,
+  "lon": 10.5693040,
+  "tags": {
+    "amenity": "cafe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2187349647,
+  "lat": 45.8774776,
+  "lon": 7.9589054,
+  "tags": {
+    "capacity": "24",
+    "contact:email": "caiolgiate@yahoo.it",
+    "contact:phone": "+39 0163 91207; +39 334 5631105",
+    "contact:website": "http://www.caiolgiate.it/rifugio.php",
+    "cuisine": "local",
+    "ele": "2264",
+    "name": "Rifugio Santino Ferioli",
+    "operator": "Club Alpino Italiano - Sezione di Olgiate Olona",
+    "tourism": "alpine_hut",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2187413315,
+  "lat": 45.8609198,
+  "lon": 7.9541732,
+  "tags": {
+    "contact:phone": "+39 347 8658335",
+    "ele": "1923",
+    "name": "Rifugio Alpe Campo Superiore",
+    "operator": "Club Alpino Italiano Sottosezione di Alagna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2188674694,
+  "lat": 45.8448057,
+  "lon": 7.9212326,
+  "tags": {
+    "capacity": "16",
+    "ele": "1664",
+    "name": "Rifugio Zar Senni",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935682",
+    "wikipedia": "it:Rifugio Zar Senni"
+  }
+},
+{
+  "type": "node",
+  "id": 2189969595,
+  "lat": 46.6451008,
+  "lon": 12.6025354,
+  "tags": {
+    "name": "Malga Campobon",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2191000650,
+  "lat": 45.8147129,
+  "lon": 7.9307556,
+  "tags": {
+    "contact:phone": "+39 0163 91918",
+    "ele": "1380",
+    "name": "Rifugio Valle Vogna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2192973329,
+  "lat": 45.7884738,
+  "lon": 7.8659305,
+  "tags": {
+    "ele": "2491",
+    "name": "Ospizio Sottile",
+    "source": "CAI Valle DÀosta",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935581",
+    "wikipedia": "it:Rifugio Ospizio Sottile"
+  }
+},
+{
+  "type": "node",
+  "id": 2196135325,
+  "lat": 45.8639164,
+  "lon": 7.9094408,
+  "tags": {
+    "capacity": "25",
+    "contact:email": "info@grandehalte.it",
+    "contact:phone": "+39 348 8752203",
+    "contact:website": "http://www.grandehalte.it/",
+    "ele": "1945",
+    "name": "Rifugio Città di Mortara - Grande Halte",
+    "operator": "Club Alpino Italiano Sezione di Mortara",
+    "source": "pcn 2006",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2223044607,
+  "lat": 45.7491258,
+  "lon": 8.0417386,
+  "tags": {
+    "contact:phone": "+39 0163 77295;+39 348 2447729",
+    "ele": "1560",
+    "name": "Rifugio Meggiana",
+    "operator": "private",
+    "source": "pcn 2006",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2225337731,
+  "lat": 43.6157645,
+  "lon": 11.9457863,
+  "tags": {
+    "name": "casetta del vaccaio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2261244224,
+  "lat": 45.9134191,
+  "lon": 8.0164826,
+  "tags": {
+    "capacity": "20",
+    "contact:phone": "+39 0163 95650",
+    "ele": "2082",
+    "name": "Rifugio Massero all'Alpe Massero",
+    "operator": "Parco Naturale Alta Valsesia",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2261511125,
+  "lat": 40.5245319,
+  "lon": 15.3074718,
+  "tags": {
+    "name": "Rifugio Panormo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2262534726,
+  "lat": 45.9193198,
+  "lon": 8.0626447,
+  "tags": {
+    "capacity": "40",
+    "contact:phone": "+39 0163 95645",
+    "contact:website": "http://www.caiboffaloraticino.it/Rifugio2.htm",
+    "ele": "1685",
+    "name": "Rifugio Paolo Majerna - CAI Boffalora -",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2270368210,
+  "lat": 45.8539087,
+  "lon": 8.1065860,
+  "tags": {
+    "contact:email": "info@seccio.it",
+    "contact:phone": "+39 346 4050369",
+    "contact:website": "http://www.seccio.it/",
+    "name": "Rifugio La Baita",
+    "note": "per favore verificare identificazione fabbricato",
+    "operator": "private",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2285409848,
+  "lat": 41.5522744,
+  "lon": 13.7482879,
+  "tags": {
+    "name": "Pozzaccone",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2287743527,
+  "lat": 40.8605659,
+  "lon": 14.5884839,
+  "tags": {
+    "name": "Caserma Forestale",
+    "operator": "Corpo Forestale dello Stato",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2288760779,
+  "lat": 40.8514609,
+  "lon": 14.5891140,
+  "tags": {
+    "name": "Caserma Forestale",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2297103652,
+  "lat": 45.6330195,
+  "lon": 7.9477071,
+  "tags": {
+    "capacity": "40",
+    "contact:email": "rifugiosavoia@gmail.com",
+    "contact:phone": "+39 015 8495131",
+    "contact:website": "http://www.rifugiosavoia.it/",
+    "ele": "1810",
+    "name": "Rifugio Savoia",
+    "operator": "private",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2301227534,
+  "lat": 46.4882473,
+  "lon": 10.9959732,
+  "tags": {
+    "amenity": "shelter",
+    "cuisine": "regional",
+    "ele": "1850",
+    "fireplace": "yes",
+    "name": "Stierbergalm - Malga Manzara",
+    "name:de": "Stierbergalm",
+    "name:it": "Malga Manzara",
+    "shelter_type": "weather_shelter",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2306378696,
+  "lat": 46.2963699,
+  "lon": 10.9981308,
+  "tags": {
+    "name": "Rifugio Genzianella (non custodito)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2311172732,
+  "lat": 41.4494145,
+  "lon": 14.4632393,
+  "tags": {
+    "alt_name": "Rifugio Santa Maria",
+    "name": "Rifugio S.Maria",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2312383963,
+  "lat": 41.0037851,
+  "lon": 14.6191432,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2313304396,
+  "lat": 46.4440855,
+  "lon": 12.2569284,
+  "tags": {
+    "designation": "Bivacco",
+    "name": "Bivacco Brunetta (Distrutto)",
+    "source": "Tabacco",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2333312920,
+  "lat": 41.9547278,
+  "lon": 13.1888275,
+  "tags": {
+    "ele": "1665",
+    "name": "Rifugio del Nibbio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2340597139,
+  "lat": 45.7937363,
+  "lon": 8.2168802,
+  "tags": {
+    "capacity": "20",
+    "ele": "1623",
+    "name": "Rifugio Spanna-Osella",
+    "operator": "Associazione Nazionale Alpini di Varallo",
+    "source": "pcn 2006",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935640",
+    "wikipedia": "it:Rifugio Spanna-Osella"
+  }
+},
+{
+  "type": "node",
+  "id": 2343208588,
+  "lat": 43.7930400,
+  "lon": 11.8322477,
+  "tags": {
+    "name": "Rifugio Cotozzo",
+    "source": "1104 mt",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2355924816,
+  "lat": 44.1961701,
+  "lon": 7.4976960,
+  "tags": {
+    "name": "Rifugio l'Arbergh",
+    "phone": "+39 340 6973954",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiolarbergh.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 2356168203,
+  "lat": 46.5017491,
+  "lon": 11.0252452,
+  "tags": {
+    "name": "Untere Kessel Alm - Malga Caldaia Inferiore",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2374776535,
+  "lat": 45.6990704,
+  "lon": 10.8587199,
+  "tags": {
+    "amenity": "restaurant; bar",
+    "cuisine": "regional",
+    "email": "info@ortobotanicomontebaldo.org",
+    "name": "Rifugio Orto Botanico Monte Baldo",
+    "phone": "+39 045 6247288",
+    "tourism": "alpine_hut",
+    "website": "http://www.ortobotanicomontebaldo.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 2380644326,
+  "lat": 46.7264554,
+  "lon": 11.1195452,
+  "tags": {
+    "capacity": "33",
+    "contact:email": "bockerhuette@g-store.net",
+    "contact:phone": "+39 0473 424 030",
+    "ele": "1700 m",
+    "internet_access": "wlan",
+    "name": "Bockerhütte",
+    "opening_hours": "Apr 16-Nov 01",
+    "operator": "Edmund Schnitzer",
+    "source:date": "2017-02-12",
+    "source:de": "Unterkunftsverzeichnis Dorf Tirol 2017, S. 62, schriftliche Erlaubnis des Tourismusvereins Dorf Tirol vom 2016-09-06  für die Verwendung der Daten für OSM",
+    "source:it": "Elenco degli alloggi di Tirolo 2017, pagina 62, autorizzazione in forma scritta dell’Associazione turistica Tirolo del 2016-09-06, per utilizzare i dati su OSM",
+    "tourism": "alpine_hut",
+    "website": "http://www.bockerhuette.com/",
+    "wikidata": "Q14541090",
+    "wikipedia": "de:Bockerhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 2384801651,
+  "lat": 45.9513320,
+  "lon": 9.8041043,
+  "tags": {
+    "ele": "1796",
+    "name": "Rifugio Branchino",
+    "operator": "A.R.D.E.S.",
+    "phone": "+39 334 1178129",
+    "source": "survey",
+    "tourism": "alpine_hut",
+    "website": "http://rifugiobranchino.blogspot.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 2393168569,
+  "lat": 44.0004361,
+  "lon": 11.6132596,
+  "tags": {
+    "name": "Capanna del Partigiano (bivacco)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2397050017,
+  "lat": 46.9197928,
+  "lon": 11.5716327,
+  "tags": {
+    "name": "Sterzinger Hütte - Rif. Vipiteno (geschlossen)",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2346220",
+    "wikipedia": "de:Sterzinger Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 2398434088,
+  "lat": 46.7524085,
+  "lon": 10.9696751,
+  "tags": {
+    "contact:email": "info@eishof.com",
+    "contact:mobile": "+39 333 652 1974",
+    "contact:phone": "+39 0473 420 524",
+    "description": "contact_mobile_phone-number nur im Winter",
+    "ele": "2076",
+    "name": "Eishof - Maso Gelato",
+    "name:de": "Eishof",
+    "name:it": "Maso Gelato",
+    "opening_hours": "May-Oct",
+    "tourism": "alpine_hut",
+    "website": "http://www.eishof.com/",
+    "wikidata": "Q1317592",
+    "wikipedia": "de:Eishof"
+  }
+},
+{
+  "type": "node",
+  "id": 2398434096,
+  "lat": 46.7528129,
+  "lon": 10.9448671,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Mitterkaser Alm",
+    "place": "isolated_dwelling",
+    "tourism": "alpine_hut",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2401834546,
+  "lat": 46.6268525,
+  "lon": 11.7563495,
+  "tags": {
+    "alt_name": "Dusler Hütte",
+    "ele": "1800",
+    "name": "Dusler Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2404079505,
+  "lat": 44.1754937,
+  "lon": 7.3863644,
+  "tags": {
+    "contact:phone": "+39 0171 978704",
+    "name": "Baita del Monte Gelas",
+    "tourism": "alpine_hut",
+    "website": "http://www.bmgelas.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 2404079507,
+  "lat": 44.1757043,
+  "lon": 7.3858799,
+  "tags": {
+    "contact:phone": "+39 0171 978704",
+    "name": "Rifugio San Giacomo",
+    "tourism": "alpine_hut",
+    "website": "http://www.bmgelas.it/italiano/rifugio-san-giacomo/"
+  }
+},
+{
+  "type": "node",
+  "id": 2411367099,
+  "lat": 44.0070750,
+  "lon": 11.5235077,
+  "tags": {
+    "name": "Capanna Castellina (Bivacco)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2411388363,
+  "lat": 43.9669610,
+  "lon": 11.5735118,
+  "tags": {
+    "name": "Capanno",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2411392280,
+  "lat": 44.0064555,
+  "lon": 11.5958626,
+  "tags": {
+    "name": "Capanna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2411897311,
+  "lat": 46.2799276,
+  "lon": 9.8701474,
+  "tags": {
+    "name": "Rifugio Alpe Ponte",
+    "phone": "+39 339 28 50 220",
+    "source": "Bing",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugioalpeponte.it"
+  }
+},
+{
+  "type": "node",
+  "id": 2411907279,
+  "lat": 44.0301830,
+  "lon": 11.7000134,
+  "tags": {
+    "name": "Rifugio Casa Ponte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2414426628,
+  "lat": 46.0342128,
+  "lon": 8.1932678,
+  "tags": {
+    "contact:website": "http://www.caivilladossola.it/catasto/rifugi.htm?A",
+    "ele": "1728",
+    "name": "Rifugio Alpe Colma",
+    "note": "rifugio custodito, aperto 15 giugno - 15 settembre, tel 3479020098",
+    "operator": "Club Alpino Italiano Sezione di Villadossola",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2419325639,
+  "lat": 42.9402051,
+  "lon": 13.2242523,
+  "tags": {
+    "ele": "1602",
+    "name": "Casale Rinaldi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2421920032,
+  "lat": 46.8118563,
+  "lon": 12.1403623,
+  "tags": {
+    "ele": "1955",
+    "name": "Taistner Hinteralm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2428034592,
+  "lat": 43.8651014,
+  "lon": 11.7317536,
+  "tags": {
+    "name": "Rifugio \"La Burraia\"",
+    "operator": "solo per gruppi scout",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2428946153,
+  "lat": 41.9372758,
+  "lon": 13.3457996,
+  "tags": {
+    "name": "Rifuglio Colle Mozzone",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2441592073,
+  "lat": 47.0018670,
+  "lon": 11.9079461,
+  "tags": {
+    "name": "Kegelgasslalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2441623728,
+  "lat": 46.9599174,
+  "lon": 11.9539104,
+  "tags": {
+    "name": "Gruberalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2441624403,
+  "lat": 46.9665073,
+  "lon": 11.9497047,
+  "tags": {
+    "name": "Niederhoferalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2445868030,
+  "lat": 46.2242505,
+  "lon": 9.5409351,
+  "tags": {
+    "amenity": "shelter",
+    "beds": "40",
+    "building": "yes",
+    "building:levels": "2",
+    "ele": "2212",
+    "fireplace": "yes",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "Capanna Volta",
+    "operator": "CAI Como",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "no",
+    "payment:cryptocurrencies": "no",
+    "payment:debit_cards": "no",
+    "payment:electronic_purses": "no",
+    "rooms": "3",
+    "shelter_type": "basic_hut",
+    "smoking": "no",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2447008667,
+  "lat": 46.7600213,
+  "lon": 12.3049100,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Malga San Silvestro - Silvesteralm",
+    "name:de": "Silvesteralm",
+    "name:it": "Malga San Silvestro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2449738726,
+  "lat": 46.7784387,
+  "lon": 12.2748049,
+  "tags": {
+    "alt_name:de": "Pfannhornhütte",
+    "alt_name:it": "Rifugio Bonner",
+    "ele": "2340",
+    "name": "Bonner Hütte - Rifugio Bonner",
+    "name:de": "Bonner Hütte",
+    "name:it": "Rifugio Corno di Fana",
+    "phone": "+39 340 9428264",
+    "tourism": "alpine_hut",
+    "url": "http://www.bonnerhuette.it",
+    "wikidata": "Q892741",
+    "wikipedia": "de:Bonner Hütte (Villgratner Berge)"
+  }
+},
+{
+  "type": "node",
+  "id": 2455869020,
+  "lat": 44.2313470,
+  "lon": 7.1058022,
+  "tags": {
+    "name": "Posto Tappa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2465871076,
+  "lat": 45.6216758,
+  "lon": 10.2853117,
+  "tags": {
+    "ele": "1093",
+    "opening_hours": "open sa, su",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2538471803,
+  "lat": 46.9154083,
+  "lon": 11.9404268,
+  "tags": {
+    "name": "Oberpurstein",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2542981437,
+  "lat": 42.3744768,
+  "lon": 13.0704246,
+  "tags": {
+    "name": "Rifugio Borgovelino",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2596015086,
+  "lat": 45.6283830,
+  "lon": 11.1162539,
+  "tags": {
+    "name": "Lausen",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2606234344,
+  "lat": 46.2529987,
+  "lon": 9.9408623,
+  "tags": {
+    "name": "Rifugio Bruno De Dosso",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2612554809,
+  "lat": 40.4747328,
+  "lon": 15.7450825,
+  "tags": {
+    "name": "Fontana delle Brecce",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2614714767,
+  "lat": 38.2197923,
+  "lon": 15.4936619,
+  "tags": {
+    "name": "Rifugio Ferraro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2616261274,
+  "lat": 46.2669344,
+  "lon": 9.9882011,
+  "tags": {
+    "name": "Rifugio Cederna - Maffina",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2621545637,
+  "lat": 43.9107206,
+  "lon": 11.7064796,
+  "tags": {
+    "internet_access": "no",
+    "name": "Ca' Sassello (di Fiumicello, Bivacco)",
+    "operator": "ingresso libero",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2622303349,
+  "lat": 38.1141927,
+  "lon": 15.4572463,
+  "tags": {
+    "name": "Rifugio Lupo",
+    "name:scn": "Rifuggiu Lupu",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2635322648,
+  "lat": 41.8362632,
+  "lon": 13.3655989,
+  "tags": {
+    "name": "Fonte del Pozzotello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2655911632,
+  "lat": 44.9666060,
+  "lon": 7.3010873,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2675448808,
+  "lat": 38.1337482,
+  "lon": 15.4392622,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2683842113,
+  "lat": 46.5034365,
+  "lon": 11.7492503,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2684256867,
+  "lat": 46.5034365,
+  "lon": 11.7492503,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2694844847,
+  "lat": 44.1406444,
+  "lon": 7.3632791,
+  "tags": {
+    "name": "Winter room Rifugio Soria Ellena",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2712287295,
+  "lat": 44.7275791,
+  "lon": 9.6428982,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2713143462,
+  "lat": 41.8656627,
+  "lon": 14.1336181,
+  "tags": {
+    "name": "Case della Madonna",
+    "operator": "Corpo Forestale dello Stato Castel di Sangro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2725129946,
+  "lat": 40.9504631,
+  "lon": 14.6896723,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2734812712,
+  "lat": 41.4258893,
+  "lon": 13.5545299,
+  "tags": {
+    "name": "Rifugio Ranucci",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2747882240,
+  "lat": 45.8710256,
+  "lon": 7.8736319,
+  "tags": {
+    "addr:city": "Alagna Valsesia",
+    "ele": "2863",
+    "name": "closed Rifugio Città di Vigevano",
+    "note": "chiuso nel 2014",
+    "operator": "Club Alpino Italiano",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935685",
+    "wikipedia": "it:Rifugio città di Vigevano"
+  }
+},
+{
+  "type": "node",
+  "id": 2747882245,
+  "lat": 45.8706798,
+  "lon": 7.8724212,
+  "tags": {
+    "addr:city": "Alagna Valsesia",
+    "ele": "2866",
+    "name": "ex Rifugio Guglielmina (ruin)",
+    "note": "unfit for use from 2011-12-22 for fire - inagibile dal 22 -12-2011 causa incendio",
+    "operator": "Club Alpino Italiano",
+    "tourism": "alpine_hut",
+    "url": "http://www.rifugioguglielmina.com",
+    "wikidata": "Q2152703",
+    "wikipedia": "it:Rifugio Guglielmina"
+  }
+},
+{
+  "type": "node",
+  "id": 2749685677,
+  "lat": 46.3807161,
+  "lon": 11.4238201,
+  "tags": {
+    "addr:city": "Deutschnofen - Nova Ponente",
+    "addr:city:de": "Deutschnofen",
+    "addr:city:it": "Nova Ponente",
+    "addr:hamlet": "Petersberg - Monte San Pietro",
+    "addr:hamlet:de": "Petersberg",
+    "addr:hamlet:it": "Monte San Pietro",
+    "addr:housenumber": "5",
+    "addr:postcode": "39050",
+    "addr:street": "Weißenstein - Pietralba",
+    "addr:street:de": "Weißenstein",
+    "addr:street:it": "Pietralba",
+    "contact:email": "info@naturheilt.it",
+    "contact:phone": "+39 338 68 70747",
+    "contact:website": "http://www.naturheilt.it",
+    "name": "Petersberger Leger Alm - Malga Monte San Pietro",
+    "name:de": "Petersberger Leger Alm",
+    "name:it": "Malga Monte San Pietro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2755885415,
+  "lat": 46.8407986,
+  "lon": 11.1857815,
+  "tags": {
+    "addr:city": "Moos in Passeier - Moso in Passiria",
+    "addr:city:de": "Moos in Passeier",
+    "addr:city:it": "Moso in Passiria",
+    "addr:place": "Stuls - Stulles",
+    "addr:place:de": "Stuls",
+    "addr:place:it": "Stulles",
+    "addr:postcode": "39013",
+    "capacity": "10",
+    "check_date": "2017-04-26",
+    "description": "accommodation available!",
+    "ele": "1943",
+    "name": "Egger-Grub Alm",
+    "note": "information of TV Passeier (2017-04-14): accommodation available!",
+    "outdoor_seating": "yes",
+    "seasonal": "yes",
+    "source": "survey",
+    "source:de": "Unterkunftsverzeichnis Passeiertal  2017, S. 103, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+    "source:it": "Elenco degli alloggi della Val Passiria 2017, pagina 103, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+    "stars": "1",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2755885861,
+  "lat": 46.8989590,
+  "lon": 11.1813714,
+  "tags": {
+    "addr:city:de": "Moos in Passeier",
+    "addr:city:it": "Moso in Passiria",
+    "addr:place": "Rabenstein - Corvara",
+    "addr:place:de": "Rabenstein",
+    "addr:place:it": "Corvara",
+    "breakfast": "buffet",
+    "capacity": "68",
+    "check_date": "2017-04-25",
+    "contact:email": "info@schneeberg.org",
+    "contact:mobile": "+39 348 690 5656",
+    "contact:phone": "+39 0473 647 045",
+    "ele": "2355",
+    "internet_access": "wlan",
+    "name": "Schutzhütte Schneeberg",
+    "note": "Kontakt im im Winter: Gerichtsweg 9 I-­39015 St. Leonhard in Passeier",
+    "opening_hours": "Jun-Oct",
+    "operator": "Fam. Widmann",
+    "rooms": "6",
+    "source:date": "2016-07-02",
+    "source:de": "Unterkunftsverzeichnis Passeiertal  2017, S. 93, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+    "source:it": "Elenco degli alloggi della Val Passiria 2017, pagina 93, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+    "tourism": "alpine_hut",
+    "website": "http://www.schneeberg.org/",
+    "wikidata": "Q2247231",
+    "wikipedia": "de:Schneeberghütte"
+  }
+},
+{
+  "type": "node",
+  "id": 2755886030,
+  "lat": 46.7571678,
+  "lon": 11.0288077,
+  "tags": {
+    "addr:city": "Moos in Passeier - Moso in Passiria",
+    "addr:city:de": "Moos in Passeier",
+    "addr:city:it": "Moso in Passiria",
+    "addr:place": "Pfelders - Plan",
+    "addr:place:de": "Pfelders",
+    "addr:place:it": "Plan",
+    "addr:postcode": "39013",
+    "capacity": "50",
+    "check_date": "2017-04-26",
+    "contact:email": "stettiner@13h.de",
+    "contact:mobile": "+39 347 874 2805",
+    "ele": "2875",
+    "name": "Stettiner Hütte - Rifugio Petrarca all'Altissima",
+    "name:de": "Stettiner Hütte",
+    "name:it": "Rifugio Petrarca all'Altissima",
+    "note": "2017-04-07: Aktuelle Info vom TV Passeier: In diesem Sommer soll bereits ein neues Provisorium entstehen, wo dann ca. 50 Personen schlafen können. ",
+    "opening_hours": "Jul-Nov",
+    "operator": "Fam. Fontana",
+    "source:date": "2016-07-13",
+    "source:de": "Unterkunftsverzeichnis Passeiertal  2017, S. 101, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+    "source:it": "Elenco degli alloggi della Val Passiria 2017, pagina 101, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+    "tourism": "alpine_hut",
+    "website": "http://www.13h.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2755886231,
+  "lat": 46.8408009,
+  "lon": 11.6745135,
+  "tags": {
+    "addr:city": "Mühlbach - Rio di Pusteria",
+    "addr:city:de": "Mühlbach",
+    "addr:city:it": "Rio di Pusteria",
+    "addr:hamlet": "Meransen - Maranza",
+    "addr:hamlet:de": "Meransen",
+    "addr:hamlet:it": "Maranza",
+    "addr:housenumber": "1",
+    "addr:postcode": "39037",
+    "addr:street": "Kleinberg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Bacherhütte",
+    "outdoor_seating": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2755886946,
+  "lat": 46.8443038,
+  "lon": 11.6787260,
+  "tags": {
+    "addr:city": "Mühlbach - Rio di Pusteria",
+    "addr:city:de": "Mühlbach",
+    "addr:city:it": "Rio di Pusteria",
+    "addr:hamlet": "Meransen - Maranza",
+    "addr:hamlet:de": "Meransen",
+    "addr:hamlet:it": "Maranza",
+    "addr:housenumber": "2",
+    "addr:postcode": "39037",
+    "addr:street": "Kleinberg",
+    "designation": "Rifugio",
+    "name": "Pichlerhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2755932696,
+  "lat": 46.8438018,
+  "lon": 11.3278650,
+  "tags": {
+    "addr:city": "Ratschings - Racines",
+    "addr:city:de": "Ratschings",
+    "addr:city:it": "Racines",
+    "addr:hamlet": "Außerratschings - Racines di Fuori",
+    "addr:hamlet:de": "Außerratschings",
+    "addr:hamlet:it": "Racines di Fuori",
+    "addr:housenumber": "17",
+    "addr:postcode": "39040",
+    "addr:street": "Jaufenpass-Straße - Via Passo Giovo",
+    "addr:street:de": "Jaufenpass-Straße",
+    "addr:street:it": "Via Passo Giovo",
+    "contact:phone": "info@jaufenhaus.com",
+    "ele": "2000",
+    "name": "Jaufenhaus",
+    "operator": "Fam. Pircher",
+    "phone": "+39 0472 756 615",
+    "tourism": "alpine_hut",
+    "website": "http://www.jaufenhaus.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2758354496,
+  "lat": 38.1408944,
+  "lon": 15.4586931,
+  "tags": {
+    "name": "Rifugio Case Maressa",
+    "name:scn": "Rifuggiu Casi Maressa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2758354498,
+  "lat": 38.1464141,
+  "lon": 15.4443856,
+  "tags": {
+    "name": "Rifugio Portella Vento",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2758354499,
+  "lat": 38.1061539,
+  "lon": 15.4361440,
+  "tags": {
+    "alt_name": "Rifugio San Calorio",
+    "name": "Rifugio San Calogero",
+    "name:scn": "Rifuggiu San Caloriu",
+    "note": "Caloriu means Calogero in Sicilian, but some people are not aware of it, hence the alt_name",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2782896299,
+  "lat": 45.6988055,
+  "lon": 11.2773725,
+  "tags": {
+    "name": "rifugio invernale monte civillina",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2782897599,
+  "lat": 45.6990696,
+  "lon": 11.2773162,
+  "tags": {
+    "name": "rifugio monte Civillina",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2783884241,
+  "lat": 44.0976385,
+  "lon": 10.2321548,
+  "tags": {
+    "capacity": "24",
+    "contact:mobile": "+39 333 8231582",
+    "contact:phone": "+39 328 9356219",
+    "ele": "1442",
+    "name": "Rifugio Nello Conti",
+    "operator": "Sezione CAI Massa",
+    "phone": "+39 0585 793059",
+    "source": "CAI",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugionelloconti.it"
+  }
+},
+{
+  "type": "node",
+  "id": 2803780686,
+  "lat": 46.7129177,
+  "lon": 11.0857084,
+  "tags": {
+    "addr:city": "Partschins",
+    "addr:country": "IT",
+    "addr:postcode": "39020",
+    "contact:phone": "+39 0473 443 310",
+    "ele": "1839",
+    "email": "erlacher@hochganghaus.it",
+    "name": "Schutzhaus Hochgang",
+    "opening_hours": "Jun-Oct",
+    "operator": "Fam. Wolf Erlacher",
+    "tourism": "alpine_hut",
+    "website": "http://www.hochganghaus.it",
+    "wikidata": "Q1431901",
+    "wikipedia": "de:Hochganghaus"
+  }
+},
+{
+  "type": "node",
+  "id": 2898974105,
+  "lat": 45.8548666,
+  "lon": 8.0739095,
+  "tags": {
+    "ele": "1550",
+    "name": "Rifugio Alpe Campo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2911368579,
+  "lat": 45.8430445,
+  "lon": 8.1119259,
+  "tags": {
+    "ele": "1050",
+    "name": "Rifugio Solivo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2912823327,
+  "lat": 46.2032267,
+  "lon": 9.9841188,
+  "tags": {
+    "name": "Rifugio \"Amici della Montagna\"",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2919094078,
+  "lat": 46.5192170,
+  "lon": 11.5994930,
+  "tags": {
+    "cuisine": "regional",
+    "name": "Prossliner",
+    "source": "Peatsmoke",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2947506223,
+  "lat": 38.0408738,
+  "lon": 15.3411991,
+  "tags": {
+    "alt_name": "Caserma Cipollazzo",
+    "ele": "585",
+    "name": "Rifugio Cipollazzo",
+    "name:scn": "Rifuggiu ô Cipuḍḍazzu",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2949696747,
+  "lat": 45.9124463,
+  "lon": 7.8830236,
+  "tags": {
+    "amenity": "shelter",
+    "ele": "3212",
+    "name": "Capanna Fratelli Gugliermina",
+    "shelter_type": "basic_hut",
+    "sou": "gps",
+    "source": "Guida ai Rifugi del CAI",
+    "tourism": "alpine_hut",
+    "wheelchair": "no",
+    "wikidata": "Q3656704",
+    "wikipedia": "it:Capanna Fratelli Gugliermina"
+  }
+},
+{
+  "type": "node",
+  "id": 2949839549,
+  "lat": 45.4600925,
+  "lon": 7.1159308,
+  "tags": {
+    "name": "Rifugio Pian della Ballotta",
+    "source": "Guida ai Rifugi del CAI",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3935593",
+    "wikipedia": "it:Rifugio Pian della Ballotta"
+  }
+},
+{
+  "type": "node",
+  "id": 2957547244,
+  "lat": 38.0809527,
+  "lon": 15.3884495,
+  "tags": {
+    "abandoned": "yes",
+    "name": "Casa degli Alpini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2957547248,
+  "lat": 38.0380833,
+  "lon": 15.2958715,
+  "tags": {
+    "name": "Rifugio Postoleoni",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2958580663,
+  "lat": 46.2626999,
+  "lon": 9.5100424,
+  "tags": {
+    "ele": "1214",
+    "name": "Rifugio Bresciadega",
+    "phone": "+39 0343 44499",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiobresciadega.it/csm/"
+  }
+},
+{
+  "type": "node",
+  "id": 2964370768,
+  "lat": 46.0099284,
+  "lon": 10.0334360,
+  "tags": {
+    "description": "Baita sociale - rifugio privato",
+    "name": "Baira Case Rosse (rifugio privato GAC)",
+    "source": "CAI",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2965940299,
+  "lat": 46.6598680,
+  "lon": 12.1189758,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "2165",
+    "name": "Ross Alm",
+    "name:it": "Malga Cavallo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2992085833,
+  "lat": 46.8421700,
+  "lon": 11.8167190,
+  "tags": {
+    "name": "Pertinger Alm",
+    "tourism": "alpine_hut",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3014519633,
+  "lat": 46.1108292,
+  "lon": 9.5021170,
+  "tags": {
+    "fixme": "Insert the name",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3017983515,
+  "lat": 44.3901798,
+  "lon": 10.2945734,
+  "tags": {
+    "name": "Bivacco Le Cadoniche",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3018568580,
+  "lat": 45.9875223,
+  "lon": 7.9123744,
+  "tags": {
+    "beds": "30",
+    "ele": "3029",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "Rifugio Eugenio Sella",
+    "operator": "Club Alpino Italiano",
+    "rooms": "2",
+    "tourism": "alpine_hut",
+    "wikidata": "Q19622528",
+    "wikipedia": "it:Rifugio Eugenio Sella"
+  }
+},
+{
+  "type": "node",
+  "id": 3069864816,
+  "lat": 46.1452588,
+  "lon": 8.5368438,
+  "tags": {
+    "name": "La Stria Rusa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3069875563,
+  "lat": 46.1457847,
+  "lon": 8.5351862,
+  "tags": {
+    "name": "Rifugio La bricola",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3077204260,
+  "lat": 46.4678190,
+  "lon": 9.3505016,
+  "tags": {
+    "name": "Rifugio Stuetta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3089354008,
+  "lat": 45.9729474,
+  "lon": 11.4056711,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Rifugio Val Formica",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3096744951,
+  "lat": 46.3149489,
+  "lon": 11.1523097,
+  "tags": {
+    "addr:city": "Tres",
+    "addr:country": "IT",
+    "addr:postcode": "38010",
+    "addr:street": "Località Predaia",
+    "capacity": "16",
+    "contact:email": "rifugiopredaia@tiscali.it",
+    "contact:fax": "+39 0463 463017",
+    "contact:mobile": "+39 328 0553786",
+    "contact:phone": "+39 0463 463138",
+    "contact:website": "http://www.rifugiopredaia.com",
+    "ele": "1400",
+    "name": "Rifugio Predaia «ai Todes ci»",
+    "opening_hours": "24/7",
+    "operator": "Todeschi S.r.l.",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:meal_voucher": "no",
+    "ref:vatin": "IT02142330220",
+    "reservation": "yes",
+    "tourism": "alpine_hut",
+    "winter_room": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3099106529,
+  "lat": 46.0429592,
+  "lon": 8.2313478,
+  "tags": {
+    "name": "CAI Sez. Villadossola: Rifugio Rondolini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3099207576,
+  "lat": 45.9251189,
+  "lon": 8.1081714,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3138146062,
+  "lat": 46.2854337,
+  "lon": 10.8678652,
+  "tags": {
+    "access": "private",
+    "alt_name": "Malga Basa",
+    "contact:email": "asuc@comune.monclassico.tn.it",
+    "contact:fax": "+39 0463 973220",
+    "contact:phone": "+39 0463 974183",
+    "contact:website": "http://www.comune.monclassico.tn.it/page.php?c=24",
+    "description": "Malga privata con posti letto e cucina; è possibile chiedere di utilizzarla.",
+    "name": "Malga Bassa di Presson",
+    "operator": "ASUC di Presson",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3138470379,
+  "lat": 46.2810552,
+  "lon": 10.8571771,
+  "tags": {
+    "access": "public",
+    "alt_name": "Malga Auta",
+    "contact:email": "asuc@comune.monclassico.tn.it",
+    "contact:fax": "+39 0463 973220",
+    "contact:phone": "+39 0463 974183",
+    "contact:website": "http://www.comune.monclassico.tn.it/page.php?c=24",
+    "name": "Malga Alta di Presson",
+    "operator": "ASUC di Presson",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3138556333,
+  "lat": 45.9958930,
+  "lon": 11.5228775,
+  "tags": {
+    "ele": "1900",
+    "name": "Rifugio Cecchin",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3139149381,
+  "lat": 46.6706028,
+  "lon": 11.0031934,
+  "tags": {
+    "addr:city": "Naturns",
+    "addr:country": "IT",
+    "addr:housenumber": "78",
+    "addr:postcode": "39025",
+    "addr:street": "Sonnenberg",
+    "amenity": "restaurant",
+    "ele": "1535",
+    "email": "info@schnatzhof.it",
+    "name": "Schnatz",
+    "phone": "+39 0473 667744",
+    "tourism": "alpine_hut",
+    "website": "www.schnatzhof.it"
+  }
+},
+{
+  "type": "node",
+  "id": 3141950554,
+  "lat": 46.0145839,
+  "lon": 11.4982510,
+  "tags": {
+    "ele": "1968",
+    "name": "Ric. de Medo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3151494462,
+  "lat": 45.9708158,
+  "lon": 11.4127382,
+  "tags": {
+    "ele": "1658",
+    "name": "Rifugio Larici",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3151582806,
+  "lat": 44.4081446,
+  "lon": 9.7424408,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3205770955,
+  "lat": 45.8713163,
+  "lon": 10.0820126,
+  "tags": {
+    "name": "Rifugio magnolini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3219474427,
+  "lat": 46.4521983,
+  "lon": 11.9637573,
+  "tags": {
+    "name": "Rifugio Migon",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3219514665,
+  "lat": 46.4588041,
+  "lon": 11.9465314,
+  "tags": {
+    "name": "Agriturismo Malga Laste",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3241338480,
+  "lat": 42.8760500,
+  "lon": 11.6270404,
+  "tags": {
+    "name": "Capanno del Capomacchia",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3255209197,
+  "lat": 46.0980976,
+  "lon": 9.5728144,
+  "tags": {
+    "ele": "1171",
+    "name": "Rifugio Ronchi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3270422361,
+  "lat": 46.0412040,
+  "lon": 12.3444168,
+  "tags": {
+    "name": "Rifugio Città di Vittorio Veneto",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3290454779,
+  "lat": 45.5403132,
+  "lon": 7.2389068,
+  "tags": {
+    "capacity": "85",
+    "contact:email": "info@rifugiochabod.com",
+    "contact:phone": "+39 0165 95574",
+    "contact:website": "www.rifugiochabod.com",
+    "ele": "2710",
+    "name": "Rifugio Federico Chabod",
+    "operator": "private",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "wikidata": "Q838240",
+    "wikipedia": "it:Rifugio Federico Chabod",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3308681863,
+  "lat": 42.1187252,
+  "lon": 13.5409081,
+  "tags": {
+    "name": "Rifugio La Serra",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3317504695,
+  "lat": 45.8840317,
+  "lon": 10.9698109,
+  "tags": {
+    "ele": "1580",
+    "name": "Rifugio Biaena",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3326001706,
+  "lat": 45.9102852,
+  "lon": 9.3959920,
+  "tags": {
+    "addr:city": "Abbadia Lariana",
+    "addr:country": "IT",
+    "addr:place": "Piani Resinelli",
+    "addr:postcode": "23821",
+    "capacity": "45",
+    "description": "Rifugio - Albergo raggiungibile a piedi con circa 20 minuti di cammino.",
+    "ele": "1426",
+    "email": "info@rifugioporta.it",
+    "name": "Rifugio Carlo Porta",
+    "opening_hours": "Aperto tutto l'anno, tutti i giorni. Nel periodo invernale (circa da novembre a febbraio) chiuso il martedì",
+    "operator": "Club Alpino Italiano sezione di Milano",
+    "phone": "+39 0341 590105",
+    "tenant": "Alex Torricini",
+    "tourism": "alpine_hut",
+    "website": "http://www.caimilano.org/rifugio-carlo-porta/"
+  }
+},
+{
+  "type": "node",
+  "id": 3331826312,
+  "lat": 46.0965502,
+  "lon": 8.4392185,
+  "tags": {
+    "access": "yes",
+    "capacity": "22",
+    "ele": "1560",
+    "fee": "yes",
+    "name": "Rifugio al Cedo",
+    "operator": "CAI Vigezzo",
+    "reservation": "required",
+    "toilets": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.caivigezzo.org/rifugi/rifugio-al-cedo/"
+  }
+},
+{
+  "type": "node",
+  "id": 3332208420,
+  "lat": 46.1802272,
+  "lon": 8.4270991,
+  "tags": {
+    "access": "yes",
+    "capacity": "9",
+    "ele": "1888",
+    "name": "Rifugio Regi",
+    "operator": "Cai Vigezzo",
+    "reservation": "required",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3332919243,
+  "lat": 46.2336793,
+  "lon": 8.4533035,
+  "tags": {
+    "access": "yes",
+    "capacity": "15",
+    "ele": "1925",
+    "name": "Rifugio Bonasson",
+    "operator": "CAI Vigezzo",
+    "reservation": "required",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3335443290,
+  "lat": 46.8398251,
+  "lon": 11.2851719,
+  "tags": {
+    "check_date": "2017-04-24",
+    "contact:email": "info@flecknerhuette.bz.it",
+    "contact:mobile": "+39 3403 805 160",
+    "ele": "2062",
+    "name": "Flecknerhütte",
+    "operator": "Roland Pixner",
+    "source:date": "2016-06-25",
+    "source:de": "Unterkunftsverzeichnis Passeiertal  2017, S. 87, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+    "source:it": "Elenco degli alloggi della Val Passiria 2017, pagina 87, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+    "stars": "1",
+    "tourism": "alpine_hut",
+    "website": "http://www.flecknerhuette.bz.it//"
+  }
+},
+{
+  "type": "node",
+  "id": 3336011493,
+  "lat": 42.1999732,
+  "lon": 13.3592521,
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Forestale del Campitello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3363095373,
+  "lat": 46.4088479,
+  "lon": 9.3102600,
+  "tags": {
+    "name": "Agriturismo La Baita dei Fiori",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3370432247,
+  "lat": 43.6378903,
+  "lon": 12.1614993,
+  "tags": {
+    "name": "La Spinella",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3403761718,
+  "lat": 45.6416003,
+  "lon": 8.3326804,
+  "tags": {
+    "name": "Rifugio Alpini di Lozzolo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3406788995,
+  "lat": 43.7506533,
+  "lon": 10.5096474,
+  "tags": {
+    "name": "Fonte a Noce",
+    "operator": "CAI - Sezione di Pisa",
+    "source": "survey:CAI",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3407832280,
+  "lat": 43.6309646,
+  "lon": 12.7301069,
+  "tags": {
+    "ele": "550",
+    "name": "Rifugio La Pradella",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3409647766,
+  "lat": 43.6734570,
+  "lon": 12.7118702,
+  "tags": {
+    "ele": "326",
+    "name": "Casa Campolino",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3430680534,
+  "lat": 46.2421998,
+  "lon": 11.5039658,
+  "tags": {
+    "name": "Rifugio Paion",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3433007502,
+  "lat": 45.8135532,
+  "lon": 11.4687089,
+  "tags": {
+    "ele": "1268",
+    "name": "Rifugio Bar Alpino - Pozza del Favaro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3464723255,
+  "lat": 46.7334917,
+  "lon": 11.0995452,
+  "tags": {
+    "capacity": "30",
+    "contact:fax": "+39 0473 923 488",
+    "contact:mobile": "+39 349 072 095 7",
+    "contact:phone": "+39 0473 923 488",
+    "name": "Schutzhütte Oberkaseralm",
+    "note": "In der Saison kein Ruhetag!",
+    "opening_hours": "Jun 01-Oct 20",
+    "operator": "Sepp Schnitzer",
+    "source:date": "2017-02-12",
+    "source:de": "Unterkunftsverzeichnis Dorf Tirol 2017, S. 62, schriftliche Erlaubnis des Tourismusvereins Dorf Tirol vom 2016-09-06  für die Verwendung der Daten für OSM",
+    "source:it": "Elenco degli alloggi di Tirolo 2017, pagina 62, autorizzazione in forma scritta dell’Associazione turistica Tirolo del 2016-09-06, per utilizzare i dati su OSM",
+    "tourism": "alpine_hut",
+    "website": "http://www.dorftirol.com/oberkaseralm/"
+  }
+},
+{
+  "type": "node",
+  "id": 3480335653,
+  "lat": 46.7496964,
+  "lon": 11.2636064,
+  "tags": {
+    "contact:email": "info@hintereggalm.it",
+    "contact:mobile": "+39 339 625 2609",
+    "contact:phone": "+39 0473 949 473",
+    "ele": "1990",
+    "name": "Hintereggalm",
+    "note": "Übernachtungsmöglichkeiten: 2 Zimmer und 14 Stockbetten",
+    "opening_hours": "May-Nov 01",
+    "operator": "Fam. Pircher",
+    "source": "https://www.suedtirol.info/de/erleben/hintereggalm-schutzhuette_activity_69393",
+    "source:date": "2017-04-29",
+    "tourism": "alpine_hut",
+    "website": "http://www.hintereggalm.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 3483007352,
+  "lat": 45.7763608,
+  "lon": 11.2927761,
+  "tags": {
+    "ele": "1387",
+    "name": "Malga Zola",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3512219879,
+  "lat": 41.6198291,
+  "lon": 13.0122359,
+  "tags": {
+    "name": "Jo Volubro",
+    "operator": "Associazione per la tutela dell'altopiano di collemezzo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3538078980,
+  "lat": 44.0187864,
+  "lon": 11.0661936,
+  "tags": {
+    "ele": "810",
+    "name": "Rifugio Cascina Le Cave",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3550977361,
+  "lat": 46.3371021,
+  "lon": 9.4443680,
+  "tags": {
+    "name": "Rifugio Savogno",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3581171594,
+  "lat": 46.1096199,
+  "lon": 8.4842751,
+  "tags": {
+    "ele": "1491",
+    "name": "Rifugio Nigritella",
+    "note": "Open only in summer season",
+    "phone": "+39 032492456",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3668756736,
+  "lat": 40.5290915,
+  "lon": 15.3017048,
+  "tags": {
+    "name": "Rifugio Varroncelli",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3683404313,
+  "lat": 46.2901586,
+  "lon": 10.8132090,
+  "tags": {
+    "name": "Rifugio Orti",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3738034905,
+  "lat": 44.1096277,
+  "lon": 10.8745823,
+  "tags": {
+    "name": "Rifugio di Donnamorta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3744221611,
+  "lat": 45.4858768,
+  "lon": 7.1434268,
+  "tags": {
+    "capacity": "50",
+    "contact:email": "info@rifugiosavoia.com",
+    "contact:phone": "+39 01 65 94141",
+    "contact:website": "http://www.rifugiosavoia.com/",
+    "ele": "2534",
+    "name": "Rifugio Savoia",
+    "name:fr": "Refuge Savoie",
+    "name:it": "Rifugio Savoia",
+    "operator": "Club Alpino Italiano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3749558602,
+  "lat": 41.8094882,
+  "lon": 14.2484565,
+  "tags": {
+    "name": "Rifugio Elda e Aldo Casciero",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3752498091,
+  "lat": 46.1900281,
+  "lon": 10.0541030,
+  "tags": {
+    "name": "Baita del Sole",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3758778451,
+  "lat": 46.6148208,
+  "lon": 10.4921826,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3788655513,
+  "lat": 46.9922003,
+  "lon": 11.6576011,
+  "tags": {
+    "beds": "30",
+    "email": "office@pfitscherjochhaus.com",
+    "internet_access": "no",
+    "name": "Pfitscherjoch-Haus",
+    "name:de": "Pfitscherjoch-Haus",
+    "name:it": "Rifugio Passo di Vizze",
+    "opening_hours": "jun - oct 07:00 - 22:00",
+    "operator": "Familie Leopold Volgger",
+    "outdoor_seating": "yes",
+    "phone": "+39-0472-630119",
+    "tourism": "alpine_hut",
+    "website": "www.pfitscherjochhaus.com",
+    "wikidata": "Q2083874",
+    "wikipedia": "it:Rifugio Passo di Vizze"
+  }
+},
+{
+  "type": "node",
+  "id": 3815590402,
+  "lat": 39.6496229,
+  "lon": 15.9197065,
+  "tags": {
+    "ele": "1355",
+    "name": "Rifugio Belvedere",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3844847166,
+  "lat": 45.5402315,
+  "lon": 7.7413619,
+  "tags": {
+    "name": "Rifugio Chiaromonte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3847044279,
+  "lat": 41.7996213,
+  "lon": 13.6564009,
+  "tags": {
+    "name": "Campo di Grano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3854658614,
+  "lat": 41.7879933,
+  "lon": 13.8744460,
+  "tags": {
+    "ele": "1580",
+    "name": "Stazzo di Monte Forcone",
+    "note": "closed",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3856577782,
+  "lat": 41.7528081,
+  "lon": 13.8668672,
+  "tags": {
+    "name": "Stazzo di Val Fondillo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3902094827,
+  "lat": 42.3523326,
+  "lon": 12.7169503,
+  "tags": {
+    "name": "Rifugio Cognolo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3984530966,
+  "lat": 45.0053994,
+  "lon": 7.1919124,
+  "tags": {
+    "ele": "2070",
+    "name": "Rifugio Alpini",
+    "operator": "Alpini Perosa Argentina",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3984543764,
+  "lat": 45.0181786,
+  "lon": 7.1872056,
+  "tags": {
+    "ele": "1726",
+    "name": "Rifugio Fontana Mura",
+    "phone": "+39 333 3929241",
+    "tourism": "alpine_hut",
+    "website": "https://www.rifugiofontanamura.it"
+  }
+},
+{
+  "type": "node",
+  "id": 3986163748,
+  "lat": 41.9167188,
+  "lon": 13.5959496,
+  "tags": {
+    "name": "Rifugio Aranello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3986181510,
+  "lat": 41.8724546,
+  "lon": 13.7123116,
+  "tags": {
+    "name": "Rifugio La Cicerana",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3993511977,
+  "lat": 45.0089033,
+  "lon": 7.2745765,
+  "tags": {
+    "ele": "1209",
+    "name": "Casa Verde",
+    "operator": "C.A.I. Cumiana",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4015673498,
+  "lat": 42.3523326,
+  "lon": 12.7169503,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4015673499,
+  "lat": 42.3660110,
+  "lon": 12.7243373,
+  "tags": {
+    "name": "Rifugio Valle Ferrara",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4015674767,
+  "lat": 42.3646252,
+  "lon": 12.7136853,
+  "tags": {
+    "name": "Bivacco Monte Mosca",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4015682099,
+  "lat": 42.3438445,
+  "lon": 12.7025488,
+  "tags": {
+    "name": "Bivacco Colle Perini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4017335236,
+  "lat": 45.0036836,
+  "lon": 7.2445640,
+  "tags": {
+    "name": "Bivacco 3° Alpini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4025405889,
+  "lat": 41.9896164,
+  "lon": 12.8163226,
+  "tags": {
+    "building": "yes",
+    "name": "Rifugio Fonte Bologna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4026103512,
+  "lat": 45.0418559,
+  "lon": 7.1665783,
+  "tags": {
+    "name": "Bivacco Madonna degli Angeli",
+    "operator": "Cai Coazze",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4031513118,
+  "lat": 41.2694533,
+  "lon": 14.6337349,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4098004727,
+  "lat": 44.4177975,
+  "lon": 8.1216947,
+  "tags": {
+    "addr:city": "Camerana",
+    "addr:housenumber": "1",
+    "addr:street": "Località San Giovani Belbo",
+    "name": "Rifugio La Pavoncella",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4113554616,
+  "lat": 43.6165750,
+  "lon": 12.2249699,
+  "tags": {
+    "name": "Rifugio Tre Termini",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4125331800,
+  "lat": 45.7185467,
+  "lon": 7.9033470,
+  "tags": {
+    "alt_name": "Posto Tappa La Gruba",
+    "beds": "16",
+    "ele": "1555",
+    "name": "Dortoir La Gruba",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4131425462,
+  "lat": 45.8404087,
+  "lon": 7.5078975,
+  "tags": {
+    "contact:email": "info@rifugiomagia.it",
+    "contact:phone": "+39 165 1756447",
+    "contact:website": "http://www.rifugiomagia.it",
+    "name": "Rifugio Magià",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4208866263,
+  "lat": 46.0168244,
+  "lon": 11.4883611,
+  "tags": {
+    "name": "Baito Campivello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4216943415,
+  "lat": 46.2125021,
+  "lon": 12.3053461,
+  "tags": {
+    "addr:city": "Soverzene",
+    "addr:postcode": "32010",
+    "addr:street": "loc. Barcador",
+    "name": "Hütte Tramontin",
+    "source": "www.famtramontin.it",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4263074822,
+  "lat": 45.9798995,
+  "lon": 11.5914981,
+  "tags": {
+    "addr:city": "Grigno",
+    "addr:place": "Barricata",
+    "ele": "1351",
+    "email": "info@labarricata.it",
+    "name": "Rfugio Barricata",
+    "phone": "+39327 686 0431",
+    "tourism": "alpine_hut",
+    "website": "labarricata.it"
+  }
+},
+{
+  "type": "node",
+  "id": 4268768728,
+  "lat": 46.5855608,
+  "lon": 11.7293866,
+  "tags": {
+    "name": "Lech Sant Schwaige",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4269727393,
+  "lat": 46.5296168,
+  "lon": 12.1400111,
+  "tags": {
+    "addr:housenumber": "96",
+    "addr:postcode": "32043",
+    "addr:street": "Via Guide Alpine",
+    "name": "Hotel Villa Gaia",
+    "phone": "+39 0436 2974",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4300342289,
+  "lat": 43.8620078,
+  "lon": 11.4864340,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Fattoria \"il poeta\"",
+    "operator": "Antonella",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4307065709,
+  "lat": 41.9381782,
+  "lon": 13.1406780,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4314088225,
+  "lat": 38.2045790,
+  "lon": 15.9019264,
+  "tags": {
+    "ele": "1320",
+    "name": "RIfugio Biancospino",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4314088226,
+  "lat": 38.0874993,
+  "lon": 15.9289202,
+  "tags": {
+    "name": "Pesdavoli",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4336598567,
+  "lat": 46.2908797,
+  "lon": 9.4690930,
+  "tags": {
+    "ele": "1943",
+    "name": "Bivacco Garzonedo",
+    "operator": "CAI Chiavenna",
+    "phone": "+39 0343 32489",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4336780532,
+  "lat": 45.6777932,
+  "lon": 11.0956502,
+  "tags": {
+    "addr:country": "IT",
+    "addr:place": "San Giorgio",
+    "ele": "1561",
+    "email": "info@malgamalera.it",
+    "name": "Rifugio Malga Malera",
+    "phone": "+39 3421714873",
+    "tourism": "alpine_hut",
+    "website": "http://www.malgamalera.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 4341838868,
+  "lat": 45.6545367,
+  "lon": 11.1514662,
+  "tags": {
+    "ele": "1540",
+    "name": "Malga Porto di Sopra",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4352687490,
+  "lat": 46.6015997,
+  "lon": 12.6315100,
+  "tags": {
+    "name": "Buone Arie",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4352696989,
+  "lat": 46.6099111,
+  "lon": 12.6110573,
+  "tags": {
+    "name": "Miravalle",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4361572689,
+  "lat": 42.6748552,
+  "lon": 12.7346363,
+  "tags": {
+    "name": "Acquaiura",
+    "name:it": "Acquaiura",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4370722155,
+  "lat": 46.7373278,
+  "lon": 11.9244649,
+  "tags": {
+    "addr:street": "Panoramaweg",
+    "name": "Larjei",
+    "name:de": "Larjei",
+    "name:it": "Larjei",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4371609526,
+  "lat": 47.0547820,
+  "lon": 12.1409289,
+  "tags": {
+    "name": "Heilig Geist",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4371609532,
+  "lat": 47.0548660,
+  "lon": 12.1401833,
+  "tags": {
+    "name": "Jausenstation Prastmann",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4393058908,
+  "lat": 46.3806888,
+  "lon": 10.6596574,
+  "tags": {
+    "addr:street": "Piani del Vioz",
+    "amenity": "restaurant;cafe",
+    "ele": "2316",
+    "email": "info@dossdeigembri.it",
+    "name": "Rifugio Doss dei Gembri",
+    "phone": "+39 0463 753227",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4399018269,
+  "lat": 45.8363202,
+  "lon": 10.2175675,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Baita dello Sciatore",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4399915162,
+  "lat": 46.5046117,
+  "lon": 11.7009512,
+  "tags": {
+    "name": "Plattkofelhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4407232587,
+  "lat": 40.1295111,
+  "lon": 15.9913332,
+  "tags": {
+    "name": "Rifugio Bosco Favino",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4415345650,
+  "lat": 46.8428203,
+  "lon": 11.6627835,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Moserhütte",
+    "outdoor_seating": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4439580505,
+  "lat": 45.8997682,
+  "lon": 7.8498355,
+  "tags": {
+    "ele": "3632",
+    "name": "Capanna Gnifetti",
+    "operator": "Club Alpino Italiano",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4439581752,
+  "lat": 45.8954245,
+  "lon": 7.8478306,
+  "tags": {
+    "ele": "3497",
+    "name": "Rifugio Città di Mantova",
+    "operator": "Guide Alpine Di Gressoney",
+    "source": "CAI Valle d'Aosta",
+    "tourism": "alpine_hut",
+    "website": "http://rifugiomantova.it/",
+    "wikidata": "Q2152682",
+    "wikipedia": "it:Rifugio città di Mantova"
+  }
+},
+{
+  "type": "node",
+  "id": 4445209560,
+  "lat": 45.6680725,
+  "lon": 11.2059199,
+  "tags": {
+    "name": "Rifugio Monte Falcone",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4458056696,
+  "lat": 46.9469986,
+  "lon": 11.7390934,
+  "tags": {
+    "addr:city": "Mühlwald - Selva dei Molini",
+    "addr:housenumber": "20",
+    "addr:postcode": "39030",
+    "addr:street": "Neves",
+    "alt_name:de": "Eisbruggjochhütte",
+    "amenity": "restaurant",
+    "capacity": "70",
+    "cuisine": "regional",
+    "delivery": "no",
+    "ele": "2545 m",
+    "email": "info@edelrauthuette.it",
+    "internet_access": "no",
+    "name": "Edelrauthütte",
+    "name:de": "Edelrauthütte",
+    "name:it": "Rifugio Ponte di Ghiaccio",
+    "note": "recently (~2016) reconstructed and reopened. New building outlines not yet visible on bing imagery.",
+    "opening_hours": "Jun 10-Oct 10: open",
+    "operator": "Familie Weißensteiner",
+    "phone": "+39 0474 653230",
+    "smoking": "outside",
+    "takeaway": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.edelrauthuette.it",
+    "wikidata": "Q1283349",
+    "wikipedia": "de:Edelrauthütte"
+  }
+},
+{
+  "type": "node",
+  "id": 4475533994,
+  "lat": 46.5105083,
+  "lon": 11.3966251,
+  "tags": {
+    "name": "Piracher",
+    "name:it": "Piracher",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4496321589,
+  "lat": 39.9570630,
+  "lon": 16.2598340,
+  "tags": {
+    "name:en": "Aquila Verde",
+    "operator": "Giovanni",
+    "phone:mobile": "+39 347 7119708",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4506881102,
+  "lat": 45.7281624,
+  "lon": 8.1615845,
+  "tags": {
+    "ele": "1585",
+    "name": "Rifugio Monte Barone",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4513587420,
+  "lat": 45.5641517,
+  "lon": 7.7354325,
+  "tags": {
+    "contact:phone": "+39 0125 804728",
+    "contact:website": "http://www.rifugioalpebonze.it/",
+    "ele": "1861",
+    "name": "Rifugio Alpe Bonze",
+    "operator": "Comune di Donnas",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4517139585,
+  "lat": 45.6921811,
+  "lon": 11.0570291,
+  "tags": {
+    "ele": "1766",
+    "name": "Rifugio Monte Tomba",
+    "phone": "+39 327 8899186",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4528238436,
+  "lat": 41.8739619,
+  "lon": 13.5183821,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4528474916,
+  "lat": 46.1179708,
+  "lon": 8.5742436,
+  "tags": {
+    "ele": "1450",
+    "name": "Rifugio Bivacco Pluni",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4560435077,
+  "lat": 44.3499814,
+  "lon": 7.0175514,
+  "tags": {
+    "name": "Posto Tappa GTA",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4574006990,
+  "lat": 46.3006775,
+  "lon": 10.7018260,
+  "tags": {
+    "addr:housenumber": "49",
+    "addr:postcode": "38029",
+    "addr:street": "Di Cortina",
+    "email": "bnbmagnini@gmail.com",
+    "internet_access": "wlan",
+    "name": "B&B MAGNINI",
+    "name:it": "B&B MAGNINI",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "operator": "Walter e Silvana",
+    "phone": "+393474421340",
+    "tourism": "alpine_hut",
+    "website": "http://www/bnbmagnini.net"
+  }
+},
+{
+  "type": "node",
+  "id": 4582600787,
+  "lat": 44.3655477,
+  "lon": 10.0302055,
+  "tags": {
+    "description": "Cavana \"Sante Puldin\"",
+    "internet_access": "no",
+    "name": "Bivacco Baton",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4587511089,
+  "lat": 46.7152349,
+  "lon": 12.1434328,
+  "tags": {
+    "addr:street": "Braies du Fuori",
+    "internet_access": "wlan",
+    "name": "Turm Chalet",
+    "name:it": "Turm Chalet",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4605073361,
+  "lat": 45.7530421,
+  "lon": 8.1600094,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4618410507,
+  "lat": 46.4296235,
+  "lon": 11.8159643,
+  "tags": {
+    "building": "yes",
+    "capacity": "112",
+    "ele": "2016",
+    "name": "Rifugio Contrin",
+    "opening_hours": "Jun 01 - Sep 30",
+    "tourism": "alpine_hut",
+    "website": "http://www.rifugiocontrin.it/",
+    "wikidata": "Q3935467",
+    "wikipedia": "it:Rifugio Contrin"
+  }
+},
+{
+  "type": "node",
+  "id": 4659984962,
+  "lat": 41.8854813,
+  "lon": 14.1360158,
+  "tags": {
+    "name": "Rifugio Il Riposo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4662974210,
+  "lat": 45.8800943,
+  "lon": 8.4472711,
+  "tags": {
+    "ele": "1401",
+    "name": "Rifugio Gran Baita CAI Omegna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4662974347,
+  "lat": 45.8799748,
+  "lon": 8.4496260,
+  "tags": {
+    "name": "Rifugio Genziana",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4674446192,
+  "lat": 40.1412031,
+  "lon": 15.9824899,
+  "tags": {
+    "name": "Rifugio Tellus Mater",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4688231617,
+  "lat": 46.5386440,
+  "lon": 10.1725059,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4757639450,
+  "lat": 39.9884088,
+  "lon": 16.2701876,
+  "tags": {
+    "name": "Aquila Verde",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4778542622,
+  "lat": 46.8017556,
+  "lon": 11.0550629,
+  "tags": {
+    "capacity": "60",
+    "check_date": "2017-04-26",
+    "contact:email": "zwickauer@13h.de",
+    "contact:mobile": "+39 392 555 7662",
+    "contact:phone": "Tel. +39 0473 646 700",
+    "ele": "2989",
+    "name": "Zwickauer Hütte",
+    "name:de": "Zwickauer Hütte",
+    "name:it": "Refugio Plan",
+    "opening_hours": "Jul-Nov",
+    "operator": "Heinz Leitner",
+    "source:de": "Unterkunftsverzeichnis Passeiertal  2017, S. 101, schriftliche Erlaubnis des Tourismusvereins Passeiertal vom 2016-08-16 für die Verwendung der Daten für OSM",
+    "source:it": "Elenco degli alloggi della Val Passiria 2017, pagina 101, autorizzazione in forma scritta dell’Associazione turistica Val Passiria del 2016-08-16, per utilizzare i dati su OSM",
+    "tourism": "alpine_hut",
+    "website": "http://www.zwickauerhuette.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 4780216894,
+  "lat": 46.9608918,
+  "lon": 11.1924073,
+  "tags": {
+    "contact:email": "e.pichler@becherhaus.com",
+    "contact:mobile": "+39 348 600 5734",
+    "contact:phone": "+39 0472 656 377",
+    "ele": "3195",
+    "name": "Becherhaus - Rifugio Gino Biasi al Bicchiere",
+    "name:de": "Becherhaus",
+    "name:it": "Rifugio Gino Biasi al Bicchiere",
+    "old_name:de": "Kaiserin Elisabeth - Schutzhaus",
+    "opening_hours": "Jun-Sep",
+    "operator": "Autonome Provinz Bozen-Südtirol - Provincia autonoma di Bolzano-Alto Adige",
+    "operator:de": "Autonome Provinz Bozen-Südtirol",
+    "operator:it": "Provincia autonoma di Bolzano-Alto Adige",
+    "reservation": "required",
+    "tourism": "alpine_hut",
+    "website": "http://www.becherhaus.com/",
+    "wikidata": "Q813597",
+    "wikipedia": "de:Becherhaus",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4798384564,
+  "lat": 46.9631413,
+  "lon": 11.1777982,
+  "tags": {
+    "contact:email": "info@muellerhuette.eu",
+    "contact:mobile": "+43 699 186 789 65",
+    "contact:phone": "+39 329 234 6943",
+    "ele": "3145",
+    "name": "Müllerhütte - Rifugio Cima Libera",
+    "name:de": "Müllerhütte",
+    "name:it": "Rifugio Cima Libera",
+    "opening_hours": "Jun-Sep",
+    "operator": "Lukas Lantschner & Heidi von Wettstein",
+    "seasonal": "summer",
+    "source": "Liste der Almen und Jausen, TV Passeier, 3.4.17",
+    "tourism": "alpine_hut",
+    "website": "http://www.muellerhuette.eu/",
+    "wikidata": "Q1958782",
+    "wikipedia": "de:Müllerhütte",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4809608699,
+  "lat": 46.9555680,
+  "lon": 11.2273750,
+  "tags": {
+    "ele": "2586",
+    "name": "Teplitzerhütte - Rifugio Vedretta Pendente",
+    "name:de": "Teplitzerhütte",
+    "name:it": "Rifugio Vedretta Pendente",
+    "opening_hours": "Jul 01-Sep 30",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1393881",
+    "wikipedia": "de:Teplitzer Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 4809620765,
+  "lat": 46.9518065,
+  "lon": 11.2314211,
+  "tags": {
+    "beds": "10",
+    "ele": "2254",
+    "name": "Grohmannhütte - Rifugio Vedretta Piana",
+    "name:de": "Grohmannhütte",
+    "name:it": "Rifugio Vedretta Piana",
+    "opening_hours": "Jun-Oct",
+    "source": "bing",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1473415",
+    "wikipedia": "de:Grohmannhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 4821702143,
+  "lat": 46.7489346,
+  "lon": 11.1610766,
+  "tags": {
+    "contact:phone": "+39 340 380 5249",
+    "ele": "1979",
+    "name": "Faglsalm - Malga Fagls",
+    "name:de": "Faglsalm",
+    "name:it": "Malga Fagls",
+    "note": "according to source, accomodation available!",
+    "opening_hours": "Jun-Sep",
+    "operator": "Fam. Prünster",
+    "source": "http://www.passeier.it/suedtirol-passeiertal/wandern/almwandern/faglsalm.html",
+    "source:date": "2017-04-28",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4828716042,
+  "lat": 41.8312497,
+  "lon": 13.9330163,
+  "tags": {
+    "description": "POSTI LETTO: 16 \nPOSSIBILITA' DI CUCINARE. \nINTORNO AD ESSO POSSIAMO TROVARE FONTANILI, FONTANELLE E LUOGHI PER ACCENDERE FUOCHI",
+    "ele": "1510",
+    "name": "Rifugio Selva Bella",
+    "phone": "+39.338.3962952",
+    "tourism": "alpine_hut",
+    "website": "www.rifugioselvabella.it"
+  }
+},
+{
+  "type": "node",
+  "id": 4828716043,
+  "lat": 41.8373165,
+  "lon": 13.9295703,
+  "tags": {
+    "name": "Ristorante Rifugio Lo Scoiattolo",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4834764128,
+  "lat": 41.7089509,
+  "lon": 13.9024477,
+  "tags": {
+    "name": "Rifugio Acquanera",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4839899342,
+  "lat": 43.6570031,
+  "lon": 11.6614863,
+  "tags": {
+    "internet_access": "no",
+    "name": "Rifugio Buiti (Buitè)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4839914718,
+  "lat": 43.6226165,
+  "lon": 11.6808013,
+  "tags": {
+    "internet_access": "no",
+    "name": "Casetta del Bercio",
+    "operator": "Unione Comuni Pratomagno",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4843766723,
+  "lat": 41.3621069,
+  "lon": 15.1562744,
+  "tags": {
+    "name": "Rifugio di Monte Cornacchia",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4869303208,
+  "lat": 41.9224221,
+  "lon": 13.3405373,
+  "tags": {
+    "name": "Rifugio Viperella",
+    "phone": "+39 347 1665470",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4876782166,
+  "lat": 42.0736667,
+  "lon": 13.1352925,
+  "tags": {
+    "name": "Fontanile di Fontecellese",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4883104455,
+  "lat": 43.9454302,
+  "lon": 10.3650095,
+  "tags": {
+    "name": "Casa del maestro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4892814519,
+  "lat": 44.0762808,
+  "lon": 11.4578122,
+  "tags": {
+    "name": "Capanna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4908619592,
+  "lat": 45.7726183,
+  "lon": 11.3161913,
+  "tags": {
+    "name": "Baita Baretela",
+    "tourism": "alpine_hut",
+    "website": "http://baitabaretela.weebly.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4914012317,
+  "lat": 46.7027748,
+  "lon": 11.0384348,
+  "tags": {
+    "capacity": "22",
+    "contact:email": "info@nasereit.com",
+    "contact:mobile": "+39 340 494 1347",
+    "contact:phone": "+39 0473 968 222",
+    "dogs": "no",
+    "ele": "1523",
+    "name": "Schutzhütte Nasereit - Rifugio Nassereto",
+    "name:de": "Schutzhütte Nasereit",
+    "name:it": "Rifugio Nassereto",
+    "note": "genauere Angaben zur Öffnung: ab Ostern, ansonsten je nach Witterung",
+    "operator": "Fam. Gerstgrasser",
+    "rooms": "4",
+    "source": "TV Partschins",
+    "source:date": "2017-06-13",
+    "tourism": "alpine_hut",
+    "website": "http://www.nasereit.com/"
+  }
+}
+
+  ]
+}

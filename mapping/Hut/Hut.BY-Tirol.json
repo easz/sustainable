@@ -1,0 +1,4516 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-06-14T05:30:13Z",
+    "timestamp_areas_base": "2017-06-14T04:17:12Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 60447994,
+  "lat": 47.1767946,
+  "lon": 11.2658006,
+  "tags": {
+    "addr:city": "Grinzens",
+    "addr:housenumber": "110",
+    "addr:postcode": "6095",
+    "amenity": "restaurant",
+    "contact:mobile": "+43 650 5703391",
+    "ele": "1673",
+    "name": "Kemater Alm",
+    "tourism": "alpine_hut",
+    "website": "http://kemateralm.at"
+  }
+},
+{
+  "type": "node",
+  "id": 95823780,
+  "lat": 47.5332655,
+  "lon": 12.0188728,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1450",
+    "name": "Almgasthof Buchacker",
+    "opening_hours": "Fr-Su",
+    "phone": "+4369912358598",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 245374143,
+  "lat": 47.2371846,
+  "lon": 11.4992731,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:street": "Rinnerberg",
+    "amenity": "restaurant",
+    "ele": "1394",
+    "name": "Rinner Alm",
+    "opening_hours": "Tu-Sa 09:00-22:00; Su 09:00-18:00",
+    "phone": "+43 5223 78409",
+    "tourism": "alpine_hut",
+    "website": "http://rinner-alm.at"
+  }
+},
+{
+  "type": "node",
+  "id": 250068427,
+  "lat": 46.8699797,
+  "lon": 10.7630781,
+  "tags": {
+    "ele": "2731",
+    "name": "Rauhekopfhütte",
+    "operator": "DAV Sektion Franfurt/Main",
+    "phone": "+436642067006",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2133181",
+    "wikipedia": "de:Rauhekopfhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 252335888,
+  "lat": 47.2236903,
+  "lon": 11.7085181,
+  "tags": {
+    "ele": "1799",
+    "name": "Weidener Hütte",
+    "operator": "DAV Sektion Weiden",
+    "phone": "+43 676 7395997",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1471127",
+    "wikipedia": "de:Weidener Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 254546886,
+  "lat": 47.6095206,
+  "lon": 13.0716402,
+  "tags": {
+    "addr:city": "Berchtesgaden",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "83471",
+    "addr:street": "Purtschellerstraße",
+    "amenity": "restaurant",
+    "name": "Purtschellerhaus",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV Sektion Sonneberg",
+    "operator:tenant": "Sepp König",
+    "phone": "+4986522420",
+    "ref:avf": "121",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "www.purtschellerhaus.eu"
+  }
+},
+{
+  "type": "node",
+  "id": 256057478,
+  "lat": 46.9937503,
+  "lon": 11.2178408,
+  "tags": {
+    "addr:city": "Neustift",
+    "addr:country": "AT",
+    "addr:housenumber": "28",
+    "addr:postcode": "6167",
+    "addr:street": "Schulweg",
+    "amenity": "restaurant",
+    "ele": "2280",
+    "name": "Nürnberger Hütte",
+    "operator": "Leonhard Siller",
+    "phone": "+43-5226-2492",
+    "tourism": "alpine_hut",
+    "url": "http://www.nuernbergerhuette.at/",
+    "website": "http://www.nuernbergerhuette.at/",
+    "wikidata": "Q2007069",
+    "wikipedia": "de:Nürnberger Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 256057483,
+  "lat": 47.1429936,
+  "lon": 11.2087370,
+  "tags": {
+    "addr:city": "Axams",
+    "addr:housenumber": "4",
+    "addr:postcode": "6094",
+    "addr:street": "Köhlgasse",
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "2009",
+    "name": "Potsdamer Hütte",
+    "phone": "+43 650 4030822",
+    "tourism": "alpine_hut",
+    "website": "http://www.potsdamer.at/",
+    "wikidata": "Q2106545",
+    "wikipedia": "de:Potsdamer Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 259506723,
+  "lat": 47.4053133,
+  "lon": 11.0356813,
+  "tags": {
+    "addr:city": "Garmisch-Partenkirchen",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "82467",
+    "addr:street": "Partenkirchen",
+    "amenity": "restaurant",
+    "ele": "1370",
+    "name": "Reintalangerhütte",
+    "operator": "DAV Sektion München",
+    "operator:tenant": "Simon Neumann",
+    "phone": "+49-(0)8821-7089743",
+    "shower": "yes",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "url:official": "http://www.reintal.de"
+  }
+},
+{
+  "type": "node",
+  "id": 260949814,
+  "lat": 47.0753316,
+  "lon": 11.4571455,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bergeralm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 274356992,
+  "lat": 47.3032730,
+  "lon": 11.3877707,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1661",
+    "name": "Bodenstein Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 278226693,
+  "lat": 47.4954710,
+  "lon": 12.9371264,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1635",
+    "name": "Kärlinger Haus",
+    "operator": "DAV Sektion Berchtesgaden",
+    "operator:tenant": "Heidi Schweiger",
+    "phone": "+4986526091010",
+    "ref:avf": "141",
+    "ref:gusid": "de.09172132.kaerlingerhaus",
+    "ref_name": "Kärlinger Haus, Schönau",
+    "shower": "yes",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "url:official": "http://www.kaerlingerhaus.de/",
+    "wikidata": "Q1479018",
+    "wikipedia": "de:Kärlingerhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 279584189,
+  "lat": 47.2218812,
+  "lon": 11.4669069,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1609",
+    "name": "Sistranser Alm",
+    "tourism": "alpine_hut",
+    "website": "http://www.sistranseralm.at"
+  }
+},
+{
+  "type": "node",
+  "id": 280889033,
+  "lat": 47.3311234,
+  "lon": 11.2676517,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1455",
+    "name": "Eppzirler Alm",
+    "phone": "+436644629211",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1347674",
+    "wikipedia": "de:Eppzirler Alm"
+  }
+},
+{
+  "type": "node",
+  "id": 281811874,
+  "lat": 47.1253893,
+  "lon": 11.3572701,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Wildeben",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 282961692,
+  "lat": 47.3137396,
+  "lon": 11.4517250,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1464",
+    "name": "Thaurer Alm",
+    "tourism": "alpine_hut",
+    "website": "http://www.thaureralm.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 283306783,
+  "lat": 47.3012754,
+  "lon": 10.6678361,
+  "tags": {
+    "ele": "2038",
+    "name": "Anhalter Hütte",
+    "operator": "DAV Sektion Oberer Neckar",
+    "shower": "no",
+    "smoking": "no",
+    "source": "survey(2008-07,garmin)",
+    "tourism": "alpine_hut",
+    "url:official": "http://www.anhalter-huette.gmxhome.de/",
+    "wikidata": "Q545121",
+    "wikipedia": "de:Anhalter Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 290233017,
+  "lat": 47.4200057,
+  "lon": 12.2375905,
+  "tags": {
+    "amenity": "restaurant",
+    "internet_access": "wlan",
+    "name": "Alpenrosenhütte",
+    "old_name": "Alpenrose-Hütte",
+    "operator": "DAV",
+    "phone": "+4353346488",
+    "ref": "68",
+    "tourism": "alpine_hut",
+    "website": "www.alpenrosenhuette.at"
+  }
+},
+{
+  "type": "node",
+  "id": 290500856,
+  "lat": 47.5837672,
+  "lon": 10.9924070,
+  "tags": {
+    "addr:city": "Unterammergau",
+    "addr:country": "DE",
+    "addr:postcode": "82497",
+    "alt_name": "Pürschlinghaus",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1564",
+    "email": "mail@august-schuster-haus.de",
+    "name": "August-Schuster-Haus",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV Sektion Bergland",
+    "operator:tenant": "Hubert Spindler",
+    "phone": "+498822/3567",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-bergland.de/augustschusterhaus.html"
+  }
+},
+{
+  "type": "node",
+  "id": 290515818,
+  "lat": 47.2404579,
+  "lon": 11.1520401,
+  "tags": {
+    "name": "Inzinger Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 292047294,
+  "lat": 47.4610918,
+  "lon": 10.1846714,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1513",
+    "name": "Berghaus Schwaben",
+    "note:opening_hours": "ganzjährig",
+    "opening_hours": "jan-dec: \"Öffnungszeit fehlt\"",
+    "phone": "+49 832 438",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 292733252,
+  "lat": 46.9612238,
+  "lon": 10.8574487,
+  "tags": {
+    "ele": "2293",
+    "name": "Riffelseehütte",
+    "operator": "DAV Sektion Cottbus",
+    "tourism": "alpine_hut",
+    "wikidata": "Q15059357",
+    "wikipedia": "de:Riffelseehütte"
+  }
+},
+{
+  "type": "node",
+  "id": 292735615,
+  "lat": 47.0211326,
+  "lon": 10.7792430,
+  "tags": {
+    "ele": "2025",
+    "name": "Verpeilhütte",
+    "operator": "DAV Sektion Franfurt/Main",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1331162",
+    "wikipedia": "de:Verpeilhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 292735628,
+  "lat": 47.1570626,
+  "lon": 10.6948901,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1814",
+    "name": "Larcheralm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 292735632,
+  "lat": 47.1491242,
+  "lon": 10.6842738,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Galflunalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 292919704,
+  "lat": 47.4451229,
+  "lon": 11.8208008,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bayreuther Hütte",
+    "tourism": "alpine_hut",
+    "wikidata": "Q812600",
+    "wikipedia": "de:Bayreuther Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 293246279,
+  "lat": 47.4373796,
+  "lon": 11.3088936,
+  "tags": {
+    "addr:city": "Mittenwald",
+    "addr:country": "DE",
+    "addr:housenumber": "14",
+    "addr:postcode": "82481",
+    "addr:street": "Klausnerweg",
+    "amenity": "restaurant",
+    "drinking_water": "no",
+    "ele": "1650",
+    "name": "Dammkarhütte",
+    "note": "Übernachtung nach Voranmeldung",
+    "operator:tenant": "Andrea Reindl",
+    "phone": "+4988233826",
+    "phone2": "+491733514659",
+    "shower": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.dammkarhuette.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 294758495,
+  "lat": 47.1151963,
+  "lon": 11.2101032,
+  "tags": {
+    "name": "Seducker Hochalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 295352733,
+  "lat": 47.3599978,
+  "lon": 10.9335782,
+  "tags": {
+    "addr:city": "Axams",
+    "addr:country": "AT",
+    "addr:postcode": "6094",
+    "addr:street": "Köhlgasse",
+    "amenity": "restaurant",
+    "ele": "1927",
+    "name": "Coburger Hütte",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV Sektion Coburg",
+    "operator:tenant": "Friedrich Schranz",
+    "phone": "+436643254714",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.coburgerhuette.at/de/Home_260",
+    "wikidata": "Q1104821",
+    "wikipedia": "de:Coburger Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 296010554,
+  "lat": 47.1512237,
+  "lon": 11.5595653,
+  "tags": {
+    "addr:city": "Navis",
+    "addr:country": "AT",
+    "addr:housenumber": "174",
+    "addr:postcode": "6145",
+    "addr:street": "Klammerweg",
+    "amenity": "restaurant",
+    "name": "Peeralm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 296163774,
+  "lat": 47.4136609,
+  "lon": 11.2786979,
+  "tags": {
+    "addr:city": "Mittenwald",
+    "addr:country": "DE",
+    "addr:postcode": "82481",
+    "amenity": "restaurant",
+    "ele": "1560",
+    "name": "Brunnsteinhütte",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV Sektion Mittenwald",
+    "operator:tenant": "Hans-Peter Gallenberger",
+    "phone": "+49-172-8909613",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "url": "http://www.brunnsteinhuette.de/",
+    "website": "http://www.brunnsteinhuette.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 296240001,
+  "lat": 46.9949024,
+  "lon": 11.2633370,
+  "tags": {
+    "addr:country": "AT",
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "2413",
+    "name": "Bremer Hütte",
+    "opening_hours": "Jun 30-Sep 30: open",
+    "operator": "Raimund Pranger",
+    "tourism": "alpine_hut",
+    "url": "www.bremerhuette.at",
+    "website": "www.bremerhuette.at",
+    "wikidata": "Q907654",
+    "wikipedia": "de:Bremer Hütte (Gschnitztal)"
+  }
+},
+{
+  "type": "node",
+  "id": 297028008,
+  "lat": 47.0945707,
+  "lon": 11.1935574,
+  "tags": {
+    "ele": "1742",
+    "name": "Oberissalm",
+    "operator": "OeAV Sektion Innsbruck",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 297296178,
+  "lat": 47.6281576,
+  "lon": 12.8009263,
+  "tags": {
+    "addr:housenumber": "7",
+    "addr:place": "Oberjettenberg",
+    "alt_name": "Karl-Merkenschlager-Haus",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1560",
+    "internet_access": "private",
+    "internet_access:private": "wlan",
+    "name": "Neue Traunsteiner Hütte",
+    "operator": "DAV Sektion Traunstein",
+    "operator:tenant": "Maria Herbst",
+    "phone": "+491714378919",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.traunsteinerhuette.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 297298270,
+  "lat": 46.8818854,
+  "lon": 12.8391279,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Roana Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 300960331,
+  "lat": 47.5260251,
+  "lon": 10.0146459,
+  "tags": {
+    "addr:city": "Oberstaufen",
+    "addr:country": "DE",
+    "addr:housenumber": "36",
+    "addr:postcode": "87534",
+    "addr:street": "Im Dorf",
+    "ele": "950",
+    "name": "Ravensburger Haus",
+    "note": "Selbstversorgerhütte",
+    "operator": "DAV",
+    "operator:tenant": "Andreas Burtscher",
+    "phone": "+498386962199",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-ravensburg.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 301000243,
+  "lat": 46.9348077,
+  "lon": 12.7465478,
+  "tags": {
+    "name": "Lienzer Hütte",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1746967",
+    "wikipedia": "de:Lienzer Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 301919929,
+  "lat": 47.5499002,
+  "lon": 10.1445173,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1201",
+    "name": "Alpe Obere Kalle",
+    "opening_hours": "Mo-Su",
+    "phone": "+49-8325-487",
+    "tourism": "alpine_hut",
+    "website": "http://www.obere-kalle.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 304317994,
+  "lat": 47.4916377,
+  "lon": 10.0692148,
+  "tags": {
+    "addr:city": "Oberstaufen",
+    "addr:country": "DE",
+    "addr:postcode": "87534",
+    "addr:street": "Am Hochgrat",
+    "amenity": "restaurant",
+    "ele": "1634",
+    "name": "Staufner Haus",
+    "operator": "DAV",
+    "operator:tenant": "Christoph Erd",
+    "phone": "+4983868255",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.staufner-haus.de",
+    "wheelchair": "no",
+    "wikidata": "Q2334566",
+    "wikipedia": "de:Staufner Haus"
+  }
+},
+{
+  "type": "node",
+  "id": 305860388,
+  "lat": 47.6404370,
+  "lon": 12.4240651,
+  "tags": {
+    "addr:city": "Kössen",
+    "addr:country": "AT",
+    "addr:housename": "Scheibenwaldhütte",
+    "addr:postcode": "6345",
+    "addr:suburb": "Am Unterberg",
+    "amenity": "restaurant",
+    "name": "Scheibenwaldhütte",
+    "phone": "+43 (5375) 6053",
+    "tourism": "alpine_hut",
+    "website": "http://www.scheibenwald.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 306392070,
+  "lat": 49.7721830,
+  "lon": 11.4151463,
+  "tags": {
+    "name": "Bergwachthütte",
+    "opening_hours": "Su 12:00-18:00",
+    "outdoor_seating": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 309548809,
+  "lat": 47.1683330,
+  "lon": 10.4032244,
+  "tags": {
+    "ele": "2376",
+    "name": "Ansbacher Hütte",
+    "operator": "DAV Sektion Ansbach",
+    "tourism": "alpine_hut",
+    "wikidata": "Q569046",
+    "wikipedia": "de:Ansbacher Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 309897705,
+  "lat": 47.3417334,
+  "lon": 10.8449330,
+  "tags": {
+    "alt_name": "Muthenaualm",
+    "ele": "1735",
+    "name": "Nassereither Alm (Muthenaualm)",
+    "tourism": "alpine_hut",
+    "website": "http://nassereither-alm.weebly.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 316564692,
+  "lat": 47.1338257,
+  "lon": 11.3022339,
+  "tags": {
+    "name": "Knappenhütte",
+    "note": "geschlossen; wird nach Info Galtalmwirtin dem Verfall preisgegeben",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 316565247,
+  "lat": 47.1452555,
+  "lon": 11.2953676,
+  "tags": {
+    "ele": "1936",
+    "name": "Zirmachalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 316565329,
+  "lat": 47.1481603,
+  "lon": 11.3215507,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1634",
+    "name": "Galtalm",
+    "tourism": "alpine_hut",
+    "wikidata": "Q15111159",
+    "wikipedia": "de:Galtalm (Stubaital)"
+  }
+},
+{
+  "type": "node",
+  "id": 317066362,
+  "lat": 47.0877559,
+  "lon": 11.2567873,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Milderauenalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 317727272,
+  "lat": 49.1133824,
+  "lon": 13.1148908,
+  "tags": {
+    "designation": "Am kleinen Arber",
+    "ele": "1289",
+    "name": "Chamer Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 320450923,
+  "lat": 47.5073647,
+  "lon": 10.0373263,
+  "tags": {
+    "name": "Alpe Remmelegg",
+    "opening_hours": "11:00-17:00; Tu Off",
+    "operator": "J. Milz",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 320522382,
+  "lat": 47.5760984,
+  "lon": 10.0847613,
+  "tags": {
+    "ele": "1080",
+    "name": "Hirnbein Alpe Eibele",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 320522642,
+  "lat": 47.5837274,
+  "lon": 10.1396791,
+  "tags": {
+    "name": "Pfarr Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 322058651,
+  "lat": 49.0467619,
+  "lon": 12.7540521,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Kreuzhaus",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 322058652,
+  "lat": 49.0409395,
+  "lon": 12.7603316,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hanslhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 322697600,
+  "lat": 49.0262273,
+  "lon": 12.8192887,
+  "tags": {
+    "addr:city": "St Englmar",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "94379",
+    "addr:street": "Hinterwies",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Naturfreundehaus Viechtacher Hütte",
+    "operator": "NaturFreunde Deutschland",
+    "ref": "N 046",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 323850377,
+  "lat": 48.9155188,
+  "lon": 12.9996689,
+  "tags": {
+    "addr:city": "Deggendorf",
+    "addr:country": "DE",
+    "addr:pobox": "Postfach 1511",
+    "amenity": "restaurant",
+    "biergarten": "yes",
+    "contact:postcode": "94469",
+    "description": "Naturfreundehaus",
+    "name": "Berghaus Loderhart",
+    "operator": "NaturFreunde Deutschland",
+    "phone": "09929/1064",
+    "ref": "N 042",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut",
+    "url": "http://www.loderhart.de/frameseite.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 324222931,
+  "lat": 47.7366765,
+  "lon": 11.8332021,
+  "tags": {
+    "addr:city": "Hausham",
+    "addr:housename": "Almbad Huberspitz",
+    "addr:housenumber": "1",
+    "addr:place": "Huberspitz",
+    "addr:postcode": "83734",
+    "amenity": "alm",
+    "name": "Almbad Huberspitz",
+    "phone": "+ 49 8026 9296760",
+    "service": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.almbad.de"
+  }
+},
+{
+  "type": "node",
+  "id": 324239029,
+  "lat": 48.9377643,
+  "lon": 13.5076098,
+  "tags": {
+    "amenity": "restaurant",
+    "beds": "21",
+    "biergarten": "yes",
+    "cuisine": "regional",
+    "email": "heinz@lusenwirt.de",
+    "name": "Lusenschutzhaus",
+    "opening_hours": "May-Oct: Mo-Su 10:00-18:00; Dec 25-Jan 06: 10:00-18:00",
+    "operator": "Bayerischer Wald - Verein",
+    "phone": "08553 / 1212",
+    "rooms": "5",
+    "tourism": "alpine_hut",
+    "url": "http://lusenwirt.de/",
+    "website": "http://lusenwirt.de"
+  }
+},
+{
+  "type": "node",
+  "id": 340560279,
+  "lat": 47.4338533,
+  "lon": 11.2824400,
+  "tags": {
+    "addr:city": "Mittenwald",
+    "addr:country": "DE",
+    "addr:postcode": "82481",
+    "amenity": "restaurant",
+    "ele": "1518",
+    "name": "Mittenwalder Hütte",
+    "operator": "DAV Sektion Mittenwald",
+    "phone": "+49-172-8558877",
+    "smoking": "no",
+    "tenant": "Edith Haberl",
+    "tourism": "alpine_hut",
+    "url": "http://www.mittenwalder-huette.de/",
+    "website": "http://www.mittenwalder-huette.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 343668227,
+  "lat": 49.6642724,
+  "lon": 11.4053560,
+  "tags": {
+    "ele": "505",
+    "name": "Hersbrucker Hütte (DAV)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 345627472,
+  "lat": 47.1734327,
+  "lon": 11.2174425,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1464",
+    "name": "Bergheim",
+    "opening_hours": "off",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 347330675,
+  "lat": 47.5412706,
+  "lon": 10.2185410,
+  "tags": {
+    "name": "Schwander Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 347330676,
+  "lat": 47.5430794,
+  "lon": 10.2176566,
+  "tags": {
+    "ele": "1210",
+    "name": "Alpe Mittag",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 357482706,
+  "lat": 47.4483891,
+  "lon": 11.0444884,
+  "tags": {
+    "addr:city": "Grainau",
+    "addr:country": "DE",
+    "addr:postcode": "82491",
+    "amenity": "restaurant",
+    "ele": "1045",
+    "name": "Höllentaleingangshütte",
+    "operator": "DAV Sektion Garmisch-Partenkirchen",
+    "operator:tenant": "Florian Jäger",
+    "phone": "+4988218895",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.hoellentalklamm.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 358528108,
+  "lat": 47.4267901,
+  "lon": 12.5524547,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Hochhörndler Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 373261900,
+  "lat": 50.2983307,
+  "lon": 9.9283904,
+  "tags": {
+    "name": "Hütte TSV Bad Kissingen",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 384842839,
+  "lat": 47.6186156,
+  "lon": 10.1190574,
+  "tags": {
+    "name": "Rist Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 389526819,
+  "lat": 46.9178019,
+  "lon": 10.5244088,
+  "tags": {
+    "amenity": "restaurant",
+    "layer": "1",
+    "name": "Labaunalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 389654396,
+  "lat": 50.4231736,
+  "lon": 9.9682780,
+  "tags": {
+    "beds": "45",
+    "email": "bergbund-wuerzburg@online.de",
+    "name": "Würzburger Bergbundhütte",
+    "source": "http://www.bergbund-wuerzburg.de/",
+    "source:date": "2014-11-06",
+    "tourism": "alpine_hut",
+    "website": "http://www.bergbund-wuerzburg.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 389785644,
+  "lat": 47.5495480,
+  "lon": 12.3495262,
+  "tags": {
+    "ele": "1465",
+    "massif": "Kaisergebirge",
+    "name": "Ackerlhütte",
+    "note": "Koordinaten von wikipedia",
+    "operator": "Sektion Kitzbühel",
+    "tourism": "alpine_hut",
+    "wikidata": "Q341773",
+    "wikipedia": "de:Ackerlhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 389785744,
+  "lat": 47.0389946,
+  "lon": 12.4275225,
+  "tags": {
+    "ele": "2750",
+    "image": "http://upload.wikimedia.org/wikipedia/commons/2/26/Bonn-Matreier-H%C3%BCtte.jpg",
+    "massif": "Venedigergruppe",
+    "name": "Bonn-Matreier-Hütte",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Sektion Matrei in Osttirol",
+    "tourism": "alpine_hut",
+    "wikidata": "Q892673",
+    "wikipedia": "de:Bonn-Matreier Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 389785802,
+  "lat": 47.1060670,
+  "lon": 10.3557330,
+  "tags": {
+    "ele": "2408",
+    "massif": "Verwallgruppe",
+    "name": "Edmund-Graf-Hütte",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Sektion TK Innsbruck",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1285900",
+    "wikipedia": "de:Edmund-Graf-Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 389786017,
+  "lat": 47.0432317,
+  "lon": 11.3108244,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2369",
+    "massif": "Stubaier Alpen",
+    "name": "Innsbrucker Hütte",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Sektion TK Innsbruck",
+    "phone": "+43-5276-295",
+    "tourism": "alpine_hut",
+    "website": "http://www.innsbrucker-huette.at",
+    "wikidata": "Q1664229",
+    "wikipedia": "de:Innsbrucker Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 389786264,
+  "lat": 46.6597212,
+  "lon": 12.5822032,
+  "tags": {
+    "ele": "1942",
+    "massif": "Karnischer Hauptkamm",
+    "name": "Porzehütte",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Sektion Austria",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1632449",
+    "wikipedia": "de:Porzehütte"
+  }
+},
+{
+  "type": "node",
+  "id": 389786310,
+  "lat": 47.4049352,
+  "lon": 10.6910962,
+  "tags": {
+    "ele": "1740",
+    "name": "Reuttener Hütte",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Österreichischer Alpenverein, Sektion Reutte",
+    "tourism": "alpine_hut",
+    "website": "http://de.wikipedia.org/wiki/Reuttener_H%C3%BCtte",
+    "wikidata": "Q1554792",
+    "wikipedia": "de:Reuttener Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 389786350,
+  "lat": 47.1574871,
+  "lon": 12.4957933,
+  "tags": {
+    "beds": "67",
+    "ele": "2481",
+    "email": "st.poeltnerhuette.reinhold@gmail.com",
+    "internet_access": "no",
+    "massif": "Granatspitzgruppe",
+    "name": "St. Pöltner Hütte",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "ÖAV Sektion Sankt Pölten",
+    "phone": "+43 6562 6265",
+    "shower": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpenverein.at/sankt-poelten/",
+    "wikidata": "Q2322946",
+    "wikipedia": "de:St. Pöltner Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 389786524,
+  "lat": 47.4317967,
+  "lon": 12.5392215,
+  "tags": {
+    "ele": "1854",
+    "massif": "Kitzbüheler Alpen",
+    "name": "Wildseeloderhaus",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Sektion Fieberbrunn",
+    "tourism": "alpine_hut",
+    "website": "http://www.wildseeloderhaus.at/index.php",
+    "wikidata": "Q2570898",
+    "wikipedia": "de:Wildseeloderhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 394826710,
+  "lat": 48.6869014,
+  "lon": 13.6595714,
+  "tags": {
+    "name": "Bergwachthütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 395228513,
+  "lat": 47.3547674,
+  "lon": 11.4771775,
+  "tags": {
+    "addr:city": "Scharnitz",
+    "addr:country": "AT",
+    "addr:postcode": "6108",
+    "alt_name": "Halleranger SV-Hütte",
+    "amenity": "restaurant",
+    "ele": "1768",
+    "email": "info@hallerangerhaus.at",
+    "name": "Hallerangerhaus",
+    "operator": "DAV Sektion Schwaben",
+    "operator:tenant": "Kerstin & Thomas Lehner",
+    "phone": "+436648937583",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.hallerangerhaus.at/",
+    "wikidata": "Q1571597",
+    "wikipedia": "de:Hallerangerhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 409589279,
+  "lat": 47.5553563,
+  "lon": 10.1740026,
+  "tags": {
+    "name": "CvjM Bierlein Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 409768525,
+  "lat": 47.0193263,
+  "lon": 12.4395371,
+  "tags": {
+    "ele": "1945",
+    "name": "Gotschaunalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 410315437,
+  "lat": 47.1640546,
+  "lon": 11.2213109,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "1940",
+    "name": "Furgges Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 410366178,
+  "lat": 47.3384070,
+  "lon": 11.5832113,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Walder Alm",
+    "natural": "alp",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 410366179,
+  "lat": 47.3433836,
+  "lon": 11.6027471,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Ganalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 410575233,
+  "lat": 47.1684302,
+  "lon": 11.2023284,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "1755",
+    "name": "Almind-Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 411330221,
+  "lat": 47.3386096,
+  "lon": 11.5074800,
+  "tags": {
+    "addr:city": "Absam",
+    "addr:country": "AT",
+    "addr:housenumber": "30",
+    "addr:postcode": "6067",
+    "addr:street": "Halltal",
+    "amenity": "restaurant",
+    "ele": "2077",
+    "name": "Bettelwurfhütte",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Österreichischer Alpenverein, Sektion Innsbruck",
+    "operator:tenant": "Gabi Lukasser",
+    "phone": "+43522353353",
+    "tourism": "alpine_hut",
+    "website": "http://www.bettelwurfhuette.at/",
+    "wikidata": "Q832325",
+    "wikipedia": "de:Bettelwurf Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 414632032,
+  "lat": 47.5449079,
+  "lon": 10.1827160,
+  "tags": {
+    "addr:city": "Immenstadt im Allgäu",
+    "addr:country": "DE",
+    "addr:postcode": "87509",
+    "addr:street": "Im Steigbachtal",
+    "ele": "1325",
+    "name": "Alpe-Alp",
+    "operator": "NaturFreunde Deutschland",
+    "ref": "N 085",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 419294893,
+  "lat": 47.5111641,
+  "lon": 10.0064526,
+  "tags": {
+    "name": "Fluhalpe Vordere",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 420436190,
+  "lat": 49.7125527,
+  "lon": 9.8193139,
+  "tags": {
+    "amenity": "shelter",
+    "name": "Schutzhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 434142044,
+  "lat": 47.2305866,
+  "lon": 11.4877948,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1511",
+    "name": "Aldranser Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 437814695,
+  "lat": 47.2095281,
+  "lon": 11.1016140,
+  "tags": {
+    "name": "Sonnberg Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 437814698,
+  "lat": 47.2200830,
+  "lon": 11.0688343,
+  "tags": {
+    "name": "Zirmbach Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 442056972,
+  "lat": 47.3358261,
+  "lon": 11.0387352,
+  "tags": {
+    "addr:city": "Wildermieming",
+    "addr:country": "AT",
+    "addr:housenumber": "302",
+    "addr:postcode": "6414",
+    "addr:street": "Wildermieming",
+    "amenity": "restaurant",
+    "ele": "1191",
+    "name": "Straßberghaus",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV",
+    "smoking": "no",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 442513994,
+  "lat": 47.3910402,
+  "lon": 10.8487435,
+  "tags": {
+    "ele": "1751",
+    "name": "Wolfratshauser Hütte",
+    "operator": "DAV Sektion Wolfratshausen",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2592243",
+    "wikipedia": "de:Wolfratshauser Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 445346519,
+  "lat": 47.2072679,
+  "lon": 10.9329561,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2112",
+    "name": "Neue Bielefelder Hütte",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1442947",
+    "wikipedia": "de:Neue Bielefelder Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 448222118,
+  "lat": 47.0693239,
+  "lon": 10.1890447,
+  "tags": {
+    "ele": "1688",
+    "name": "Konstanzer Hütte",
+    "tourism": "alpine_hut",
+    "wikipedia:de": "Konstanzer Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 449560298,
+  "lat": 47.6310307,
+  "lon": 12.9233764,
+  "tags": {
+    "ele": "1390",
+    "name": "Bezoldhütte",
+    "source": "survey",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 456199276,
+  "lat": 47.0080364,
+  "lon": 12.3347125,
+  "tags": {
+    "ele": "1726",
+    "name": "Stockachalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 456332347,
+  "lat": 47.5198960,
+  "lon": 12.5391292,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1423",
+    "name": "Winterstelleralm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 457008110,
+  "lat": 47.5452299,
+  "lon": 10.0830509,
+  "tags": {
+    "addr:city": "Oberstaufen",
+    "addr:postcode": "87534",
+    "ele": "935",
+    "name": "Schwand-Alpe",
+    "note": "Selbstversorgerhütte",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV",
+    "operator:tenant": "Manfred Korger",
+    "phone": "+497319216777",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "url": "http://www.dav-ulm.de/index.php?option=com_content&task=view&id=23&Itemid=45"
+  }
+},
+{
+  "type": "node",
+  "id": 458773699,
+  "lat": 47.0675912,
+  "lon": 11.7020494,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "2498",
+    "electricity": "yes",
+    "mattress": "yes",
+    "name": "Friesenberghaus",
+    "restaurant": "yes",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1464680",
+    "wikipedia": "de:Friesenberghaus"
+  }
+},
+{
+  "type": "node",
+  "id": 458774067,
+  "lat": 47.0009350,
+  "lon": 11.7474200,
+  "tags": {
+    "ele": "2295",
+    "electricity": "yes",
+    "name": "Furtschaglhaus",
+    "restaurant": "yes",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1475177",
+    "wikipedia": "de:Furtschaglhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 458799908,
+  "lat": 47.1667124,
+  "lon": 11.2679435,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1977",
+    "name": "Adolf-Pichler-Hütte",
+    "name:etymology:wikidata": "Q88910",
+    "phone": "+43 720 702724",
+    "tourism": "alpine_hut",
+    "wikidata": "Q360611",
+    "wikipedia": "de:Adolf-Pichler-Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 458807132,
+  "lat": 47.0245410,
+  "lon": 11.8126233,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "2042",
+    "electricity": "yes",
+    "mattress": "yes",
+    "name": "Berliner Hütte",
+    "restaurant": "yes",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "wikidata": "Q821559",
+    "wikipedia": "de:Berliner Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 459461955,
+  "lat": 47.5379410,
+  "lon": 10.1689649,
+  "tags": {
+    "ele": "1302",
+    "name": "Rosshuette",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 459466329,
+  "lat": 47.5693881,
+  "lon": 10.1040322,
+  "tags": {
+    "name": "Schneidersalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461147270,
+  "lat": 47.5262115,
+  "lon": 10.1794859,
+  "tags": {
+    "ele": "1358",
+    "name": "Hintere Krumbachalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461147285,
+  "lat": 47.5315464,
+  "lon": 10.1313217,
+  "tags": {
+    "ele": "1113",
+    "name": "Untere Eck Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461147289,
+  "lat": 47.5547711,
+  "lon": 10.1597810,
+  "tags": {
+    "ele": "1213",
+    "name": "Alpe Starkatsgund",
+    "note": "Alpe Starkatsgund dient von Oktober bis April der Bergwachtgruppe der Alpenvereinssektion Landsberg als Stuetzpunkt",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461147298,
+  "lat": 47.5451515,
+  "lon": 10.1543460,
+  "tags": {
+    "ele": "1365",
+    "name": "Obere Gündelalpe (verlassen)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461157641,
+  "lat": 47.5448938,
+  "lon": 10.1154838,
+  "tags": {
+    "ele": "1060",
+    "name": "Leutenschwandalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461157644,
+  "lat": 47.5528248,
+  "lon": 10.1338000,
+  "tags": {
+    "ele": "1069",
+    "name": "Rauhgrundalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 462401906,
+  "lat": 47.3426743,
+  "lon": 10.5591936,
+  "tags": {
+    "name": "Stablalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 462401912,
+  "lat": 47.3450454,
+  "lon": 10.5562621,
+  "tags": {
+    "name": "Stablalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 470067586,
+  "lat": 47.2656881,
+  "lon": 10.4710454,
+  "tags": {
+    "ele": "1475",
+    "name": "Grießbachalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 474598531,
+  "lat": 47.3564703,
+  "lon": 11.4797967,
+  "tags": {
+    "addr:city": "Scharnitz",
+    "addr:country": "AT",
+    "addr:housenumber": "390",
+    "addr:postcode": "6108",
+    "ele": "1774",
+    "name": "Hallerangeralm",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator:tenant": "Horst Schallhart",
+    "phone": "+436641055955",
+    "smoking": "no",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 474655946,
+  "lat": 47.2262032,
+  "lon": 10.5871684,
+  "tags": {
+    "designation": "Alpenvereinshütte",
+    "ele": "2061",
+    "name": "Steinseehütte",
+    "operator": "Österreichischer Alpenverein, Sektion Landeck",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2341643",
+    "wikipedia": "de:Steinseehütte"
+  }
+},
+{
+  "type": "node",
+  "id": 475333230,
+  "lat": 47.6203609,
+  "lon": 12.4993972,
+  "tags": {
+    "addr:city": "Kössen",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "6345",
+    "addr:street": "Eggenalm",
+    "amenity": "restaurant",
+    "ele": "1558 m",
+    "name": "Straubinger Haus",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV Sektion Straubing",
+    "operator:tenant": "Friedrich Warolly",
+    "phone": "+4353756429",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpenverein-straubing.de/index.php?id=9",
+    "wikidata": "Q2353988",
+    "wikipedia": "de:Straubinger Haus"
+  }
+},
+{
+  "type": "node",
+  "id": 476485073,
+  "lat": 47.4124062,
+  "lon": 11.1290906,
+  "tags": {
+    "addr:city": "Garmisch-Partenkirchen",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "82467",
+    "addr:street": "Meilerhütte",
+    "contact:phone": "+49 171 5227897",
+    "cuisine": "regional",
+    "ele": "2366",
+    "name": "Meilerhütte",
+    "operator": "DAV Sektion Garmisch-Partenkirchen",
+    "operator:tenant": "Marisa Sattlegger",
+    "phone": "+49 171 5227897",
+    "reservation": "recommended",
+    "shower": "no",
+    "showers": "no",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.meilerhuette.de/",
+    "wikidata": "Q1917816",
+    "wikipedia": "de:Meilerhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 476494311,
+  "lat": 47.4075717,
+  "lon": 11.1043880,
+  "tags": {
+    "addr:city": "Garmisch-Partenkirchen",
+    "addr:country": "DE",
+    "addr:postcode": "82467",
+    "ele": "1525",
+    "fax": "+49882171994",
+    "name": "Oberreintalhütte",
+    "note": "Selbstversorgerhütte",
+    "operator": "DAV Sektion Garmisch-Partenkirchen",
+    "phone": "+4988212701",
+    "shower": "no",
+    "source": "survey",
+    "tourism": "alpine_hut",
+    "url:official": "http://www.oberreintalhuette.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 476498599,
+  "lat": 47.4100232,
+  "lon": 11.0127749,
+  "tags": {
+    "addr:city": "Garmisch-Partenkirchen",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "82467",
+    "addr:street": "Zugspitzplatt",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "2052",
+    "name": "Knorrhütte",
+    "operator": "DAV Sektion München",
+    "operator:tenant": "Jörg Pfeifer",
+    "phone": "+4988212905",
+    "shower": "no",
+    "source": "survey",
+    "tourism": "alpine_hut",
+    "url:official": "http://www.knorrhuette.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 477710306,
+  "lat": 47.4856573,
+  "lon": 10.0491787,
+  "tags": {
+    "ele": "1480",
+    "name": "Hohenfluhealpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 477710590,
+  "lat": 47.4857526,
+  "lon": 10.0775034,
+  "tags": {
+    "ele": "1480",
+    "name": "Obere Berggundalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 477710623,
+  "lat": 47.4759151,
+  "lon": 10.0730336,
+  "tags": {
+    "ele": "1180",
+    "name": "Holzschlagalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 477710825,
+  "lat": 47.4807989,
+  "lon": 10.0645599,
+  "tags": {
+    "ele": "1209",
+    "name": "Obere Samannsbergalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 477711099,
+  "lat": 47.4818541,
+  "lon": 10.0569304,
+  "tags": {
+    "ele": "1148",
+    "name": "Wäldlealpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 480889449,
+  "lat": 47.4969870,
+  "lon": 10.5835386,
+  "tags": {
+    "addr:city": "Nesselwängle",
+    "addr:housenumber": "13",
+    "addr:postcode": "6672",
+    "addr:street": "Haller",
+    "amenity": "restaurant",
+    "name": "Adlerhorst",
+    "opening_hours": "We off",
+    "phone": "+43 5675 8224",
+    "tourism": "alpine_hut",
+    "website": "http://www.adlerhorst-haldensee.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 481339299,
+  "lat": 47.0761416,
+  "lon": 10.7568715,
+  "tags": {
+    "amenity": "alp",
+    "ele": "1963",
+    "name": "Falkaunsalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 481369667,
+  "lat": 47.0606822,
+  "lon": 10.7759596,
+  "tags": {
+    "amenity": "alp",
+    "ele": "1980",
+    "name": "Gallrutt Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 482074401,
+  "lat": 47.1040092,
+  "lon": 10.7062266,
+  "tags": {
+    "amenity": "alp",
+    "ele": "1974",
+    "name": "Aifner Alm",
+    "tourism": "alpine_hut",
+    "url": "www.aifneralm.at"
+  }
+},
+{
+  "type": "node",
+  "id": 484881698,
+  "lat": 47.5103725,
+  "lon": 10.0190653,
+  "tags": {
+    "ele": "1213",
+    "name": "Imberghaus",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 488396381,
+  "lat": 47.1918216,
+  "lon": 11.4763107,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Profegl-Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 494782696,
+  "lat": 47.0253560,
+  "lon": 11.8016123,
+  "tags": {
+    "ele": "1878",
+    "name": "Alpenrose",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1560779",
+    "wikipedia": "de:Alpenrosenhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 496001581,
+  "lat": 47.0241113,
+  "lon": 12.4754676,
+  "tags": {
+    "ele": "1746",
+    "name": "Lahntaler Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 501826426,
+  "lat": 49.4560146,
+  "lon": 11.5416023,
+  "tags": {
+    "name": "Thalheimer Hütte",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-nuernberg.de/v4/do.php?content=23"
+  }
+},
+{
+  "type": "node",
+  "id": 503714435,
+  "lat": 50.0660953,
+  "lon": 9.4430090,
+  "tags": {
+    "name": "Wanderhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 505825814,
+  "lat": 47.1923276,
+  "lon": 11.3478640,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Kreither Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 512558013,
+  "lat": 47.1447351,
+  "lon": 10.8472838,
+  "tags": {
+    "ele": "2550",
+    "name": "Erlanger Hütte",
+    "operator": "DAV Sektion Erlangen",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1355281",
+    "wikipedia": "de:Erlanger Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 512618893,
+  "lat": 47.0112221,
+  "lon": 10.6988204,
+  "tags": {
+    "ele": "2261",
+    "name": "Anton-Renk-Hütte",
+    "note": "Selbstversorger",
+    "operator": "DAV Sektion Aachen",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1253367",
+    "wikipedia": "de:Anton-Renk-Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 512622097,
+  "lat": 46.9020017,
+  "lon": 10.6347837,
+  "tags": {
+    "ele": "2123",
+    "name": "Hohenzollernhaus",
+    "operator": "DAV Sektion Hohenzollern",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1408189",
+    "wikipedia": "de:Hohenzollernhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 513528691,
+  "lat": 47.0746826,
+  "lon": 10.8194609,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1889",
+    "name": "Neubergalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 514941030,
+  "lat": 47.5738071,
+  "lon": 10.0689451,
+  "tags": {
+    "ele": "1050",
+    "name": "Sennalpe Hompessen",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 524217582,
+  "lat": 47.2984932,
+  "lon": 11.3668698,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1487",
+    "name": "Höttinger Alm",
+    "tourism": "alpine_hut",
+    "website": "http://www.hoettingeralm.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 528882177,
+  "lat": 47.5873314,
+  "lon": 11.7369609,
+  "tags": {
+    "addr:city": "Vomp",
+    "addr:country": "AT",
+    "addr:housenumber": "50",
+    "addr:postcode": "6134",
+    "addr:street": "Vomperberg",
+    "amenity": "restaurant",
+    "capacity": "15",
+    "cuisine": "regional",
+    "ele": "1540",
+    "name": "Jausenstation Blaubergalm",
+    "phone": "+43 6642 306719",
+    "smoking": "no",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 528928716,
+  "lat": 47.6079348,
+  "lon": 11.3109351,
+  "tags": {
+    "addr:city": "Walchensee",
+    "addr:country": "DE",
+    "addr:postcode": "82432",
+    "amenity": "restaurant",
+    "brewery": "Tegernseer",
+    "contact:addr:housenumber": "51",
+    "contact:addr:street": "Alte Straße",
+    "contact:address:city": "Kochel am See",
+    "contact:address:postcode": "82431",
+    "ele": "1575",
+    "name": "Berggasthaus Herzogstand",
+    "operator": "Siegfried Zauner GmbH",
+    "phone": "+49-8851-234",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.berggasthaus-herzogstand.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 528980776,
+  "lat": 47.5386195,
+  "lon": 10.7764406,
+  "tags": {
+    "addr:city": "Schwangau",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "87645",
+    "addr:street": "Bleckenau",
+    "amenity": "restaurant",
+    "ele": "1167",
+    "name": "Berggasthaus Bleckenau",
+    "operator": "DAV",
+    "operator:tenant": "Florian Schweiger",
+    "phone": "+49836281181",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.berggasthaus-bleckenau.de"
+  }
+},
+{
+  "type": "node",
+  "id": 528983385,
+  "lat": 47.5818786,
+  "lon": 10.9271776,
+  "tags": {
+    "addr:city": "Ettal",
+    "addr:country": "DE",
+    "addr:postcode": "82488",
+    "addr:street": "Brunnenkopfhütte",
+    "amenity": "restaurant",
+    "ele": "1602",
+    "name": "Brunnenkopfhaus",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV Sektion Bergland",
+    "operator:tenant": "Familie Misniks",
+    "phone": "+49175/6540155",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-bergland.de/Brunnenkopf.html"
+  }
+},
+{
+  "type": "node",
+  "id": 528992044,
+  "lat": 47.5594339,
+  "lon": 10.7781593,
+  "tags": {
+    "amenity": "restaurant",
+    "brewery": "König Ludwig",
+    "ele": "1707",
+    "name": "Tegelberghaus",
+    "operator": "DAV",
+    "operator:tenant": "Hynek Bednar",
+    "phone": "+4983628980",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.tegelberghaus.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 529085399,
+  "lat": 47.5056016,
+  "lon": 10.1967896,
+  "tags": {
+    "addr:city": "Gunzesried",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "87544",
+    "addr:street": "Gunzesried Säge",
+    "name": "Altes Höfle",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "Deutscher Alpenverein Neu-Ulm",
+    "operator:addr:city": "Neu-Ulm",
+    "operator:addr:country": "DE",
+    "operator:addr:housenumber": "55",
+    "operator:addr:postcode": "89231",
+    "operator:addr:street": "Bahnhofstraße",
+    "operator:phone": "+4973174885",
+    "operator:tenant": "Jürgen Seeberger",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "url": "http://www.dav-neu-ulm.de/index.php?option=com_content&view=article&id=66&Itemid=75"
+  }
+},
+{
+  "type": "node",
+  "id": 529095394,
+  "lat": 47.4861365,
+  "lon": 10.5994581,
+  "tags": {
+    "addr:city": "Nesselwängle",
+    "addr:country": "AT",
+    "addr:housenumber": "64",
+    "addr:postcode": "6672",
+    "addr:street": "Schmitte",
+    "amenity": "restaurant",
+    "ele": "1150",
+    "email": "haldenseehaus@dav-goeppingen.de",
+    "fax": "+43 5675 81354",
+    "fixme": "Rauchverbot prüfen",
+    "name": "Haldenseehaus",
+    "operator": "DAV Sektion Hohenstaufen Göppingen",
+    "operator:tenant": "Edmund Zimmermann",
+    "phone": "+43 5675 8135",
+    "smoking": "no",
+    "source": "http://www.dav-hohenstaufen.de/haldenseehaus",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-hohenstaufen.de/haldenseehaus",
+    "wikidata": "Q1570762",
+    "wikipedia": "de:Haldenseehaus"
+  }
+},
+{
+  "type": "node",
+  "id": 529099342,
+  "lat": 47.5141248,
+  "lon": 10.4652899,
+  "tags": {
+    "addr:city": "Schattwald",
+    "addr:country": "AT",
+    "addr:postcode": "6677",
+    "ele": "1100",
+    "name": "Haus Schattwald",
+    "note": "Selbstversorgerhütte",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV Sektion Geislingen/Steige",
+    "operator:tenant": "Margret und Walter Pompe",
+    "phone": "+4973177884",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpenverein-geislingen.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 529268937,
+  "lat": 47.3898515,
+  "lon": 10.2543695,
+  "tags": {
+    "addr:city": "Oberstdorf",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "87561",
+    "addr:street": "Höllwiesenweg",
+    "amenity": "restaurant",
+    "name": "Höllwiesenweg",
+    "operator": "NaturFreunde Deutschland",
+    "operator:tenant": "Anja & Tim ???",
+    "phone": "+4983222285",
+    "ref": "M 060",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut",
+    "website": "http://www.naturfreundehaus-freibergsee.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 529383642,
+  "lat": 47.2624562,
+  "lon": 10.6697590,
+  "tags": {
+    "addr:city": "Wenns",
+    "addr:country": "AT",
+    "addr:housenumber": "240",
+    "addr:postcode": "6473",
+    "addr:street": "Oberdorf",
+    "amenity": "restaurant",
+    "ele": "1934",
+    "name": "Muttekopfhütte",
+    "operator": "Österreichischer Alpenverein, Sektion Imst",
+    "operator:tenant": "Familie Andreas Riml",
+    "overnight_stay": "yes",
+    "phone": "+436641236928",
+    "shower": "yes",
+    "source": "survey(2008-07,garmin)",
+    "tourism": "alpine_hut",
+    "website": "http://www.muttekopf.at/",
+    "wikidata": "Q1955919",
+    "wikipedia": "de:Muttekopfhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 529651297,
+  "lat": 47.3300215,
+  "lon": 11.4255879,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1950",
+    "name": "Pfeishütte",
+    "operator": "Sektion Innsbruck",
+    "operator:tenant": "Simon Bock",
+    "phone": "+43 720 316596",
+    "tourism": "alpine_hut",
+    "website": "http://www.pfeishuette.at/",
+    "wikidata": "Q1516644",
+    "wikipedia": "de:Pfeishütte"
+  }
+},
+{
+  "type": "node",
+  "id": 530190485,
+  "lat": 47.3456189,
+  "lon": 11.1049387,
+  "tags": {
+    "addr:city": "Leutasch",
+    "addr:country": "AT",
+    "addr:housenumber": "7",
+    "addr:postcode": "6105",
+    "addr:street": "Leutasch",
+    "amenity": "restaurant",
+    "ele": "1600",
+    "name": "Rauthhütte",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator:tenant": "Fam. Rauth",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.rauthhuette.at/rauthhuette/f_start.html"
+  }
+},
+{
+  "type": "node",
+  "id": 530197659,
+  "lat": 47.3802301,
+  "lon": 11.1082014,
+  "tags": {
+    "ele": "1751",
+    "name": "Wetterstein Hütte",
+    "operator": "Leutascher Bergwacht",
+    "phone": "+436644153747",
+    "source": "survey(2008-07,garmin)",
+    "tourism": "alpine_hut",
+    "website": "http://www.wettersteinhuette.com/",
+    "wikidata": "Q722514",
+    "wikipedia": "de:Ascher Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 534414045,
+  "lat": 47.1775607,
+  "lon": 10.6989695,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Venetalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 534912502,
+  "lat": 48.9459849,
+  "lon": 13.2584659,
+  "tags": {
+    "addr:street": "Kohlau",
+    "designation": "Skihütte",
+    "name": "Skihütte-Kohlau",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 539660905,
+  "lat": 46.9826622,
+  "lon": 11.4067339,
+  "tags": {
+    "addr:city": "Obernberg am Brenner",
+    "addr:country": "AT",
+    "addr:housenumber": "88",
+    "addr:postcode": "6157",
+    "addr:street": "Obernbergersee",
+    "alt_name": "Steineralm",
+    "ele": "1735",
+    "fixme": "bitte checken, ob das Gebäude stimmt, dann könnte man die Tags auf das Gebäude geben /al",
+    "name": "Steiner Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 558698347,
+  "lat": 47.2084713,
+  "lon": 11.4409409,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1698",
+    "name": "Patscher Alm",
+    "phone": "+43 664 4053026",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 563834740,
+  "lat": 49.9578590,
+  "lon": 11.7439700,
+  "tags": {
+    "addr:city": "Weidenberg",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "95466",
+    "addr:street": "Rügersberg",
+    "ele": "650",
+    "name": "Naturfreundehaus \"An der Königsheide\"",
+    "operator": "NaturFreunde Deutschland",
+    "ref": "N 093",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 615069368,
+  "lat": 47.5823029,
+  "lon": 10.4680073,
+  "tags": {
+    "ele": "1284",
+    "name": "Stubental-Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 662483755,
+  "lat": 47.4621236,
+  "lon": 12.4083886,
+  "tags": {
+    "name": "Adlerhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 665550669,
+  "lat": 47.0535117,
+  "lon": 10.8409852,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1900",
+    "name": "Arzler Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 665552042,
+  "lat": 47.0618186,
+  "lon": 10.8307807,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Tiefentalalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 667027084,
+  "lat": 49.8404655,
+  "lon": 11.0711483,
+  "tags": {
+    "name": "Almadlerhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 670813537,
+  "lat": 46.7203983,
+  "lon": 12.4131064,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1900",
+    "name": "Leckfeldalm",
+    "phone": "+43 664 3412813",
+    "tourism": "alpine_hut",
+    "website": "http://www.leckfeldalm.at"
+  }
+},
+{
+  "type": "node",
+  "id": 675628658,
+  "lat": 47.4786371,
+  "lon": 12.5989383,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 675628886,
+  "lat": 47.4774339,
+  "lon": 12.6117579,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 715763185,
+  "lat": 47.4382134,
+  "lon": 11.7894138,
+  "tags": {
+    "name": "Alpbühelalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 753197970,
+  "lat": 47.0437903,
+  "lon": 10.6947943,
+  "tags": {
+    "name": "Sattelklause",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 755780513,
+  "lat": 47.0152919,
+  "lon": 10.6794352,
+  "tags": {
+    "name": "Stalanzer Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 767071230,
+  "lat": 47.2040753,
+  "lon": 11.3079304,
+  "tags": {
+    "ele": "1808",
+    "name": "Birgitzer Alm",
+    "phone": "+43 664 5970026",
+    "tourism": "alpine_hut",
+    "website": "https://www.birgitzer-alm.at/",
+    "wikidata": "Q865406",
+    "wikipedia": "de:Birgitzer Alm"
+  }
+},
+{
+  "type": "node",
+  "id": 822165134,
+  "lat": 47.1646740,
+  "lon": 11.7243163,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Lattenalm",
+    "outdoor_area": "yes",
+    "terrace": "partial_roofed",
+    "tourism": "alpine_hut",
+    "website": "https://m.christler-tux.at/de/lattenalm/"
+  }
+},
+{
+  "type": "node",
+  "id": 822581994,
+  "lat": 47.1446600,
+  "lon": 11.6734379,
+  "tags": {
+    "name": "Stoankasern",
+    "operator": "Fam. Silvia & Ali Erler",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 829910023,
+  "lat": 47.1188844,
+  "lon": 11.6789053,
+  "tags": {
+    "name": "Bichlalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 833885363,
+  "lat": 47.5662206,
+  "lon": 10.7578204,
+  "tags": {
+    "alt_name": "Reith-Alpe",
+    "amenity": "restaurant",
+    "name": "Alpe Reith",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 850214448,
+  "lat": 47.4948960,
+  "lon": 9.9988793,
+  "tags": {
+    "building": "yes",
+    "ele": "1228",
+    "name": "Alpe Hinter-Hochwies",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 858377222,
+  "lat": 47.3979104,
+  "lon": 10.6957806,
+  "tags": {
+    "building": "yes",
+    "ele": "1690",
+    "name": "Ehenbichler Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 865407999,
+  "lat": 46.9948455,
+  "lon": 10.2155843,
+  "tags": {
+    "name": "Friedrichshafener Hütte (DAV)",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1464263",
+    "wikipedia": "de:Friedrichshafener Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 903490412,
+  "lat": 47.5872106,
+  "lon": 10.4611881,
+  "tags": {
+    "name": "Alpe Obere Reuterwanne",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 908564979,
+  "lat": 47.4757455,
+  "lon": 10.4882247,
+  "tags": {
+    "addr:city": "Tannheim",
+    "addr:country": "AT",
+    "addr:postcode": "6675",
+    "ele": "1685",
+    "name": "Obere Roßalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 917959691,
+  "lat": 47.4361904,
+  "lon": 12.4805331,
+  "tags": {
+    "ele": "1400",
+    "name": "Lämmerbichl-Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 918894158,
+  "lat": 47.5429861,
+  "lon": 11.0585759,
+  "tags": {
+    "ele": "1327",
+    "name": "Roßalm-Diensthütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 919481465,
+  "lat": 46.9822567,
+  "lon": 10.9992513,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Leiterbergalm",
+    "tourism": "alpine_hut",
+    "uploaded_by": "stevens_oli"
+  }
+},
+{
+  "type": "node",
+  "id": 925385358,
+  "lat": 47.2245649,
+  "lon": 11.5510562,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1380",
+    "email": "office@voldertalhuette.at",
+    "name": "Voldertalhütte",
+    "operator": "Naturfreunde",
+    "phone": "++43 (0) 664/97 57 447",
+    "tourism": "alpine_hut",
+    "website": "http://www.voldertalhuette.at/",
+    "wikidata": "Q2530719",
+    "wikipedia": "de:Voldertalhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 933862520,
+  "lat": 47.3333390,
+  "lon": 11.0274810,
+  "tags": {
+    "ele": "1404",
+    "name": "Schäferhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 936300145,
+  "lat": 47.1933519,
+  "lon": 10.7249950,
+  "tags": {
+    "name": "Hochastneralm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 936367075,
+  "lat": 47.1294967,
+  "lon": 10.7188914,
+  "tags": {
+    "ele": "1761",
+    "name": "Kielebergalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 946907440,
+  "lat": 47.5837283,
+  "lon": 10.0674324,
+  "tags": {
+    "ele": "996 m",
+    "name": "Ochsenberg Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 952182404,
+  "lat": 46.9471671,
+  "lon": 10.8904734,
+  "tags": {
+    "ele": "1891",
+    "name": "Gletscher-Stüberl",
+    "note": "I measured an elevation of 1934m by GPS. Please confirm and update elevation value.",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 961284865,
+  "lat": 47.5677443,
+  "lon": 10.0596897,
+  "tags": {
+    "ele": "901 m",
+    "name": "Wuchers Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 978223025,
+  "lat": 47.5993100,
+  "lon": 10.0562684,
+  "tags": {
+    "amenity": "biergarten",
+    "ele": "906m",
+    "internet_access": "no",
+    "name": "Königsalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 983089611,
+  "lat": 47.3612373,
+  "lon": 10.8668823,
+  "tags": {
+    "name": "Praxmarer Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 986879866,
+  "lat": 47.0517919,
+  "lon": 10.2905138,
+  "tags": {
+    "designation": "Kieler Wetterhütte",
+    "name": "Kieler Wetter Hütte 2800m",
+    "source": "www.dav-kiel.de",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 993676098,
+  "lat": 49.3408485,
+  "lon": 12.4399154,
+  "tags": {
+    "name": "Max Stadlbauer Hütte",
+    "operator": "Neunburger Yacht Club",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 995837959,
+  "lat": 47.4793962,
+  "lon": 10.7957795,
+  "tags": {
+    "name": "Hölltalhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 995944308,
+  "lat": 47.4179900,
+  "lon": 10.7074092,
+  "tags": {
+    "name": "Jagthütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 995944333,
+  "lat": 47.4252193,
+  "lon": 10.6969632,
+  "tags": {
+    "name": "Jagthütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1103447018,
+  "lat": 46.8962833,
+  "lon": 10.7350495,
+  "tags": {
+    "ele": "1903",
+    "name": "Gepatsch Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1103476189,
+  "lat": 46.9305351,
+  "lon": 10.7297905,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Nassereiner Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1103489456,
+  "lat": 46.8927114,
+  "lon": 10.7206064,
+  "tags": {
+    "name": "See'le Hütte (verfallen)",
+    "ruins": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1188850431,
+  "lat": 47.6771709,
+  "lon": 12.8536493,
+  "tags": {
+    "ele": "1250",
+    "name": "Anthauptenhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1189766694,
+  "lat": 46.8668208,
+  "lon": 12.7933915,
+  "tags": {
+    "ele": "1899",
+    "name": "AV Jugendheim",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1194481318,
+  "lat": 48.9526945,
+  "lon": 12.0058428,
+  "tags": {
+    "name": "Ludwig-Hanisch-Hütte",
+    "operator": "DAV",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1208640448,
+  "lat": 47.1830909,
+  "lon": 10.6692518,
+  "tags": {
+    "name": "Langesbergalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1217589518,
+  "lat": 47.3455239,
+  "lon": 10.8123814,
+  "tags": {
+    "name": "Brandhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1252222104,
+  "lat": 47.5452245,
+  "lon": 10.1273146,
+  "tags": {
+    "name": "Alpe Im Riemle",
+    "source": "Own Survey",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1282788507,
+  "lat": 50.2841567,
+  "lon": 11.7534714,
+  "tags": {
+    "name": "Frankenwaldverein Schauenstein",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1313054431,
+  "lat": 47.4411323,
+  "lon": 10.5924582,
+  "tags": {
+    "name": "Führenberghütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1313054432,
+  "lat": 47.4125604,
+  "lon": 10.6001608,
+  "tags": {
+    "name": "Hüttenhof",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1313054442,
+  "lat": 47.3946590,
+  "lon": 10.5354663,
+  "tags": {
+    "name": "Jöchlehütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1313054448,
+  "lat": 47.4143419,
+  "lon": 10.5483008,
+  "tags": {
+    "name": "Krottenwaldhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1313054687,
+  "lat": 47.4318921,
+  "lon": 10.5888611,
+  "tags": {
+    "name": "Stuibenhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1313562338,
+  "lat": 47.6203417,
+  "lon": 10.1080291,
+  "tags": {
+    "name": "Talhofer Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1336099112,
+  "lat": 50.0827587,
+  "lon": 11.8541750,
+  "tags": {
+    "name": "Edelweißhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1340474535,
+  "lat": 47.3249682,
+  "lon": 11.3137948,
+  "tags": {
+    "name": "Kristenalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1348444866,
+  "lat": 47.3999785,
+  "lon": 10.7252540,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1510",
+    "name": "Kögelehütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1350577431,
+  "lat": 49.2927817,
+  "lon": 12.6137562,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1382048204,
+  "lat": 46.9660831,
+  "lon": 10.9577546,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1396118507,
+  "lat": 47.3464526,
+  "lon": 10.7913422,
+  "tags": {
+    "ele": "2022",
+    "name": "Loreahütte",
+    "note": "Unbewirtschaftet, AV-Schlüssel",
+    "operator": "DAV Sektion Isartal",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1755491",
+    "wikipedia": "de:Loreahütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1396763486,
+  "lat": 47.3610309,
+  "lon": 10.9811803,
+  "tags": {
+    "ele": "2017",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "Breitenkopfhütte",
+    "note": "Selbstversorger Hütte, Schlüssel beim Alpenverein. Hütte ist im Fels, siehe: http://mieminger.at/breitenkopfhuette.html",
+    "operator": "DAV Sektion Coburg",
+    "tourism": "alpine_hut",
+    "wheelchair": "no",
+    "wikidata": "Q17412560",
+    "wikipedia": "de:Breitenkopfhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1407686251,
+  "lat": 46.9832325,
+  "lon": 10.4737807,
+  "tags": {
+    "access": "private",
+    "ele": "2021m",
+    "name": "Ochsenberg-Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1421910083,
+  "lat": 47.2965040,
+  "lon": 11.4030789,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:housenumber": "113",
+    "addr:postcode": "6020",
+    "addr:street": "Rosnerweg",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
+    "ele": "1067",
+    "name": "Arzler Alm",
+    "operator": "Fam. Anzengruber",
+    "outdoor_seating": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.arzleralm.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1423333186,
+  "lat": 49.5321507,
+  "lon": 11.5444694,
+  "tags": {
+    "ele": "635",
+    "internet_access": "no",
+    "name": "Carl Semler Hütte",
+    "operator": "DAV Sektion Nürnberg",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-nuernberg.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1434737943,
+  "lat": 47.2029502,
+  "lon": 11.4513919,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1907",
+    "name": "Hochmahdalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1459656318,
+  "lat": 47.2178993,
+  "lon": 11.4559488,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1735",
+    "name": "Lanser Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1460112525,
+  "lat": 47.1035037,
+  "lon": 10.7981711,
+  "tags": {
+    "amenity": "alp",
+    "ele": "1840",
+    "name": "Mauchelealm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1460112858,
+  "lat": 47.1089809,
+  "lon": 10.7839787,
+  "tags": {
+    "amenity": "alp",
+    "ele": "1849",
+    "name": "Söllbergalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1460275537,
+  "lat": 47.3696534,
+  "lon": 11.0493942,
+  "tags": {
+    "ele": "1369",
+    "name": "Gaistalalm",
+    "tourism": "alpine_hut",
+    "website": "http://members.aon.at/gaistalalm.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1496710565,
+  "lat": 46.9239776,
+  "lon": 10.1756739,
+  "tags": {
+    "name": "Scheiben-Alm",
+    "phone": "06649244508",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1507068518,
+  "lat": 47.7010697,
+  "lon": 12.1879436,
+  "tags": {
+    "addr:city": "Erl",
+    "addr:country": "AT",
+    "addr:housenumber": "9",
+    "addr:postcode": "6343",
+    "addr:street": "Alm",
+    "ele": "1230",
+    "fax": "+43 5373 8137",
+    "name": "Kranzhorn Alm",
+    "opening_hours": "May 1-Sep 15: open",
+    "phone": "+43 5373 8137",
+    "source": "local_knowledge",
+    "source:ele": "label on hut",
+    "tourism": "alpine_hut",
+    "website": "http://www.kranzhorn.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1522699773,
+  "lat": 47.5670454,
+  "lon": 12.0913205,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:email": "info@kala-alm.at",
+    "contact:fax": "+43 5376 52884",
+    "contact:mobile": "43 664 3944284",
+    "contact:website": "www.kala-alm.at",
+    "cuisine": "regional",
+    "name": "Kala Alm",
+    "source": "geoimage.at",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1537321603,
+  "lat": 46.8214697,
+  "lon": 12.7001819,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2025",
+    "name": "Hochsteinhütte",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1622351",
+    "wikipedia": "de:Hochsteinhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1538391847,
+  "lat": 47.5751893,
+  "lon": 10.1166157,
+  "tags": {
+    "name": "Neuschwandalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1559102082,
+  "lat": 47.6135436,
+  "lon": 12.0384223,
+  "tags": {
+    "alt_name": "Trockenbachalm",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1250",
+    "name": "Mariandlalm",
+    "phone": "0043 / 664 / 350 44 17",
+    "tourism": "alpine_hut",
+    "website": "http://www.mariandlalm.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1567364312,
+  "lat": 46.9781563,
+  "lon": 12.4592740,
+  "tags": {
+    "amenity": "restaurant",
+    "beds": "23",
+    "cuisine": "regional",
+    "ele": "2106",
+    "email": "tschoner@aon.at",
+    "name": "Wetterkreuzhütte",
+    "operator": "Familie Tschoner",
+    "outdoor_seating": "yes",
+    "phone": "+43 650 5457402",
+    "tourism": "alpine_hut",
+    "website": "http://www.alm-ferienhaus.com/wetterkreuzhuette-3/"
+  }
+},
+{
+  "type": "node",
+  "id": 1567490026,
+  "lat": 47.0493723,
+  "lon": 12.5762715,
+  "tags": {
+    "ele": "2650",
+    "name": "Sudetendeutsche Hütte",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2363199",
+    "wikipedia": "de:Sudetendeutsche Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1607527933,
+  "lat": 47.1510754,
+  "lon": 11.5961086,
+  "tags": {
+    "addr:city": "Navis",
+    "addr:country": "AT",
+    "addr:housenumber": "185",
+    "addr:postcode": "6145",
+    "addr:street": "Klammerweg",
+    "amenity": "restaurant",
+    "name": "Klammalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1619954017,
+  "lat": 47.5344065,
+  "lon": 10.5627062,
+  "tags": {
+    "addr:city": "Vils",
+    "addr:country": "AT",
+    "addr:housenumber": "71",
+    "addr:postcode": "6682",
+    "addr:street": "Gemeinde",
+    "name": "Bad Kissinger Hütte",
+    "tourism": "alpine_hut",
+    "wikidata": "Q798718",
+    "wikipedia": "de:Bad Kissinger Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1621410739,
+  "lat": 47.4497413,
+  "lon": 11.3187322,
+  "tags": {
+    "addr:city": "Mittenwald",
+    "addr:country": "DE",
+    "addr:housenumber": "10",
+    "addr:postcode": "82481",
+    "addr:street": "Schöttlkarstraße",
+    "amenity": "restaurant",
+    "building": "yes",
+    "ele": "1623",
+    "name": "Hochlandhütte",
+    "operator": "DAV Sektion Hochland",
+    "operator:tenant": "Irmtraud Dressl-Kasy",
+    "phone": "0174/9897863",
+    "shower": "no",
+    "smoking": "no",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1627269874,
+  "lat": 47.3029035,
+  "lon": 11.4213432,
+  "tags": {
+    "addr:city": "Rum",
+    "addr:housenumber": "7",
+    "addr:postcode": "6063",
+    "addr:street": "Garneid",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1243",
+    "name": "Rumer Alm",
+    "opening_hours": "Mo-Tu,Th-Su 10:00-21:00",
+    "outdoor_seating": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.rumeralm.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1632744583,
+  "lat": 47.0408861,
+  "lon": 10.9444301,
+  "tags": {
+    "ele": "1874m",
+    "name": "Breitlehnalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1635114705,
+  "lat": 46.8691446,
+  "lon": 12.4389208,
+  "tags": {
+    "ele": "1884",
+    "name": "Volkzeiner Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1635177738,
+  "lat": 49.8775019,
+  "lon": 12.0354192,
+  "tags": {
+    "ele": "705",
+    "name": "DAV Sektion Weiden",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1636573842,
+  "lat": 47.0203869,
+  "lon": 11.4932708,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1637",
+    "name": "Sattelbergalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1639183811,
+  "lat": 47.0193381,
+  "lon": 11.4034240,
+  "tags": {
+    "name": "Kastnerbergalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1640473352,
+  "lat": 47.0128479,
+  "lon": 11.3026658,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Laponesalm",
+    "opening_hours": "May-Oct: Mo-Su 09:00-18:00",
+    "operator": "Familie Josef Pranger",
+    "outdoor_seating": "yes",
+    "phone": "+43 664 1634190",
+    "tourism": "alpine_hut",
+    "website": "https://www.laponesalm.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1640844437,
+  "lat": 47.1082499,
+  "lon": 11.2656031,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1559.141",
+    "name": "Auffangalm",
+    "tourism": "alpine_hut",
+    "website": "http://www.auffangalm.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1642945247,
+  "lat": 47.0676526,
+  "lon": 11.4317177,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Gerichtsherrenalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1643742560,
+  "lat": 47.0515926,
+  "lon": 11.4045042,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Trunahütte",
+    "note": "hat Zimmer und Lager",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1648619778,
+  "lat": 47.0499511,
+  "lon": 11.4645929,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Nösslachhütte",
+    "source": "GeoImage.at",
+    "tourism": "alpine_hut",
+    "website": "http://www.noesslachhuette.at"
+  }
+},
+{
+  "type": "node",
+  "id": 1660382625,
+  "lat": 47.0640676,
+  "lon": 11.4485065,
+  "tags": {
+    "name": "Nösslachjochhütte [geschlossen]",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1665715476,
+  "lat": 47.2105420,
+  "lon": 11.3197904,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1560",
+    "name": "Götzner Alm",
+    "source": "GeoImage.at",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1112626",
+    "wikipedia": "de:Götzner Alm"
+  }
+},
+{
+  "type": "node",
+  "id": 1666028438,
+  "lat": 47.1073360,
+  "lon": 11.2582594,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Brandstatt-Alm",
+    "phone": "+43 664 3715044",
+    "source": "GeoImage.at",
+    "tourism": "alpine_hut",
+    "website": "http://www.brandstatt-alm.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1666084376,
+  "lat": 47.1569269,
+  "lon": 11.3317128,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1350",
+    "name": "Brugger Alm",
+    "source": "GeoImage.at",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1684035637,
+  "lat": 47.1146804,
+  "lon": 10.8235876,
+  "tags": {
+    "ele": "1935",
+    "name": "Ludwigsburger Hütte",
+    "operator": "DAV Sektion Ludwigsburg",
+    "source": "GeoImage.at",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1875396",
+    "wikipedia": "de:Ludwigsburger Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1692552899,
+  "lat": 47.3865515,
+  "lon": 12.4646680,
+  "tags": {
+    "alt_name": "Bochumer Hütte",
+    "name": "Kelchalm",
+    "tourism": "alpine_hut",
+    "wikidata": "Q889089",
+    "wikipedia": "de:Bochumer Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1693267583,
+  "lat": 47.5167232,
+  "lon": 12.5549569,
+  "tags": {
+    "addr:city": "St. Ulrich",
+    "addr:country": "AT",
+    "amenity": "restaurant",
+    "ele": "1090",
+    "name": "Lindtalalm",
+    "note": "No Adress",
+    "tourism": "alpine_hut",
+    "website": "http://www.bergfex.at/sommer/tirol/touren/wanderung/4379,lindtalalm-winterstelleralm/"
+  }
+},
+{
+  "type": "node",
+  "id": 1699285837,
+  "lat": 49.9940370,
+  "lon": 11.7971567,
+  "tags": {
+    "name": "Wagenthalhütte",
+    "operator": "Deutscher Alpenverein Bayreuth",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1704341525,
+  "lat": 46.7594324,
+  "lon": 12.7665605,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1902",
+    "name": "Kerschbaumer Alm",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1306028",
+    "wikipedia": "de:Kerschbaumeralm Schutzhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 1726564778,
+  "lat": 46.7985228,
+  "lon": 12.6136299,
+  "tags": {
+    "name": "Skihütte Compedal",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1758116677,
+  "lat": 49.8633600,
+  "lon": 9.6081257,
+  "tags": {
+    "name": "Elisabethenhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1779769997,
+  "lat": 47.1667129,
+  "lon": 11.6404192,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2019",
+    "email": "info@lizumerhuette.at",
+    "name": "Lizumer Hütte",
+    "operator": "Anton Nigg",
+    "phone": "+43-664-647-5353",
+    "tourism": "alpine_hut",
+    "website": "http://www.lizumerhuette.at",
+    "wikidata": "Q1601307",
+    "wikipedia": "de:Lizumer Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1833369013,
+  "lat": 47.4790681,
+  "lon": 10.7497905,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1836518335,
+  "lat": 47.1763487,
+  "lon": 11.3358370,
+  "tags": {
+    "addr:city": "Telfes im Stubai",
+    "addr:country": "AT",
+    "addr:housenumber": "200",
+    "addr:postcode": "6165",
+    "addr:street": "Pfarrach",
+    "amenity": "restaurant",
+    "name": "Pfarrachalm",
+    "tourism": "alpine_hut",
+    "wikidata": "Q15058714",
+    "wikipedia": "de:Pfarrachalm"
+  }
+},
+{
+  "type": "node",
+  "id": 1883991593,
+  "lat": 46.7700838,
+  "lon": 12.7402660,
+  "tags": {
+    "ele": "2683",
+    "name": "Linderhütte",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1826168",
+    "wikipedia": "de:Linderhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1920559002,
+  "lat": 47.5675351,
+  "lon": 10.0489919,
+  "tags": {
+    "name": "Alpe Mohr",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1921758987,
+  "lat": 47.3751440,
+  "lon": 11.9511031,
+  "tags": {
+    "name": "Böglalm",
+    "source": "geoimage.at MaxRes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1932329012,
+  "lat": 46.9685913,
+  "lon": 10.6459729,
+  "tags": {
+    "name": "Platzeralm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1943456368,
+  "lat": 47.0109404,
+  "lon": 10.6993917,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1976860895,
+  "lat": 47.5467179,
+  "lon": 10.1219060,
+  "tags": {
+    "name": "Alpe Huberschwändle",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2066314208,
+  "lat": 49.5748590,
+  "lon": 11.5080392,
+  "tags": {
+    "name": "Naturfreundehaus",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2069759840,
+  "lat": 47.5982015,
+  "lon": 10.5041453,
+  "tags": {
+    "ele": "1500",
+    "email": "info@berglodge.de",
+    "name": "BergLodge",
+    "tourism": "alpine_hut",
+    "website": "http://www.berglodge.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 2072610428,
+  "lat": 47.0624777,
+  "lon": 10.3159885,
+  "tags": {
+    "addr:city": "Kappl",
+    "addr:country": "AT",
+    "addr:housenumber": "241",
+    "addr:postcode": "6555",
+    "addr:street": "Niederelbehütte",
+    "ele": "2310",
+    "email": "info@niederelbehuette.at",
+    "name": "Niederelbehütte",
+    "phone": "+43 676 41 52 355",
+    "tourism": "alpine_hut",
+    "website": "http://www.niederelbehuette.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 2076540600,
+  "lat": 49.8092305,
+  "lon": 11.2410730,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2092451145,
+  "lat": 49.1692631,
+  "lon": 12.9462370,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2092451147,
+  "lat": 49.1693831,
+  "lon": 12.9446148,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2150565802,
+  "lat": 47.0327018,
+  "lon": 10.9490318,
+  "tags": {
+    "addr:city": "Längenfeld",
+    "addr:country": "AT",
+    "addr:housenumber": "242",
+    "addr:postcode": "6444",
+    "addr:street": "Huben",
+    "ele": "1840",
+    "name": "Polltalalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2329470851,
+  "lat": 49.9433806,
+  "lon": 9.7541268,
+  "tags": {
+    "name": "Wanderhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2339464519,
+  "lat": 47.5577845,
+  "lon": 10.1689938,
+  "tags": {
+    "designation": "Alpe",
+    "name": "Alpe Gschwenderberg",
+    "source": "Bing",
+    "tourism": "alpine_hut",
+    "website": "www.alpegschwenderberg.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2368392910,
+  "lat": 47.3086047,
+  "lon": 12.2010209,
+  "tags": {
+    "addr:city": "Westendorf",
+    "addr:country": "AT",
+    "addr:housenumber": "109",
+    "addr:postcode": "6363",
+    "addr:street": "Hinterwindau",
+    "name": "Rotwand Grundalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2380342235,
+  "lat": 47.5469841,
+  "lon": 10.0832526,
+  "tags": {
+    "name": "Berghaus Carl Zeiss",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2382631604,
+  "lat": 46.9575689,
+  "lon": 12.4367165,
+  "tags": {
+    "amenity": "restaurant",
+    "beds": "30",
+    "cuisine": "regional",
+    "ele": "2350",
+    "email": "tschoner@aon.at",
+    "internet_access": "no",
+    "name": "Zupalseehütte",
+    "operator": "Familie Tschoner",
+    "outdoor_seating": "yes",
+    "phone": "+43 4874 5227",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.alm-ferienhaus.com/zupalseehuette/",
+    "wikidata": "Q230219",
+    "wikipedia": "de:Zupalseehütte"
+  }
+},
+{
+  "type": "node",
+  "id": 2402628696,
+  "lat": 50.0010551,
+  "lon": 11.9970931,
+  "tags": {
+    "internet_access": "no",
+    "name": "Steinberghütte",
+    "operator": "nicht geöffnet",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2415975822,
+  "lat": 47.5742617,
+  "lon": 12.1963548,
+  "tags": {
+    "addr:city": "Kufstein",
+    "addr:country": "AT",
+    "addr:housenumber": "14",
+    "addr:postcode": "6330",
+    "addr:street": "Stadtberg",
+    "ele": "1135",
+    "fax": "+43 5372 63963",
+    "name": "Aschenbrenner",
+    "phone": "+43 5372 62220",
+    "source": "geoimage.at MaxRes",
+    "tourism": "alpine_hut",
+    "website": "http://www.berghaus-aschenbrenner.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 2415975826,
+  "lat": 47.5778028,
+  "lon": 12.2095745,
+  "tags": {
+    "addr:city": "Kufstein",
+    "addr:country": "AT",
+    "addr:housenumber": "8",
+    "addr:postcode": "6330",
+    "addr:street": "Stadtberg",
+    "alt_name": "Brentenjochhütte",
+    "ele": "1272",
+    "name": "Weinbergerhaus",
+    "phone": "+43 5372 65148",
+    "source": "knowledge",
+    "tourism": "alpine_hut",
+    "website": "http://www.weinbergerhaus.at/",
+    "wikidata": "Q1772467",
+    "wikipedia": "de:Weinbergerhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 2418595620,
+  "lat": 47.5956165,
+  "lon": 12.2358256,
+  "tags": {
+    "addr:city": "Ebbs",
+    "addr:country": "AT",
+    "addr:housenumber": "10",
+    "addr:postcode": "6330",
+    "addr:street": "Kaisertal",
+    "name": "Hinterkaiserhof",
+    "phone": "+43 5372 62574",
+    "source": "local_knowledge",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2421666145,
+  "lat": 47.1950417,
+  "lon": 11.3161279,
+  "tags": {
+    "ele": "2098",
+    "email": "birgitzkoepflhaus@aon.at",
+    "name": "Birgitzerköpflhaus",
+    "phone": "+43 5234 68100",
+    "tourism": "alpine_hut",
+    "website": "http://www.wildlife.at/",
+    "wikidata": "Q865405",
+    "wikipedia": "de:Birgitzköpflhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 2431129061,
+  "lat": 47.3721894,
+  "lon": 11.0388537,
+  "tags": {
+    "amenity": "biergarten",
+    "cuisine": "regional",
+    "name": "Tillfussalm",
+    "reservation": "recommended",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.tillfussalm.at"
+  }
+},
+{
+  "type": "node",
+  "id": 2489187219,
+  "lat": 49.9246822,
+  "lon": 9.2365237,
+  "tags": {
+    "name": "Wanderheim Soden",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2499492744,
+  "lat": 50.3126739,
+  "lon": 9.9050160,
+  "tags": {
+    "description": "Hütte des Rhönklubs Würzburg",
+    "name": "Würzburger Haus",
+    "operator": "Rbobert Voll",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2502842376,
+  "lat": 49.8216440,
+  "lon": 11.3126628,
+  "tags": {
+    "access": "private",
+    "alt_name": "Rabenecker Hütte",
+    "name": "Hans-Putschky-Haus",
+    "operator": "DAV Sekton Bayreuth",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2537608563,
+  "lat": 49.8756924,
+  "lon": 9.2005534,
+  "tags": {
+    "amenity": "shelter",
+    "shelter_type": "weather_shelter",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2661066008,
+  "lat": 47.5240319,
+  "lon": 10.5808832,
+  "tags": {
+    "name": "Seebenalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2820361226,
+  "lat": 47.5561481,
+  "lon": 10.1735473,
+  "tags": {
+    "ele": "1070",
+    "name": "Berghütte Hornklause",
+    "tourism": "alpine_hut",
+    "website": "www.berghuette-hornklause.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2916044443,
+  "lat": 47.5530494,
+  "lon": 10.1541870,
+  "tags": {
+    "name": "Kleine Starkatsgund Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2952466275,
+  "lat": 47.4071320,
+  "lon": 12.0085877,
+  "tags": {
+    "addr:city": "Wildschönau",
+    "addr:housenumber": "140",
+    "addr:postcode": "6313",
+    "addr:street": "Hohlriedweg, Auffach",
+    "addr:suburb": "Auffach",
+    "name": "Hohlriederalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3075534776,
+  "lat": 47.5728640,
+  "lon": 12.1121261,
+  "tags": {
+    "addr:city": "Langkampfen",
+    "addr:country": "AT",
+    "addr:housenumber": "1",
+    "addr:postcode": "6336",
+    "addr:street": "Pendling",
+    "alt_name": "Kufsteinerhaus am Pendling",
+    "capacity": "70",
+    "contact:fax": "+43 5376 4333",
+    "contact:mobile": "+43 664 2140710",
+    "contact:phone": "+43 5376 5374",
+    "contact:website": "www.pendlinghaus.at",
+    "ele": "1537",
+    "name": "Pendlinghaus",
+    "shower": "no",
+    "source": "knowledge",
+    "tourism": "alpine_hut",
+    "wikidata": "Q23689394",
+    "wikipedia": "de:Pendlinghaus"
+  }
+},
+{
+  "type": "node",
+  "id": 3205233326,
+  "lat": 47.4923888,
+  "lon": 10.9893200,
+  "tags": {
+    "ele": "1428",
+    "name": "Griesbergalm",
+    "source": "gpx path",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3479300542,
+  "lat": 47.2925280,
+  "lon": 11.3792723,
+  "tags": {
+    "addr:city": "Innsbruck",
+    "addr:country": "AT",
+    "addr:housenumber": "36",
+    "addr:postcode": "6020",
+    "addr:street": "Umbrückleralmweg",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "delivery": "no",
+    "ele": "1123",
+    "name": "Umbrüggler Alm",
+    "opening_hours": "Mo,We-Su 09:00-19:30",
+    "operator": "Sonja Schütz",
+    "outdoor_seating": "yes",
+    "phone": "+43 664 3244 543",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3574612493,
+  "lat": 47.6000992,
+  "lon": 10.4686188,
+  "tags": {
+    "ele": "1150",
+    "name": "Haslach-Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3666572493,
+  "lat": 46.8286670,
+  "lon": 10.9919142,
+  "tags": {
+    "addr:city": "Sölden",
+    "addr:country": "AT",
+    "addr:postcode": "6456",
+    "capacity": "93",
+    "ele": "2430",
+    "internet_access": "no",
+    "name": "Langtalereckhütte",
+    "operator": "DAV Sektion Karlsruhe",
+    "payment:maestro": "no",
+    "payment:mastercard": "no",
+    "phone": "+43 664 4245824",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpenverein-karlsruhe.de/index.php?id=27",
+    "wikidata": "Q1805422",
+    "wikipedia": "de:Langtalereckhütte",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3742777445,
+  "lat": 49.0847260,
+  "lon": 13.2805732,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3750133035,
+  "lat": 48.9740913,
+  "lon": 12.8832382,
+  "tags": {
+    "name": "Fosthaus Ödwies",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3785851604,
+  "lat": 49.8717712,
+  "lon": 11.9207417,
+  "tags": {
+    "access": "private",
+    "name": "Hütte Anzenberg",
+    "operator": "Fichtelgebirgsverein",
+    "start_date": "1927",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3815591877,
+  "lat": 49.0262487,
+  "lon": 12.8192596,
+  "tags": {
+    "name": "Naturfreundehaus Viechtacher Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4252158087,
+  "lat": 47.3631536,
+  "lon": 10.8294061,
+  "tags": {
+    "name": "AlpenRetreat",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4301874729,
+  "lat": 49.8130408,
+  "lon": 11.3592336,
+  "tags": {
+    "description": "In Form eines Pilzes ",
+    "name": "Schutzhütte ",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4307334991,
+  "lat": 47.5414654,
+  "lon": 10.1034261,
+  "tags": {
+    "ele": "1045",
+    "name": "Alpe Kuhschwand",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4332684409,
+  "lat": 47.5810894,
+  "lon": 10.0556155,
+  "tags": {
+    "name": "Juget Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4360003466,
+  "lat": 48.9969457,
+  "lon": 10.6981890,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4360487622,
+  "lat": 48.7139841,
+  "lon": 13.6071605,
+  "tags": {
+    "name": "Haller-Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4380695893,
+  "lat": 47.9113123,
+  "lon": 11.2713594,
+  "tags": {
+    "name": "Roswitha's House",
+    "name:de": "Roswitha's House",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4383657207,
+  "lat": 49.4556982,
+  "lon": 10.7946718,
+  "tags": {
+    "name": "Waldkeller",
+    "name:de": "Waldkeller",
+    "name:en": "Forest chamber",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4397709992,
+  "lat": 46.9730428,
+  "lon": 12.5189571,
+  "tags": {
+    "amenity": "restaurant",
+    "beds": "16",
+    "cuisine": "regional",
+    "ele": "1848",
+    "email": "zunigalm@tele2.at",
+    "internet_access": "no",
+    "name": "Zunigalm",
+    "outdoor_seating": "yes",
+    "phone": "+43 664 9059063",
+    "rooms": "2",
+    "tourism": "alpine_hut",
+    "website": "http://www.hinterbichl.at/lodges/zunigalm.php"
+  }
+},
+{
+  "type": "node",
+  "id": 4413147393,
+  "lat": 47.5355997,
+  "lon": 10.0682867,
+  "tags": {
+    "name": "Ochsenschwand-Alpe",
+    "name:de": "Ochsenschwand-Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4590779990,
+  "lat": 47.1308591,
+  "lon": 11.3207088,
+  "tags": {
+    "addr:street": "Außerrain",
+    "internet_access": "wlan",
+    "name": "pfurtschell 1",
+    "name:de": "pfurtschell 1",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4684762786,
+  "lat": 47.4148457,
+  "lon": 12.2866674,
+  "tags": {
+    "addr:city": "Kirchberg in Tirol",
+    "addr:housenumber": "17",
+    "addr:postcode": "6365",
+    "addr:street": "Gaisberg",
+    "amenity": "restaurant",
+    "capacity": "34",
+    "cuisine": "austrian",
+    "ele": "1504",
+    "email": "kobingerhuette@aon.at",
+    "name": "Kobingerhütte",
+    "opening_hours": "May-Oct 14:00-10:00",
+    "phone": "+43 664 3218553",
+    "reservation": "recommended",
+    "tourism": "alpine_hut",
+    "website": "http://www.kitzbueheler-alpen.com/de/kirchberg/unterkuenfte/details/huette-schutzhuette/kobingerhuette.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4853837636,
+  "lat": 47.4769133,
+  "lon": 12.0900276,
+  "tags": {
+    "addr:city": "Wörgl",
+    "addr:country": "AT",
+    "addr:housenumber": "30",
+    "addr:place": "Winkl",
+    "addr:postcode": "6300",
+    "addr:street": "Winkl",
+    "alt_name": "Möslalm",
+    "amenity": "restaurant",
+    "at_bev:addr_date": "2016-10-02",
+    "cuisine": "regional",
+    "name": "Almgasthof Möslalm",
+    "opening_hours": "We-Su 09:00-18:00",
+    "phone": "+436648906000",
+    "smoking": "yes",
+    "tourism": "alpine_hut",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4858362723,
+  "lat": 47.4569217,
+  "lon": 12.5402150,
+  "tags": {
+    "addr:city": "Fieberbrunn",
+    "addr:country": "AT",
+    "addr:housenumber": "56",
+    "addr:place": "Almen",
+    "addr:postcode": "6391",
+    "addr:street": "Almen",
+    "amenity": "restaurant",
+    "at_bev:addr_date": "2016-10-02",
+    "cuisine": "regional",
+    "name": "Streuböden",
+    "source": "bing",
+    "tourism": "alpine_hut"
+  }
+}
+
+  ]
+}

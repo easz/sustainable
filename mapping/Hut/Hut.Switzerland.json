@@ -1,0 +1,4651 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2017-06-14T05:37:12Z",
+    "timestamp_areas_base": "2017-06-14T04:17:12Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 33655239,
+  "lat": 46.5101001,
+  "lon": 7.7716514,
+  "tags": {
+    "addr:city": "Kandersteg",
+    "addr:postcode": "3718",
+    "addr:street": "Hohtürli",
+    "ele": "2840",
+    "name": "Blümlisalphütte SAC",
+    "name:ru": "Блюмлисальпхютте",
+    "operator": "SAC",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.bluemlisalphuette.com",
+    "website": "http://www.bluemlisalphuette.com/typo3/"
+  }
+},
+{
+  "type": "node",
+  "id": 167075461,
+  "lat": 46.6004697,
+  "lon": 8.0600510,
+  "tags": {
+    "AlpinRes_ID": "CH6621",
+    "amenity": "restaurant",
+    "book_url": "http://alpinres.org/hut/CH6621",
+    "name": "Bäregghütte",
+    "tourism": "alpine_hut",
+    "website": "http://www.baeregg.com"
+  }
+},
+{
+  "type": "node",
+  "id": 251402989,
+  "lat": 46.1445569,
+  "lon": 7.8498067,
+  "tags": {
+    "ele": "2886",
+    "name": "Bordierhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 251403227,
+  "lat": 46.1094153,
+  "lon": 7.8888023,
+  "tags": {
+    "ele": "3335",
+    "name": "Mischabelhütte AACZ",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 264130866,
+  "lat": 46.1051946,
+  "lon": 8.8146588,
+  "tags": {
+    "name": "Rifugio St. Anna",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 270447880,
+  "lat": 46.4814914,
+  "lon": 8.8842260,
+  "tags": {
+    "capacity": "40",
+    "ele": "1867",
+    "name": "Capanna Piandios",
+    "operator": "Sci Club Crap",
+    "rooms": "3",
+    "source": "wikipedia and website",
+    "tourism": "alpine_hut",
+    "website": "http://www.sciclubcrap.ch/index.php/capanna",
+    "wikidata": "Q3656718",
+    "wikipedia": "it:Capanna Piandios"
+  }
+},
+{
+  "type": "node",
+  "id": 279111950,
+  "lat": 45.9391793,
+  "lon": 7.3808865,
+  "tags": {
+    "ele": "2462",
+    "name": "Cabane de Chanrion",
+    "phone": "+41 27 778 12 09",
+    "tourism": "alpine_hut",
+    "website": "www.chanrion.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 280112009,
+  "lat": 46.8143966,
+  "lon": 9.0264763,
+  "tags": {
+    "ele": "2482",
+    "name": "Bifertenhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 286235358,
+  "lat": 46.7834547,
+  "lon": 8.6339800,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Bergrestaurant Sunniggratli",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 292679738,
+  "lat": 46.0471750,
+  "lon": 7.5657416,
+  "tags": {
+    "ele": "2415",
+    "name": "Bricola",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 292696311,
+  "lat": 46.5292800,
+  "lon": 9.7244293,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chamanna Jenatsch",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 294171060,
+  "lat": 46.0300454,
+  "lon": 7.7210607,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2337",
+    "name": "Berggasthaus Trift",
+    "opening_hours": "Jun-Sep",
+    "operator": "Familie Hugo und Fabienne Biner",
+    "phone": "+41 79 408 70 20",
+    "place": "isolated_dwelling",
+    "tourism": "alpine_hut",
+    "website": "http://www.zermatt.net/trift/"
+  }
+},
+{
+  "type": "node",
+  "id": 294172182,
+  "lat": 46.0485913,
+  "lon": 7.6973458,
+  "tags": {
+    "name": "Rothornhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 300640400,
+  "lat": 45.9995794,
+  "lon": 7.0438531,
+  "tags": {
+    "ele": "3170",
+    "name": "Cabane du Trient",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 301539989,
+  "lat": 46.6451302,
+  "lon": 9.8751431,
+  "tags": {
+    "ele": "2625",
+    "email": "kesch@kesch.ch",
+    "internet_access": "no",
+    "name": "Chamanna digl Kesch",
+    "name:de": "Keschhütte SAC",
+    "name:en": "Kesch Alpine Hut",
+    "operator": "Ursina + Reto Barblan",
+    "phone": "+41 81 407 11 34",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.kesch.ch",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 302898492,
+  "lat": 46.0136689,
+  "lon": 7.2065712,
+  "tags": {
+    "ele": "2473",
+    "name": "Cabane de Mille",
+    "phone": "+41 277832425",
+    "tourism": "alpine_hut",
+    "website": "www.cabanedemille.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 308530181,
+  "lat": 46.2111472,
+  "lon": 7.6315188,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 309750964,
+  "lat": 46.0303387,
+  "lon": 7.2741806,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2103",
+    "name": "Cabane Brunet",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 309753126,
+  "lat": 45.9303713,
+  "lon": 7.2716746,
+  "tags": {
+    "ele": "3037",
+    "name": "Cabane de Valsorey",
+    "tourism": "alpine_hut",
+    "website": "http://www.valsorey.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 309753131,
+  "lat": 45.9169357,
+  "lon": 7.2454615,
+  "tags": {
+    "ele": "2642",
+    "name": "Cabane du Vélan",
+    "operator": "CAS Bourg-Saint-Pierre",
+    "phone": "+41 27 787 13 13",
+    "tourism": "alpine_hut",
+    "website": "http://www.velan.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 309753135,
+  "lat": 45.9987317,
+  "lon": 7.2998005,
+  "tags": {
+    "ele": "2645",
+    "name": "Cabane de Pannossière",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 309757022,
+  "lat": 45.9764385,
+  "lon": 7.0703669,
+  "tags": {
+    "ele": "2691",
+    "name": "Cabane de Saleinaz CAS",
+    "operator": "CAS Section Neuchâteloise",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 309758417,
+  "lat": 46.0060315,
+  "lon": 7.5277859,
+  "tags": {
+    "ele": "3311",
+    "name": "Cabane de Bertol CAS",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 309759750,
+  "lat": 46.0835574,
+  "lon": 7.2810186,
+  "tags": {
+    "ele": "2457",
+    "name": "Cabane Mont-Fort",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 310636097,
+  "lat": 46.3970393,
+  "lon": 10.1186141,
+  "tags": {
+    "ele": "1985",
+    "name": "Rifugio SAC Lungacqua Saoseo",
+    "name:de": "Saoseo-Hütte",
+    "operator": "SAC Bernina",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 316985701,
+  "lat": 46.0600605,
+  "lon": 7.9350236,
+  "tags": {
+    "ele": "3030",
+    "name": "Britanniahütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 317003744,
+  "lat": 46.5260592,
+  "lon": 8.1730257,
+  "tags": {
+    "ele": "3258",
+    "name": "Oberaarjochhütte",
+    "operator": "SAC",
+    "tourism": "alpine_hut",
+    "website": "http://www.oberaarjochhuette.ch",
+    "wikidata": "Q16101794",
+    "wikipedia": "de:Oberaarjochhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 330254882,
+  "lat": 46.8676964,
+  "lon": 9.2399194,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Segneshütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 340804147,
+  "lat": 46.6764957,
+  "lon": 8.5519035,
+  "tags": {
+    "capacity": "58",
+    "ele": "2105",
+    "name": "Salbithütte",
+    "phone": "+41 41 885 14 31",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 346129276,
+  "lat": 46.5600297,
+  "lon": 8.8885673,
+  "tags": {
+    "capacity": "42",
+    "ele": "1870",
+    "name": "Capanna Bovarina",
+    "operator": "UTOE sezione di Bellinzona",
+    "phone": "+41(0)918721529",
+    "tourism": "alpine_hut",
+    "website": "http://www.utoe.ch/?id=471",
+    "wikidata": "Q3656699",
+    "wikipedia": "it:Capanna Bovarina"
+  }
+},
+{
+  "type": "node",
+  "id": 347728701,
+  "lat": 46.2105726,
+  "lon": 7.4746433,
+  "tags": {
+    "ele": "2244",
+    "name": "Cabane du Mont-Noble",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 355924435,
+  "lat": 46.3527502,
+  "lon": 7.5221645,
+  "tags": {
+    "ele": "2400",
+    "name": "Petit Mt Bonvin",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 357918718,
+  "lat": 46.3423949,
+  "lon": 7.5002522,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "2209",
+    "name": "Cabane des Violettes",
+    "operator": "SAC - CAS",
+    "place": "locality",
+    "tourism": "alpine_hut",
+    "url": "http://www.casmontana.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 363827629,
+  "lat": 46.5945273,
+  "lon": 8.6580085,
+  "tags": {
+    "name": "Vermigel Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 370412159,
+  "lat": 46.7308966,
+  "lon": 9.6437835,
+  "tags": {
+    "ele": "2293",
+    "name": "Ramozhütte SAC",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 385280126,
+  "lat": 46.5219629,
+  "lon": 8.1144707,
+  "tags": {
+    "ele": "3048",
+    "name": "Finsteraarhornhütte",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1418340",
+    "wikipedia": "de:Finsteraarhornhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 403804920,
+  "lat": 46.5329795,
+  "lon": 7.1322880,
+  "tags": {
+    "building": "yes",
+    "ele": "1632.6723633",
+    "name": "Cabane Bounavaux",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 404577440,
+  "lat": 46.6184639,
+  "lon": 7.8689379,
+  "tags": {
+    "ele": "1955",
+    "name": "Lobhorn Hutte",
+    "phone": "+41 79 656 53 20",
+    "tourism": "alpine_hut",
+    "website": "http://www.lobhornhuette.ch/",
+    "wikidata": "Q2364721",
+    "wikipedia": "de:Suls-Lobhorn-Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 413544181,
+  "lat": 46.2628804,
+  "lon": 9.0633216,
+  "tags": {
+    "capacity": "60",
+    "ele": "1904",
+    "name": "Capanna Brogoldone",
+    "operator": "Associazione Amici Capanna Brogoldone",
+    "source": "website and wikipedia",
+    "tourism": "alpine_hut",
+    "website": "http://www.brogoldone.ch",
+    "wikidata": "Q3656698",
+    "wikipedia": "it:Capanna Brogoldone"
+  }
+},
+{
+  "type": "node",
+  "id": 414760318,
+  "lat": 45.9569132,
+  "lon": 7.8145694,
+  "tags": {
+    "ele": "2795",
+    "name": "Neue Monte Rosa Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 415531314,
+  "lat": 47.0216020,
+  "lon": 9.7765302,
+  "tags": {
+    "name": "Gruscher Älpli",
+    "place": "locality",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 415531315,
+  "lat": 47.0101422,
+  "lon": 9.7984535,
+  "tags": {
+    "name": "Alp Drusa",
+    "place": "locality",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 417142883,
+  "lat": 46.0627665,
+  "lon": 9.0448652,
+  "tags": {
+    "capacity": "40",
+    "ele": "1347",
+    "name": "Capanna del Pairolo",
+    "operator": "SAT Lugano",
+    "tourism": "alpine_hut",
+    "website": "http://www.capannapairolo.ch",
+    "wikidata": "Q3656741",
+    "wikipedia": "it:Capanna del Pairolo"
+  }
+},
+{
+  "type": "node",
+  "id": 426925727,
+  "lat": 46.9657993,
+  "lon": 8.6759883,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Metzg-Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 431430088,
+  "lat": 46.8830140,
+  "lon": 9.4822113,
+  "tags": {
+    "name": "Calandahütte SAC",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 435179295,
+  "lat": 46.4002923,
+  "lon": 7.5744936,
+  "tags": {
+    "ele": "2502",
+    "name": "Lämmerenhütte",
+    "operator": "SAC",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.laemmerenhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 439996234,
+  "lat": 46.8699061,
+  "lon": 8.4279827,
+  "tags": {
+    "ele": "1610",
+    "name": "Berggasthaus Bannalpsee",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 441372537,
+  "lat": 46.6344884,
+  "lon": 9.0050908,
+  "tags": {
+    "capacity": "110",
+    "contact:phone": "+41 81 943 1205",
+    "ele": "2170",
+    "guarded_season": "jun-nov",
+    "name": "Camona da Terri",
+    "name:de": "Terrihütte",
+    "operator": "SAC - CAS",
+    "source": "website",
+    "tourism": "alpine_hut",
+    "website": "http://www.terrihuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 441570713,
+  "lat": 46.7001922,
+  "lon": 8.1789421,
+  "tags": {
+    "ele": "1272",
+    "name": "Reutsperre",
+    "operator": "Naturfreunde",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 441696594,
+  "lat": 46.8000486,
+  "lon": 8.5755027,
+  "tags": {
+    "addr:postcode": "6472",
+    "ele": "1903",
+    "name": "Krönten Hütte (SAC)",
+    "operator": "SAC",
+    "phone": "+41 41 880 01 22",
+    "reg_name": "Urner, Schwyzer und Unterwaldner Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.kroentenhuette.ch",
+    "wikidata": "Q1790647",
+    "wikipedia": "de:Kröntenhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 441939911,
+  "lat": 46.5933282,
+  "lon": 9.0054430,
+  "tags": {
+    "capacity": "60",
+    "ele": "2172",
+    "guarded_season": "15jun-15oct",
+    "name": "Capanna Motterascio",
+    "operator": "CAS Ticino",
+    "tourism": "alpine_hut",
+    "website": "http://www.capannamotterascio.ch",
+    "wikidata": "Q507626",
+    "wikipedia": "it:Capanna Motterascio"
+  }
+},
+{
+  "type": "node",
+  "id": 442646725,
+  "lat": 46.4995006,
+  "lon": 7.8924532,
+  "tags": {
+    "ele": "2262",
+    "name": "Schmadrihütte (AACB www.aacb.ch/schmadri)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 443336961,
+  "lat": 46.6905297,
+  "lon": 8.4877387,
+  "tags": {
+    "ele": "2126",
+    "name": "Voralphütte SAC",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 445505188,
+  "lat": 46.8925335,
+  "lon": 9.1883517,
+  "tags": {
+    "capacity": "48",
+    "ele": "2002",
+    "name": "Martinsmadhütte",
+    "operator": "SAC-Randen",
+    "phone": "+41 55 642 1212",
+    "tourism": "alpine_hut",
+    "website": "http://www.sac-randen.ch/Huetten_Martinsmad.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 445796652,
+  "lat": 46.8575582,
+  "lon": 9.0187890,
+  "tags": {
+    "ele": "2501",
+    "name": "Muttseehütte SAC",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 445796935,
+  "lat": 46.8403130,
+  "lon": 9.0293080,
+  "tags": {
+    "ele": "2729",
+    "name": "Kistenpasshütte SAC",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 447610711,
+  "lat": 46.1610833,
+  "lon": 9.1280009,
+  "tags": {
+    "ele": "1585",
+    "name": "Alpe di Giumello",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 449340086,
+  "lat": 46.1814054,
+  "lon": 9.1208360,
+  "tags": {
+    "capacity": "40",
+    "ele": "1765",
+    "name": "Capanna Gesero",
+    "operator": "UTOE Bellinzona",
+    "tourism": "alpine_hut",
+    "website": "http://www.utoe.ch/?id=470",
+    "wikidata": "Q3656739",
+    "wikipedia": "it:Capanna del Gesero"
+  }
+},
+{
+  "type": "node",
+  "id": 452629133,
+  "lat": 46.5465894,
+  "lon": 8.7196139,
+  "tags": {
+    "capacity": "75",
+    "ele": "1987",
+    "name": "Capanna Cadagno",
+    "operator": "SAT Ritom",
+    "phone": "0918681323",
+    "rooms": "10",
+    "tourism": "alpine_hut",
+    "website": "www.satritom.ch",
+    "wikidata": "Q3656700",
+    "wikipedia": "it:Capanna Cadagno"
+  }
+},
+{
+  "type": "node",
+  "id": 453210817,
+  "lat": 46.3949990,
+  "lon": 7.8170408,
+  "tags": {
+    "ele": "2565",
+    "name": "Bietschhornhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 454394985,
+  "lat": 46.5451932,
+  "lon": 7.8382057,
+  "tags": {
+    "ele": "2040",
+    "name": "Rotstockhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 454394987,
+  "lat": 46.5488462,
+  "lon": 7.8740173,
+  "tags": {
+    "name": "Spielboden",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 454641956,
+  "lat": 46.7795427,
+  "lon": 8.7984837,
+  "tags": {
+    "name": "Hinterbalmhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 454642322,
+  "lat": 46.7424370,
+  "lon": 8.8142692,
+  "tags": {
+    "ele": "2649",
+    "name": "Cavardirashütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 456418356,
+  "lat": 46.5316414,
+  "lon": 8.8796271,
+  "tags": {
+    "capacity": "54",
+    "ele": "1748",
+    "name": "Capanna Dötra",
+    "operator": "SAT Lucomagno",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3656703",
+    "wikipedia": "it:Capanna Dötra"
+  }
+},
+{
+  "type": "node",
+  "id": 458393161,
+  "lat": 46.3386913,
+  "lon": 7.2154746,
+  "tags": {
+    "ele": "2485",
+    "name": "Diablerets",
+    "operator": "CAS",
+    "source": "camptocamp.org",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 458393162,
+  "lat": 46.3212719,
+  "lon": 7.1948249,
+  "tags": {
+    "ele": "2293",
+    "name": "Refuge de Pierredar",
+    "source": "camptocamp.org",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 458867305,
+  "lat": 46.0405371,
+  "lon": 7.3684790,
+  "tags": {
+    "ele": "3280",
+    "name": "Bivoucac des Pantalons-blancs",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 458872952,
+  "lat": 46.1964911,
+  "lon": 6.8130620,
+  "tags": {
+    "ele": "1981",
+    "name": "Refuge de Chésery",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461016641,
+  "lat": 46.9149045,
+  "lon": 8.4642399,
+  "tags": {
+    "ele": "1753",
+    "name": "Brisenhaus",
+    "phone": "041 628 18 91",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 471606544,
+  "lat": 46.1056715,
+  "lon": 7.8059672,
+  "tags": {
+    "ele": "2220",
+    "name": "Europahütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 476715329,
+  "lat": 46.5667797,
+  "lon": 8.0206851,
+  "tags": {
+    "ele": "3299",
+    "name": "Berglihütte SAC",
+    "operator": "SAC",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-bern.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 476929508,
+  "lat": 47.1983112,
+  "lon": 9.2274559,
+  "tags": {
+    "name": "Ochsenlager",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 477609574,
+  "lat": 46.8339438,
+  "lon": 9.1206293,
+  "tags": {
+    "ele": "1827",
+    "name": "Alp Ranasca",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 479094150,
+  "lat": 46.1438957,
+  "lon": 7.9781227,
+  "tags": {
+    "ele": "2726",
+    "name": "Weissmieshütte SAC",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 479305503,
+  "lat": 46.4122405,
+  "lon": 9.9650500,
+  "tags": {
+    "ele": "2976",
+    "name": "Berghaus Diavolezza",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 480304997,
+  "lat": 46.4039863,
+  "lon": 9.8799822,
+  "tags": {
+    "ele": "2583",
+    "name": "Chamanna da Tschierva",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 480396365,
+  "lat": 46.6214933,
+  "lon": 9.1669634,
+  "tags": {
+    "name": "Hängela",
+    "source": "survey",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-albis.ch/huetten/haengela-clubhuette/"
+  }
+},
+{
+  "type": "node",
+  "id": 488452215,
+  "lat": 46.9155142,
+  "lon": 9.2754977,
+  "tags": {
+    "ele": "2158",
+    "name": "Sardonahütte",
+    "operator": "SAC",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 492882014,
+  "lat": 46.0554783,
+  "lon": 7.0496537,
+  "tags": {
+    "ele": "1987",
+    "name": "Bovine",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 495999684,
+  "lat": 46.1076085,
+  "lon": 8.0077309,
+  "tags": {
+    "ele": "2894",
+    "name": "Almagellerhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 496009411,
+  "lat": 46.1011476,
+  "lon": 7.9848001,
+  "tags": {
+    "ele": "2194",
+    "name": "Almagelleralp",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 502559694,
+  "lat": 46.5555214,
+  "lon": 8.1522305,
+  "tags": {
+    "ele": "2731",
+    "name": "Aarbiwak",
+    "operator": "SAC Pilatus",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "shelter_type": "basic_hut",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-pilatus.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559697,
+  "lat": 46.4990926,
+  "lon": 8.9957370,
+  "tags": {
+    "capacity": "34",
+    "ele": "2012",
+    "name": "Capanna Adula CAS",
+    "operator": "SAC - CAS",
+    "tourism": "alpine_hut",
+    "url": "http://www.capannaadula.ch/",
+    "wikidata": "Q378873",
+    "wikipedia": "it:Capanna Adula CAS"
+  }
+},
+{
+  "type": "node",
+  "id": 502559707,
+  "lat": 46.3299396,
+  "lon": 9.6551066,
+  "tags": {
+    "ele": "2336",
+    "name": "Capanna da l'Albigna CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sachoherrohn.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559712,
+  "lat": 46.2712887,
+  "lon": 8.5892916,
+  "tags": {
+    "capacity": "27",
+    "ele": "1734",
+    "name": "Capanna Alzasca",
+    "operator": "CAS Locarno",
+    "reg_name": "Alpi ticinesi",
+    "tourism": "alpine_hut",
+    "website": "http://www.cas-locarno.ch/",
+    "wikidata": "Q3656691",
+    "wikipedia": "it:Capanna Alzasca"
+  }
+},
+{
+  "type": "node",
+  "id": 502559726,
+  "lat": 46.5869668,
+  "lon": 8.2825761,
+  "tags": {
+    "ele": "2328",
+    "name": "Bächlitalhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.baechlitalhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559731,
+  "lat": 46.3949746,
+  "lon": 7.8897880,
+  "tags": {
+    "ele": "2783",
+    "name": "Baltschiederklause SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.rhone.ch/baltschiederklause"
+  }
+},
+{
+  "type": "node",
+  "id": 502559739,
+  "lat": 46.4395420,
+  "lon": 8.5141290,
+  "tags": {
+    "capacity": "60",
+    "ele": "1856",
+    "name": "Capanna Basodino CAS",
+    "operator": "SAC - CAS sezione di Locarno",
+    "reg_name": "Alpi ticinesi",
+    "tourism": "alpine_hut",
+    "website": "http://www.cas-locarno.ch",
+    "wikidata": "Q3656695",
+    "wikipedia": "it:Capanna Basòdino"
+  }
+},
+{
+  "type": "node",
+  "id": 502559743,
+  "lat": 46.4152334,
+  "lon": 9.9250798,
+  "tags": {
+    "ele": "2495",
+    "name": "Chamanna da Boval CAS",
+    "name:de": "Boval-Hütte",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-bernina.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559748,
+  "lat": 45.9709143,
+  "lon": 7.5306963,
+  "tags": {
+    "ele": "2980",
+    "name": "Refuge des Bouquetins CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.cas-valdejoux.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 502559755,
+  "lat": 46.4442266,
+  "lon": 8.7326694,
+  "tags": {
+    "capacity": "71",
+    "ele": "2140",
+    "name": "Capanna Campo Tencia",
+    "operator": "CAS Ticino",
+    "reg_name": "Alpi ticinesi",
+    "tourism": "alpine_hut",
+    "website": "http://www.campotencia.ch",
+    "wikidata": "Q3656736",
+    "wikipedia": "it:Capanna del Campo Tencia"
+  }
+},
+{
+  "type": "node",
+  "id": 502559763,
+  "lat": 46.8594790,
+  "lon": 8.9355670,
+  "tags": {
+    "ele": "2457",
+    "name": "Claridenhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Glarner und St. Galler Alpen, Alpstein",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-bachtel.ch/claridenh.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 502559768,
+  "lat": 46.4670761,
+  "lon": 8.4100474,
+  "tags": {
+    "capacity": "50",
+    "ele": "2338",
+    "name": "Capanna Corno Gries CAS",
+    "note": "2 Etappe GTA Capanna Corno Gries - Rifugio Margaroli 5.30 Std 17 km 1010 auf 1150 ab",
+    "operator": "CAS Bellinzona e valli",
+    "reg_name": "Alpi ticinesi",
+    "tourism": "alpine_hut",
+    "website": "http://www.casbellinzona.ch",
+    "wikidata": "Q3656742",
+    "wikipedia": "it:Capanna del Corno Gries"
+  }
+},
+{
+  "type": "node",
+  "id": 502559776,
+  "lat": 46.6448663,
+  "lon": 8.4577823,
+  "tags": {
+    "ele": "2430",
+    "name": "Dammahütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Urner, Schwyzer und Unterwaldner Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.sac-pilatus.ch/huetten/dammahuette/"
+  }
+},
+{
+  "type": "node",
+  "id": 502559780,
+  "lat": 46.3838188,
+  "lon": 9.8354088,
+  "tags": {
+    "ele": "2610",
+    "name": "Chamanna Coaz CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.coaz.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559792,
+  "lat": 46.4718542,
+  "lon": 8.5261924,
+  "tags": {
+    "capacity": "120",
+    "ele": "2568",
+    "name": "Capanna Cristallina",
+    "operator": "CAS Ticino",
+    "reg_name": "Alpi ticinesi",
+    "tourism": "alpine_hut",
+    "website": "http://www.capannacristallina.ch/",
+    "wikidata": "Q1140244",
+    "wikipedia": "it:Capanna Cristallina"
+  }
+},
+{
+  "type": "node",
+  "id": 502559797,
+  "lat": 46.0202089,
+  "lon": 7.6008200,
+  "tags": {
+    "ele": "3507",
+    "name": "Cabane de la Dent Blanche CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.cas-jaman.ch/cabanes/dent_blanche.php"
+  }
+},
+{
+  "type": "node",
+  "id": 502559803,
+  "lat": 46.5933288,
+  "lon": 9.3590157,
+  "tags": {
+    "ele": "2385",
+    "name": "Cufercalhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.cufercal.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559807,
+  "lat": 46.6551130,
+  "lon": 8.1693892,
+  "tags": {
+    "ele": "2663",
+    "name": "Dossenhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.dossenhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559811,
+  "lat": 46.0419192,
+  "lon": 7.6070395,
+  "tags": {
+    "ele": "3540",
+    "name": "Col de la Dent Blanche CAS Bivouac",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.cas-jaman.ch/cabanes/bivouac.php"
+  }
+},
+{
+  "type": "node",
+  "id": 502559817,
+  "lat": 46.1027787,
+  "lon": 7.8176427,
+  "tags": {
+    "ele": "2940",
+    "name": "Domhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.domhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559835,
+  "lat": 46.8213050,
+  "lon": 8.9500233,
+  "tags": {
+    "ele": "2111",
+    "name": "Fridolinshütten SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Glarner und St. Galler Alpen, Alpstein",
+    "tourism": "alpine_hut",
+    "url": "http://www.fridolinshuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559854,
+  "lat": 47.0016058,
+  "lon": 8.9635939,
+  "tags": {
+    "ele": "1990",
+    "name": "Glärnischhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Glarner und St. Galler Alpen, Alpstein",
+    "source": "GPS",
+    "tourism": "alpine_hut",
+    "url": "http://www.glhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559863,
+  "lat": 46.5627465,
+  "lon": 7.9743995,
+  "tags": {
+    "ele": "2791",
+    "name": "Guggihütte",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-interlaken.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 502559865,
+  "lat": 46.3318317,
+  "lon": 9.7094883,
+  "tags": {
+    "ele": "2574",
+    "name": "Capanna del Forno CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.fornohuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559868,
+  "lat": 46.9168403,
+  "lon": 8.8750058,
+  "tags": {
+    "ele": "1896",
+    "name": "Glattalphütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "4 Glarner und St. Galler Alpen, Alpstein",
+    "tourism": "alpine_hut",
+    "url": "http://www.glattalphuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559873,
+  "lat": 46.9351593,
+  "lon": 8.6926599,
+  "tags": {
+    "ele": "1727",
+    "name": "Lidernenhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Urner, Schwyzer und Unterwaldner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.lidernenhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559876,
+  "lat": 46.8018251,
+  "lon": 8.8189945,
+  "tags": {
+    "ele": "2334",
+    "name": "Hüfihütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Urner, Schwyzer und Unterwaldner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-pilatus.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559880,
+  "lat": 46.6251051,
+  "lon": 8.0965635,
+  "tags": {
+    "ele": "2317",
+    "name": "Glecksteinhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.gleckstein.ch",
+    "wikidata": "Q1530186",
+    "wikipedia": "de:Glecksteinhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 502559883,
+  "lat": 46.8104637,
+  "lon": 8.9412257,
+  "tags": {
+    "abandoned": "yes",
+    "ele": "2448",
+    "name": "Grünhornhütte",
+    "reg_name": "Glarner und St. Galler Alpen, Alpstein",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-toedi.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559891,
+  "lat": 46.5415668,
+  "lon": 9.0417828,
+  "tags": {
+    "ele": "2090",
+    "name": "Läntahütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.laenta.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559893,
+  "lat": 46.5127552,
+  "lon": 7.8102482,
+  "tags": {
+    "ele": "2458",
+    "name": "Gspaltenhornhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.gspaltenhornhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559894,
+  "lat": 46.7793865,
+  "lon": 10.0829135,
+  "tags": {
+    "ele": "2327",
+    "name": "Chamanna dal Linard CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.alpinist.ch/Default.aspx?tabid=250"
+  }
+},
+{
+  "type": "node",
+  "id": 502559908,
+  "lat": 46.2607415,
+  "lon": 8.0803184,
+  "tags": {
+    "ele": "2848",
+    "name": "Monte Leone-Hütte",
+    "operator": "SAC - CAS, Section Sommartel",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.cas-sommartel.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559914,
+  "lat": 46.6405072,
+  "lon": 8.9138109,
+  "tags": {
+    "ele": "2524",
+    "name": "Camona da Medel CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.medelserhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559919,
+  "lat": 46.6253633,
+  "lon": 8.6901242,
+  "tags": {
+    "ele": "2309",
+    "name": "Camona da Maighels CAS",
+    "name:de": "Maighels-Hütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.maighelshuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559920,
+  "lat": 46.8461925,
+  "lon": 8.4627601,
+  "tags": {
+    "ele": "2290",
+    "name": "Rugghubelhütte SAC",
+    "operator": "SAC - CAS",
+    "phone": "+41 41 637 20 64",
+    "reg_name": "Urner, Schwyzer und Unterwaldner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.rugghubel.ch",
+    "website": "http://www.rugghubel.ch/",
+    "wikidata": "Q1755421",
+    "wikipedia": "de:Rugghubel"
+  }
+},
+{
+  "type": "node",
+  "id": 502559925,
+  "lat": 46.8657736,
+  "lon": 9.3806466,
+  "tags": {
+    "ele": "1998",
+    "name": "Ringelspitzhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Glarner und St. Galler Alpen, Alpstein",
+    "tourism": "alpine_hut",
+    "url": "http://www.ringelspitz.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559932,
+  "lat": 46.8199797,
+  "lon": 8.8805581,
+  "tags": {
+    "ele": "2947",
+    "name": "Planurahütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Glarner und St. Galler Alpen, Alpstein",
+    "tourism": "alpine_hut",
+    "url": "http://www.planura.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559934,
+  "lat": 46.7772891,
+  "lon": 8.9560326,
+  "tags": {
+    "ele": "2311",
+    "name": "Camona da Punteglias CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Glarner und St. Galler Alpen, Alpstein",
+    "tourism": "alpine_hut",
+    "url": "http://www.punteglias.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 502559935,
+  "lat": 46.4249019,
+  "lon": 7.9738360,
+  "tags": {
+    "ele": "2640",
+    "name": "Oberaletschhütte",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.oberaletsch.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559956,
+  "lat": 46.3153207,
+  "lon": 9.5824307,
+  "tags": {
+    "ele": "1904",
+    "name": "Capanna Sasc Furä CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.bregaglia.ch/casbregaglia/capanna.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 502559958,
+  "lat": 46.8545438,
+  "lon": 10.0414541,
+  "tags": {
+    "ele": "2341",
+    "name": "Silvrettahütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.silvrettahuette.ch",
+    "wikidata": "Q2286881",
+    "wikipedia": "de:Silvrettahütte"
+  }
+},
+{
+  "type": "node",
+  "id": 502559961,
+  "lat": 46.5000489,
+  "lon": 9.0939342,
+  "tags": {
+    "ele": "2276",
+    "name": "Zapporthütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.zapport.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559963,
+  "lat": 46.0515706,
+  "lon": 7.8300141,
+  "tags": {
+    "ele": "2701",
+    "name": "Täschhütte",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.taeschhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559966,
+  "lat": 45.9414253,
+  "lon": 7.4541099,
+  "tags": {
+    "ele": "3179",
+    "name": "L'Aiguillette à la Singla CAS Bivouac",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 502559969,
+  "lat": 46.8739007,
+  "lon": 10.0094258,
+  "tags": {
+    "ele": "2065",
+    "name": "Seetalhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.sac-stgallen.ch",
+    "wikidata": "Q2265696",
+    "wikipedia": "de:Seetalhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 502559971,
+  "lat": 46.5489879,
+  "lon": 7.9335823,
+  "tags": {
+    "ele": "2663",
+    "name": "Silberhornhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-lauterbrunnen.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559977,
+  "lat": 46.0859594,
+  "lon": 7.7435489,
+  "tags": {
+    "ele": "2932",
+    "name": "Weisshornhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-basel.ch/unsere-huetten"
+  }
+},
+{
+  "type": "node",
+  "id": 502559987,
+  "lat": 46.6950101,
+  "lon": 8.3480882,
+  "tags": {
+    "ele": "1887",
+    "name": "Windegghütten SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Urner, Schwyzer und Unterwaldner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.windegghuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502559991,
+  "lat": 45.9898152,
+  "lon": 7.4756753,
+  "tags": {
+    "ele": "3160",
+    "name": "Cabane des Vignettes CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.section-monte-rosa.ch/cabanes_2.htm",
+    "wikidata": "Q627312"
+  }
+},
+{
+  "type": "node",
+  "id": 502559997,
+  "lat": 46.1568813,
+  "lon": 7.7620513,
+  "tags": {
+    "ele": "2674",
+    "name": "Topalihütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.topalihitta.ch.vu"
+  }
+},
+{
+  "type": "node",
+  "id": 502560001,
+  "lat": 46.7186045,
+  "lon": 8.6494530,
+  "tags": {
+    "ele": "1475",
+    "name": "Treschhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Urner, Schwyzer und Unterwaldner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.treschhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 502925545,
+  "lat": 46.6831781,
+  "lon": 8.1728265,
+  "tags": {
+    "ele": "1901",
+    "name": "Engelhornhütte",
+    "operator": "AACB ( www.aacb.ch/engelhorn)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 505804029,
+  "lat": 46.6003091,
+  "lon": 8.0414212,
+  "tags": {
+    "ele": "2317",
+    "name": "Eiger-Ostegghütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 514017580,
+  "lat": 46.5974640,
+  "lon": 8.4267758,
+  "tags": {
+    "ele": "2710",
+    "name": "Sidelenhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 534239500,
+  "lat": 46.3447073,
+  "lon": 7.8618115,
+  "tags": {
+    "ele": "2470",
+    "name": "Wiwanni-Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 558566002,
+  "lat": 46.8244070,
+  "lon": 10.2038960,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "alpine_hut",
+    "ele": "1980",
+    "name": "Alp Valmala",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 558566046,
+  "lat": 46.8143889,
+  "lon": 10.2449704,
+  "tags": {
+    "access": "private",
+    "ele": "2444",
+    "name": "Alp Clünas",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 566646171,
+  "lat": 46.0847860,
+  "lon": 7.8957631,
+  "tags": {
+    "ele": "2869",
+    "name": "Längfluehütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 567341871,
+  "lat": 46.2328879,
+  "lon": 7.6143013,
+  "tags": {
+    "ele": "2340",
+    "name": "Cabane Bella Tola",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 567918331,
+  "lat": 47.2669920,
+  "lon": 9.4476311,
+  "tags": {
+    "ele": "1231",
+    "name": "Tannhütte NFS",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 568030396,
+  "lat": 45.9024798,
+  "lon": 7.2055861,
+  "tags": {
+    "name": "Cabane du Plan du Jeu",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 599053941,
+  "lat": 46.2295352,
+  "lon": 8.9250628,
+  "tags": {
+    "capacity": "27",
+    "ele": "1912",
+    "name": "Capanna Borgna",
+    "operator": "Società Escursionistica Verzaschese (SEV)",
+    "tourism": "alpine_hut",
+    "website": "http://www.fondazioneverzasca.ch/it/41/borgna.aspx",
+    "wikidata": "Q3656696",
+    "wikipedia": "it:Capanna Borgna"
+  }
+},
+{
+  "type": "node",
+  "id": 599054541,
+  "lat": 46.2970307,
+  "lon": 8.8989243,
+  "tags": {
+    "capacity": "15",
+    "ele": "1810",
+    "name": "Capanna Alpe Fümegna",
+    "operator": "Società Escursionistica Verzaschese (SEV)",
+    "phone": "+41 79 223 96 09",
+    "tourism": "alpine_hut",
+    "website": "http://www.fondazioneverzasca.ch/it/45/fumegna.aspx",
+    "wikidata": "Q3656676",
+    "wikipedia": "it:Capanna Alpe Fümegna"
+  }
+},
+{
+  "type": "node",
+  "id": 599054989,
+  "lat": 46.3384422,
+  "lon": 8.8514679,
+  "tags": {
+    "capacity": "24",
+    "ele": "2039",
+    "name": "Capanna Efra",
+    "operator": "Società Escursionistica Verzaschese (SEV)",
+    "phone": "+41 774 46 84 50",
+    "tourism": "alpine_hut",
+    "website": "http://www.fondazioneverzasca.ch/it/44/efra.aspx",
+    "wikidata": "Q3656733",
+    "wikipedia": "it:Capanna d'Efra"
+  }
+},
+{
+  "type": "node",
+  "id": 599060022,
+  "lat": 46.3764712,
+  "lon": 8.8131781,
+  "tags": {
+    "capacity": "20",
+    "ele": "1938",
+    "name": "Capanna Cognóra",
+    "operator": "Società Escursionistica Verzaschese (SEV)",
+    "phone": "+41 79 400 71 81",
+    "tourism": "alpine_hut",
+    "website": "http://www.fondazioneverzasca.ch/it/42/cogn%C3%B3ra.aspx",
+    "wikidata": "Q3656702",
+    "wikipedia": "it:Capanna Cognöra"
+  }
+},
+{
+  "type": "node",
+  "id": 603124660,
+  "lat": 47.0109783,
+  "lon": 9.1840971,
+  "tags": {
+    "ele": "1763",
+    "name": "Skihütte Mülibachtal",
+    "source": "survey",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 606276003,
+  "lat": 47.3603315,
+  "lon": 7.8663787,
+  "tags": {
+    "name": "Naturfreundehaus Rumpel",
+    "opening_hours": "Su 10:00-17:00",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 618925584,
+  "lat": 46.8141561,
+  "lon": 9.9829347,
+  "tags": {
+    "ele": "1943",
+    "name": "Berghaus Vereina",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 619481245,
+  "lat": 46.7473464,
+  "lon": 9.8144145,
+  "tags": {
+    "ele": "2281",
+    "name": "Hubelhütte",
+    "place": "isolated_dwelling",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 623049400,
+  "lat": 46.8221750,
+  "lon": 10.0217709,
+  "tags": {
+    "name": "Vernela-Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 660990611,
+  "lat": 46.6237521,
+  "lon": 8.2166385,
+  "tags": {
+    "ele": "2205",
+    "name": "Gaulihütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.gauli.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 691039123,
+  "lat": 46.3165140,
+  "lon": 8.4712184,
+  "tags": {
+    "capacity": "36",
+    "ele": "1907",
+    "name": "Capanna Grossalp",
+    "operator": "UTOE Locarno",
+    "rooms": "4",
+    "tourism": "alpine_hut",
+    "website": "http://www.capannagrossalp.ch",
+    "wikidata": "Q166779",
+    "wikipedia": "it:Capanna Grossalp"
+  }
+},
+{
+  "type": "node",
+  "id": 693459979,
+  "lat": 46.0980950,
+  "lon": 7.3323946,
+  "tags": {
+    "ele": "2485",
+    "name": "Refuge de Saint-Laurent",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 732210826,
+  "lat": 47.2223309,
+  "lon": 7.3846640,
+  "tags": {
+    "name": "Clubhaus SAC Grenchen",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 765901189,
+  "lat": 46.5330218,
+  "lon": 8.6679764,
+  "tags": {
+    "capacity": "8",
+    "ele": "2208",
+    "name": "Rifugio Föisc",
+    "operator": "Patriziato di Altanca",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 767186314,
+  "lat": 46.5277449,
+  "lon": 7.0075287,
+  "tags": {
+    "ele": "1356",
+    "name": "Les Moilles",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 768420889,
+  "lat": 46.5374589,
+  "lon": 6.2186355,
+  "tags": {
+    "name": "Cabane de l'Ecureuil",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 806852750,
+  "lat": 47.1690125,
+  "lon": 9.0811966,
+  "tags": {
+    "ele": "1375",
+    "name": "Federihütte",
+    "tourism": "alpine_hut",
+    "website": "http://federihuette.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 810642741,
+  "lat": 46.9021783,
+  "lon": 9.2246313,
+  "tags": {
+    "ele": "2627",
+    "name": "Mountain Lodge Segnespass",
+    "tourism": "alpine_hut",
+    "url": "http://www.segnespass.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 826743342,
+  "lat": 46.7088135,
+  "lon": 7.2074489,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 826743419,
+  "lat": 46.7110976,
+  "lon": 7.2085239,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Crau",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 829479093,
+  "lat": 46.8993197,
+  "lon": 9.1138619,
+  "tags": {
+    "ele": "1700",
+    "name": "Skihütte Erbs",
+    "operator": "Skiclub Elm",
+    "tourism": "alpine_hut",
+    "url": "http://www.scelm.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 830496026,
+  "lat": 47.0246137,
+  "lon": 9.5523761,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Heidialp",
+    "phone": "+41792212930",
+    "place": "isolated_dwelling",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 831017002,
+  "lat": 46.4871562,
+  "lon": 9.9557591,
+  "tags": {
+    "ele": "3180",
+    "name": "Georgy's Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 836286496,
+  "lat": 46.0922770,
+  "lon": 7.6333661,
+  "tags": {
+    "ele": "2142",
+    "name": "Cab. Petit Mountet",
+    "tourism": "alpine_hut",
+    "website": "http://petitmountet.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 846567863,
+  "lat": 46.0222764,
+  "lon": 7.7380066,
+  "tags": {
+    "ele": "1961",
+    "name": "Edelweisshütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 849977275,
+  "lat": 46.0466343,
+  "lon": 6.9939012,
+  "tags": {
+    "name": "Gite d'etape du Peuty (Dortoir Peuty)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 852444508,
+  "lat": 46.0128467,
+  "lon": 7.8109732,
+  "tags": {
+    "ele": "2614",
+    "name": "Fluhalp",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 859295026,
+  "lat": 46.5527394,
+  "lon": 7.0027670,
+  "tags": {
+    "ele": "1480",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "Le Gros Plané",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 861366635,
+  "lat": 46.0999835,
+  "lon": 9.0138244,
+  "tags": {
+    "amenity": "restaurant",
+    "amenity_1": "hotel",
+    "capacity": "34",
+    "ele": "1600",
+    "name": "Capanna Monte Bar",
+    "operator": "CAS Ticino",
+    "phone": "+41 (0)91 9663322",
+    "tourism": "alpine_hut",
+    "website": "http://www.capannamontebar.ch/index.php",
+    "wikidata": "Q3656740",
+    "wikipedia": "it:Capanna del Monte Bar"
+  }
+},
+{
+  "type": "node",
+  "id": 863482746,
+  "lat": 46.7968433,
+  "lon": 10.1755122,
+  "tags": {
+    "ele": "2303",
+    "name": "Maranguns",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 863484248,
+  "lat": 46.7997923,
+  "lon": 10.1841982,
+  "tags": {
+    "access": "private",
+    "contact:email": "jon-fadri@bluewin.ch",
+    "contact:phone": "+41 81 862 21 96",
+    "ele": "2476",
+    "name": "Chamanna Cler",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 863484596,
+  "lat": 46.7921898,
+  "lon": 10.1726291,
+  "tags": {
+    "ele": "2142",
+    "name": "Murtera Dadoura",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 863484741,
+  "lat": 46.7930243,
+  "lon": 10.1804121,
+  "tags": {
+    "ele": "2149",
+    "name": "Murtera Dadaint",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 864151416,
+  "lat": 46.7930360,
+  "lon": 10.0936893,
+  "tags": {
+    "ele": "1953",
+    "name": "Alp d'immez",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 874400889,
+  "lat": 47.0020764,
+  "lon": 8.5391415,
+  "tags": {
+    "ele": "850",
+    "name": "Arche Ruchenberg",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 875523472,
+  "lat": 47.2611422,
+  "lon": 9.2974207,
+  "tags": {
+    "email": "info@chraezerli.ch",
+    "image": "http://www.chraezerli.ch/images/Bilder/startbild.jpg",
+    "name": "Berggasthaus Chräzerli",
+    "phone": "+41 71 364 11 24",
+    "tourism": "alpine_hut",
+    "website": "http://www.chraezerli.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 909452730,
+  "lat": 47.6329232,
+  "lon": 9.1596309,
+  "tags": {
+    "ele": "513",
+    "name": "Waldhütte Pfaffenwies",
+    "operator": "Bürgergemeinde Kreuzlingen",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 910354156,
+  "lat": 46.8808585,
+  "lon": 9.8139069,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1570.2",
+    "name": "Skihaus Schifer",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 918684560,
+  "lat": 46.9744364,
+  "lon": 10.3597165,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 923351942,
+  "lat": 46.5489051,
+  "lon": 8.2774599,
+  "tags": {
+    "contact:email": "welcome@grimselhotels.ch",
+    "contact:phone": "+41 33 982 36 11",
+    "name": "Berghaus Oberaar",
+    "operator": "KWO Kraftwerke Oberaar",
+    "tourism": "alpine_hut",
+    "website": "http://www.grimselwelt.ch/grimselhotels/oberaar/"
+  }
+},
+{
+  "type": "node",
+  "id": 926803016,
+  "lat": 47.3057140,
+  "lon": 9.5131916,
+  "tags": {
+    "ele": "1209",
+    "name": "Inneralp",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 926803025,
+  "lat": 47.3117896,
+  "lon": 9.5022738,
+  "tags": {
+    "ele": "1168",
+    "name": "Eichenwieser Schwamm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 929432254,
+  "lat": 46.4669515,
+  "lon": 8.7187647,
+  "tags": {
+    "capacity": "60",
+    "ele": "2257",
+    "name": "Capanna Leit",
+    "operator": "SAT Mendrisio",
+    "rooms": "6",
+    "tourism": "alpine_hut",
+    "website": "http://www.capanna-leit.ch",
+    "wikidata": "Q3656712",
+    "wikipedia": "it:Capanna Leìt"
+  }
+},
+{
+  "type": "node",
+  "id": 935823808,
+  "lat": 47.2758308,
+  "lon": 9.4848586,
+  "tags": {
+    "amenity": "restaurant",
+    "ele": "1200",
+    "name": "Rohralpe",
+    "place": "locality",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 936745007,
+  "lat": 45.9533069,
+  "lon": 7.1554957,
+  "tags": {
+    "ele": "2005",
+    "name": "Cabane de la Tsissette",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 939635834,
+  "lat": 46.3660957,
+  "lon": 8.6888051,
+  "tags": {
+    "capacity": "10",
+    "ele": "1882",
+    "name": "Rifugio Tomeo",
+    "operator": "Patriziato di Broglio",
+    "tourism": "alpine_hut",
+    "website": "http://www.vialtavallemaggia.ch/rifugi_e_capanne.html",
+    "wikidata": "Q3935660",
+    "wikipedia": "it:Rifugio Tomeo"
+  }
+},
+{
+  "type": "node",
+  "id": 949911069,
+  "lat": 46.2794388,
+  "lon": 8.8975657,
+  "tags": {
+    "capacity": "24",
+    "ele": "1991",
+    "name": "Capanna Cornavosa",
+    "operator": "Società Escursionistica Verzaschese (SEV)",
+    "phone": "+41798927299",
+    "tourism": "alpine_hut",
+    "website": "http://www.fondazioneverzasca.ch/it/58/cornavosa.aspx",
+    "wikidata": "Q1034200",
+    "wikipedia": "it:Capanna Cornavòsa"
+  }
+},
+{
+  "type": "node",
+  "id": 981226499,
+  "lat": 46.8899974,
+  "lon": 8.5667524,
+  "tags": {
+    "name": "Geisshittae",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1116128090,
+  "lat": 46.7825744,
+  "lon": 7.9060843,
+  "tags": {
+    "ele": "1805",
+    "name": "Hohganthütte SAC",
+    "operator": "SAC",
+    "reg_name": "SAC Emmental",
+    "tourism": "alpine_hut",
+    "url": "www.sac-emmental.ch/hohganthuette/"
+  }
+},
+{
+  "type": "node",
+  "id": 1189809806,
+  "lat": 47.2201601,
+  "lon": 9.1058501,
+  "tags": {
+    "name": "Tanzbodenhütte",
+    "operator": "SAC",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1212971626,
+  "lat": 46.7517064,
+  "lon": 8.4707938,
+  "tags": {
+    "ele": "2257",
+    "name": "Sustlihütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Urner, Schwyzer und Unterwaldner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sustlihuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 1238926594,
+  "lat": 47.4070336,
+  "lon": 8.2328374,
+  "tags": {
+    "name": "Ortsbürgerhaus (Naturfreundehaus)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1238926600,
+  "lat": 47.4080322,
+  "lon": 8.2327807,
+  "tags": {
+    "name": "Turnerhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1277971959,
+  "lat": 47.2084201,
+  "lon": 7.2177238,
+  "tags": {
+    "name": "Cabane Rochette",
+    "operator": "Club Alpin Suisse - Section Pierre-Pertuis",
+    "source": "http://www.jo-sac.ch/pierre-pertuis/",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1329988239,
+  "lat": 47.0229720,
+  "lon": 6.8430224,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1331208175,
+  "lat": 46.5797702,
+  "lon": 6.4026783,
+  "tags": {
+    "internet_access": "no",
+    "name": "La Bouennaz",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1341091199,
+  "lat": 46.8414376,
+  "lon": 8.7044351,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Stafelalp",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1341552316,
+  "lat": 46.1990600,
+  "lon": 8.8316000,
+  "tags": {
+    "capacity": "10",
+    "cuisine": "regional",
+    "ele": "1150",
+    "name": "Capanna dei Monti di Lego",
+    "operator": "Parrocchia di Mergoscia",
+    "tourism": "alpine_hut",
+    "website": "http://www.fondazioneverzasca.ch/it/46/monti_di_lego.aspx",
+    "wikidata": "Q3656732",
+    "wikipedia": "it:Capanna dei Monti di Lego"
+  }
+},
+{
+  "type": "node",
+  "id": 1349631178,
+  "lat": 46.4730931,
+  "lon": 9.0236643,
+  "tags": {
+    "capacity": "58",
+    "ele": "2107",
+    "name": "Capanna Quarnei",
+    "operator": "Società Alpinistica Bassa Blenio",
+    "rooms": "6",
+    "tourism": "alpine_hut",
+    "website": "http://www.quarnei.ch/SABB/sabb/index.htm",
+    "wikidata": "Q2122324",
+    "wikipedia": "it:Capanna Quarnèi"
+  }
+},
+{
+  "type": "node",
+  "id": 1357042368,
+  "lat": 46.9939041,
+  "lon": 7.9416032,
+  "tags": {
+    "name": "Gruppenunterkunft Mettlenalp",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1384171668,
+  "lat": 46.6257797,
+  "lon": 7.7817908,
+  "tags": {
+    "internet_access": "no",
+    "name": "Brunnialp",
+    "operator": "Skiclub Leissigen",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "www.scleissigen.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 1386596356,
+  "lat": 46.4643297,
+  "lon": 7.6559179,
+  "tags": {
+    "ele": "1832",
+    "name": "Stock",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1386596359,
+  "lat": 46.4602906,
+  "lon": 7.6494170,
+  "tags": {
+    "ele": "1897",
+    "name": "Winteregghütte",
+    "operator": "SAC",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1386652541,
+  "lat": 46.5764612,
+  "lon": 7.2634787,
+  "tags": {
+    "AlpinRes_ID": "CH8249",
+    "book_url": "http://alpinres.org/hut/CH8249",
+    "name": "Chalet Du Soldat",
+    "tourism": "alpine_hut",
+    "website": "www.chaletdusoldat.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 1386656353,
+  "lat": 46.5921363,
+  "lon": 7.2962218,
+  "tags": {
+    "name": "Chalet Grat",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1388234388,
+  "lat": 47.7473496,
+  "lon": 8.6019817,
+  "tags": {
+    "name": "Buechberghuus",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1404889731,
+  "lat": 46.5613763,
+  "lon": 9.6025792,
+  "tags": {
+    "ele": "1983",
+    "name": "Tscharnoz",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1408362656,
+  "lat": 46.5231760,
+  "lon": 7.8933302,
+  "tags": {
+    "ele": "1678",
+    "name": "Berggasthaus Tschingelhorn",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1411615467,
+  "lat": 46.5647784,
+  "lon": 7.6936617,
+  "tags": {
+    "name": "Grathütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1431293779,
+  "lat": 46.4953103,
+  "lon": 9.0076299,
+  "tags": {
+    "capacity": "54",
+    "ele": "2393",
+    "name": "Capanna Adula UTOE",
+    "operator": "Unione ticinesi operai escursionisti sezione di Bellinzona",
+    "phone": "+41 (0)91 872 16 75",
+    "tourism": "alpine_hut",
+    "url": "http://www.utoe.ch/?id=473",
+    "wikidata": "Q378877",
+    "wikipedia": "it:Capanna Adula UTOE"
+  }
+},
+{
+  "type": "node",
+  "id": 1444317646,
+  "lat": 46.1963953,
+  "lon": 8.9507598,
+  "tags": {
+    "capacity": "12",
+    "ele": "1460",
+    "name": "Capanna Mognone",
+    "operator": "Patriziato di Sementina",
+    "rooms": "1",
+    "tourism": "alpine_hut",
+    "website": "http://www.patriziato-sementina.ch/beni-patriziali/capanna-mognone/",
+    "wikidata": "Q3656677",
+    "wikipedia": "it:Capanna Alpe Mognone"
+  }
+},
+{
+  "type": "node",
+  "id": 1444373827,
+  "lat": 46.1969831,
+  "lon": 8.9325464,
+  "tags": {
+    "capacity": "17",
+    "ele": "1400",
+    "name": "Capanna Orino",
+    "operator": "Patriziato di Gudo",
+    "tourism": "alpine_hut",
+    "website": "http://www.patriziatodigudo.ch/la%20capanna%20di%20orino.htm",
+    "wikidata": "Q3656682",
+    "wikipedia": "it:Capanna Alpe d'Orino"
+  }
+},
+{
+  "type": "node",
+  "id": 1444601155,
+  "lat": 46.2224779,
+  "lon": 8.9564198,
+  "tags": {
+    "capacity": "28",
+    "ele": "1870",
+    "name": "Capanna Albagno",
+    "operator": "UTOE sezione Bellinzona",
+    "rooms": "3",
+    "tourism": "alpine_hut",
+    "website": "http://www.utoe.ch/?id=472",
+    "wikidata": "Q3656673",
+    "wikipedia": "it:Capanna Albagno"
+  }
+},
+{
+  "type": "node",
+  "id": 1453574187,
+  "lat": 47.1095150,
+  "lon": 9.4143990,
+  "tags": {
+    "ele": "2343",
+    "name": "Gipfelhütte Alvier",
+    "tourism": "alpine_hut",
+    "website": "http://www.vs-wallis.ch/stgallen/huetverz/alvier.html"
+  }
+},
+{
+  "type": "node",
+  "id": 1455740431,
+  "lat": 46.3816304,
+  "lon": 9.1636242,
+  "tags": {
+    "ele": "2375",
+    "name": "Rif. Ganan",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1455745725,
+  "lat": 46.3510431,
+  "lon": 9.1484316,
+  "tags": {
+    "name": "Cap. Buffalora ASAC",
+    "operator": "ASAC",
+    "showers": "yes",
+    "toilets": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1455771718,
+  "lat": 46.2970430,
+  "lon": 9.1392059,
+  "tags": {
+    "name": "Alp di Fora",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1456255696,
+  "lat": 46.9615594,
+  "lon": 9.5208613,
+  "tags": {
+    "name": "Naturfreunde Haus",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1456288909,
+  "lat": 46.3830189,
+  "lon": 7.4676662,
+  "tags": {
+    "ele": "2793",
+    "hiking": "yes",
+    "information": "guidepost",
+    "name": "Wildstrubelhütte",
+    "tourism": "alpine_hut",
+    "website": "http://www.wildstrubelhuette.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 1457531549,
+  "lat": 46.5724732,
+  "lon": 8.4151788,
+  "tags": {
+    "name": "Furkapasshöhe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1458720984,
+  "lat": 46.0885386,
+  "lon": 7.8071258,
+  "tags": {
+    "ele": "2584",
+    "name": "Kinhütte",
+    "operator": "Gebrüder Imboden, Täsch",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1471284408,
+  "lat": 47.0561655,
+  "lon": 8.9229054,
+  "tags": {
+    "ele": "1433",
+    "internet_access": "no",
+    "name": "Lufthütte",
+    "operator": "Jugend SAC Bachtel",
+    "tourism": "alpine_hut",
+    "website": "www.jo-bachtel.ch/lufthuette.php"
+  }
+},
+{
+  "type": "node",
+  "id": 1477990680,
+  "lat": 46.7837067,
+  "lon": 6.5503536,
+  "tags": {
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "Refuge de Champvent",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1484822890,
+  "lat": 47.6394821,
+  "lon": 9.1553807,
+  "tags": {
+    "access": "private",
+    "name": "Blockhütte Bernrain",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1494606593,
+  "lat": 46.6903405,
+  "lon": 6.7540427,
+  "tags": {
+    "name": "Buvette des Brigands",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1502035631,
+  "lat": 46.4892190,
+  "lon": 8.2428788,
+  "tags": {
+    "name": "Galmihornhuette 2113m",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1504364042,
+  "lat": 46.6377342,
+  "lon": 7.2588441,
+  "tags": {
+    "elevation": "1522",
+    "name": "Cerniets",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1515827528,
+  "lat": 46.6332031,
+  "lon": 7.2853529,
+  "tags": {
+    "name": "Obere Euschels",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1515827540,
+  "lat": 46.6412989,
+  "lon": 7.2897731,
+  "tags": {
+    "name": "Untere Euschels",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1515827543,
+  "lat": 46.6295452,
+  "lon": 7.2828906,
+  "tags": {
+    "name": "Ritzlialp",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1523330871,
+  "lat": 46.6704747,
+  "lon": 7.3401847,
+  "tags": {
+    "name": "Schönenboden",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1523330872,
+  "lat": 46.6757824,
+  "lon": 7.3357455,
+  "tags": {
+    "name": "Hohberg",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1541332254,
+  "lat": 46.4914750,
+  "lon": 9.7944505,
+  "tags": {
+    "name": "Alp Suvretta",
+    "place": "locality",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1541334427,
+  "lat": 46.4980854,
+  "lon": 9.8180486,
+  "tags": {
+    "name": "Alp Giop",
+    "place": "locality",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1541345785,
+  "lat": 46.5047641,
+  "lon": 9.8289958,
+  "tags": {
+    "name": "Alp Nova",
+    "place": "locality",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1560644414,
+  "lat": 46.3434500,
+  "lon": 7.3841567,
+  "tags": {
+    "ele": "2508",
+    "name": "Cabane des Audannes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1576617817,
+  "lat": 46.4044007,
+  "lon": 7.1323733,
+  "tags": {
+    "ele": "1646",
+    "name": "Pra Cornet",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1636500966,
+  "lat": 46.4112612,
+  "lon": 7.4994647,
+  "tags": {
+    "addr:city": "Lenk",
+    "addr:postcode": "3775",
+    "description": "Schutzhütte, Übernachtung möglich. Reservation von Vorteil.",
+    "ele": "2049",
+    "name": "Flueseehütte, Fluhseehütte",
+    "operator": "Fluhseeverein Lenk",
+    "phone": "+41 78 926 08 92",
+    "tourism": "alpine_hut",
+    "website": "www.fluhsee.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 1640528415,
+  "lat": 46.4745442,
+  "lon": 7.5995257,
+  "tags": {
+    "capacity": "40",
+    "ele": "2171",
+    "email": "grabemattli@gmail.com",
+    "name": "Lohnerhütte SAC",
+    "note": "Fotos auch bei: http://www.flickr.com/photos/wildstrubel/with/2157190645/",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.sac-wildstrubel.ch/Organisation/Lohnerhuette/lohnerhuette.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 1646019239,
+  "lat": 46.5714327,
+  "lon": 9.6927017,
+  "tags": {
+    "ele": "2177",
+    "name": "Alp d'Err",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1646019245,
+  "lat": 46.5611024,
+  "lon": 9.5530208,
+  "tags": {
+    "name": "Berghaus Radons",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1652116747,
+  "lat": 46.4928284,
+  "lon": 9.6520050,
+  "tags": {
+    "ele": "1963",
+    "name": "Alp Natons",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1674467728,
+  "lat": 46.5818360,
+  "lon": 8.0986915,
+  "tags": {
+    "ele": "2529",
+    "name": "Schreckhornhütte SAC",
+    "operator": "SAC",
+    "phone": "+41 33 855 10 25",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-basel.ch/unsere-huetten",
+    "website": "http://www.sac-basel.ch/huetten/schreckhornhuette/",
+    "wikidata": "Q2249586",
+    "wikipedia": "de:Schreckhornhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1721033780,
+  "lat": 46.5754884,
+  "lon": 6.6449978,
+  "tags": {
+    "name": "Chalet Scout",
+    "operator": "La Croisée",
+    "tourism": "alpine_hut",
+    "website": "http://filac.croisee.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 1749539210,
+  "lat": 47.0818023,
+  "lon": 8.9397199,
+  "tags": {
+    "name": "Hohfläschenhütte",
+    "source": "Swiss Topo Map No. 1153",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1750605043,
+  "lat": 46.8509793,
+  "lon": 7.9814478,
+  "tags": {
+    "building": "yes",
+    "ele": "1904",
+    "name": "Heftihütte",
+    "operator": "SAC Emmental",
+    "tourism": "alpine_hut",
+    "website": "http://www.sac-emmental.ch/heftihuette/"
+  }
+},
+{
+  "type": "node",
+  "id": 1791356848,
+  "lat": 46.0996504,
+  "lon": 8.7885444,
+  "tags": {
+    "capacity": "10",
+    "ele": "1255",
+    "name": "Rifugio Alpetto di Caviano",
+    "operator": "Patriziato di Caviano",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3656690",
+    "wikipedia": "it:Capanna Alpetto di Caviano"
+  }
+},
+{
+  "type": "node",
+  "id": 1794102443,
+  "lat": 46.6966782,
+  "lon": 7.4417406,
+  "tags": {
+    "name": "Obriste Morgeten",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1795440360,
+  "lat": 47.3302523,
+  "lon": 7.9156622,
+  "tags": {
+    "name": "Hühnerweid",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1801396000,
+  "lat": 46.6923247,
+  "lon": 7.4381964,
+  "tags": {
+    "name": "Mittliste Morgete",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1808513049,
+  "lat": 47.1426112,
+  "lon": 9.2460245,
+  "tags": {
+    "ele": "1410",
+    "name": "Alp Schwaldis",
+    "place": "isolated_dwelling",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1808513075,
+  "lat": 47.1378928,
+  "lon": 9.2386485,
+  "tags": {
+    "ele": "1413",
+    "name": "Säls",
+    "place": "isolated_dwelling",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1809765120,
+  "lat": 46.5416874,
+  "lon": 7.6868072,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1817573871,
+  "lat": 46.5933957,
+  "lon": 9.7973171,
+  "tags": {
+    "name": "Alp Zavretta",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1818068910,
+  "lat": 46.2938617,
+  "lon": 8.0933482,
+  "tags": {
+    "ele": "2113",
+    "name": "Bortelhütten",
+    "operator": "Skiklub Brig-Simplon",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1858252647,
+  "lat": 46.9425091,
+  "lon": 8.9693586,
+  "tags": {
+    "ele": "1606",
+    "name": "Ober Stafel",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1858253373,
+  "lat": 46.9264241,
+  "lon": 8.9726099,
+  "tags": {
+    "ele": "1735",
+    "name": "Rieter Ortsstafel",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1908640117,
+  "lat": 46.7886969,
+  "lon": 10.1559190,
+  "tags": {
+    "name": "Alp Sura",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1908789326,
+  "lat": 46.7813395,
+  "lon": 10.1006355,
+  "tags": {
+    "name": "Alp Lavinuoz Dadoura",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2028391169,
+  "lat": 46.7054221,
+  "lon": 7.2246239,
+  "tags": {
+    "ele": "1035",
+    "name": "Feyersaga",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2106728795,
+  "lat": 46.9782289,
+  "lon": 8.1761769,
+  "tags": {
+    "ele": "1325",
+    "name": "Mösere Hütte",
+    "tourism": "alpine_hut",
+    "website": "www.sc-malters.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 2140653907,
+  "lat": 46.6588023,
+  "lon": 9.2817225,
+  "tags": {
+    "addr:city": "Safien",
+    "addr:housename": "Camaner-Ställi",
+    "addr:postcode": "7107",
+    "addr:street": "Camana",
+    "name": "Camaner-Ställi",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2246524495,
+  "lat": 47.7617600,
+  "lon": 8.5742163,
+  "tags": {
+    "name": "Hasenbuckhütte",
+    "operator": "SAC",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2323746001,
+  "lat": 46.3575123,
+  "lon": 9.0303116,
+  "tags": {
+    "capacity": "42",
+    "ele": "2066",
+    "name": "Capanna di Cava",
+    "operator": "UTOE Torrone d'Orza",
+    "tourism": "alpine_hut",
+    "website": "http://www.utoe-biasca.ch/index.php?page=capanna-cava-3",
+    "wikidata": "Q3656744",
+    "wikipedia": "it:Capanna di Cava"
+  }
+},
+{
+  "type": "node",
+  "id": 2344504403,
+  "lat": 46.5181558,
+  "lon": 7.8854900,
+  "tags": {
+    "ele": "1778",
+    "name": "Berghotel Obersteinberg",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2349506772,
+  "lat": 47.2834049,
+  "lon": 9.4143850,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Berggasthaus Aescher-Wildkirchli",
+    "operator": "Bernhard und Nicole Knechtle",
+    "phone": "+41 71 799 11 42",
+    "tourism": "alpine_hut",
+    "website": "http://www.aescher-ai.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 2390854383,
+  "lat": 47.0177953,
+  "lon": 9.5832053,
+  "tags": {
+    "ele": "1773",
+    "fixme": "name",
+    "name": "Mittelsäss",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2392556626,
+  "lat": 47.1411648,
+  "lon": 9.2614107,
+  "tags": {
+    "ele": "1285",
+    "name": "Alp Schrina",
+    "place": "isolated_dwelling",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2400526754,
+  "lat": 46.2663815,
+  "lon": 7.2746129,
+  "tags": {
+    "AlpinRes_ID": "CH1976",
+    "book_url": "http://alpinres.org/hut/CH1976",
+    "name": "Refuge d’ Airoz (Refuge d’ Aïroz)",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpe-airoz.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2470070886,
+  "lat": 46.2513252,
+  "lon": 8.5416081,
+  "tags": {
+    "ele": "1996",
+    "fireplace": "yes",
+    "name": "Capanna Ribia",
+    "operator": "Patriziato generale d'Onsernone",
+    "source": "wikipedia",
+    "tourism": "alpine_hut",
+    "website": "http://www.onsernone.ch/index.php?option=com_hotelguide&view=hotel&id=6%3Arifugio-ribia&Itemid=190&lang=it",
+    "wikidata": "Q3656724",
+    "wikipedia": "it:Capanna Ribia"
+  }
+},
+{
+  "type": "node",
+  "id": 2525115043,
+  "lat": 46.7826095,
+  "lon": 8.7979487,
+  "tags": {
+    "name": "Düssi Ald",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2587129508,
+  "lat": 46.1905041,
+  "lon": 9.1823747,
+  "tags": {
+    "access": "yes",
+    "amenity": "shelter",
+    "capacity": "6",
+    "ele": "1663",
+    "fireplace": "yes",
+    "locked": "no",
+    "name": "Rifugio Cortin",
+    "note": "In september it is reserved by local hunters.",
+    "operator": "Patriziato di Roveredo",
+    "toilets": "no",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2602026874,
+  "lat": 46.2209620,
+  "lon": 8.5623141,
+  "tags": {
+    "capacity": "20",
+    "ele": "1777",
+    "name": "Capanna Alpe Saléi",
+    "operator": "Patriziato di Comologno",
+    "rooms": "3",
+    "source": "website and wikipedia",
+    "tourism": "alpine_hut",
+    "website": "http://www.capannasalei.ch",
+    "wikidata": "Q3656678",
+    "wikipedia": "it:Capanna Alpe Saléi"
+  }
+},
+{
+  "type": "node",
+  "id": 2663872642,
+  "lat": 46.2528669,
+  "lon": 8.9520333,
+  "tags": {
+    "ele": "1138",
+    "internet_access": "no",
+    "name": "Rifugio Alpe di Lai",
+    "operator": "Patriziato di Preonzo",
+    "tourism": "alpine_hut",
+    "website": "http://www.patriziatopreonzo.ch/capanne.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2820208447,
+  "lat": 45.8986239,
+  "lon": 7.1125973,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "email": "coppey.lapeule@dransnet.ch",
+    "name": "La Peule",
+    "shop": "convenience",
+    "tourism": "alpine_hut",
+    "website": "lapeulaz.skyrock.com"
+  }
+},
+{
+  "type": "node",
+  "id": 2851755249,
+  "lat": 46.6365569,
+  "lon": 8.6684224,
+  "tags": {
+    "ele": "2500",
+    "name": "Badushütte SAC Manegg",
+    "operator": "SAC Manegg",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2918316942,
+  "lat": 46.2581748,
+  "lon": 9.2247246,
+  "tags": {
+    "ele": "1265",
+    "name": "Capanna Miralago",
+    "phone": "0787594227",
+    "tourism": "alpine_hut",
+    "website": "http://www.valcama.ch/unterkunft_it.html"
+  }
+},
+{
+  "type": "node",
+  "id": 2936739108,
+  "lat": 46.5955682,
+  "lon": 7.2837098,
+  "tags": {
+    "name": "Bärghus Gastlosen",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2949459124,
+  "lat": 46.4060743,
+  "lon": 8.7109309,
+  "tags": {
+    "capacity": "28",
+    "ele": "1534",
+    "name": "Capanna Soveltra",
+    "operator": "SAV Bignasco",
+    "tourism": "alpine_hut",
+    "website": "http://www.sav-vallemaggia.ch",
+    "wikidata": "Q3656729",
+    "wikipedia": "it:Capanna Sovèltra"
+  }
+},
+{
+  "type": "node",
+  "id": 2969393264,
+  "lat": 46.5713012,
+  "lon": 6.2766981,
+  "tags": {
+    "alt_name": "Le Grand-Cunay",
+    "name": "Cabane du Grand-Cunay",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2969399374,
+  "lat": 46.5795639,
+  "lon": 6.2887220,
+  "tags": {
+    "name": "Cabane du Cunay",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2969402219,
+  "lat": 46.5865134,
+  "lon": 6.2957810,
+  "tags": {
+    "name": "Cabane La Pivette",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2984109058,
+  "lat": 46.4981459,
+  "lon": 6.1679021,
+  "tags": {
+    "access": "yes",
+    "name": "Les Pralets",
+    "reservation": "recommended",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3001332656,
+  "lat": 46.3505856,
+  "lon": 8.8256438,
+  "tags": {
+    "name": "Rif. Alpe Costa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3012482981,
+  "lat": 46.3855359,
+  "lon": 8.2777277,
+  "tags": {
+    "capacity": "26",
+    "contact:phone": "+41 27 971 45 48",
+    "ele": "2394",
+    "name": "Mittlenberghütte",
+    "reservation": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3021885871,
+  "lat": 46.0500834,
+  "lon": 7.0793746,
+  "tags": {
+    "name": "Plan de l'Au",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3064819881,
+  "lat": 46.5706547,
+  "lon": 9.3663244,
+  "tags": {
+    "ele": "1434",
+    "email": "m.menn@bluewin.ch",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Menn's Buurastübli",
+    "operator": "Menn Martin & Bettina",
+    "phone": "0041 (0)81 664 10 42",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3066945123,
+  "lat": 46.3795300,
+  "lon": 8.6033536,
+  "tags": {
+    "ele": "2086",
+    "name": "Rifugio Fiorasca",
+    "operator": "Società Alpinistica Valmaggese",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3066966225,
+  "lat": 46.3910545,
+  "lon": 8.4871572,
+  "tags": {
+    "alt_name": "Capanna Pian di Crest",
+    "capacity": "36",
+    "ele": "2108",
+    "name": "Capanna Piano delle Creste",
+    "operator": "Società Alpinistica Valmaggese",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3656715",
+    "wikipedia": "it:Capanna Pian di Crest"
+  }
+},
+{
+  "type": "node",
+  "id": 3099032712,
+  "lat": 46.1622105,
+  "lon": 8.1143034,
+  "tags": {
+    "name": "Lager",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3145208599,
+  "lat": 46.5701596,
+  "lon": 6.6408212,
+  "tags": {
+    "name": "Refuge de la mèbre",
+    "note": "Refuge non fermer",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3237269070,
+  "lat": 46.5330870,
+  "lon": 6.6778631,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3264446971,
+  "lat": 46.2325154,
+  "lon": 8.5146727,
+  "tags": {
+    "capacity": "30",
+    "ele": "1689",
+    "email": "patriziato.onsernone@bluewin.ch",
+    "internet_access": "no",
+    "name": "Capanna Alpe Arena",
+    "operator": "Patriziato di Onsernone",
+    "phone": "+42 0796212112",
+    "tourism": "alpine_hut",
+    "website": "http://www.capanneti.ch/huts/main.jsp?id_language=1&id_hut=50",
+    "wikidata": "Q3656692",
+    "wikipedia": "it:Capanna Arena"
+  }
+},
+{
+  "type": "node",
+  "id": 3283030825,
+  "lat": 46.3156322,
+  "lon": 8.9258210,
+  "tags": {
+    "ele": "1293",
+    "name": "Rifugio Alpe Repiano",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3335142697,
+  "lat": 46.6058904,
+  "lon": 8.2592015,
+  "tags": {
+    "ele": "2512",
+    "name": "Gruebenhütte",
+    "operator": "AAC Basel",
+    "source": "WMS camptocamp",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3404649671,
+  "lat": 46.2999975,
+  "lon": 8.9527854,
+  "tags": {
+    "capacity": "24",
+    "ele": "1570",
+    "name": "Capanna Alpe d'Alva",
+    "operator": "Patriziato di Lodrino",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3656680",
+    "wikipedia": "it:Capanna Alpe d'Alva"
+  }
+},
+{
+  "type": "node",
+  "id": 3404653402,
+  "lat": 46.0622526,
+  "lon": 9.0287094,
+  "tags": {
+    "capacity": "16",
+    "ele": "1070",
+    "name": "Baita del Luca",
+    "operator": "CAS Sezione Ticino",
+    "tourism": "alpine_hut",
+    "website": "http://www.casticino.ch",
+    "wikidata": "Q3656693",
+    "wikipedia": "it:Capanna Baita del Luca"
+  }
+},
+{
+  "type": "node",
+  "id": 3404653403,
+  "lat": 46.3957467,
+  "lon": 8.7487565,
+  "tags": {
+    "capacity": "35",
+    "ele": "2172",
+    "name": "Capanna Barone",
+    "operator": "Società Escursionistica Verzaschese (SEV)",
+    "tourism": "alpine_hut",
+    "website": "http://www.fondazioneverzasca.ch/it/40/barone.aspx",
+    "wikidata": "Q3656694",
+    "wikipedia": "it:Capanna Barone"
+  }
+},
+{
+  "type": "node",
+  "id": 3405824488,
+  "lat": 46.5716360,
+  "lon": 8.6952501,
+  "tags": {
+    "capacity": "80",
+    "ele": "2570",
+    "name": "Capanna Cadlimo",
+    "operator": "CAS Uto Zurigo",
+    "tourism": "alpine_hut",
+    "website": "http://www.cadlimohuette.ch/index.php?id=160",
+    "wikidata": "Q1025279",
+    "wikipedia": "it:Capanna Cadlimo"
+  }
+},
+{
+  "type": "node",
+  "id": 3405828397,
+  "lat": 46.5063465,
+  "lon": 8.8457079,
+  "tags": {
+    "capacity": "12",
+    "ele": "2270",
+    "name": "Capanna Gana Rossa",
+    "operator": "UTOE Pizzo Molare",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3656707",
+    "wikipedia": "it:Capanna Gana Rossa"
+  }
+},
+{
+  "type": "node",
+  "id": 3405828416,
+  "lat": 46.4989736,
+  "lon": 8.6614013,
+  "tags": {
+    "capacity": "20",
+    "ele": "1973",
+    "name": "Capanna Garzonera",
+    "operator": "SAT Ritom",
+    "tourism": "alpine_hut",
+    "website": "http://www.satritom.ch/5RG-garzonera.htm",
+    "wikidata": "Q3656705",
+    "wikipedia": "it:Capanna Garzonera"
+  }
+},
+{
+  "type": "node",
+  "id": 3405915010,
+  "lat": 46.4980084,
+  "lon": 8.9109304,
+  "tags": {
+    "capacity": "32",
+    "ele": "1800",
+    "name": "Capanna Gorda",
+    "operator": "Società Nido d'Aquila",
+    "tourism": "alpine_hut",
+    "website": "http://capannagorda.blogspot.ch",
+    "wikidata": "Q3656711",
+    "wikipedia": "it:Capanna Gorda"
+  }
+},
+{
+  "type": "node",
+  "id": 3405915049,
+  "lat": 46.2763396,
+  "lon": 8.7624044,
+  "tags": {
+    "capacity": "12",
+    "ele": "2063",
+    "name": "Capanna Alpe Masnee",
+    "operator": "Patriziato di Maggia",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3612936",
+    "wikipedia": "it:Alpe Masnee"
+  }
+},
+{
+  "type": "node",
+  "id": 3405937126,
+  "lat": 46.2520744,
+  "lon": 8.7673913,
+  "tags": {
+    "capacity": "15",
+    "ele": "1718",
+    "name": "Capanna Alpe di Nimi",
+    "operator": "Pietro Zanoli",
+    "tourism": "alpine_hut",
+    "wikidata": "Q3656688",
+    "wikipedia": "it:Capanna Alpe di Nimi"
+  }
+},
+{
+  "type": "node",
+  "id": 3406720210,
+  "lat": 46.2285548,
+  "lon": 8.8789196,
+  "tags": {
+    "ele": "1240",
+    "name": "Nucleo di Odro",
+    "tourism": "alpine_hut",
+    "website": "http://www.odro.ch",
+    "wikidata": "Q1029007",
+    "wikipedia": "it:Nucleo di Odro"
+  }
+},
+{
+  "type": "node",
+  "id": 3406726769,
+  "lat": 46.3946030,
+  "lon": 8.9384960,
+  "tags": {
+    "capacity": "37",
+    "ele": "1764",
+    "name": "Capanna Pian d'Alpe",
+    "operator": "UTOE Torrone d'Orza",
+    "rooms": "3",
+    "tourism": "alpine_hut",
+    "website": "http://www.utoe-biasca.ch/index.php?page=capanna-pian-d-alpe-2",
+    "wikidata": "Q3656717",
+    "wikipedia": "it:Capanna Pian d'Alpe"
+  }
+},
+{
+  "type": "node",
+  "id": 3406734808,
+  "lat": 46.4944149,
+  "lon": 8.4714900,
+  "tags": {
+    "capacity": "50",
+    "ele": "1982",
+    "name": "Capanna Piansecco",
+    "operator": "CAS Bellinzona e valli",
+    "source": "website and wikipedia",
+    "tourism": "alpine_hut",
+    "website": "http://www.casbellinzona.ch/new/index.php?option=com_content&view=article&id=50:capanna-piansecco&catid=39:capanne&Itemid=58",
+    "wikidata": "Q3656720",
+    "wikipedia": "it:Capanna Piansecco"
+  }
+},
+{
+  "type": "node",
+  "id": 3406753800,
+  "lat": 46.6077133,
+  "lon": 8.9402902,
+  "tags": {
+    "capacity": "40",
+    "ele": "2205",
+    "name": "Capanna Scaletta",
+    "operator": "SAT Lucomagno",
+    "tourism": "alpine_hut",
+    "wikidata": "Q2228780",
+    "wikipedia": "it:Capanna Scaletta"
+  }
+},
+{
+  "type": "node",
+  "id": 3406761911,
+  "lat": 46.4816609,
+  "lon": 8.7248928,
+  "tags": {
+    "capacity": "47",
+    "ele": "1850",
+    "name": "Capanna Tremorgio",
+    "operator": "Azienda elettrica ticinese",
+    "tourism": "alpine_hut",
+    "website": "http://www.capannatremorgio.ch",
+    "wikidata": "Q3656731"
+  }
+},
+{
+  "type": "node",
+  "id": 3431847076,
+  "lat": 47.0342490,
+  "lon": 9.2505272,
+  "tags": {
+    "ele": "2087",
+    "name": "Spitzmeilen Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3434849771,
+  "lat": 46.8544397,
+  "lon": 9.6652302,
+  "tags": {
+    "ele": "1958",
+    "name": "Skihaus Hochwang",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3440988038,
+  "lat": 46.6247056,
+  "lon": 9.2760238,
+  "tags": {
+    "ele": "1694",
+    "name": "Turrahus",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3675588302,
+  "lat": 46.6187485,
+  "lon": 9.6919131,
+  "tags": {
+    "amenity": "vending_machine",
+    "ele": "2252",
+    "name": "Chamonas d'Ela CAS",
+    "operator": "SAC - CAS",
+    "payment:coins": "yes",
+    "payment:notes": "yes",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-davos.ch",
+    "vending": "drinks"
+  }
+},
+{
+  "type": "node",
+  "id": 3769757073,
+  "lat": 47.1269863,
+  "lon": 9.4392013,
+  "tags": {
+    "ele": "1518",
+    "name": "Alp Arin",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3769757074,
+  "lat": 47.1252284,
+  "lon": 9.4475301,
+  "tags": {
+    "ele": "1337",
+    "name": "Alp Wisliboda",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3769757075,
+  "lat": 47.1243233,
+  "lon": 9.4476517,
+  "tags": {
+    "name": "Schihus Wisliboda",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3790106794,
+  "lat": 46.0867228,
+  "lon": 8.9819461,
+  "tags": {
+    "capacity": "28",
+    "ele": "985",
+    "name": "Capanna La Ginestra",
+    "operator": "Amici della Natura Sezione Lugano",
+    "rooms": "7",
+    "source": "website",
+    "tourism": "alpine_hut",
+    "website": "http://www.amicidellanatura-lugano.ch/capanna.html"
+  }
+},
+{
+  "type": "node",
+  "id": 3904552640,
+  "lat": 46.5700844,
+  "lon": 8.2220231,
+  "tags": {
+    "ele": "2393",
+    "name": "Lauteraarhütte",
+    "operator": "SAC Zofingen",
+    "tourism": "alpine_hut",
+    "url": "http://www.haslihuetten.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 3925548712,
+  "lat": 46.4512226,
+  "lon": 7.6898960,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:place": "Wildelsige",
+    "addr:postcode": "3718",
+    "ele": "1956",
+    "name": "Balmhornhütte SAC",
+    "operator": "SAC",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sac-altels.ch/huetten/balmhornhuette.php"
+  }
+},
+{
+  "type": "node",
+  "id": 3937847230,
+  "lat": 46.8689700,
+  "lon": 9.9647370,
+  "tags": {
+    "ele": "2141",
+    "name": "Fergenhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Bündner Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.sac-praettigau.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 4005499289,
+  "lat": 46.4374912,
+  "lon": 7.0860631,
+  "tags": {
+    "access": "yes",
+    "capacity": "30",
+    "name": "Cabane des Monts-Chevreuils",
+    "phone": "+41774799086",
+    "tourism": "alpine_hut",
+    "website": "http://www.monts-chevreuils.ch/cabane.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4033739489,
+  "lat": 46.6629057,
+  "lon": 10.1177302,
+  "tags": {
+    "ele": "1882",
+    "name": "Chamanna Cluozza",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1060448",
+    "wikipedia": "de:Chamanna Cluozza"
+  }
+},
+{
+  "type": "node",
+  "id": 4123484291,
+  "lat": 46.3428027,
+  "lon": 7.0056697,
+  "tags": {
+    "name:zh": "莱森酒店",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4149670483,
+  "lat": 46.1790896,
+  "lon": 9.0622676,
+  "tags": {
+    "beds": "22",
+    "name": "Capanna Genzianella",
+    "operator": "Amici della natura Sezione di Bellinzona",
+    "rooms": "1",
+    "tourism": "alpine_hut",
+    "website": "http://www.amicidellanatura-lugano.ch/",
+    "wikidata": "Q3656708",
+    "wikipedia": "it:Capanna Genzianella"
+  }
+},
+{
+  "type": "node",
+  "id": 4171185142,
+  "lat": 45.8866772,
+  "lon": 8.9884589,
+  "tags": {
+    "beds": "30",
+    "name": "Capanna La Piana",
+    "operator": "Scout Mendrisio",
+    "tourism": "alpine_hut",
+    "website": "http://www.scoutmomo.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4282097692,
+  "lat": 46.5493114,
+  "lon": 7.2520723,
+  "tags": {
+    "ele": "1840",
+    "name": "Grubenberghütte",
+    "operator": "SAC",
+    "tourism": "alpine_hut",
+    "website": "http://www.grubenberg.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4316137023,
+  "lat": 46.2579895,
+  "lon": 9.2236734,
+  "tags": {
+    "name": "Capanna Righetti Fibbioli",
+    "tourism": "alpine_hut",
+    "website": "http://www.valcama.ch/unterkunft_it.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4353984409,
+  "lat": 46.7466577,
+  "lon": 8.5210732,
+  "tags": {
+    "ele": "2150",
+    "name": "Sewenhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Urner, Schwyzer und Unterwaldner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.sewenhuette.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 4399446866,
+  "lat": 46.1302933,
+  "lon": 7.6793987,
+  "tags": {
+    "ele": "3256",
+    "name": "Cabane de Tracuit CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.tracuit.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4399542007,
+  "lat": 46.0600507,
+  "lon": 7.6535327,
+  "tags": {
+    "ele": "2886",
+    "name": "Cabane du Mountet CAS",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.cas-diablerets.ch/mountet.htm"
+  }
+},
+{
+  "type": "node",
+  "id": 4399549524,
+  "lat": 46.1008939,
+  "lon": 7.6793646,
+  "tags": {
+    "alt_name:en": "Arpitettaz Hut",
+    "alt_name:fr": "Cabane d'Ar Pitetta",
+    "contact:phone": "+41 (0)27 475 40 28",
+    "ele": "2786",
+    "name": "Cabane d'Arpitettaz",
+    "operator": "SAC CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.arpitettaz.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4399562394,
+  "lat": 46.0906851,
+  "lon": 7.5954924,
+  "tags": {
+    "ele": "2825",
+    "name": "Cabane de Moiry",
+    "operator": "SAC - CAS",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "website": "http://www.cabane-de-moiry.ch/home.php"
+  }
+},
+{
+  "type": "node",
+  "id": 4399832720,
+  "lat": 46.0303483,
+  "lon": 7.5038158,
+  "tags": {
+    "ele": "2607",
+    "name": "Cabane de la Tsa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4410357502,
+  "lat": 46.4836385,
+  "lon": 7.7418656,
+  "tags": {
+    "ele": "2562",
+    "name": "Fründenhütte",
+    "operator": "SAC",
+    "phone": "+41 33 675 14 33",
+    "tourism": "alpine_hut",
+    "url": "http://www.fruendenhuette.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4410372918,
+  "lat": 46.4991445,
+  "lon": 7.8923105,
+  "tags": {
+    "ele": "2262",
+    "name": "Schmadri Hütte",
+    "operator": "AACB",
+    "tourism": "alpine_hut",
+    "url": "www.aacb.ch/schmadri"
+  }
+},
+{
+  "type": "node",
+  "id": 4410391727,
+  "lat": 46.4752686,
+  "lon": 7.9603805,
+  "tags": {
+    "ele": "3238",
+    "name": "Hollandiahütte",
+    "operator": "SAC - CAS",
+    "reg_name": "Freiburger, Waadtländer und Berner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.hollandiahuette.ch",
+    "wikidata": "Q14907533",
+    "wikipedia": "de:Hollandiahütte"
+  }
+},
+{
+  "type": "node",
+  "id": 4411036267,
+  "lat": 46.1791185,
+  "lon": 6.9474906,
+  "tags": {
+    "ele": "2595",
+    "name": "Refuge de Chalin",
+    "operator": "SAC - CAS",
+    "phone": "+41 24 466 31 24",
+    "reg_name": "Walliser Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.cas-chaussy.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 4411039606,
+  "lat": 46.1657706,
+  "lon": 6.9042907,
+  "tags": {
+    "name": "Cabane d'Antème",
+    "operator": "Fernand Jordan",
+    "phone": "+41 79 473 71 40",
+    "tourism": "alpine_hut",
+    "url": "http://www.dentsdumidi.ch/fr/hebergements/cabane-d-antheme"
+  }
+},
+{
+  "type": "node",
+  "id": 4411041258,
+  "lat": 46.1394272,
+  "lon": 6.8980975,
+  "tags": {
+    "ele": "2102",
+    "name": "Cabane de Susanfe",
+    "tourism": "alpine_hut",
+    "url": "https://susanfe.ch/"
+  }
+},
+{
+  "type": "node",
+  "id": 4411068612,
+  "lat": 46.1508102,
+  "lon": 6.8664751,
+  "tags": {
+    "ele": "1550",
+    "name": "Cabane de Bonavau",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4413810221,
+  "lat": 46.2519727,
+  "lon": 7.1443524,
+  "tags": {
+    "ele": "2262",
+    "name": "Cabanne de Plan Névé",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4431681094,
+  "lat": 46.9357637,
+  "lon": 7.3555548,
+  "tags": {
+    "name": "Oberi rippa",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4451360558,
+  "lat": 46.6857428,
+  "lon": 6.3081251,
+  "tags": {
+    "description": "très petite cabane en écorces 2x2m un lit un fourneau une table.",
+    "name": "hotel des bûcherons",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4467529591,
+  "lat": 47.1636963,
+  "lon": 6.9933911,
+  "tags": {
+    "name": "Chalet de Mont-Soleil - Amis de la Nature",
+    "tourism": "alpine_hut",
+    "website": "http://www.laserment.com/montsoleil/"
+  }
+},
+{
+  "type": "node",
+  "id": 4578044692,
+  "lat": 46.7040852,
+  "lon": 7.8217329,
+  "tags": {
+    "addr:postcode": "3803",
+    "name": "Hubelhuus Beatenberg",
+    "name:de": "Hubelhuus Beatenberg",
+    "operator": "Drudel 11 - Erlebnispädagogik und Umweltbildung",
+    "tourism": "alpine_hut",
+    "website": "http://www.hubelhuus.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 4609613310,
+  "lat": 46.8306233,
+  "lon": 6.4474168,
+  "tags": {
+    "name": "Refuge de la gare d'Olten",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4614826867,
+  "lat": 46.6114306,
+  "lon": 9.9028553,
+  "tags": {
+    "addr:city": "Zuoz",
+    "addr:postcode": "7524",
+    "ele": "2594",
+    "name": "Chamanna d'Es-cha",
+    "operator": "SAC - CAS",
+    "tourism": "alpine_hut",
+    "website": "http://www.sac-bernina.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 4614875526,
+  "lat": 46.7100833,
+  "lon": 9.9606012,
+  "tags": {
+    "ele": "2542",
+    "name": "Grialetschhütte",
+    "phone": "+41 81 416 34 36",
+    "tourism": "alpine_hut",
+    "website": "http://www.grialetsch.ch/",
+    "wikidata": "Q1373212",
+    "wikipedia": "de:Grialetschhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 4621414489,
+  "lat": 46.6925160,
+  "lon": 9.5593874,
+  "tags": {
+    "addr:housenumber": "1",
+    "addr:postcode": "7083",
+    "addr:street": "Voia da Bual",
+    "name:en": "Nordic House",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4718111217,
+  "lat": 46.2465662,
+  "lon": 8.9405515,
+  "tags": {
+    "internet_access": "no",
+    "name": "Rifugio Alpe di Confiénn",
+    "operator": "Patriziato di Preonzo",
+    "tourism": "alpine_hut",
+    "website": "http://www.patriziatopreonzo.ch/capanne.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4718111218,
+  "lat": 46.2426357,
+  "lon": 8.9301687,
+  "tags": {
+    "name": "Rifugio Alpe Moroscetto",
+    "operator": "Patriziato di Preonzo",
+    "tourism": "alpine_hut",
+    "website": "http://www.patriziatopreonzo.ch/capanne.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4718168454,
+  "lat": 46.2359996,
+  "lon": 8.9532128,
+  "tags": {
+    "internet_access": "no",
+    "name": "Rifugio Alpe di Cusale",
+    "operator": "Patriziato di Preonzo",
+    "tourism": "alpine_hut",
+    "website": "http://www.patriziatopreonzo.ch/capanne.html"
+  }
+},
+{
+  "type": "node",
+  "id": 4728773093,
+  "lat": 46.8069532,
+  "lon": 6.5485953,
+  "tags": {
+    "name": "thibaud的家",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4742977194,
+  "lat": 46.7836764,
+  "lon": 8.6011893,
+  "tags": {
+    "ele": "2208",
+    "name": "Leutschachhütte SAC",
+    "operator": "SAC - CAS",
+    "reg_name": "Urner, Schwyzer und Unterwaldner Alpen",
+    "tourism": "alpine_hut",
+    "url": "http://www.leutschach.ch"
+  }
+},
+{
+  "type": "node",
+  "id": 4845727222,
+  "lat": 46.7342851,
+  "lon": 8.0249344,
+  "tags": {
+    "name": "giessbach cascada",
+    "name:it": "giessbach cascada",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4903323422,
+  "lat": 46.1943921,
+  "lon": 8.9930572,
+  "tags": {
+    "email": "curzutt@gastrosos.ch",
+    "name": "Curzútt",
+    "name:fr": "Curzútt",
+    "phone": "+41 91 835 57 23",
+    "tourism": "alpine_hut",
+    "website": "http://www.curzutt.ch"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,4505 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7249451, 
+          45.8168426
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://chaletdescontamines.ffcam.fr/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet du CAF Contamines"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.9216426, 
+          45.5543571
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Le Monal"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.434711, 
+          45.2643588
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Baraque de Bonnant"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.3563627, 
+          44.0957537
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Madone de Fenestre"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.4156203, 
+          44.9177196
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet Refuge du Pr\u00e9 de Madame Carle"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8826998, 
+          45.9055659
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Plan de L'Aiguille"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7791862, 
+          45.7373243
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Mottets"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.9742146, 
+          42.2367985
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergerie de Vaccaghia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.5143653, 
+          44.8008901
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de La Pousterle"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.9078123, 
+          42.3530025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.6918046, 
+          45.780991
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet/Refuge La Roselette"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.5846386, 
+          45.189318
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Feneys"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.9471058, 
+          46.0015908
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Tour (CAF)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.3572067, 
+          42.4455915
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Da Silva"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.1011544, 
+          47.8079174
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'\u00e9tape Thann"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.0192593, 
+          47.9523388
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Hahnenbrunnen"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.0256727, 
+          48.0532503
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.chaletrefuge3fours.ffcam.fr", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Trois Fours"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.8541842, 
+          42.4421933
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "auberge-foret-bonifatu.com", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Auberge Bonifatu"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.9673664, 
+          45.1924497
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Jean Collet"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.5128543, 
+          44.0702733
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite Neige et Merveilles"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.4946951, 
+          44.0684313
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Grange de Valaure"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.4518778, 
+          44.0574452
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Merveilles"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.9807454, 
+          42.2198092
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Manganu"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.8368588, 
+          42.2888107
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergerie de Piazze"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.923814, 
+          42.3498761
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergerie de Tilarba"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.0101357, 
+          42.38063
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergerie d\u00b4Urcula"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.8405839, 
+          42.3157041
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Puscaghia"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.7654645, 
+          42.278598
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergerie de Corgola"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.752967, 
+          42.2730262
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergerie de Larata"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.6638269, 
+          45.6482732
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Presset"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.9627256, 
+          45.0657425
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet communal"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.314675, 
+          44.9058046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Carrelet"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.3320198, 
+          44.8700285
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Pilatte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7905185, 
+          45.3919079
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Col de la Vanoise (Felix Faure)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7329286, 
+          45.4165054
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Grand Bec"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7527105, 
+          45.3895634
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Barmettes"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.2694007, 
+          42.7826787
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://lescolan.com/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite de Bidous (L'escolan)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.4433145, 
+          44.7360991
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Les Enflous"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.4443039, 
+          44.7376101
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete/refuge L'\u00e9cole de Dormillouse"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7599346, 
+          45.8391236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Auberge de Miage"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7142514, 
+          45.7784449
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet - Refuge de Nant Borrant"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.0123302, 
+          42.719909
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Espuguettes"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.078495, 
+          45.2490845
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des 7 Laux"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.1241508, 
+          42.7793901
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://refugebayssellance.ffcam.fr/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Bayssellance"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.4199078, 
+          42.7226795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Soula"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.5081315, 
+          42.7038337
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Portillon (Jean Arlaud)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.0975082, 
+          44.9529649
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Muzelle"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.955241, 
+          45.9241143
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Charpoua"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.9807628, 
+          45.8949992
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Leschaux"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.1746415, 
+          42.8510822
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite d'Aunac"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.7950874, 
+          42.8540835
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Cabane de la Taulat"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.8016564, 
+          42.8289517
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Jasse de Pratmau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.4710972, 
+          42.5718211
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Mas Malet"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.4901795, 
+          42.5506229
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "La Mouline"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.1647298, 
+          42.6257067
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Estanyols"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.1756704, 
+          42.4606413
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de l'Orri"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.0514305, 
+          44.7004568
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://clubalpin.briancon.free.fr/viso.html", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Viso"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.8702031, 
+          46.1879595
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "La Poutouille"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.3245596, 
+          45.0112896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de l'Aigle"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.2359092, 
+          42.6031953
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Les Corts d'Avall"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.2396096, 
+          42.6185707
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Mouline"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.4015948, 
+          42.5288414
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Saint-Martin du Canigou"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8822055, 
+          45.396946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Leisse"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7240279, 
+          45.3534696
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Valette"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.687148, 
+          45.3510598
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.1866994, 
+          46.6251038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "La Jaique"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.1472555, 
+          42.8519137
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet du Clot"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.031222, 
+          46.425083
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet de la frasse"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.601742, 
+          42.9749478
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Despourrins"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.6190864, 
+          42.9105258
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'Etape de Lhers"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.6435522, 
+          46.9764261
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "CAF - Refuge de Vauchignon"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.2590277, 
+          41.9624898
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Catastaghju"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.5874396, 
+          45.9687813
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Doran"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.670552, 
+          45.979054
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de V\u00e9ran"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.592611, 
+          45.948814
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Tornieux"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.5998085, 
+          45.1234353
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Mont Thabor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.6738768, 
+          43.6914173
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Picotalen"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.3836091, 
+          44.8745084
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ancien Refuge du S\u00e9l\u00e9 Refuge d'Hiver"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.0599092, 
+          45.036228
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite d'Eape Muncipial"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.5308563, 
+          45.4301948
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Traie"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.6324748, 
+          45.3374536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Saut"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.9919534, 
+          45.4014612
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Fond des Fours"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.5152232, 
+          45.5706842
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet de Lachat"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7815938, 
+          45.4473423
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Le Laisonnay"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.9064098, 
+          47.8322921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "www.auberge-refuge-neuweiher.fr", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Auberge du refuge du Neuweiher"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.3740375, 
+          48.375173
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Gruckert"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.809986, 
+          42.9957513
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Auberge Elichalt"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.4487192, 
+          42.3553226
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gile d'etape"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.6421952, 
+          42.6996187
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de V\u00e9nasque"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8388298, 
+          45.4805675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Entre-le-Lac"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.260449, 
+          42.6757698
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.791969, 
+          45.4629423
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Plaisance"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.4059592, 
+          45.6534051
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.801993, 
+          43.5679141
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Camp Blanc"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.215746, 
+          43.00071
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Haugarou"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.4077997, 
+          42.5016914
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Mariailles"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.0111841, 
+          42.6219164
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Camporells"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.8635796, 
+          42.7550775
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Chioula"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.2888318, 
+          42.8582106
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://refugedelarribet.ffcam.fr/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Larribet"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.0724123, 
+          42.7973791
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Estagnous - castillonais"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.6550131, 
+          42.7210772
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hospice de France"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.760641, 
+          42.934346
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete de Larreix - luchonais"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.5360715, 
+          43.7220839
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Maison foresti\u00e8re des Pl\u00f4s"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.4212344, 
+          44.8701616
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete des Liottards"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.314814, 
+          44.8099443
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Chabourn\u00e9ou"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.2045455, 
+          44.8415031
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de l'Olan"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.1465931, 
+          44.8446321
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Souffles"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8374955, 
+          45.3460882
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Plan du Lac"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8650927, 
+          45.1634837
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge d'Ambin"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.361202, 
+          44.8343948
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Bans"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.2901391, 
+          48.6327923
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Grand T\u00e9tras"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.352073, 
+          46.7471516
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet du Gros Morond"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.1753673, 
+          45.2038803
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de l'\u00c9tendard"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.27108, 
+          45.0269656
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge \u00c9variste Chancel"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.9355356, 
+          45.1892659
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Pr\u00e9 du Mollard"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.3752459, 
+          45.118213
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Aiguilles d'Arves"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.2075389, 
+          42.8244091
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge-auberge de l'Oule"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.2097148, 
+          42.8532231
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Bastan"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.1692271, 
+          42.8262519
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Hotel d'Oredon"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.9735076, 
+          48.6875786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'Etape"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.2528265, 
+          42.6691937
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Pastoral du Callau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.2796747, 
+          44.1157514
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.1271435, 
+          48.1616733
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de l'\u00c9tang du Devin"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.9799349, 
+          45.0295722
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.giteleschuss.com/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Le Schuss"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.622684, 
+          45.0706895
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Rifugio I Re Magi"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.6231152, 
+          45.069667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Rifugio Terzo Alpini"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.159868, 
+          46.6327859
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "La Grande-Verri\u00e8re"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.9412002, 
+          45.6256814
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://ruitor.com/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Ruitor"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.4521741, 
+          44.6449734
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete Auberge des Charan\u00e7ons"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.160442, 
+          41.93681
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Bella Vista"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.9588701, 
+          45.6024926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de l'Archeboc"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7433437, 
+          45.0156921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bivacco Ugo Blanchetti"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.3331292, 
+          42.3603243
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Calleruccio"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.3230378, 
+          42.3839661
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Favalta"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.3298025, 
+          42.3664169
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Prato"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.8956751, 
+          44.6061301
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.0084937, 
+          48.8811126
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.0466916, 
+          44.1393316
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Longon"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.7767127, 
+          45.8522707
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite d\u00b4Etape Le Cabiolon"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7020939, 
+          45.348004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Le Repoju"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.2361367, 
+          44.8414224
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Chalance"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.2756012, 
+          44.8292336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Clot ou Xavier Blanc"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.1828807, 
+          45.043598
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Clots"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.8569368, 
+          45.0308555
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite de l'Alpe du Grand Serre"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.817454, 
+          45.3188183
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Lac Blanc"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7443977, 
+          45.4595486
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Bois"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.889112, 
+          43.864038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Abdoun"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.8858827, 
+          45.1480204
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Cabane \u00e0 Bonnet"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.2751254, 
+          42.5671744
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Coumeilles Hautes"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.5980562, 
+          45.2826131
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Cabane de Renardiere"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.6187855, 
+          43.5302234
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Baudino"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.0047617, 
+          45.9463101
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge d'Argenti\u00e8re"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.7181411, 
+          43.7525268
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite d'\u00e9tape de Roussi\u00e8res"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.4781941, 
+          42.9626476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Cabane de Besse"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.4827489, 
+          43.044009
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Cabane des Bordes"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.5960724, 
+          44.6322264
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.2982197, 
+          45.8155102
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Les Paz d'Zeures"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8047852, 
+          45.5182022
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Rosuel"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.0710063, 
+          47.8309857
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.0428626, 
+          47.8301146
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Vogesapfad husla"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.8310309, 
+          42.2779628
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Abri forestier bocca u Saltu"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.9267521, 
+          47.9905493
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet de l'Union"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.9837351, 
+          44.7664504
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.gitedelamonta.com", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Monta"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.3626003, 
+          45.0308238
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Le Pas de l'Ane"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.114018, 
+          45.2647319
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Combe madame"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.2386734, 
+          42.6203673
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.2556851, 
+          42.509589
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "En Goudeil"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.7896402, 
+          43.0187311
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.equipyrene.org/fr/index.php", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ferme \u00c9questre La Bayche"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -4.5091657, 
+          48.2848502
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Point Accueil Plaisance et g\u00eete d'Etape"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.5813253, 
+          43.3533014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "ventajou"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8264281, 
+          45.2976644
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Abri forestier du Suffet"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.4846207, 
+          43.0408066
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Cabane de Crambots"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.8981538, 
+          46.214545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Le Gralet"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.2906009, 
+          48.4889746
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.muckenbach.org/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Le Muckenbach"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.8481142, 
+          45.1151244
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Recoud"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.8955398, 
+          44.7354769
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.gite-devoluy.com/accueil.htm", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete de Saint-Disdier"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.6987854, 
+          44.9343151
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Federation des Oeuvres Laiques du Lot (FOL)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.3275537, 
+          44.7652925
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Pr\u00e9 la Chaumette"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.2866427, 
+          42.9984035
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://lapetitejeanne.fr/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite d'\u00e9tape La Petite Jeanne"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.5653606, 
+          42.5280193
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.8610965, 
+          45.7882715
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite d'\u00c9tape"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.4548439, 
+          45.338497
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet de Varlossi\u00e8re"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.4090633, 
+          44.4018476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "La cabane du lac"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.2622956, 
+          45.8241251
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Pr\u00e9 Verel"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.7238299, 
+          45.0965358
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Meije Coste"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.147698, 
+          45.0877405
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.refuge7.com/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Col de Sarenne"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.405679, 
+          44.8826535
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Pelvoux"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.3905106, 
+          44.8733266
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du S\u00e9l\u00e9"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.928496, 
+          44.797914
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://ancolie-bleue-queyras.com", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ancolie bleue"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.4262356, 
+          49.041205
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet des Granges"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.4680345, 
+          45.3511046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Gitamelon"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.1822037, 
+          42.9218373
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.gitelesviellettes.com/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'\u00c9tape les Viellettes"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.8103621, 
+          45.3401631
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite d'\u00e9tape des 4 chemins"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8606539, 
+          47.7796942
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Abri col Chantoiseau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.897658, 
+          47.7650419
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Abri col des 7 Chemins"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.2801951, 
+          43.0860691
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Le Moulin des Baronnies"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.3854121, 
+          44.9955828
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet-Refuge de Chamoissi\u00e8re"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.1829854, 
+          42.6780457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge Pastoral du Madres"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.6078173, 
+          45.6135935
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge le Cormet"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8872948, 
+          45.9599953
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "La Fl\u00e9g\u00e8re"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8295951, 
+          45.9221919
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Bellachat"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.2607633, 
+          48.6305887
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          4.5803861, 
+          45.3827238
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.refuges.info/point/3738/cabane-non-gardee/Pilat-Velay-Vivarais/Chalet-Bourguisan-G-Duclos/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet bourguisan"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8159399, 
+          44.8447218
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.alpes-guide.com/sources/services/detail.asp?cle=19667", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge des Fonts de Cervi\u00e8res"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.8223218, 
+          44.7609611
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "www.gitelesastragales.fr", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'\u00c9tape Les Astragales"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.0344301, 
+          43.3236832
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Les Franciscains"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.2113341, 
+          43.0499
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Cabane d'Orgambide"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.1376437, 
+          43.0013315
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Halte Jacquaire"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.8668419, 
+          42.9396374
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gite Etape Chez Jo"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.1467799, 
+          43.0664676
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Halte Jacquaire Accueil Notre-Dame"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.1200299, 
+          45.6944111
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.5941261, 
+          45.3573898
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chalet du Plan"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.5233937, 
+          43.4274656
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.3313867, 
+          48.4046295
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'\u00c9tape"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.7816488, 
+          46.0603718
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "La Bourbonni\u00e8re"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.658121, 
+          43.4782076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'\u00c9tape"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.6758075, 
+          42.9684998
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Le Maou"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.1035636, 
+          46.5768924
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://chez-l-aime.magix.net/website", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chez l'Aim\u00e9"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.8311737, 
+          48.7109747
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'Etape"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.9401606, 
+          45.243989
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Le To\u00ebt"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.2509117, 
+          48.9742106
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete du Suvez"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.4211165, 
+          49.0113163
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "La Grange d'Espins"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.6790767, 
+          48.9377878
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "La Ferme d'Escure"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -1.0097642, 
+          48.7907349
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'Etape"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -0.4014264, 
+          49.0793408
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "La Colinerie"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.0815198, 
+          47.8026928
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Zuber"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.6823498, 
+          43.67235
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Martinou"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.6584307, 
+          43.7044594
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'\u00e9tape"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.8932005, 
+          42.2865715
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete Castel De Vergio"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.458673, 
+          48.9382897
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00efte d'\u00e9tape du Kiesb\u00e4chel"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          8.9607063, 
+          42.3680813
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de l'Erco"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.9156717, 
+          43.7557678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Le Presbyt\u00e8re"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          1.0328991, 
+          42.8307874
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete d'\u00e9tape \"La Maison du Valier\""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.1012047, 
+          42.6906056
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.6143383, 
+          43.2290977
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.9298166, 
+          44.4560444
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "H\u00f4tel du Lac"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.1647404, 
+          42.034112
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergerie de Ghjalcone"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.8580953, 
+          42.9938489
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.9663538, 
+          47.4709189
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.61845, 
+          43.1845266
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          2.5075145, 
+          42.4720301
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de la Devesa"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.4033974, 
+          45.8939686
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Le Piste Bleue"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.7754468, 
+          45.2238737
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Les Glaciers"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          0.2388757, 
+          43.0138902
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Cabane de Cot Dessus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          3.8682152, 
+          45.6341386
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Garnier"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          6.5199405, 
+          44.7809565
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge du Kern"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          5.9675758, 
+          45.0078878
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00eete Le Chamois"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.6909379, 
+          49.0356047
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Maison du randonneur"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.4465435, 
+          44.1081549
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Valmasque"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          7.4806875, 
+          44.0861164
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Refuge de Fontanalbe"
+      }
+    }
+  ]
+}

@@ -2,7 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2017-06-12T16:57:31Z",
+    "timestamp_osm_base": "2017-06-14T05:46:11Z",
+    "timestamp_areas_base": "2017-06-14T05:27:12Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -28,6 +29,23 @@
 },
 {
   "type": "node",
+  "id": 33519409,
+  "lat": 47.7945094,
+  "lon": 15.5881451,
+  "tags": {
+    "addr:city": "St. Aegyd am Neuwalde",
+    "addr:postcode": "3193",
+    "ele": "1500",
+    "name": "Gippelhütte",
+    "note": "Mail: johannahickelsberger@yahoo.de, Bewirtschaftet während der Weidezeit ca. Mitte Juni bis Mitte September, Nächtigung möglich: (16 Personen Lager), Mittwoch Ruhetag",
+    "operator": "Johanna Hickelsberger",
+    "phone": "+43 664 5995 888",
+    "source": "http://www.staegyd.at",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 33655239,
   "lat": 46.5101001,
   "lon": 7.7716514,
@@ -47,6 +65,29 @@
 },
 {
   "type": "node",
+  "id": 36126217,
+  "lat": 46.4948498,
+  "lon": 15.5081942,
+  "tags": {
+    "ele": "1246",
+    "name": "Ruška koča",
+    "phone": "+386 41 666552",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 59264046,
+  "lat": 46.4374338,
+  "lon": 15.4600845,
+  "tags": {
+    "ele": "1181",
+    "name": "Štuhecov dom",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 60447994,
   "lat": 47.1767946,
   "lon": 11.2658006,
@@ -60,6 +101,17 @@
     "name": "Kemater Alm",
     "tourism": "alpine_hut",
     "website": "http://kemateralm.at"
+  }
+},
+{
+  "type": "node",
+  "id": 61104639,
+  "lat": 46.2807093,
+  "lon": 15.4136788,
+  "tags": {
+    "ele": "460m",
+    "name": "Planinska postojanka PD Dramlje",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -170,7 +222,7 @@
   "lon": 11.4992731,
   "tags": {
     "addr:housenumber": "1",
-    "addr:street": "Rinner Berg",
+    "addr:street": "Rinnerberg",
     "amenity": "restaurant",
     "ele": "1394",
     "name": "Rinner Alm",
@@ -240,18 +292,6 @@
     "tourism": "alpine_hut",
     "wikidata": "Q1471127",
     "wikipedia": "de:Weidener Hütte"
-  }
-},
-{
-  "type": "node",
-  "id": 253196171,
-  "lat": 47.5893493,
-  "lon": 15.0754710,
-  "tags": {
-    "addr:housenumber": "115",
-    "ele": "1526",
-    "name": "Häuslalm Hütte",
-    "tourism": "alpine_hut"
   }
 },
 {
@@ -542,19 +582,6 @@
 },
 {
   "type": "node",
-  "id": 279305580,
-  "lat": 44.4039462,
-  "lon": 10.0053743,
-  "tags": {
-    "ele": "1508",
-    "name": "Rifugio Mariotti",
-    "operator": "Club Alpino Italiano",
-    "phone": "+39 0521 889334",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 279452438,
   "lat": 44.9177196,
   "lon": 6.4156203,
@@ -603,6 +630,21 @@
     "tourism": "alpine_hut",
     "wikidata": "Q1347674",
     "wikipedia": "de:Eppzirler Alm"
+  }
+},
+{
+  "type": "node",
+  "id": 281022622,
+  "lat": 48.0597290,
+  "lon": 15.5402134,
+  "tags": {
+    "addr:housenumber": "25",
+    "addr:street": "Windbichl",
+    "amenity": "restaurant",
+    "ele": "723",
+    "name": "Kaiserkogelhütte",
+    "operator": "Österreichischer Touristenclub",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -1465,12 +1507,12 @@
 },
 {
   "type": "node",
-  "id": 303927447,
-  "lat": 44.4801747,
-  "lon": 8.7084597,
+  "id": 303847394,
+  "lat": 46.4672016,
+  "lon": 15.3439495,
   "tags": {
-    "name": "Rifugio Forte Geremia",
-    "phone": "+39 348 3781060",
+    "ele": "1382",
+    "name": "Koča na Pesku",
     "tourism": "alpine_hut"
   }
 },
@@ -1500,19 +1542,28 @@
 },
 {
   "type": "node",
-  "id": 304339236,
-  "lat": 47.9120380,
-  "lon": 7.8525443,
+  "id": 305522968,
+  "lat": 46.5018051,
+  "lon": 15.3990630,
   "tags": {
-    "ele": "820",
-    "email": "info@manfred-metzger.de",
-    "fax": "07665/40894",
-    "name": "Wanderheim Berglusthaus",
-    "opening_hours": "Sa 14:00-22:00; Su 11:00-17:00",
-    "operator": "Schwarzwaldverein",
-    "phone": "07665 2430",
-    "tourism": "alpine_hut",
-    "website": "http://www.freiburg-hohbuehl.de/index1.htm"
+    "addr:housenumber": "32",
+    "addr:street": "Kumen",
+    "name": "Koča na Klopnem vrhu",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 305523715,
+  "lat": 46.5178445,
+  "lon": 15.2512565,
+  "tags": {
+    "addr:housenumber": "28",
+    "addr:street": "Hudi kot",
+    "ele": "1101",
+    "name": "Planinska koča na Pesniku",
+    "opening_hours": "Mo-Th 09:00-18:00; Fr-Su 09:00-19:00; Sa 09:00-22:00",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -1548,6 +1599,17 @@
     "phone": "+39 0464 500647",
     "tourism": "alpine_hut",
     "winter_room": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 307529648,
+  "lat": 46.5027493,
+  "lon": 15.2102098,
+  "tags": {
+    "name": "Grmovškov dom",
+    "opening_hours": "Mo-Su 08:00-22:00",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -1803,17 +1865,6 @@
 },
 {
   "type": "node",
-  "id": 320522382,
-  "lat": 47.5760984,
-  "lon": 10.0847613,
-  "tags": {
-    "ele": "1080",
-    "name": "Hirnbein Alpe Eibele",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 320522642,
   "lat": 47.5837274,
   "lon": 10.1396791,
@@ -1937,16 +1988,6 @@
   "tags": {
     "amenity": "restaurant",
     "name": "Segneshütte",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 333258432,
-  "lat": 44.0916404,
-  "lon": 11.0777161,
-  "tags": {
-    "name": "Eremo del Viandante",
     "tourism": "alpine_hut"
   }
 },
@@ -2098,6 +2139,16 @@
   "tags": {
     "ele": "2244",
     "name": "Cabane du Mont-Noble",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 350736546,
+  "lat": 45.1893180,
+  "lon": 5.5846386,
+  "tags": {
+    "name": "Refuge des Feneys",
     "tourism": "alpine_hut"
   }
 },
@@ -2823,19 +2874,6 @@
 },
 {
   "type": "node",
-  "id": 365388667,
-  "lat": 45.8572295,
-  "lon": 13.7059805,
-  "tags": {
-    "ele": "610",
-    "name": "Stjenkova koča na Trstelju",
-    "operator": "Romina Žnidarčič",
-    "phone": "+386 41 352584",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 366885418,
   "lat": 47.5888446,
   "lon": 15.0686929,
@@ -2843,74 +2881,6 @@
     "ele": "1450",
     "name": "Sackwiesenalm",
     "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 367989958,
-  "lat": 44.4078433,
-  "lon": 9.9795372,
-  "tags": {
-    "capacity": "5",
-    "ele": "1350",
-    "name": "Giulio Tifoni",
-    "operator": "Sezione CAI Pontremoli",
-    "shelter_type": "basic_hut",
-    "source": "CAI",
-    "tourism": "alpine_hut",
-    "wikidata": "Q3935652",
-    "wikipedia": "it:Rifugio Tifoni"
-  }
-},
-{
-  "type": "node",
-  "id": 367989963,
-  "lat": 44.3943944,
-  "lon": 9.9605223,
-  "tags": {
-    "capacity": "25",
-    "ele": "1150",
-    "name": "Enrico Mattei",
-    "operator": "Sezione CAI Pontremoli",
-    "source": "CAI",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 367989969,
-  "lat": 44.1147933,
-  "lon": 10.6366320,
-  "tags": {
-    "capacity": "9",
-    "ele": "1730",
-    "name": "Lago Nero",
-    "operator": "Sezione CAI Pistoia",
-    "source": "CAI",
-    "tourism": "alpine_hut",
-    "wikidata": "Q3935527",
-    "wikipedia": "it:Rifugio Lago Nero",
-    "winter_room": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 367989976,
-  "lat": 44.0977038,
-  "lon": 10.8532758,
-  "tags": {
-    "capacity": "20",
-    "ele": "1580",
-    "internet_access": "no",
-    "name": "Porta Franca",
-    "note": "Per ulteriori informazioni: http://www.caitoscana.it/?page_id=299",
-    "opening_hours": "May 1-Oct 24 Sa-Su; Jul 24- Aug 22 Mo-Su",
-    "operator": "Sezione CAI Pistoia",
-    "phone": "Rifugio: +39 0573 490338 Sez. CAI +39 0573 365582 Roberto Gori: +39 347 5931961 Tiziano Mati +39 328 4181824",
-    "source": "CAI",
-    "tourism": "alpine_hut",
-    "wikidata": "Q3935606",
-    "wikipedia": "it:Rifugio Porta Franca"
   }
 },
 {
@@ -2926,18 +2896,6 @@
 },
 {
   "type": "node",
-  "id": 381881655,
-  "lat": 45.5338045,
-  "lon": 13.9753657,
-  "tags": {
-    "ele": "1015",
-    "name": "Tumova koča na Slavniku",
-    "phone": "+386 5 6870134",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 382492843,
   "lat": 46.0015908,
   "lon": 6.9471058,
@@ -2945,16 +2903,6 @@
     "ele": "1470",
     "name": "Refuge du Tour (CAF)",
     "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 384842839,
-  "lat": 47.6186156,
-  "lon": 10.1190574,
-  "tags": {
-    "name": "Rist Alpe",
     "tourism": "alpine_hut"
   }
 },
@@ -3052,6 +3000,22 @@
     "name": "Amstettner Hütte",
     "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
     "operator": "OeAv Sektion Amstetten",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 389785691,
+  "lat": 47.8735280,
+  "lon": 15.4212710,
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "ele": "1377",
+    "massif": "Türnitzer Alpen",
+    "name": "Annaberger Haus",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Sektion Oesterr. Gebirgsverein",
     "tourism": "alpine_hut"
   }
 },
@@ -3215,6 +3179,20 @@
 },
 {
   "type": "node",
+  "id": 389785888,
+  "lat": 47.3516645,
+  "lon": 15.4546038,
+  "tags": {
+    "ele": "1200",
+    "massif": "Randgebirge östlich der Mur",
+    "name": "Gaston-Lippitt-Hütte",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Sektion Mixnitz",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 389785912,
   "lat": 46.7610785,
   "lon": 13.4693701,
@@ -3290,6 +3268,32 @@
 },
 {
   "type": "node",
+  "id": 389786039,
+  "lat": 46.6416027,
+  "lon": 15.2414221,
+  "tags": {
+    "ele": "1003",
+    "massif": "Lavanttaler Alpen",
+    "name": "Kapunerhütte",
+    "operator": "ÖAV Sektion Graz",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 389786044,
+  "lat": 47.5820228,
+  "lon": 15.7982186,
+  "tags": {
+    "ele": "1450",
+    "name": "Karl-Lechner-Haus",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Sektion Stuhlecker",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 389786071,
   "lat": 47.1227377,
   "lon": 12.2999263,
@@ -3301,7 +3305,9 @@
     "name": "Kürsinger Hütte",
     "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
     "operator": "Sektion Salzburg",
-    "tourism": "alpine_hut"
+    "tourism": "alpine_hut",
+    "wikidata": "Q1797295",
+    "wikipedia": "de:Kürsingerhütte"
   }
 },
 {
@@ -3334,6 +3340,20 @@
     "operator": "Vorarlberger Alpenverein",
     "tourism": "alpine_hut",
     "website": "http://vorarlberg.naturfreunde.at/UeberUns/detail/25681/"
+  }
+},
+{
+  "type": "node",
+  "id": 389786124,
+  "lat": 47.9895830,
+  "lon": 15.5900483,
+  "tags": {
+    "ele": "956",
+    "massif": "Gutensteiner Alpen",
+    "name": "Lilienfelder Hütte",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Sektion Oesterr. Gebirgsverein",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -3593,6 +3613,21 @@
 },
 {
   "type": "node",
+  "id": 389786502,
+  "lat": 47.2701670,
+  "lon": 15.6556170,
+  "tags": {
+    "created_by": "GPSBabel-1.3.6",
+    "ele": "904",
+    "massif": "Randgebirge östlich der Mur",
+    "name": "Wittgruberhof, Jugendh.",
+    "note": "Koordinaten vom ÖAV zur Verfügung gestellt",
+    "operator": "Sektion Weiz",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 389786524,
   "lat": 47.4317967,
   "lon": 12.5392215,
@@ -3678,16 +3713,6 @@
     "name": "Dr.Otto-Koren-Hütte",
     "note": "Genaue Lage verifizieren",
     "operator": "OeAV Sektion Köflach",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 390952964,
-  "lat": 44.6950752,
-  "lon": 14.3479741,
-  "tags": {
-    "name": "Planinarska kuća Sveti Gaudent",
     "tourism": "alpine_hut"
   }
 },
@@ -3823,6 +3848,18 @@
 },
 {
   "type": "node",
+  "id": 409497323,
+  "lat": 47.3394613,
+  "lon": 15.2805127,
+  "tags": {
+    "ele": "1025",
+    "name": "Schutzhütte Wieseralm",
+    "phone": "031263350",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 409589279,
   "lat": 47.5553563,
   "lon": 10.1740026,
@@ -3839,6 +3876,20 @@
   "tags": {
     "ele": "1945",
     "name": "Gotschaunalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 410241704,
+  "lat": 46.4978733,
+  "lon": 15.2555776,
+  "tags": {
+    "addr:housenumber": "24",
+    "addr:street": "Hudi kot",
+    "ele": "1507",
+    "name": "Ribniška koča",
+    "opening_hours": "07:00-21:00",
     "tourism": "alpine_hut"
   }
 },
@@ -3982,16 +4033,6 @@
   "tags": {
     "name": "Alp Drusa",
     "place": "locality",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 415534359,
-  "lat": 47.8079174,
-  "lon": 7.1011544,
-  "tags": {
-    "name": "Gîte d'étape Thann",
     "tourism": "alpine_hut"
   }
 },
@@ -4253,6 +4294,19 @@
 },
 {
   "type": "node",
+  "id": 434089010,
+  "lat": 46.5317404,
+  "lon": 15.1721718,
+  "tags": {
+    "addr:housenumber": "41",
+    "addr:street": "Sveti Primož na Pohorju",
+    "ele": "1010",
+    "name": "Koča Planinc",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 434142044,
   "lat": 47.2305866,
   "lon": 11.4877948,
@@ -4302,6 +4356,17 @@
 },
 {
   "type": "node",
+  "id": 435925652,
+  "lat": 45.1924497,
+  "lon": 5.9673664,
+  "tags": {
+    "ele": "1952",
+    "name": "Refuge Jean Collet",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 436225796,
   "lat": 46.1565030,
   "lon": 8.1585444,
@@ -4329,6 +4394,40 @@
   "lon": 11.0688343,
   "tags": {
     "name": "Zirmbach Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 438353415,
+  "lat": 44.0702733,
+  "lon": 7.5128543,
+  "tags": {
+    "description": "http://www.neige-merveilles.com/",
+    "name": "Gite Neige et Merveilles",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 438353417,
+  "lat": 44.0684313,
+  "lon": 7.4946951,
+  "tags": {
+    "name": "Grange de Valaure",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 438353421,
+  "lat": 44.0574452,
+  "lon": 7.4518778,
+  "tags": {
+    "ele": "2130",
+    "internet_access": "no",
+    "internet_access:fee": "no",
+    "name": "Refuge des Merveilles",
     "tourism": "alpine_hut"
   }
 },
@@ -4595,6 +4694,17 @@
     "note:de": "FIXME: Rauchverbot prüfen",
     "operator": "DAV",
     "smoking": "no",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 442398683,
+  "lat": 45.0657425,
+  "lon": 5.9627256,
+  "tags": {
+    "ele": "2007",
+    "name": "Chalet communal",
     "tourism": "alpine_hut"
   }
 },
@@ -5939,16 +6049,6 @@
 },
 {
   "type": "node",
-  "id": 476929508,
-  "lat": 47.1983112,
-  "lon": 9.2274559,
-  "tags": {
-    "name": "Ochsenlager",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 477249041,
   "lat": 46.8776527,
   "lon": 13.7495326,
@@ -5997,18 +6097,6 @@
     "phone": "+43 (0) 676 62291",
     "tourism": "alpine_hut",
     "website": "www.lärchenhütte.com"
-  }
-},
-{
-  "type": "node",
-  "id": 477377565,
-  "lat": 44.1135145,
-  "lon": 10.9284630,
-  "tags": {
-    "ele": "1283",
-    "name": "Rifugio Monte Cavallo",
-    "tourism": "alpine_hut",
-    "website": "http://www.rifugiomontecavallo.it/"
   }
 },
 {
@@ -6288,22 +6376,6 @@
 },
 {
   "type": "node",
-  "id": 479239904,
-  "lat": 45.9289826,
-  "lon": 13.8532170,
-  "tags": {
-    "addr:city": "Dobravlje",
-    "addr:housenumber": "87",
-    "addr:street": "Štomaž",
-    "amenity": "restaurant",
-    "ele": "1242",
-    "name": "Koča Antona Bavčerja na Čavnu",
-    "operator": "Zdravko Bratina s.p.",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 479305503,
   "lat": 46.4122405,
   "lon": 9.9650500,
@@ -6569,145 +6641,6 @@
   "tags": {
     "ele": "2194",
     "name": "Almagelleralp",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498407084,
-  "lat": 44.5328558,
-  "lon": 15.1431717,
-  "tags": {
-    "ele": "935",
-    "name": "Dom Prpa",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498407095,
-  "lat": 44.5633123,
-  "lon": 15.1245886,
-  "tags": {
-    "ele": "723",
-    "name": "Dom Ravni dabar",
-    "operator": "Planinarsko društvo Industrogradnja",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498407109,
-  "lat": 44.6221652,
-  "lon": 15.0703958,
-  "tags": {
-    "ele": "1180",
-    "name": "Kugina kuća",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498426291,
-  "lat": 44.7710837,
-  "lon": 15.0930535,
-  "tags": {
-    "name": "Kuća Apatišan",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498426296,
-  "lat": 44.7045169,
-  "lon": 14.8972559,
-  "tags": {
-    "name": "Kuća Miroslav Hirtz",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498426302,
-  "lat": 44.8735108,
-  "lon": 14.9842545,
-  "tags": {
-    "ele": "940",
-    "name": "Kuća Oltari",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498426304,
-  "lat": 44.9634582,
-  "lon": 14.9677403,
-  "tags": {
-    "name": "Kuća Sijaset",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498449700,
-  "lat": 45.1980781,
-  "lon": 14.7845007,
-  "tags": {
-    "name": "Kuća Kurin",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498449716,
-  "lat": 45.2202129,
-  "lon": 14.8071047,
-  "tags": {
-    "name": "Dom Vagabundina koliba",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498449746,
-  "lat": 45.2953032,
-  "lon": 14.8840814,
-  "tags": {
-    "name": "Dom Bijele Stijene",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498449823,
-  "lat": 45.3881397,
-  "lon": 14.9521200,
-  "tags": {
-    "name": "Kuća Javorova Kosa",
-    "start_date": "1989",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498449847,
-  "lat": 45.2189118,
-  "lon": 14.9774475,
-  "tags": {
-    "ele": "1280",
-    "name": "Planinarska kuća \"Dragutin Hirtz\"",
-    "operator": "HPD Kapela",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 498449858,
-  "lat": 45.2571116,
-  "lon": 15.1443593,
-  "tags": {
-    "ele": "1000",
-    "name": "Dom Klek",
     "tourism": "alpine_hut"
   }
 },
@@ -7623,17 +7556,6 @@
 },
 {
   "type": "node",
-  "id": 514941030,
-  "lat": 47.5738071,
-  "lon": 10.0689451,
-  "tags": {
-    "ele": "1050",
-    "name": "Sennalpe Hompessen",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 515904641,
   "lat": 46.1972252,
   "lon": 11.2055716,
@@ -8082,17 +8004,6 @@
 },
 {
   "type": "node",
-  "id": 529644341,
-  "lat": 44.1603659,
-  "lon": 11.6467561,
-  "tags": {
-    "ele": "720",
-    "name": "Cà Malanca",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 529651297,
   "lat": 47.3300215,
   "lon": 11.4255879,
@@ -8183,6 +8094,18 @@
 },
 {
   "type": "node",
+  "id": 534873881,
+  "lat": 47.9346725,
+  "lon": 15.8209224,
+  "tags": {
+    "name": "Unterberg Schutzhaus",
+    "phone": "0043263274190",
+    "tourism": "alpine_hut",
+    "website": "www.unterberg-schutzhaus.at"
+  }
+},
+{
+  "type": "node",
   "id": 539660905,
   "lat": 46.9826622,
   "lon": 11.4067339,
@@ -8227,6 +8150,17 @@
     "phone": "+39 340 5783883",
     "tourism": "alpine_hut",
     "website": "http://www.rifugiofantoli.it"
+  }
+},
+{
+  "type": "node",
+  "id": 541000558,
+  "lat": 47.9446412,
+  "lon": 15.6098505,
+  "tags": {
+    "ele": "939",
+    "name": "Thalerhütte",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -8393,16 +8327,6 @@
 },
 {
   "type": "node",
-  "id": 563872971,
-  "lat": 44.3885435,
-  "lon": 9.7522405,
-  "tags": {
-    "name": "Rifugio del Faggio Crociato",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 566646171,
   "lat": 46.0847860,
   "lon": 7.8957631,
@@ -8443,17 +8367,6 @@
 },
 {
   "type": "node",
-  "id": 567918331,
-  "lat": 47.2669920,
-  "lon": 9.4476311,
-  "tags": {
-    "ele": "1231",
-    "name": "Tannhütte NFS",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 568030396,
   "lat": 45.9024798,
   "lon": 7.2055861,
@@ -8464,26 +8377,34 @@
 },
 {
   "type": "node",
-  "id": 577677783,
-  "lat": 44.2460826,
-  "lon": 10.2627546,
+  "id": 572653560,
+  "lat": 47.8967034,
+  "lon": 15.5722027,
   "tags": {
-    "name": "Monte Tondo",
-    "phone": "+39 347 9086410",
+    "ele": "1072",
+    "name": "Gschwendt Hütte",
     "tourism": "alpine_hut"
   }
 },
 {
   "type": "node",
-  "id": 580812844,
-  "lat": 44.4728605,
-  "lon": 9.5110084,
+  "id": 575025891,
+  "lat": 47.5457992,
+  "lon": 15.7397083,
   "tags": {
-    "name": "Rifugio Faggio dei Tre Comuni",
-    "operator": "Club Alpino Italiano - Sezione di Parma",
-    "phone": "+39 334 1091501",
-    "tourism": "alpine_hut",
-    "website": "http://www.rifugiofaggiodeitrecomuni.it"
+    "amenity": "restaurant",
+    "name": "Rosseggerschutzhaus",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 575025927,
+  "lat": 47.5190490,
+  "lon": 15.6932815,
+  "tags": {
+    "name": "Hauereckschutzhütte",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -8516,19 +8437,6 @@
     "addr:housenumber": "39",
     "addr:street": "Sveta Planina",
     "name": "Dom pod Javorjem",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 587756702,
-  "lat": 46.1772749,
-  "lon": 15.0213754,
-  "tags": {
-    "addr:housenumber": "46",
-    "addr:street": "Sveta Planina",
-    "ele": "984",
-    "name": "Rudarski dom na Partizanskem vrhu",
     "tourism": "alpine_hut"
   }
 },
@@ -8685,21 +8593,6 @@
 },
 {
   "type": "node",
-  "id": 604320174,
-  "lat": 44.3191572,
-  "lon": 9.1786461,
-  "tags": {
-    "description": "agriturismo con 11 posti a dormire e punto di ristoro",
-    "ele": "195",
-    "name": "Agririfugio Molini",
-    "operator": "il giardino del borgo soc. coop. agricola",
-    "phone": "+39 0185 772291",
-    "tourism": "alpine_hut",
-    "website": "www.agririfugiomolini.it"
-  }
-},
-{
-  "type": "node",
   "id": 604981073,
   "lat": 46.7128703,
   "lon": 12.7899256,
@@ -8718,17 +8611,6 @@
     "amenity": "restaurant",
     "ele": "1530",
     "name": "Rifugio Campomulo",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 606276003,
-  "lat": 47.3603315,
-  "lon": 7.8663787,
-  "tags": {
-    "name": "Naturfreundehaus Rumpel",
-    "opening_hours": "Su 10:00-17:00",
     "tourism": "alpine_hut"
   }
 },
@@ -8760,28 +8642,6 @@
   "lat": 45.3510598,
   "lon": 6.6871480,
   "tags": {
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 614447511,
-  "lat": 44.1025865,
-  "lon": 10.7048426,
-  "tags": {
-    "ele": "1220",
-    "name": "Rifugio Lagacciolo",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 614447825,
-  "lat": 44.0888902,
-  "lon": 10.7253000,
-  "tags": {
-    "ele": "1310",
-    "name": "Rifugio Fonte dei Cecchini",
     "tourism": "alpine_hut"
   }
 },
@@ -8833,31 +8693,6 @@
 },
 {
   "type": "node",
-  "id": 619978092,
-  "lat": 44.6030244,
-  "lon": 9.5385195,
-  "tags": {
-    "email": "s.scaramuzza@alice.it",
-    "name": "Rifugio Monte Ragola",
-    "opening_hours": "Su",
-    "operator": "Pro Loco Ferriere",
-    "phone": "+39 339 8296372",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 622567141,
-  "lat": 46.6251038,
-  "lon": 6.1866994,
-  "tags": {
-    "ele": "1370",
-    "name": "La Jaique",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 623049400,
   "lat": 46.8221750,
   "lon": 10.0217709,
@@ -8879,16 +8714,6 @@
 },
 {
   "type": "node",
-  "id": 634094875,
-  "lat": 46.4250830,
-  "lon": 6.0312220,
-  "tags": {
-    "name": "Chalet de la frasse",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 634515902,
   "lat": 46.4761401,
   "lon": 13.7603886,
@@ -8903,13 +8728,14 @@
 },
 {
   "type": "node",
-  "id": 634561890,
-  "lat": 46.1390840,
-  "lon": 14.5126372,
+  "id": 649092419,
+  "lat": 47.9815614,
+  "lon": 15.6002944,
   "tags": {
-    "ele": "631",
-    "name": "Dom na Rašici",
-    "tourism": "alpine_hut"
+    "ele": "1067",
+    "name": "Klosteralm",
+    "tourism": "alpine_hut",
+    "wpt_symbol": "Restaurant"
   }
 },
 {
@@ -8948,6 +8774,16 @@
 },
 {
   "type": "node",
+  "id": 665449658,
+  "lat": 47.9895739,
+  "lon": 15.8921381,
+  "tags": {
+    "name": "Forsthaus Harras",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 665550669,
   "lat": 47.0535117,
   "lon": 10.8409852,
@@ -8966,6 +8802,18 @@
   "tags": {
     "amenity": "restaurant",
     "name": "Tiefentalalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 670664834,
+  "lat": 47.9271374,
+  "lon": 15.9879150,
+  "tags": {
+    "description": "Stützpunkt der Niederösterreichische Berg- und Naturwacht",
+    "name": "Schneerosenhaus",
+    "operator": "Niederösterreichische Berg- und Naturwacht",
     "tourism": "alpine_hut"
   }
 },
@@ -9025,28 +8873,6 @@
 },
 {
   "type": "node",
-  "id": 688808769,
-  "lat": 44.2105729,
-  "lon": 10.3403382,
-  "tags": {
-    "ele": "1292",
-    "name": "Rifugio Miramonti",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 688808777,
-  "lat": 44.2558568,
-  "lon": 10.3752579,
-  "tags": {
-    "ele": "1590",
-    "name": "Rifugio La Foce",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 691039123,
   "lat": 46.3165140,
   "lon": 8.4712184,
@@ -9101,36 +8927,6 @@
 },
 {
   "type": "node",
-  "id": 708128116,
-  "lat": 47.9265723,
-  "lon": 8.1248075,
-  "tags": {
-    "addr:city": "Titisee-Neustadt",
-    "addr:housenumber": "2",
-    "addr:postcode": "79822",
-    "addr:street": "Am Berg",
-    "ele": "1050",
-    "name": "Wanderheim Berghäusle \"Hubert-Kölble-Haus\"",
-    "opening_hours": "Mo-We 11:00-20:00; Fr, Sa, Su, PH 11:00-22:00",
-    "operator": "Huckendecker GbR",
-    "phone": "07652 982065",
-    "tourism": "alpine_hut",
-    "website": "http://www.schwarzwald-berghaeusle.de/"
-  }
-},
-{
-  "type": "node",
-  "id": 710384643,
-  "lat": 46.1612408,
-  "lon": 15.1521210,
-  "tags": {
-    "ele": "552",
-    "name": "Pri knapu pod Babo",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 715763185,
   "lat": 47.4382134,
   "lon": 11.7894138,
@@ -9166,17 +8962,6 @@
 },
 {
   "type": "node",
-  "id": 724508614,
-  "lat": 46.1656811,
-  "lon": 14.5617157,
-  "tags": {
-    "amenity": "pub",
-    "name": "Mengeška koča na Gobavici",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 725285130,
   "lat": 46.0892656,
   "lon": 11.8421615,
@@ -9188,16 +8973,6 @@
     "phone": "+3904399065",
     "tourism": "alpine_hut",
     "website": "www.rifugiodalpiaz.com"
-  }
-},
-{
-  "type": "node",
-  "id": 732210826,
-  "lat": 47.2223309,
-  "lon": 7.3846640,
-  "tags": {
-    "name": "Clubhaus SAC Grenchen",
-    "tourism": "alpine_hut"
   }
 },
 {
@@ -9230,6 +9005,57 @@
   "tags": {
     "ele": "1265",
     "name": "Rifugio Caltena",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 742432571,
+  "lat": 48.0346185,
+  "lon": 15.6600339,
+  "tags": {
+    "ele": "596",
+    "name": "Staffhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 747134371,
+  "lat": 47.6053813,
+  "lon": 15.8573849,
+  "tags": {
+    "ele": "1314",
+    "name": "Alpkogelhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 747140633,
+  "lat": 47.5597496,
+  "lon": 15.9994157,
+  "tags": {
+    "addr:city": "Aspang",
+    "addr:housename": "Herrgottschnitzer Haus am Kampstein",
+    "addr:housenumber": "86",
+    "addr:postcode": "2970",
+    "addr:suburb": "St. Peter",
+    "alt_name": "Franz Kaupe Hütte",
+    "ele": "1318",
+    "name": "Herrgottschnitzerhütte",
+    "phone": "+43 (2642) 7290",
+    "tourism": "alpine_hut",
+    "website": "http://members.aon.at/herrgottschnitzer/"
+  }
+},
+{
+  "type": "node",
+  "id": 747148944,
+  "lat": 47.5377073,
+  "lon": 15.9297949,
+  "tags": {
+    "name": "Marienseer Schwaig 1478 m",
     "tourism": "alpine_hut"
   }
 },
@@ -9317,16 +9143,6 @@
 },
 {
   "type": "node",
-  "id": 768420889,
-  "lat": 46.5374589,
-  "lon": 6.2186355,
-  "tags": {
-    "name": "Cabane de l'Ecureuil",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 769315324,
   "lat": 47.5448073,
   "lon": 13.8819051,
@@ -9373,16 +9189,6 @@
 },
 {
   "type": "node",
-  "id": 770561136,
-  "lat": 44.2266035,
-  "lon": 10.4753733,
-  "tags": {
-    "name": "Bivacco Le Maccherie",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 771190477,
   "lat": 46.3694451,
   "lon": 14.5877565,
@@ -9412,6 +9218,17 @@
   "lon": 13.6266660,
   "tags": {
     "name": "Rathlucken hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 778504431,
+  "lat": 46.6405444,
+  "lon": 15.2526780,
+  "tags": {
+    "ele": "1000",
+    "name": "Kapunar",
     "tourism": "alpine_hut"
   }
 },
@@ -9462,6 +9279,30 @@
   "tags": {
     "ele": "2007",
     "name": "Ristoro",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 799311224,
+  "lat": 47.6152427,
+  "lon": 15.2101300,
+  "tags": {
+    "ele": "1284",
+    "name": "Florlhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 799349752,
+  "lat": 48.0074725,
+  "lon": 16.1350045,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "847",
+    "name": "Schutzhaus Eisernes Tor",
     "tourism": "alpine_hut"
   }
 },
@@ -9533,18 +9374,6 @@
   "tags": {
     "name": "baita la solaia",
     "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 806852750,
-  "lat": 47.1690125,
-  "lon": 9.0811966,
-  "tags": {
-    "ele": "1375",
-    "name": "Federihütte",
-    "tourism": "alpine_hut",
-    "website": "http://federihuette.ch/"
   }
 },
 {
@@ -9824,16 +9653,6 @@
 },
 {
   "type": "node",
-  "id": 835164289,
-  "lat": 44.3762815,
-  "lon": 10.2490715,
-  "tags": {
-    "name": "Rifugio Pratizzano",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 836286496,
   "lat": 46.0922770,
   "lon": 7.6333661,
@@ -9918,17 +9737,6 @@
     "addr:postcode": "8971",
     "addr:street": "Untertalstraße",
     "name": "Waldhornalm",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 845708466,
-  "lat": 44.3165241,
-  "lon": 10.4188653,
-  "tags": {
-    "ele": "1330 m",
-    "name": "Rifugio Monte Orsaro",
     "tourism": "alpine_hut"
   }
 },
@@ -10196,21 +10004,6 @@
 },
 {
   "type": "node",
-  "id": 859295026,
-  "lat": 46.5527394,
-  "lon": 7.0027670,
-  "tags": {
-    "ele": "1480",
-    "internet_access": "no",
-    "internet_access:fee": "no",
-    "name": "Le Gros Plané",
-    "smoking": "no",
-    "tourism": "alpine_hut",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 861037643,
   "lat": 46.4561372,
   "lon": 10.8525692,
@@ -10363,23 +10156,6 @@
 },
 {
   "type": "node",
-  "id": 873767648,
-  "lat": 47.8322921,
-  "lon": 6.9064098,
-  "tags": {
-    "amenity": "restaurant",
-    "cuisine": "alsatian",
-    "ele": "830",
-    "email": "contact@auberge-refuge-neuweiher.fr",
-    "name": "Auberge du refuge du Neuweiher",
-    "opening_hours": "Apr 1 - Nov 11",
-    "phone": "+33 389 820209",
-    "tourism": "alpine_hut",
-    "website": "www.auberge-refuge-neuweiher.fr"
-  }
-},
-{
-  "type": "node",
   "id": 874400889,
   "lat": 47.0020764,
   "lon": 8.5391415,
@@ -10387,20 +10163,6 @@
     "ele": "850",
     "name": "Arche Ruchenberg",
     "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 875523472,
-  "lat": 47.2611422,
-  "lon": 9.2974207,
-  "tags": {
-    "email": "info@chraezerli.ch",
-    "image": "http://www.chraezerli.ch/images/Bilder/startbild.jpg",
-    "name": "Berggasthaus Chräzerli",
-    "phone": "+41 71 364 11 24",
-    "tourism": "alpine_hut",
-    "website": "http://www.chraezerli.ch/"
   }
 },
 {
@@ -10431,6 +10193,16 @@
   "lon": 8.1933186,
   "tags": {
     "name": "Refugio San Bernard",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 886688657,
+  "lat": 47.5114208,
+  "lon": 15.9568641,
+  "tags": {
+    "name": "Vorauer Schwaig",
     "tourism": "alpine_hut"
   }
 },
@@ -10542,6 +10314,17 @@
 },
 {
   "type": "node",
+  "id": 898073192,
+  "lat": 47.7837957,
+  "lon": 15.5419056,
+  "tags": {
+    "ele": "1483",
+    "name": "Kohlröserl-Hütte (Hofalm)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 901547089,
   "lat": 47.2929063,
   "lon": 12.6785804,
@@ -10560,14 +10343,11 @@
 },
 {
   "type": "node",
-  "id": 901549402,
-  "lat": 46.1278049,
-  "lon": 14.8971480,
+  "id": 902505469,
+  "lat": 47.2815298,
+  "lon": 15.6502969,
   "tags": {
-    "ele": "846",
-    "name": "Planinski dom na Zasavski Sveti gori",
-    "phone": "+386 3 5678162;+386 30 885853",
-    "source": "estimate",
+    "name": "Zetzschachtel",
     "tourism": "alpine_hut"
   }
 },
@@ -10588,27 +10368,6 @@
   "lon": 6.8388298,
   "tags": {
     "name": "Refuge Entre-le-Lac",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 905147368,
-  "lat": 44.1277287,
-  "lon": 10.6434939,
-  "tags": {
-    "ele": "1892",
-    "name": "Rifugio Zeno Colò",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 905147377,
-  "lat": 44.1403995,
-  "lon": 10.6385932,
-  "tags": {
-    "name": "Rifugio Pulicchio",
     "tourism": "alpine_hut"
   }
 },
@@ -10638,6 +10397,16 @@
 },
 {
   "type": "node",
+  "id": 907902063,
+  "lat": 47.5553583,
+  "lon": 15.4776315,
+  "tags": {
+    "name": "Hundskopfhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 908564979,
   "lat": 47.4757455,
   "lon": 10.4882247,
@@ -10647,18 +10416,6 @@
     "addr:postcode": "6675",
     "ele": "1685",
     "name": "Obere Roßalpe",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 909452730,
-  "lat": 47.6329232,
-  "lon": 9.1596309,
-  "tags": {
-    "ele": "513",
-    "name": "Waldhütte Pfaffenwies",
-    "operator": "Bürgergemeinde Kreuzlingen",
     "tourism": "alpine_hut"
   }
 },
@@ -10788,16 +10545,6 @@
     "name": "Leiterbergalm",
     "tourism": "alpine_hut",
     "uploaded_by": "stevens_oli"
-  }
-},
-{
-  "type": "node",
-  "id": 919485009,
-  "lat": 44.3611306,
-  "lon": 10.1105113,
-  "tags": {
-    "name": "Rifugio Albergo Prato Spilla",
-    "tourism": "alpine_hut"
   }
 },
 {
@@ -10941,28 +10688,6 @@
 },
 {
   "type": "node",
-  "id": 926803016,
-  "lat": 47.3057140,
-  "lon": 9.5131916,
-  "tags": {
-    "ele": "1209",
-    "name": "Inneralp",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 926803025,
-  "lat": 47.3117896,
-  "lon": 9.5022738,
-  "tags": {
-    "ele": "1168",
-    "name": "Eichenwieser Schwamm",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 927112595,
   "lat": 46.6978013,
   "lon": 12.0338220,
@@ -11036,19 +10761,6 @@
 },
 {
   "type": "node",
-  "id": 935823808,
-  "lat": 47.2758308,
-  "lon": 9.4848586,
-  "tags": {
-    "amenity": "restaurant",
-    "ele": "1200",
-    "name": "Rohralpe",
-    "place": "locality",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 936300145,
   "lat": 47.1933519,
   "lon": 10.7249950,
@@ -11076,6 +10788,17 @@
   "tags": {
     "ele": "2005",
     "name": "Cabane de la Tsissette",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 937157802,
+  "lat": 47.8815171,
+  "lon": 15.5719726,
+  "tags": {
+    "ele": "1100",
+    "name": "Grabenalm Hütte",
     "tourism": "alpine_hut"
   }
 },
@@ -11120,12 +10843,11 @@
 },
 {
   "type": "node",
-  "id": 946907440,
-  "lat": 47.5837283,
-  "lon": 10.0674324,
+  "id": 946186220,
+  "lat": 47.5612867,
+  "lon": 15.9750388,
   "tags": {
-    "ele": "996 m",
-    "name": "Ochsenberg Alpe",
+    "name": "Kampsteiner Schwaig",
     "tourism": "alpine_hut"
   }
 },
@@ -11196,17 +10918,6 @@
 },
 {
   "type": "node",
-  "id": 961284865,
-  "lat": 47.5677443,
-  "lon": 10.0596897,
-  "tags": {
-    "ele": "901 m",
-    "name": "Wuchers Alpe",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 970679663,
   "lat": 45.9505693,
   "lon": 8.3617957,
@@ -11260,19 +10971,6 @@
     "tourism": "alpine_hut",
     "wikidata": "Q1258083",
     "wikipedia": "it:Rifugio Tre Scarperi"
-  }
-},
-{
-  "type": "node",
-  "id": 978223025,
-  "lat": 47.5993100,
-  "lon": 10.0562684,
-  "tags": {
-    "amenity": "biergarten",
-    "ele": "906m",
-    "internet_access": "no",
-    "name": "Königsalpe",
-    "tourism": "alpine_hut"
   }
 },
 {
@@ -11353,20 +11051,13 @@
 },
 {
   "type": "node",
-  "id": 1013365540,
-  "lat": 44.6993060,
-  "lon": 9.1665806,
+  "id": 1000814895,
+  "lat": 44.8701616,
+  "lon": 5.4212344,
   "tags": {
-    "capacity": "25",
-    "contact:website": "http://www.caitortona.net/rifugio.htm",
-    "ele": "1397",
-    "name": "Rifugio Ezio Orsi",
-    "operator": "Club Alpino Italiano Sezione di Tortona",
-    "phone": "+39 338 4964613",
-    "start_date": "2004",
-    "tourism": "alpine_hut",
-    "wikidata": "Q3935485",
-    "wikipedia": "it:Rifugio Ezio Orsi"
+    "ele": "981",
+    "name": "Gîte des Liottards",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -11463,23 +11154,22 @@
 },
 {
   "type": "node",
-  "id": 1069150055,
-  "lat": 47.2642983,
-  "lon": 14.3910674,
+  "id": 1068288580,
+  "lat": 47.6153194,
+  "lon": 15.6284700,
   "tags": {
-    "name": "Haingartner Hütte",
+    "ele": "1314",
+    "name": "Kaarlhütte",
     "tourism": "alpine_hut"
   }
 },
 {
   "type": "node",
-  "id": 1072616451,
-  "lat": 46.7471516,
-  "lon": 6.3520730,
+  "id": 1069150055,
+  "lat": 47.2642983,
+  "lon": 14.3910674,
   "tags": {
-    "ele": "1303",
-    "name": "Chalet du Gros Morond",
-    "operator": "CAF",
+    "name": "Haingartner Hütte",
     "tourism": "alpine_hut"
   }
 },
@@ -11545,6 +11235,16 @@
 },
 {
   "type": "node",
+  "id": 1098572394,
+  "lat": 47.4598626,
+  "lon": 16.2146072,
+  "tags": {
+    "name": "Reimeckhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1102717471,
   "lat": 44.8758574,
   "lon": 7.2020611,
@@ -11584,19 +11284,6 @@
   "tags": {
     "name": "See'le Hütte (verfallen)",
     "ruins": "yes",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1107977151,
-  "lat": 45.6808890,
-  "lon": 13.9495872,
-  "tags": {
-    "ele": "510",
-    "email": "gaberkdivaca@gmail.com",
-    "name": "Lovska koča na Kožleku",
-    "operator": "Lovska družina Gaberk",
     "tourism": "alpine_hut"
   }
 },
@@ -11694,6 +11381,17 @@
 },
 {
   "type": "node",
+  "id": 1135691098,
+  "lat": 45.1892659,
+  "lon": 5.9355356,
+  "tags": {
+    "ele": "1735",
+    "name": "Refuge du Pré du Mollard",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1140556838,
   "lat": 45.1182130,
   "lon": 6.3752459,
@@ -11704,6 +11402,17 @@
     "tourism": "alpine_hut",
     "wikidata": "Q3423219",
     "wikipedia": "fr:Refuge des Aiguilles d'Arves"
+  }
+},
+{
+  "type": "node",
+  "id": 1144448944,
+  "lat": 47.7192342,
+  "lon": 15.3720563,
+  "tags": {
+    "name": "Tonionhütte",
+    "operator": "Naturfreunde Gußwerk",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -11724,17 +11433,6 @@
     "source": "PCN ortofoto a colori 2006",
     "tourism": "alpine_hut",
     "website": "http://www.vareselandoftourism.it/?dove_dormire=search&lang=it&struttura=9&PAG=rifugio-forcora--rifugi-con-alloggio-dove-dormire&o=724"
-  }
-},
-{
-  "type": "node",
-  "id": 1152974710,
-  "lat": 47.9047906,
-  "lon": 7.8371266,
-  "tags": {
-    "ele": "642 m",
-    "name": "Winterberghütte",
-    "tourism": "alpine_hut"
   }
 },
 {
@@ -11774,22 +11472,6 @@
 },
 {
   "type": "node",
-  "id": 1168461972,
-  "lat": 45.4416059,
-  "lon": 14.4799678,
-  "tags": {
-    "alt_name": "Dom Hahlići",
-    "ele": "1097 m",
-    "internet_access": "no",
-    "name": "Planinarski dom Hahlić",
-    "operator": "pd \"Obruč\"",
-    "tourism": "alpine_hut",
-    "website": "http://www.plsavez.hr/info/planinarske-kuce/planinarski-dom-hahlic/",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 1184594388,
   "lat": 46.5021181,
   "lon": 9.3614429,
@@ -11818,23 +11500,25 @@
 },
 {
   "type": "node",
+  "id": 1189048626,
+  "lat": 47.2670814,
+  "lon": 15.2262586,
+  "tags": {
+    "access": "public",
+    "ele": "1238",
+    "heating": "no",
+    "name": "Gmoa Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1189766694,
   "lat": 46.8668208,
   "lon": 12.7933915,
   "tags": {
     "ele": "1899",
     "name": "AV Jugendheim",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1189809806,
-  "lat": 47.2201601,
-  "lon": 9.1058501,
-  "tags": {
-    "name": "Tanzbodenhütte",
-    "operator": "SAC",
     "tourism": "alpine_hut"
   }
 },
@@ -11948,46 +11632,12 @@
 },
 {
   "type": "node",
-  "id": 1238926594,
-  "lat": 47.4070336,
-  "lon": 8.2328374,
-  "tags": {
-    "name": "Ortsbürgerhaus (Naturfreundehaus)",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1238926600,
-  "lat": 47.4080322,
-  "lon": 8.2327807,
-  "tags": {
-    "name": "Turnerhütte",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1248773770,
   "lat": 44.4855605,
   "lon": 7.3551235,
   "tags": {
     "ele": "1000",
     "name": "Rifugio privato",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1249997332,
-  "lat": 46.1147779,
-  "lon": 15.1386126,
-  "tags": {
-    "addr:housenumber": "47",
-    "addr:street": "Gore",
-    "alt_name": "Planinski dom na Gorah",
-    "ele": "762",
-    "name": "Planinski dom v Gorah",
     "tourism": "alpine_hut"
   }
 },
@@ -12038,27 +11688,6 @@
 },
 {
   "type": "node",
-  "id": 1272999198,
-  "lat": 45.4260765,
-  "lon": 14.8963396,
-  "tags": {
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1277971959,
-  "lat": 47.2084201,
-  "lon": 7.2177238,
-  "tags": {
-    "name": "Cabane Rochette",
-    "operator": "Club Alpin Suisse - Section Pierre-Pertuis",
-    "source": "http://www.jo-sac.ch/pierre-pertuis/",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1286795477,
   "lat": 47.7435457,
   "lon": 14.3460581,
@@ -12070,21 +11699,22 @@
 },
 {
   "type": "node",
-  "id": 1287019409,
-  "lat": 45.2374423,
-  "lon": 14.2039184,
-  "tags": {
-    "name": "Lovačka kuća Perun",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1287532822,
   "lat": 44.1157514,
   "lon": 7.2796747,
   "tags": {
     "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1287979819,
+  "lat": 47.9464037,
+  "lon": 14.5823017,
+  "tags": {
+    "name": "Glasnerhütte",
+    "tourism": "alpine_hut",
+    "website": "www.glasenberg.at/glasnerhuette/"
   }
 },
 {
@@ -12101,6 +11731,17 @@
     "operator": "private",
     "tourism": "alpine_hut",
     "winter_room": "no (apertura invernale con gestore)"
+  }
+},
+{
+  "type": "node",
+  "id": 1288225258,
+  "lat": 47.6511817,
+  "lon": 15.2688053,
+  "tags": {
+    "ele": "1502",
+    "name": "Graualm",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -12304,16 +11945,6 @@
 },
 {
   "type": "node",
-  "id": 1313562338,
-  "lat": 47.6203417,
-  "lon": 10.1080291,
-  "tags": {
-    "name": "Talhofer Alm",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1315996744,
   "lat": 47.8119010,
   "lon": 13.7233381,
@@ -12338,31 +11969,24 @@
 },
 {
   "type": "node",
+  "id": 1325754511,
+  "lat": 45.0295722,
+  "lon": 5.9799349,
+  "tags": {
+    "email": "giteleschuss@wanadoo.fr",
+    "name": "Le Schuss",
+    "phone": "+33 4 76 80 46 60",
+    "tourism": "alpine_hut",
+    "website": "http://www.giteleschuss.com/"
+  }
+},
+{
+  "type": "node",
   "id": 1328619899,
   "lat": 45.8706173,
   "lon": 9.7801565,
   "tags": {
     "name": "Baita Carlo Nembrini",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1329988239,
-  "lat": 47.0229720,
-  "lon": 6.8430224,
-  "tags": {
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1331208175,
-  "lat": 46.5797702,
-  "lon": 6.4026783,
-  "tags": {
-    "internet_access": "no",
-    "name": "La Bouennaz",
     "tourism": "alpine_hut"
   }
 },
@@ -12437,6 +12061,16 @@
 },
 {
   "type": "node",
+  "id": 1332392718,
+  "lat": 46.3843188,
+  "lon": 15.1881616,
+  "tags": {
+    "name": "Dom na Paškem Kozjaku",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1332392724,
   "lat": 46.4133015,
   "lon": 14.9002578,
@@ -12446,16 +12080,6 @@
     "tourism": "alpine_hut",
     "wikidata": "Q11694698",
     "wikipedia": "en:Dom na Smrekovcu"
-  }
-},
-{
-  "type": "node",
-  "id": 1332392735,
-  "lat": 45.7770906,
-  "lon": 14.2283137,
-  "tags": {
-    "name": "Koča Mladika na Pečni rebri",
-    "tourism": "alpine_hut"
   }
 },
 {
@@ -12499,16 +12123,6 @@
   "lon": 14.6601765,
   "tags": {
     "name": "Koča pod Olševo",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1332392746,
-  "lat": 45.6200193,
-  "lon": 14.8473324,
-  "tags": {
-    "name": "Koča pri Jelenovem studencu",
     "tourism": "alpine_hut"
   }
 },
@@ -12570,32 +12184,11 @@
 },
 {
   "type": "node",
-  "id": 1332392783,
-  "lat": 45.8948803,
-  "lon": 14.0755486,
-  "tags": {
-    "ele": "1200",
-    "name": "Pirnatova koča na Javorniku",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1332392803,
   "lat": 46.3256023,
   "lon": 15.0586254,
   "tags": {
     "name": "Planinski dom na Gori Oljki",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1332392810,
-  "lat": 46.0875400,
-  "lon": 15.0723260,
-  "tags": {
-    "name": "Planinski dom na Kumu",
     "tourism": "alpine_hut"
   }
 },
@@ -12733,16 +12326,6 @@
 },
 {
   "type": "node",
-  "id": 1344471481,
-  "lat": 46.6327859,
-  "lon": 6.1598680,
-  "tags": {
-    "name": "La Grande-Verrière",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1348444866,
   "lat": 47.3999785,
   "lon": 10.7252540,
@@ -12795,11 +12378,32 @@
 },
 {
   "type": "node",
-  "id": 1357042368,
-  "lat": 46.9939041,
-  "lon": 7.9416032,
+  "id": 1351477428,
+  "lat": 47.6400300,
+  "lon": 15.3960702,
   "tags": {
-    "name": "Gruppenunterkunft Mettlenalp",
+    "name": "Baerntalalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1351497872,
+  "lat": 47.6926960,
+  "lon": 15.3794320,
+  "tags": {
+    "name": "Weißalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1351497873,
+  "lat": 47.7000304,
+  "lon": 15.4033900,
+  "tags": {
+    "ele": "1402",
+    "name": "Herrenboden",
     "tourism": "alpine_hut"
   }
 },
@@ -13019,16 +12623,6 @@
 },
 {
   "type": "node",
-  "id": 1388234388,
-  "lat": 47.7473496,
-  "lon": 8.6019817,
-  "tags": {
-    "name": "Buechberghuus",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1388585135,
   "lat": 45.3892329,
   "lon": 7.5572399,
@@ -13242,6 +12836,16 @@
 },
 {
   "type": "node",
+  "id": 1410323342,
+  "lat": 47.3019525,
+  "lon": 15.6151648,
+  "tags": {
+    "name": "Schutzhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1411029986,
   "lat": 46.2513352,
   "lon": 11.1412315,
@@ -13302,16 +12906,6 @@
 },
 {
   "type": "node",
-  "id": 1417628251,
-  "lat": 45.7869146,
-  "lon": 9.0990043,
-  "tags": {
-    "name": "Baita Monte Goi",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1419889047,
   "lat": 47.3001443,
   "lon": 13.6918487,
@@ -13329,12 +12923,19 @@
   "lat": 47.2965040,
   "lon": 11.4030789,
   "tags": {
+    "addr:city": "Innsbruck",
+    "addr:housenumber": "113",
+    "addr:postcode": "6020",
+    "addr:street": "Rosnerweg",
     "amenity": "restaurant",
+    "cuisine": "regional",
+    "delivery": "no",
     "ele": "1067",
     "name": "Arzler Alm",
     "operator": "Fam. Anzengruber",
+    "outdoor_seating": "yes",
     "tourism": "alpine_hut",
-    "website": "www.arzleralm.at"
+    "website": "http://www.arzleralm.at/"
   }
 },
 {
@@ -13387,6 +12988,19 @@
     "amenity": "alp",
     "int_name": "Malga Rialto",
     "name": "Malga Rialto",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1426828784,
+  "lat": 47.7109369,
+  "lon": 15.6366237,
+  "tags": {
+    "ele": "1764",
+    "email": "bayer-lurgbauer@aon.at",
+    "name": "Lurgbauerhütte",
+    "phone": "+43/3857/2237",
     "tourism": "alpine_hut"
   }
 },
@@ -13547,6 +13161,38 @@
 },
 {
   "type": "node",
+  "id": 1447832801,
+  "lat": 47.4600293,
+  "lon": 15.6210232,
+  "tags": {
+    "name": "Halterhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1448650916,
+  "lat": 47.2898938,
+  "lon": 15.6024324,
+  "tags": {
+    "designation": "Schihütte",
+    "name": "Schihütte, Steinbauer",
+    "source": "local_knowledge",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1453561181,
+  "lat": 47.5177155,
+  "lon": 15.6921451,
+  "tags": {
+    "name": "Sonnenhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1453574187,
   "lat": 47.1095150,
   "lon": 9.4143990,
@@ -13559,11 +13205,11 @@
 },
 {
   "type": "node",
-  "id": 1455061167,
-  "lat": 44.5187076,
-  "lon": 9.7908538,
+  "id": 1453631950,
+  "lat": 47.5116863,
+  "lon": 15.6423236,
   "tags": {
-    "name": "Lavatoio",
+    "name": "Kressbachalmhütte",
     "tourism": "alpine_hut"
   }
 },
@@ -13732,37 +13378,12 @@
 },
 {
   "type": "node",
-  "id": 1477990680,
-  "lat": 46.7837067,
-  "lon": 6.5503536,
-  "tags": {
-    "internet_access": "no",
-    "internet_access:fee": "no",
-    "name": "Refuge de Champvent",
-    "smoking": "no",
-    "tourism": "alpine_hut",
-    "wheelchair": "no"
-  }
-},
-{
-  "type": "node",
   "id": 1480453873,
   "lat": 47.3996629,
   "lon": 9.8194792,
   "tags": {
     "ele": "1250",
     "name": "Älpele",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1484822890,
-  "lat": 47.6394821,
-  "lon": 9.1553807,
-  "tags": {
-    "access": "private",
-    "name": "Blockhütte Bernrain",
     "tourism": "alpine_hut"
   }
 },
@@ -13802,16 +13423,6 @@
 },
 {
   "type": "node",
-  "id": 1494606593,
-  "lat": 46.6903405,
-  "lon": 6.7540427,
-  "tags": {
-    "name": "Buvette des Brigands",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1496710565,
   "lat": 46.9239776,
   "lon": 10.1756739,
@@ -13846,8 +13457,8 @@
   "lat": 45.6442657,
   "lon": 7.9297250,
   "tags": {
-    "fixme": "completare i tag",
-    "name": "Rifugio del Lago della Balma - In Costruzione",
+    "fixme": "completare i tag, edificio ultimato ma nel 2017 non ha un gestore per cui è chiuso",
+    "name": "Rifugio del Lago della Balma",
     "tourism": "alpine_hut"
   }
 },
@@ -14086,6 +13697,16 @@
 },
 {
   "type": "node",
+  "id": 1542788831,
+  "lat": 45.0308555,
+  "lon": 5.8569368,
+  "tags": {
+    "name": "Gite de l'Alpe du Grand Serre",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1542801541,
   "lat": 45.3188183,
   "lon": 6.8174540,
@@ -14165,6 +13786,16 @@
 },
 {
   "type": "node",
+  "id": 1571934672,
+  "lat": 43.8640380,
+  "lon": 6.8891120,
+  "tags": {
+    "name": "Abdoun",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1575573265,
   "lat": 46.3105983,
   "lon": 10.1896770,
@@ -14204,17 +13835,6 @@
   "lon": 13.7501504,
   "tags": {
     "name": "Brentlerhütte",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1602707436,
-  "lat": 47.8186796,
-  "lon": 7.8102518,
-  "tags": {
-    "ele": "715",
-    "name": "Stangenbodenhütte",
     "tourism": "alpine_hut"
   }
 },
@@ -14562,6 +14182,20 @@
 },
 {
   "type": "node",
+  "id": 1659212855,
+  "lat": 45.1480204,
+  "lon": 5.8858827,
+  "tags": {
+    "addr:city": "Saint-Martin-d'Uriage",
+    "addr:postcode": "38410",
+    "ele": "1265",
+    "name": "Cabane à Bonnet",
+    "toilets": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1660382625,
   "lat": 47.0640676,
   "lon": 11.4485065,
@@ -14775,6 +14409,17 @@
 },
 {
   "type": "node",
+  "id": 1700149650,
+  "lat": 45.2826131,
+  "lon": 5.5980562,
+  "tags": {
+    "internet_access": "no",
+    "name": "Cabane de Renardiere",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1704341525,
   "lat": 46.7594324,
   "lon": 12.7665605,
@@ -14821,18 +14466,6 @@
     "ele": "2180",
     "name": "Rifugio Vallè",
     "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1721033780,
-  "lat": 46.5754884,
-  "lon": 6.6449978,
-  "tags": {
-    "name": "Chalet Scout",
-    "operator": "La Croisée",
-    "tourism": "alpine_hut",
-    "website": "http://filac.croisee.ch/"
   }
 },
 {
@@ -14923,16 +14556,6 @@
 },
 {
   "type": "node",
-  "id": 1777027154,
-  "lat": 45.3630706,
-  "lon": 14.8967651,
-  "tags": {
-    "designation": "ludge",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1779769997,
   "lat": 47.1667129,
   "lon": 11.6404192,
@@ -14962,6 +14585,26 @@
 },
 {
   "type": "node",
+  "id": 1785972339,
+  "lat": 47.7112976,
+  "lon": 15.4347040,
+  "tags": {
+    "name": "Königsalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1785972343,
+  "lat": 47.7116525,
+  "lon": 15.4208522,
+  "tags": {
+    "name": "Dürrieglalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1791356848,
   "lat": 46.0996504,
   "lon": 8.7885444,
@@ -14973,30 +14616,6 @@
     "tourism": "alpine_hut",
     "wikidata": "Q3656690",
     "wikipedia": "it:Capanna Alpetto di Caviano"
-  }
-},
-{
-  "type": "node",
-  "id": 1792259505,
-  "lat": 44.2067727,
-  "lon": 10.3868560,
-  "tags": {
-    "name": "Rifugio Granaiola",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1792306738,
-  "lat": 44.2052255,
-  "lon": 10.3696041,
-  "tags": {
-    "alt_phone": "+39 3319165832",
-    "email": "info@rifugioisera.it",
-    "name": "Rifugio Isera",
-    "phone": "+39 0583 660203",
-    "tourism": "alpine_hut",
-    "website": "www.rifugioisera.it/"
   }
 },
 {
@@ -15016,16 +14635,6 @@
   "lon": 11.3026795,
   "tags": {
     "name": "Pramsfallötz",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1795440360,
-  "lat": 47.3302523,
-  "lon": 7.9156622,
-  "tags": {
-    "name": "Hühnerweid",
     "tourism": "alpine_hut"
   }
 },
@@ -15267,6 +14876,16 @@
 },
 {
   "type": "node",
+  "id": 1837710838,
+  "lat": 47.5697267,
+  "lon": 15.7740887,
+  "tags": {
+    "name": "Steinbachalm Sennerhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1839842096,
   "lat": 47.4316349,
   "lon": 12.7733889,
@@ -15396,25 +15015,6 @@
   "lon": 13.1204252,
   "tags": {
     "name": "Tristenhaus",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1865772969,
-  "lat": 47.8309857,
-  "lon": 7.0710063,
-  "tags": {
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1865953369,
-  "lat": 47.8301146,
-  "lon": 7.0428626,
-  "tags": {
-    "name": "Vogesapfad husla",
     "tourism": "alpine_hut"
   }
 },
@@ -15659,15 +15259,6 @@
 },
 {
   "type": "node",
-  "id": 1918249205,
-  "lat": 44.1281694,
-  "lon": 10.6312772,
-  "tags": {
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 1920072983,
   "lat": 45.0308238,
   "lon": 6.3626003,
@@ -15677,16 +15268,6 @@
     "addr:postcode": "05480",
     "name": "Le Pas de l'Ane",
     "shower": "yes",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1920559002,
-  "lat": 47.5675351,
-  "lon": 10.0489919,
-  "tags": {
-    "name": "Alpe Mohr",
     "tourism": "alpine_hut"
   }
 },
@@ -15850,6 +15431,15 @@
 },
 {
   "type": "node",
+  "id": 1976227414,
+  "lat": 47.3017890,
+  "lon": 15.5753127,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1976860895,
   "lat": 47.5467179,
   "lon": 10.1219060,
@@ -15865,16 +15455,6 @@
   "lon": 10.5879807,
   "tags": {
     "name": "Bivacco Meneghello",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 1994251159,
-  "lat": 46.1181516,
-  "lon": 14.8072324,
-  "tags": {
-    "name": "Dom na Zgornji Slivni",
     "tourism": "alpine_hut"
   }
 },
@@ -15994,6 +15574,16 @@
     "phone": "+43 676 41 52 355",
     "tourism": "alpine_hut",
     "website": "http://www.niederelbehuette.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 2085795791,
+  "lat": 47.4840675,
+  "lon": 15.9630702,
+  "tags": {
+    "name": "Glatzl Trahütten",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -16222,16 +15812,6 @@
 },
 {
   "type": "node",
-  "id": 2161816300,
-  "lat": 45.4405873,
-  "lon": 14.5836282,
-  "tags": {
-    "name": "Dom Snježnik",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 2170939995,
   "lat": 46.2581284,
   "lon": 10.5693040,
@@ -16364,22 +15944,22 @@
 },
 {
   "type": "node",
-  "id": 2244756035,
-  "lat": 46.3051881,
-  "lon": 14.6112235,
+  "id": 2235078156,
+  "lat": 45.1151244,
+  "lon": 5.8481142,
   "tags": {
-    "name": "Kraljev Hrib",
+    "ele": "1187",
+    "name": "Recoud",
     "tourism": "alpine_hut"
   }
 },
 {
   "type": "node",
-  "id": 2246524495,
-  "lat": 47.7617600,
-  "lon": 8.5742163,
+  "id": 2244756035,
+  "lat": 46.3051881,
+  "lon": 14.6112235,
   "tags": {
-    "name": "Hasenbuckhütte",
-    "operator": "SAC",
+    "name": "Kraljev Hrib",
     "tourism": "alpine_hut"
   }
 },
@@ -16409,6 +15989,21 @@
     "ele": "1685",
     "name": "Rifugio Paolo Majerna - CAI Boffalora -",
     "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2263078847,
+  "lat": 44.7354769,
+  "lon": 5.8955398,
+  "tags": {
+    "capacity": "24",
+    "ele": "1030",
+    "email": "gites-st-disdier@wanadoo.fr",
+    "name": "Gîte de Saint-Disdier",
+    "phone": "+33 4 92 58 84 84",
+    "tourism": "alpine_hut",
+    "website": "http://www.gite-devoluy.com/accueil.htm"
   }
 },
 {
@@ -16610,20 +16205,6 @@
 },
 {
   "type": "node",
-  "id": 2349506772,
-  "lat": 47.2834049,
-  "lon": 9.4143850,
-  "tags": {
-    "amenity": "restaurant",
-    "name": "Berggasthaus Aescher-Wildkirchli",
-    "operator": "Bernhard und Nicole Knechtle",
-    "phone": "+41 71 799 11 42",
-    "tourism": "alpine_hut",
-    "website": "http://www.aescher-ai.ch"
-  }
-},
-{
-  "type": "node",
   "id": 2355924816,
   "lat": 44.1961701,
   "lon": 7.4976960,
@@ -16758,19 +16339,6 @@
     "website": "http://www.alm-ferienhaus.com/zupalseehuette/",
     "wikidata": "Q230219",
     "wikipedia": "de:Zupalseehütte"
-  }
-},
-{
-  "type": "node",
-  "id": 2384484206,
-  "lat": 46.1607055,
-  "lon": 15.0417279,
-  "tags": {
-    "internet_access": "wlan",
-    "internet_access:fee": "no",
-    "name": "Dom Tončke Čeč",
-    "source": "estimate",
-    "tourism": "alpine_hut"
   }
 },
 {
@@ -17486,21 +17054,11 @@
 },
 {
   "type": "node",
-  "id": 2567573002,
-  "lat": 47.7796942,
-  "lon": 6.8606539,
+  "id": 2565539240,
+  "lat": 45.3401631,
+  "lon": 5.8103621,
   "tags": {
-    "name": "Abri col Chantoiseau",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 2567578519,
-  "lat": 47.7650419,
-  "lon": 6.8976580,
-  "tags": {
-    "name": "Abri col des 7 Chemins",
+    "name": "Gite d'étape des 4 chemins",
     "tourism": "alpine_hut"
   }
 },
@@ -17561,16 +17119,6 @@
     "website": "http://www.capannasalei.ch",
     "wikidata": "Q3656678",
     "wikipedia": "it:Capanna Alpe Saléi"
-  }
-},
-{
-  "type": "node",
-  "id": 2605743890,
-  "lat": 45.3788487,
-  "lon": 14.1613657,
-  "tags": {
-    "name": "Korita",
-    "tourism": "alpine_hut"
   }
 },
 {
@@ -17646,30 +17194,11 @@
 },
 {
   "type": "node",
-  "id": 2687064635,
-  "lat": 45.4554284,
-  "lon": 14.0125489,
-  "tags": {
-    "name": "Planinarski dom Žbevnica",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 2694844847,
   "lat": 44.1406444,
   "lon": 7.3632791,
   "tags": {
     "name": "Winter room Rifugio Soria Ellena",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 2712287295,
-  "lat": 44.7275791,
-  "lon": 9.6428982,
-  "tags": {
     "tourism": "alpine_hut"
   }
 },
@@ -17926,24 +17455,6 @@
 },
 {
   "type": "node",
-  "id": 2783884241,
-  "lat": 44.0976385,
-  "lon": 10.2321548,
-  "tags": {
-    "capacity": "24",
-    "contact:mobile": "+39 333 8231582",
-    "contact:phone": "+39 328 9356219",
-    "ele": "1442",
-    "name": "Rifugio Nello Conti",
-    "operator": "Sezione CAI Massa",
-    "phone": "+39 0585 793059",
-    "source": "CAI",
-    "tourism": "alpine_hut",
-    "website": "http://www.rifugionelloconti.it"
-  }
-},
-{
-  "type": "node",
   "id": 2788722282,
   "lat": 44.9955828,
   "lon": 6.3854121,
@@ -18005,17 +17516,6 @@
 },
 {
   "type": "node",
-  "id": 2836467818,
-  "lat": 45.5779785,
-  "lon": 14.3786520,
-  "tags": {
-    "ele": "1060",
-    "name": "Vilharjeva koča v Črnem dolu",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 2839958962,
   "lat": 46.9954919,
   "lon": 14.6242633,
@@ -18043,6 +17543,16 @@
     "ele": "2500",
     "name": "Badushütte SAC Manegg",
     "operator": "SAC Manegg",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2870159370,
+  "lat": 47.2104956,
+  "lon": 15.2122017,
+  "tags": {
+    "name": "Taschlerhütte",
     "tourism": "alpine_hut"
   }
 },
@@ -18206,8 +17716,8 @@
 {
   "type": "node",
   "id": 2949839549,
-  "lat": 45.4611500,
-  "lon": 7.1180048,
+  "lat": 45.4600925,
+  "lon": 7.1159308,
   "tags": {
     "name": "Rifugio Pian della Ballotta",
     "source": "Guida ai Rifugi del CAI",
@@ -18334,37 +17844,6 @@
 },
 {
   "type": "node",
-  "id": 2969393264,
-  "lat": 46.5713012,
-  "lon": 6.2766981,
-  "tags": {
-    "alt_name": "Le Grand-Cunay",
-    "name": "Cabane du Grand-Cunay",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 2969399374,
-  "lat": 46.5795639,
-  "lon": 6.2887220,
-  "tags": {
-    "name": "Cabane du Cunay",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 2969402219,
-  "lat": 46.5865134,
-  "lon": 6.2957810,
-  "tags": {
-    "name": "Cabane La Pivette",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 2974698169,
   "lat": 47.5572821,
   "lon": 15.0516680,
@@ -18386,18 +17865,6 @@
     "addr:street": "Dorf",
     "ele": "1733",
     "name": "Zauneralm",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 2984109058,
-  "lat": 46.4981459,
-  "lon": 6.1679021,
-  "tags": {
-    "access": "yes",
-    "name": "Les Pralets",
-    "reservation": "recommended",
     "tourism": "alpine_hut"
   }
 },
@@ -18458,15 +17925,6 @@
 },
 {
   "type": "node",
-  "id": 2998854576,
-  "lat": 45.4528611,
-  "lon": 14.2694985,
-  "tags": {
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 3001332656,
   "lat": 46.3505856,
   "lon": 8.8256438,
@@ -18496,16 +17954,6 @@
   "lon": 9.5021170,
   "tags": {
     "fixme": "Insert the name",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 3017983515,
-  "lat": 44.3901798,
-  "lon": 10.2945734,
-  "tags": {
-    "name": "Bivacco Le Cadoniche",
     "tourism": "alpine_hut"
   }
 },
@@ -18799,20 +18247,6 @@
 },
 {
   "type": "node",
-  "id": 3127867112,
-  "lat": 47.8214745,
-  "lon": 7.8543618,
-  "tags": {
-    "ele": "1030",
-    "name": "Wanderheim Dießlin Hütte Multen",
-    "operator": "Schwarzwaldverein",
-    "phone": "07673 1291",
-    "tourism": "alpine_hut",
-    "website": "http://www.schwarzwaldverein.de/allgemein/schwarzwaldverein/wanderheime/seite07.html"
-  }
-},
-{
-  "type": "node",
   "id": 3138146062,
   "lat": 46.2854337,
   "lon": 10.8678652,
@@ -18890,32 +18324,12 @@
 },
 {
   "type": "node",
-  "id": 3145208599,
-  "lat": 46.5701596,
-  "lon": 6.6408212,
-  "tags": {
-    "name": "Refuge de la mèbre",
-    "note": "Refuge non fermer",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 3151494462,
   "lat": 45.9708158,
   "lon": 11.4127382,
   "tags": {
     "ele": "1658",
     "name": "Rifugio Larici",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 3151582806,
-  "lat": 44.4081446,
-  "lon": 9.7424408,
-  "tags": {
     "tourism": "alpine_hut"
   }
 },
@@ -18969,15 +18383,6 @@
   "lon": 11.9465314,
   "tags": {
     "name": "Agriturismo Malga Laste",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 3237269070,
-  "lat": 46.5330870,
-  "lon": 6.6778631,
-  "tags": {
     "tourism": "alpine_hut"
   }
 },
@@ -19230,16 +18635,6 @@
   "tags": {
     "ele": "1510",
     "name": "Wegerhütte",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 3403761718,
-  "lat": 45.6416003,
-  "lon": 8.3326804,
-  "tags": {
-    "name": "Rifugio Alpini di Lozzolo",
     "tourism": "alpine_hut"
   }
 },
@@ -19517,6 +18912,27 @@
 },
 {
   "type": "node",
+  "id": 3438677247,
+  "lat": 47.1762425,
+  "lon": 15.2331345,
+  "tags": {
+    "name": "Kleinschupfer",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3439240816,
+  "lat": 47.1750389,
+  "lon": 15.2544838,
+  "tags": {
+    "ele": "996",
+    "name": "Mühlbacherhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 3440988038,
   "lat": 46.6247056,
   "lon": 9.2760238,
@@ -19550,17 +18966,24 @@
 {
   "type": "node",
   "id": 3479300542,
-  "lat": 47.2925207,
-  "lon": 11.3790296,
+  "lat": 47.2925280,
+  "lon": 11.3792723,
   "tags": {
     "addr:city": "Innsbruck",
     "addr:country": "AT",
+    "addr:housenumber": "36",
     "addr:postcode": "6020",
     "addr:street": "Umbrückleralmweg",
     "amenity": "restaurant",
     "building": "yes",
+    "cuisine": "regional",
+    "delivery": "no",
     "ele": "1123",
     "name": "Umbrüggler Alm",
+    "opening_hours": "Mo,We-Su 09:00-19:30",
+    "operator": "Sonja Schütz",
+    "outdoor_seating": "yes",
+    "phone": "+43 664 3244 543",
     "tourism": "alpine_hut"
   }
 },
@@ -19645,22 +19068,19 @@
 },
 {
   "type": "node",
-  "id": 3587761897,
-  "lat": 46.5768924,
-  "lon": 6.1035636,
+  "id": 3610743864,
+  "lat": 47.2038352,
+  "lon": 15.1735400,
   "tags": {
-    "access": "customers",
-    "addr:city": "Chapelle-des-Bois",
-    "addr:housenumber": "12",
-    "addr:postcode": "25240",
-    "addr:street": "Sur les lacs",
-    "capacity": "31",
-    "ele": "1141",
-    "name": "Chez l'Aimé",
-    "reservation": "required",
-    "source": "survey;website",
-    "tourism": "alpine_hut",
-    "website": "http://chez-l-aime.magix.net/website"
+    "addr:city": "Gratwein-Straßengel",
+    "addr:country": "AT",
+    "addr:housenumber": "32",
+    "addr:place": "Gschnaidt",
+    "addr:postcode": "8153",
+    "at_bev:addr_date": "2016-10-02",
+    "cuisine": "regional",
+    "name": "Bockstaller Hütte (zum Holter Fritz)",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -19753,32 +19173,11 @@
 },
 {
   "type": "node",
-  "id": 3738034905,
-  "lat": 44.1096277,
-  "lon": 10.8745823,
-  "tags": {
-    "name": "Rifugio di Donnamorta",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 3740357364,
   "lat": 47.2322309,
   "lon": 14.1738654,
   "tags": {
     "name": "Greimhütte",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 3741146823,
-  "lat": 45.6281306,
-  "lon": 14.3663532,
-  "tags": {
-    "name": "Mašun",
-    "source": "survey",
     "tourism": "alpine_hut"
   }
 },
@@ -19807,6 +19206,17 @@
   "lon": 10.0541030,
   "tags": {
     "name": "Baita del Sole",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3756950306,
+  "lat": 47.4973176,
+  "lon": 15.3249623,
+  "tags": {
+    "fixme": "Wirklich eine Hütte??",
+    "name": "Tulzer Alm",
     "tourism": "alpine_hut"
   }
 },
@@ -19898,16 +19308,6 @@
     "source": "website",
     "tourism": "alpine_hut",
     "website": "http://www.amicidellanatura-lugano.ch/capanna.html"
-  }
-},
-{
-  "type": "node",
-  "id": 3811126365,
-  "lat": 47.8026928,
-  "lon": 7.0815198,
-  "tags": {
-    "name": "Zuber",
-    "tourism": "alpine_hut"
   }
 },
 {
@@ -20084,19 +19484,6 @@
 },
 {
   "type": "node",
-  "id": 4098004727,
-  "lat": 44.4177975,
-  "lon": 8.1216947,
-  "tags": {
-    "addr:city": "Camerana",
-    "addr:housenumber": "1",
-    "addr:street": "Località San Giovani Belbo",
-    "name": "Rifugio La Pavoncella",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 4123484291,
   "lat": 46.3428027,
   "lon": 7.0056697,
@@ -20217,28 +19604,6 @@
 },
 {
   "type": "node",
-  "id": 4228543597,
-  "lat": 45.5884893,
-  "lon": 14.4472736,
-  "tags": {
-    "ele": "1790",
-    "name": "Koča Draga Karolina",
-    "phone": "+386 51 615356",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 4238077897,
-  "lat": 45.0736989,
-  "lon": 14.8945096,
-  "tags": {
-    "name": "Ivo",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 4252158087,
   "lat": 47.3631536,
   "lon": 10.8294061,
@@ -20332,17 +19697,6 @@
 },
 {
   "type": "node",
-  "id": 4298431321,
-  "lat": 44.8441355,
-  "lon": 15.1212002,
-  "tags": {
-    "name": "Poljana",
-    "source": "http://gps-planine.com",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 4307334991,
   "lat": 47.5414654,
   "lon": 10.1034261,
@@ -20385,16 +19739,6 @@
     "phone": "+436643889150",
     "tourism": "alpine_hut",
     "website": "http://www.schrabachalm.at"
-  }
-},
-{
-  "type": "node",
-  "id": 4332684409,
-  "lat": 47.5810894,
-  "lon": 10.0556155,
-  "tags": {
-    "name": "Juget Alpe",
-    "tourism": "alpine_hut"
   }
 },
 {
@@ -20445,27 +19789,6 @@
   "tags": {
     "ele": "1540",
     "name": "Malga Porto di Sopra",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 4345929489,
-  "lat": 44.8046622,
-  "lon": 13.9821154,
-  "tags": {
-    "name": "bivio x la costa",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 4347159085,
-  "lat": 46.1217236,
-  "lon": 14.7717857,
-  "tags": {
-    "ele": "658",
-    "name": "Dom Ušte - Žerenk",
     "tourism": "alpine_hut"
   }
 },
@@ -20559,18 +19882,6 @@
 },
 {
   "type": "node",
-  "id": 4347161204,
-  "lat": 45.9227000,
-  "lon": 14.4416000,
-  "tags": {
-    "access": "customers",
-    "ele": "730",
-    "name": "Koča na Kavcu",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 4347161205,
   "lat": 46.3695000,
   "lon": 14.8937000,
@@ -20605,6 +19916,17 @@
 },
 {
   "type": "node",
+  "id": 4347161229,
+  "lat": 46.6038200,
+  "lon": 15.5615100,
+  "tags": {
+    "ele": "690",
+    "name": "Planinski dom Kozjak",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 4347161232,
   "lat": 46.0698000,
   "lon": 14.3213000,
@@ -20633,6 +19955,17 @@
   "tags": {
     "ele": "518",
     "name": "Planinski dom v Novem Svetu",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4347161235,
+  "lat": 46.2986300,
+  "lon": 15.2175900,
+  "tags": {
+    "ele": "565",
+    "name": "Planinski dom Šentjungert",
     "tourism": "alpine_hut"
   }
 },
@@ -20711,17 +20044,6 @@
   "lon": 12.1401833,
   "tags": {
     "name": "Jausenstation Prastmann",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 4380695893,
-  "lat": 47.9113123,
-  "lon": 11.2713594,
-  "tags": {
-    "name": "Roswitha's House",
-    "name:de": "Roswitha's House",
     "tourism": "alpine_hut"
   }
 },
@@ -21013,16 +20335,6 @@
 },
 {
   "type": "node",
-  "id": 4431681094,
-  "lat": 46.9357637,
-  "lon": 7.3555548,
-  "tags": {
-    "name": "Oberi rippa",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 4439580505,
   "lat": 45.8997682,
   "lon": 7.8498355,
@@ -21062,17 +20374,6 @@
 },
 {
   "type": "node",
-  "id": 4451360558,
-  "lat": 46.6857428,
-  "lon": 6.3081251,
-  "tags": {
-    "description": "très petite cabane en écorces 2x2m un lit un fourneau une table.",
-    "name": "hotel des bûcherons",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 4458056696,
   "lat": 46.9469986,
   "lon": 11.7390934,
@@ -21102,17 +20403,6 @@
     "website": "http://www.edelrauthuette.it",
     "wikidata": "Q1283349",
     "wikipedia": "de:Edelrauthütte"
-  }
-},
-{
-  "type": "node",
-  "id": 4467529591,
-  "lat": 47.1636963,
-  "lon": 6.9933911,
-  "tags": {
-    "name": "Chalet de Mont-Soleil - Amis de la Nature",
-    "tourism": "alpine_hut",
-    "website": "http://www.laserment.com/montsoleil/"
   }
 },
 {
@@ -21220,18 +20510,6 @@
 },
 {
   "type": "node",
-  "id": 4582600787,
-  "lat": 44.3655477,
-  "lon": 10.0302055,
-  "tags": {
-    "description": "Cavana \"Sante Puldin\"",
-    "internet_access": "no",
-    "name": "Bivacco Baton",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 4587511089,
   "lat": 46.7152349,
   "lon": 12.1434328,
@@ -21293,16 +20571,6 @@
   "lat": 45.7530421,
   "lon": 8.1600094,
   "tags": {
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 4609613310,
-  "lat": 46.8306233,
-  "lon": 6.4474168,
-  "tags": {
-    "name": "Refuge de la gare d'Olten",
     "tourism": "alpine_hut"
   }
 },
@@ -21525,26 +20793,6 @@
 },
 {
   "type": "node",
-  "id": 4722195068,
-  "lat": 45.8591549,
-  "lon": 8.0625439,
-  "tags": {
-    "name": "Alpe Campo Di Rimasco",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
-  "id": 4728773093,
-  "lat": 46.8069532,
-  "lon": 6.5485953,
-  "tags": {
-    "name": "thibaud的家",
-    "tourism": "alpine_hut"
-  }
-},
-{
-  "type": "node",
   "id": 4742977194,
   "lat": 46.7836764,
   "lon": 8.6011893,
@@ -21720,6 +20968,16 @@
 },
 {
   "type": "node",
+  "id": 4855927662,
+  "lat": 47.5982470,
+  "lon": 15.3213923,
+  "tags": {
+    "name": "Kobenkogelhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 4858362723,
   "lat": 47.4569217,
   "lon": 12.5402150,
@@ -21751,6 +21009,16 @@
 },
 {
   "type": "node",
+  "id": 4888006987,
+  "lat": 45.0078878,
+  "lon": 5.9675758,
+  "tags": {
+    "name": "Gîte Le Chamois",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 4903323422,
   "lat": 46.1943921,
   "lon": 8.9930572,
@@ -21776,6 +21044,17 @@
 },
 {
   "type": "node",
+  "id": 4908192143,
+  "lat": 44.0861164,
+  "lon": 7.4806875,
+  "tags": {
+    "ele": "2018",
+    "name": "Refuge de Fontanalbe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 4908619592,
   "lat": 45.7726183,
   "lon": 11.3161913,
@@ -21783,6 +21062,30 @@
     "name": "Baita Baretela",
     "tourism": "alpine_hut",
     "website": "http://baitabaretela.weebly.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 4914012317,
+  "lat": 46.7027748,
+  "lon": 11.0384348,
+  "tags": {
+    "capacity": "22",
+    "contact:email": "info@nasereit.com",
+    "contact:mobile": "+39 340 494 1347",
+    "contact:phone": "+39 0473 968 222",
+    "dogs": "no",
+    "ele": "1523",
+    "name": "Schutzhütte Nasereit - Rifugio Nassereto",
+    "name:de": "Schutzhütte Nasereit",
+    "name:it": "Rifugio Nassereto",
+    "note": "genauere Angaben zur Öffnung: ab Ostern, ansonsten je nach Witterung",
+    "operator": "Fam. Gerstgrasser",
+    "rooms": "4",
+    "source": "TV Partschins",
+    "source:date": "2017-06-13",
+    "tourism": "alpine_hut",
+    "website": "http://www.nasereit.com/"
   }
 }
 

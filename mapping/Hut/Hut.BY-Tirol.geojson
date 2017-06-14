@@ -1,0 +1,5765 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2658006, 
+          47.1767946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://kemateralm.at", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kemater Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.0188728, 
+          47.5332655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Almgasthof Buchacker"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4992731, 
+          47.2371846
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://rinner-alm.at", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Rinner Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7630781, 
+          46.8699797
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Rauhekopfh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.7085181, 
+          47.2236903
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Weidener H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.0716402, 
+          47.6095206
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "www.purtschellerhaus.eu", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Purtschellerhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2178408, 
+          46.9937503
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.nuernbergerhuette.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "N\u00fcrnberger H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.208737, 
+          47.1429936
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.potsdamer.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Potsdamer H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.0356813, 
+          47.4053133
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Reintalangerh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4571455, 
+          47.0753316
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergeralm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3877707, 
+          47.303273
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bodenstein Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.9371264, 
+          47.495471
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "K\u00e4rlinger Haus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4669069, 
+          47.2218812
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.sistranseralm.at", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Sistranser Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2676517, 
+          47.3311234
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Eppzirler Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3572701, 
+          47.1253893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wildeben"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.451725, 
+          47.3137396
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.thaureralm.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Thaurer Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6678361, 
+          47.3012754
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Anhalter H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.2375905, 
+          47.4200057
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "www.alpenrosenhuette.at", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpenrosenh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.992407, 
+          47.5837672
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.dav-bergland.de/augustschusterhaus.html", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "August-Schuster-Haus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.1520401, 
+          47.2404579
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Inzinger Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1846714, 
+          47.4610918
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Berghaus Schwaben"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8574487, 
+          46.9612238
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Riffelseeh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.779243, 
+          47.0211326
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Verpeilh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6948901, 
+          47.1570626
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Larcheralm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6842738, 
+          47.1491242
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Galflunalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.8208008, 
+          47.4451229
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bayreuther H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3088936, 
+          47.4373796
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.dammkarhuette.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Dammkarh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2101032, 
+          47.1151963
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Seducker Hochalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.9335782, 
+          47.3599978
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.coburgerhuette.at/de/Home_260", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Coburger H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.5595653, 
+          47.1512237
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Peeralm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2786979, 
+          47.4136609
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.brunnsteinhuette.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Brunnsteinh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.263337, 
+          46.9949024
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "www.bremerhuette.at", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bremer H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.1935574, 
+          47.0945707
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Oberissalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.8009263, 
+          47.6281576
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.traunsteinerhuette.com/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Neue Traunsteiner H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.8391279, 
+          46.8818854
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Roana Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0146459, 
+          47.5260251
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.dav-ravensburg.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ravensburger Haus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.7465478, 
+          46.9348077
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Lienzer H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1445173, 
+          47.5499002
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.obere-kalle.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Obere Kalle"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0692148, 
+          47.4916377
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.staufner-haus.de", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Staufner Haus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4240651, 
+          47.640437
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.scheibenwald.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Scheibenwaldh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4151463, 
+          49.772183
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergwachth\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.4032244, 
+          47.168333
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ansbacher H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.844933, 
+          47.3417334
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://nassereither-alm.weebly.com/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Nassereither Alm (Muthenaualm)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3022339, 
+          47.1338257
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Knappenh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2953676, 
+          47.1452555
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Zirmachalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3215507, 
+          47.1481603
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Galtalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2567873, 
+          47.0877559
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Milderauenalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.1148908, 
+          49.1133824
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Chamer H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0373263, 
+          47.5073647
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Remmelegg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0847613, 
+          47.5760984
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hirnbein Alpe Eibele"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1396791, 
+          47.5837274
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Pfarr Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.7540521, 
+          49.0467619
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kreuzhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.7603316, 
+          49.0409395
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hanslh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.8192887, 
+          49.0262273
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Naturfreundehaus Viechtacher H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.9996689, 
+          48.9155188
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Berghaus Loderhart"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.8332021, 
+          47.7366765
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.almbad.de", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Almbad Huberspitz"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.5076098, 
+          48.9377643
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://lusenwirt.de", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Lusenschutzhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.28244, 
+          47.4338533
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.mittenwalder-huette.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Mittenwalder H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.405356, 
+          49.6642724
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hersbrucker H\u00fctte (DAV)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2174425, 
+          47.1734327
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergheim"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.218541, 
+          47.5412706
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Schwander Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.2176566, 
+          47.5430794
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Mittag"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.0444884, 
+          47.4483891
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.hoellentalklamm.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "H\u00f6llentaleingangsh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.5524547, 
+          47.4267901
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hochh\u00f6rndler H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.9283904, 
+          50.2983307
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "H\u00fctte TSV Bad Kissingen"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1190574, 
+          47.6186156
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Rist Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5244088, 
+          46.9178019
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Labaunalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.968278, 
+          50.4231736
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.bergbund-wuerzburg.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "W\u00fcrzburger Bergbundh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.3495262, 
+          47.549548
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ackerlh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4275225, 
+          47.0389946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bonn-Matreier-H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.355733, 
+          47.106067
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Edmund-Graf-H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3108244, 
+          47.0432317
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.innsbrucker-huette.at", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Innsbrucker H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.5822032, 
+          46.6597212
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Porzeh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6910962, 
+          47.4049352
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://de.wikipedia.org/wiki/Reuttener_H%C3%BCtte", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Reuttener H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4957933, 
+          47.1574871
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.alpenverein.at/sankt-poelten/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "St. P\u00f6ltner H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.5392215, 
+          47.4317967
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.wildseeloderhaus.at/index.php", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wildseeloderhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.6595714, 
+          48.6869014
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergwachth\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4771775, 
+          47.3547674
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.hallerangerhaus.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hallerangerhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1740026, 
+          47.5553563
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "CvjM Bierlein H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4395371, 
+          47.0193263
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gotschaunalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2213109, 
+          47.1640546
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Furgges Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.5832113, 
+          47.338407
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Walder Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.6027471, 
+          47.3433836
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ganalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2023284, 
+          47.1684302
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Almind-Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.50748, 
+          47.3386096
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.bettelwurfhuette.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bettelwurfh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.182716, 
+          47.5449079
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe-Alp"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0064526, 
+          47.5111641
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Fluhalpe Vordere"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.8193139, 
+          49.7125527
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Schutzh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4877948, 
+          47.2305866
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Aldranser Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.101614, 
+          47.2095281
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Sonnberg Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.0688343, 
+          47.220083
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Zirmbach Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.0387352, 
+          47.3358261
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Stra\u00dfberghaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8487435, 
+          47.3910402
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wolfratshauser H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.9329561, 
+          47.2072679
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Neue Bielefelder H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1890447, 
+          47.0693239
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Konstanzer H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.9233764, 
+          47.6310307
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bezoldh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.3347125, 
+          47.0080364
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Stockachalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.5391292, 
+          47.519896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Winterstelleralm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0830509, 
+          47.5452299
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Schwand-Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.7020494, 
+          47.0675912
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Friesenberghaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.74742, 
+          47.000935
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Furtschaglhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2679435, 
+          47.1667124
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Adolf-Pichler-H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.8126233, 
+          47.024541
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Berliner H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1689649, 
+          47.537941
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Rosshuette"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1040322, 
+          47.5693881
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Schneidersalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1794859, 
+          47.5262115
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hintere Krumbachalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1313217, 
+          47.5315464
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Untere Eck Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.159781, 
+          47.5547711
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Starkatsgund"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.154346, 
+          47.5451515
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Obere G\u00fcndelalpe (verlassen)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1154838, 
+          47.5448938
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Leutenschwandalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1338, 
+          47.5528248
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Rauhgrundalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5591936, 
+          47.3426743
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Stablalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5562621, 
+          47.3450454
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Stablalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.4710454, 
+          47.2656881
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Grie\u00dfbachalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4797967, 
+          47.3564703
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hallerangeralm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5871684, 
+          47.2262032
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Steinseeh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4993972, 
+          47.6203609
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.alpenverein-straubing.de/index.php?id=9", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Straubinger Haus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.1290906, 
+          47.4124062
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.meilerhuette.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Meilerh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.104388, 
+          47.4075717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Oberreintalh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.0127749, 
+          47.4100232
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Knorrh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0491787, 
+          47.4856573
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hohenfluhealpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0775034, 
+          47.4857526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Obere Berggundalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0730336, 
+          47.4759151
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Holzschlagalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0645599, 
+          47.4807989
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Obere Samannsbergalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0569304, 
+          47.4818541
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "W\u00e4ldlealpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5835386, 
+          47.496987
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.adlerhorst-haldensee.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Adlerhorst"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7568715, 
+          47.0761416
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Falkaunsalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7759596, 
+          47.0606822
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gallrutt Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7062266, 
+          47.1040092
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Aifner Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0190653, 
+          47.5103725
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Imberghaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4763107, 
+          47.1918216
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Profegl-Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.8016123, 
+          47.025356
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpenrose"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4754676, 
+          47.0241113
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Lahntaler Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.5416023, 
+          49.4560146
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.dav-nuernberg.de/v4/do.php?content=23", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Thalheimer H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.443009, 
+          50.0660953
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wanderh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.347864, 
+          47.1923276
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kreither Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8472838, 
+          47.1447351
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Erlanger H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6988204, 
+          47.0112221
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Anton-Renk-H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6347837, 
+          46.9020017
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hohenzollernhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8194609, 
+          47.0746826
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Neubergalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0689451, 
+          47.5738071
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Sennalpe Hompessen"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3668698, 
+          47.2984932
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.hoettingeralm.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "H\u00f6ttinger Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.7369609, 
+          47.5873314
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Jausenstation Blaubergalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3109351, 
+          47.6079348
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.berggasthaus-herzogstand.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Berggasthaus Herzogstand"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7764406, 
+          47.5386195
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.berggasthaus-bleckenau.de", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Berggasthaus Bleckenau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.9271776, 
+          47.5818786
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.dav-bergland.de/Brunnenkopf.html", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Brunnenkopfhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7781593, 
+          47.5594339
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.tegelberghaus.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Tegelberghaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1967896, 
+          47.5056016
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Altes H\u00f6fle"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5994581, 
+          47.4861365
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.dav-hohenstaufen.de/haldenseehaus", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Haldenseehaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.4652899, 
+          47.5141248
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.alpenverein-geislingen.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Haus Schattwald"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.2543695, 
+          47.3898515
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.naturfreundehaus-freibergsee.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "H\u00f6llwiesenweg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.669759, 
+          47.2624562
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.muttekopf.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Muttekopfh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4255879, 
+          47.3300215
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.pfeishuette.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Pfeish\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.1049387, 
+          47.3456189
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.rauthhuette.at/rauthhuette/f_start.html", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Rauthh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.1082014, 
+          47.3802301
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.wettersteinhuette.com/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wetterstein H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6989695, 
+          47.1775607
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Venetalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.2584659, 
+          48.9459849
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Skih\u00fctte-Kohlau"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4067339, 
+          46.9826622
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Steiner Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4409409, 
+          47.2084713
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Patscher Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.74397, 
+          49.957859
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Naturfreundehaus \"An der K\u00f6nigsheide\""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.4680073, 
+          47.5823029
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Stubental-Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4083886, 
+          47.4621236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Adlerh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8409852, 
+          47.0535117
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Arzler Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8307807, 
+          47.0618186
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Tiefentalalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.0711483, 
+          49.8404655
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Almadlerh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4131064, 
+          46.7203983
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.leckfeldalm.at", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Leckfeldalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.5989383, 
+          47.4786371
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.6117579, 
+          47.4774339
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.7894138, 
+          47.4382134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpb\u00fchelalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6947943, 
+          47.0437903
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Sattelklause"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6794352, 
+          47.0152919
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Stalanzer Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3079304, 
+          47.2040753
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.birgitzer-alm.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Birgitzer Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.7243163, 
+          47.164674
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://m.christler-tux.at/de/lattenalm/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Lattenalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.6734379, 
+          47.14466
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Stoankasern"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.6789053, 
+          47.1188844
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bichlalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7578204, 
+          47.5662206
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Reith"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.9988793, 
+          47.494896
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Hinter-Hochwies"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6957806, 
+          47.3979104
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ehenbichler Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.2155843, 
+          46.9948455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Friedrichshafener H\u00fctte (DAV)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.4611881, 
+          47.5872106
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Obere Reuterwanne"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.4882247, 
+          47.4757455
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Obere Ro\u00dfalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4805331, 
+          47.4361904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "L\u00e4mmerbichl-Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.0585759, 
+          47.5429861
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ro\u00dfalm-Diensth\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.9992513, 
+          46.9822567
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Leiterbergalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.5510562, 
+          47.2245649
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.voldertalhuette.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Voldertalh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.027481, 
+          47.333339
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Sch\u00e4ferh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.724995, 
+          47.1933519
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hochastneralm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7188914, 
+          47.1294967
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kielebergalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0674324, 
+          47.5837283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ochsenberg Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8904734, 
+          46.9471671
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gletscher-St\u00fcberl"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0596897, 
+          47.5677443
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wuchers Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0562684, 
+          47.59931
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "K\u00f6nigsalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8668823, 
+          47.3612373
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Praxmarer H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.2905138, 
+          47.0517919
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kieler Wetter H\u00fctte 2800m"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4399154, 
+          49.3408485
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Max Stadlbauer H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7957795, 
+          47.4793962
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "H\u00f6lltalh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7074092, 
+          47.41799
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Jagth\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6969632, 
+          47.4252193
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Jagth\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7350495, 
+          46.8962833
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gepatsch Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7297905, 
+          46.9305351
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Nassereiner Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7206064, 
+          46.8927114
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "See'le H\u00fctte (verfallen)"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.8536493, 
+          47.6771709
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Anthauptenh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.7933915, 
+          46.8668208
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "AV Jugendheim"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.0058428, 
+          48.9526945
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ludwig-Hanisch-H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6692518, 
+          47.1830909
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Langesbergalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8123814, 
+          47.3455239
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Brandh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1273146, 
+          47.5452245
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Im Riemle"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.7534714, 
+          50.2841567
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Frankenwaldverein Schauenstein"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5924582, 
+          47.4411323
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "F\u00fchrenbergh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6001608, 
+          47.4125604
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "H\u00fcttenhof"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5354663, 
+          47.394659
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "J\u00f6chleh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5483008, 
+          47.4143419
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Krottenwaldh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5888611, 
+          47.4318921
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Stuibenh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1080291, 
+          47.6203417
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Talhofer Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.854175, 
+          50.0827587
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Edelwei\u00dfh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3137948, 
+          47.3249682
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kristenalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.725254, 
+          47.3999785
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "K\u00f6geleh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.6137562, 
+          49.2927817
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.9577546, 
+          46.9660831
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7913422, 
+          47.3464526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Loreah\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.9811803, 
+          47.3610309
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Breitenkopfh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.4737807, 
+          46.9832325
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ochsenberg-Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4030789, 
+          47.296504
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.arzleralm.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Arzler Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.5444694, 
+          49.5321507
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.dav-nuernberg.de", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Carl Semler H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4513919, 
+          47.2029502
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hochmahdalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4559488, 
+          47.2178993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Lanser Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7981711, 
+          47.1035037
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Mauchelealm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7839787, 
+          47.1089809
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "S\u00f6llbergalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.0493942, 
+          47.3696534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://members.aon.at/gaistalalm.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gaistalalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1756739, 
+          46.9239776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Scheiben-Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.1879436, 
+          47.7010697
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.kranzhorn.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kranzhorn Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.0913205, 
+          47.5670454
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kala Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.7001819, 
+          46.8214697
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hochsteinh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1166157, 
+          47.5751893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Neuschwandalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.0384223, 
+          47.6135436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.mariandlalm.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Mariandlalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.459274, 
+          46.9781563
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.alm-ferienhaus.com/wetterkreuzhuette-3/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wetterkreuzh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.5762715, 
+          47.0493723
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Sudetendeutsche H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.5961086, 
+          47.1510754
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Klammalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5627062, 
+          47.5344065
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bad Kissinger H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3187322, 
+          47.4497413
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hochlandh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4213432, 
+          47.3029035
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.rumeralm.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Rumer Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.9444301, 
+          47.0408861
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Breitlehnalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4389208, 
+          46.8691446
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Volkzeiner H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.0354192, 
+          49.8775019
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "DAV Sektion Weiden"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4932708, 
+          47.0203869
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Sattelbergalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.403424, 
+          47.0193381
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kastnerbergalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3026658, 
+          47.0128479
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "https://www.laponesalm.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Laponesalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2656031, 
+          47.1082499
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.auffangalm.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Auffangalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4317177, 
+          47.0676526
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Gerichtsherrenalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4045042, 
+          47.0515926
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Trunah\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4645929, 
+          47.0499511
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.noesslachhuette.at", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "N\u00f6sslachh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.4485065, 
+          47.0640676
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "N\u00f6sslachjochh\u00fctte [geschlossen]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3197904, 
+          47.210542
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "G\u00f6tzner Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2582594, 
+          47.107336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.brandstatt-alm.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Brandstatt-Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3317128, 
+          47.1569269
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Brugger Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8235876, 
+          47.1146804
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ludwigsburger H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.464668, 
+          47.3865515
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kelchalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.5549569, 
+          47.5167232
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.bergfex.at/sommer/tirol/touren/wanderung/4379,lindtalalm-winterstelleralm/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Lindtalalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.7971567, 
+          49.994037
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wagenthalh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.7665605, 
+          46.7594324
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kerschbaumer Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.6136299, 
+          46.7985228
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Skih\u00fctte Compedal"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.6081257, 
+          49.86336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Elisabethenh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.6404192, 
+          47.1667129
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.lizumerhuette.at", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Lizumer H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7497905, 
+          47.4790681
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.335837, 
+          47.1763487
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Pfarrachalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.740266, 
+          46.7700838
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Linderh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0489919, 
+          47.5675351
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Mohr"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.9511031, 
+          47.375144
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "B\u00f6glalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6459729, 
+          46.9685913
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Platzeralm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.6993917, 
+          47.0109404
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.121906, 
+          47.5467179
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Huberschw\u00e4ndle"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.5080392, 
+          49.574859
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Naturfreundehaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5041453, 
+          47.5982015
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.berglodge.de/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "BergLodge"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.3159885, 
+          47.0624777
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.niederelbehuette.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Niederelbeh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.241073, 
+          49.8092305
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.946237, 
+          49.1692631
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.9446148, 
+          49.1693831
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.9490318, 
+          47.0327018
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Polltalalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.7541268, 
+          49.9433806
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wanderh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1689938, 
+          47.5577845
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "www.alpegschwenderberg.de", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Gschwenderberg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.2010209, 
+          47.3086047
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Rotwand Grundalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0832526, 
+          47.5469841
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Berghaus Carl Zeiss"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.4367165, 
+          46.9575689
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.alm-ferienhaus.com/zupalseehuette/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Zupalseeh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.9970931, 
+          50.0010551
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Steinbergh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.1963548, 
+          47.5742617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.berghaus-aschenbrenner.com/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Aschenbrenner"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.2095745, 
+          47.5778028
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.weinbergerhaus.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Weinbergerhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.2358256, 
+          47.5956165
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hinterkaiserhof"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3161279, 
+          47.1950417
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.wildlife.at/", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Birgitzerk\u00f6pflhaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.0388537, 
+          47.3721894
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.tillfussalm.at", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Tillfussalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.2365237, 
+          49.9246822
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Wanderheim Soden"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.905016, 
+          50.3126739
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "W\u00fcrzburger Haus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3126628, 
+          49.821644
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hans-Putschky-Haus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          9.2005534, 
+          49.8756924
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.5808832, 
+          47.5240319
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Seebenalpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1735473, 
+          47.5561481
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "www.berghuette-hornklause.de", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Bergh\u00fctte Hornklause"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.154187, 
+          47.5530494
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kleine Starkatsgund Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.0085877, 
+          47.407132
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Hohlriederalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.1121261, 
+          47.572864
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Pendlinghaus"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.98932, 
+          47.4923888
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Griesbergalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3792723, 
+          47.292528
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Umbr\u00fcggler Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.4686188, 
+          47.6000992
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Haslach-Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.9919142, 
+          46.828667
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.alpenverein-karlsruhe.de/index.php?id=27", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Langtalereckh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.2805732, 
+          49.084726
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.8832382, 
+          48.9740913
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Fosthaus \u00d6dwies"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.9207417, 
+          49.8717712
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "H\u00fctte Anzenberg"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.8192596, 
+          49.0262487
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Naturfreundehaus Viechtacher H\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.8294061, 
+          47.3631536
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "AlpenRetreat"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3592336, 
+          49.8130408
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Schutzh\u00fctte "
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.1034261, 
+          47.5414654
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Alpe Kuhschwand"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0556155, 
+          47.5810894
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Juget Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.698189, 
+          48.9969457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": ""
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          13.6071605, 
+          48.7139841
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Haller-Alm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.2713594, 
+          47.9113123
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Roswitha's House"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.7946718, 
+          49.4556982
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Waldkeller"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.5189571, 
+          46.9730428
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.hinterbichl.at/lodges/zunigalm.php", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Zunigalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          10.0682867, 
+          47.5355997
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Ochsenschwand-Alpe"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          11.3207088, 
+          47.1308591
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "pfurtschell 1"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.2866674, 
+          47.4148457
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "http://www.kitzbueheler-alpen.com/de/kirchberg/unterkuenfte/details/huette-schutzhuette/kobingerhuette.html", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Kobingerh\u00fctte"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.0900276, 
+          47.4769133
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Almgasthof M\u00f6slalm"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          12.540215, 
+          47.4569217
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "description": "", 
+        "_storage_options": {
+          "iconClass": "Circle", 
+          "color": "DarkViolet"
+        }, 
+        "name": "Streub\u00f6den"
+      }
+    }
+  ]
+}
