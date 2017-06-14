@@ -7,7 +7,7 @@ Their closest train or bus stations are also marked in the map.
 
 ### Create a map to represent alpine huts
 
-- [Query alpine_hut from OSM](http://overpass-turbo.eu/s/pJY)
+- [Query alpine_hut from OSM](http://overpass-turbo.eu/s/pLp)
 
 ### Create a heatmap to represent travel duration by public transportation
 
