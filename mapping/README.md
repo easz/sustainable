@@ -2,7 +2,7 @@
 
 ### Make a map with umap
 
-A map http://umap.openstreetmap.fr/en/map/mtn_53474 is created to collect hiking and climbing destination around Munich.
+A map http://u.osmfr.org/m/53474/ is created to collect hiking and climbing destination around Munich.
 Their closest train or bus stations are also marked in the map.
 
 ### Create a map to represent alpine huts
