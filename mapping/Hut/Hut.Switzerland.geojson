@@ -5,8 +5,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.7716514, 
-          46.5101001
+          7.7716513999999997, 
+          46.510100100000002
         ]
       }, 
       "type": "Feature", 
@@ -14,7 +14,7 @@
         "description": "http://www.bluemlisalphuette.com/typo3/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bl\u00fcmlisalph\u00fctte SAC"
       }
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.060051, 
-          46.6004697
+          8.0600509999999996, 
+          46.600469699999998
         ]
       }, 
       "type": "Feature", 
@@ -32,7 +32,7 @@
         "description": "http://www.baeregg.com", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "B\u00e4reggh\u00fctte"
       }
@@ -41,8 +41,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8498067, 
-          46.1445569
+          7.8498067000000002, 
+          46.144556899999998
         ]
       }, 
       "type": "Feature", 
@@ -50,7 +50,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bordierh\u00fctte"
       }
@@ -60,7 +60,7 @@
         "type": "Point", 
         "coordinates": [
           7.8888023, 
-          46.1094153
+          46.109415300000002
         ]
       }, 
       "type": "Feature", 
@@ -68,7 +68,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Mischabelh\u00fctte AACZ"
       }
@@ -77,8 +77,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8146588, 
-          46.1051946
+          8.8146588000000001, 
+          46.105194599999997
         ]
       }, 
       "type": "Feature", 
@@ -86,7 +86,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio St. Anna"
       }
@@ -96,7 +96,7 @@
         "type": "Point", 
         "coordinates": [
           8.884226, 
-          46.4814914
+          46.481491400000003
         ]
       }, 
       "type": "Feature", 
@@ -104,7 +104,7 @@
         "description": "http://www.sciclubcrap.ch/index.php/capanna", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Piandios"
       }
@@ -113,8 +113,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.3808865, 
-          45.9391793
+          7.3808864999999999, 
+          45.939179299999999
         ]
       }, 
       "type": "Feature", 
@@ -122,7 +122,7 @@
         "description": "www.chanrion.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Chanrion"
       }
@@ -131,8 +131,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0264763, 
-          46.8143966
+          9.0264763000000006, 
+          46.814396600000002
         ]
       }, 
       "type": "Feature", 
@@ -140,7 +140,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bifertenh\u00fctte"
       }
@@ -149,7 +149,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.63398, 
+          8.6339799999999993, 
           46.7834547
         ]
       }, 
@@ -158,7 +158,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bergrestaurant Sunniggratli"
       }
@@ -168,7 +168,7 @@
         "type": "Point", 
         "coordinates": [
           7.5657416, 
-          46.047175
+          46.047175000000003
         ]
       }, 
       "type": "Feature", 
@@ -176,7 +176,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bricola"
       }
@@ -185,7 +185,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.7244293, 
+          9.7244293000000006, 
           46.52928
         ]
       }, 
@@ -194,7 +194,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chamanna Jenatsch"
       }
@@ -203,8 +203,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.7210607, 
-          46.0300454
+          7.7210606999999998, 
+          46.030045399999999
         ]
       }, 
       "type": "Feature", 
@@ -212,7 +212,7 @@
         "description": "http://www.zermatt.net/trift/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berggasthaus Trift"
       }
@@ -221,8 +221,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6973458, 
-          46.0485913
+          7.6973457999999999, 
+          46.048591299999998
         ]
       }, 
       "type": "Feature", 
@@ -230,7 +230,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rothornh\u00fctte"
       }
@@ -239,8 +239,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0438531, 
-          45.9995794
+          7.0438530999999998, 
+          45.999579400000002
         ]
       }, 
       "type": "Feature", 
@@ -248,7 +248,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane du Trient"
       }
@@ -257,8 +257,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.8751431, 
-          46.6451302
+          9.8751431000000007, 
+          46.645130199999997
         ]
       }, 
       "type": "Feature", 
@@ -266,7 +266,7 @@
         "description": "http://www.kesch.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chamanna digl Kesch"
       }
@@ -276,7 +276,7 @@
         "type": "Point", 
         "coordinates": [
           7.2065712, 
-          46.0136689
+          46.013668899999999
         ]
       }, 
       "type": "Feature", 
@@ -284,7 +284,7 @@
         "description": "www.cabanedemille.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Mille"
       }
@@ -293,8 +293,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6315188, 
-          46.2111472
+          7.6315188000000003, 
+          46.211147199999999
         ]
       }, 
       "type": "Feature", 
@@ -302,7 +302,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -311,8 +311,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2741806, 
-          46.0303387
+          7.2741806000000002, 
+          46.030338700000001
         ]
       }, 
       "type": "Feature", 
@@ -320,7 +320,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane Brunet"
       }
@@ -329,8 +329,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2716746, 
-          45.9303713
+          7.2716745999999999, 
+          45.930371299999997
         ]
       }, 
       "type": "Feature", 
@@ -338,7 +338,7 @@
         "description": "http://www.valsorey.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Valsorey"
       }
@@ -347,8 +347,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2454615, 
-          45.9169357
+          7.2454615000000002, 
+          45.916935700000003
         ]
       }, 
       "type": "Feature", 
@@ -356,7 +356,7 @@
         "description": "http://www.velan.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane du V\u00e9lan"
       }
@@ -365,7 +365,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2998005, 
+          7.2998004999999999, 
           45.9987317
         ]
       }, 
@@ -374,7 +374,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Pannossi\u00e8re"
       }
@@ -383,7 +383,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0703669, 
+          7.0703668999999998, 
           45.9764385
         ]
       }, 
@@ -392,7 +392,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Saleinaz CAS"
       }
@@ -401,8 +401,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.5277859, 
-          46.0060315
+          7.5277858999999996, 
+          46.006031499999999
         ]
       }, 
       "type": "Feature", 
@@ -410,7 +410,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Bertol CAS"
       }
@@ -419,8 +419,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2810186, 
-          46.0835574
+          7.2810186000000003, 
+          46.083557399999997
         ]
       }, 
       "type": "Feature", 
@@ -428,7 +428,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane Mont-Fort"
       }
@@ -438,7 +438,7 @@
         "type": "Point", 
         "coordinates": [
           10.1186141, 
-          46.3970393
+          46.397039300000003
         ]
       }, 
       "type": "Feature", 
@@ -446,7 +446,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio SAC Lungacqua Saoseo"
       }
@@ -455,8 +455,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.9350236, 
-          46.0600605
+          7.9350236000000001, 
+          46.060060499999999
         ]
       }, 
       "type": "Feature", 
@@ -464,7 +464,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Britanniah\u00fctte"
       }
@@ -473,8 +473,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.1730257, 
-          46.5260592
+          8.1730257000000002, 
+          46.526059199999999
         ]
       }, 
       "type": "Feature", 
@@ -482,7 +482,7 @@
         "description": "http://www.oberaarjochhuette.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Oberaarjochh\u00fctte"
       }
@@ -491,7 +491,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2399194, 
+          9.2399193999999998, 
           46.8676964
         ]
       }, 
@@ -500,7 +500,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Segnesh\u00fctte"
       }
@@ -509,8 +509,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.5519035, 
-          46.6764957
+          8.5519034999999999, 
+          46.676495699999997
         ]
       }, 
       "type": "Feature", 
@@ -518,7 +518,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Salbith\u00fctte"
       }
@@ -527,8 +527,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8885673, 
-          46.5600297
+          8.8885673000000001, 
+          46.560029700000001
         ]
       }, 
       "type": "Feature", 
@@ -536,7 +536,7 @@
         "description": "http://www.utoe.ch/?id=471", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Bovarina"
       }
@@ -545,8 +545,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.4746433, 
-          46.2105726
+          7.4746433000000003, 
+          46.210572599999999
         ]
       }, 
       "type": "Feature", 
@@ -554,7 +554,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane du Mont-Noble"
       }
@@ -563,8 +563,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.5221645, 
-          46.3527502
+          7.5221644999999997, 
+          46.352750200000003
         ]
       }, 
       "type": "Feature", 
@@ -572,7 +572,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Petit Mt Bonvin"
       }
@@ -581,8 +581,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.5002522, 
-          46.3423949
+          7.5002522000000003, 
+          46.342394900000002
         ]
       }, 
       "type": "Feature", 
@@ -590,7 +590,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane des Violettes"
       }
@@ -599,8 +599,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6580085, 
-          46.5945273
+          8.6580084999999993, 
+          46.594527300000003
         ]
       }, 
       "type": "Feature", 
@@ -608,7 +608,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Vermigel H\u00fctte"
       }
@@ -617,8 +617,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.6437835, 
-          46.7308966
+          9.6437834999999996, 
+          46.730896600000001
         ]
       }, 
       "type": "Feature", 
@@ -626,7 +626,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Ramozh\u00fctte SAC"
       }
@@ -636,7 +636,7 @@
         "type": "Point", 
         "coordinates": [
           8.1144707, 
-          46.5219629
+          46.521962899999998
         ]
       }, 
       "type": "Feature", 
@@ -644,7 +644,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Finsteraarhornh\u00fctte"
       }
@@ -654,7 +654,7 @@
         "type": "Point", 
         "coordinates": [
           7.132288, 
-          46.5329795
+          46.532979500000003
         ]
       }, 
       "type": "Feature", 
@@ -662,7 +662,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane Bounavaux"
       }
@@ -671,8 +671,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8689379, 
-          46.6184639
+          7.8689378999999997, 
+          46.618463900000002
         ]
       }, 
       "type": "Feature", 
@@ -680,7 +680,7 @@
         "description": "http://www.lobhornhuette.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Lobhorn Hutte"
       }
@@ -689,7 +689,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0633216, 
+          9.0633216000000001, 
           46.2628804
         ]
       }, 
@@ -698,7 +698,7 @@
         "description": "http://www.brogoldone.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Brogoldone"
       }
@@ -707,8 +707,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8145694, 
-          45.9569132
+          7.8145693999999999, 
+          45.956913200000002
         ]
       }, 
       "type": "Feature", 
@@ -716,7 +716,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Neue Monte Rosa H\u00fctte"
       }
@@ -725,8 +725,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.7765302, 
-          47.021602
+          9.7765301999999998, 
+          47.021602000000001
         ]
       }, 
       "type": "Feature", 
@@ -734,7 +734,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gruscher \u00c4lpli"
       }
@@ -743,8 +743,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.7984535, 
-          47.0101422
+          9.7984535000000008, 
+          47.010142199999997
         ]
       }, 
       "type": "Feature", 
@@ -752,7 +752,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Drusa"
       }
@@ -761,8 +761,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0448652, 
-          46.0627665
+          9.0448652000000003, 
+          46.062766500000002
         ]
       }, 
       "type": "Feature", 
@@ -770,7 +770,7 @@
         "description": "http://www.capannapairolo.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna del Pairolo"
       }
@@ -779,7 +779,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6759883, 
+          8.6759883000000002, 
           46.9657993
         ]
       }, 
@@ -788,7 +788,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Metzg-H\u00fctte"
       }
@@ -797,8 +797,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.4822113, 
-          46.883014
+          9.4822112999999995, 
+          46.883014000000003
         ]
       }, 
       "type": "Feature", 
@@ -806,7 +806,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Calandah\u00fctte SAC"
       }
@@ -815,8 +815,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.5744936, 
-          46.4002923
+          7.5744936000000003, 
+          46.400292299999997
         ]
       }, 
       "type": "Feature", 
@@ -824,7 +824,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "L\u00e4mmerenh\u00fctte"
       }
@@ -833,8 +833,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4279827, 
-          46.8699061
+          8.4279826999999994, 
+          46.869906100000001
         ]
       }, 
       "type": "Feature", 
@@ -842,7 +842,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berggasthaus Bannalpsee"
       }
@@ -851,8 +851,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0050908, 
-          46.6344884
+          9.0050907999999996, 
+          46.634488400000002
         ]
       }, 
       "type": "Feature", 
@@ -860,7 +860,7 @@
         "description": "http://www.terrihuette.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Camona da Terri"
       }
@@ -869,8 +869,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.1789421, 
-          46.7001922
+          8.1789421000000004, 
+          46.700192199999996
         ]
       }, 
       "type": "Feature", 
@@ -878,7 +878,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Reutsperre"
       }
@@ -887,8 +887,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.5755027, 
-          46.8000486
+          8.5755026999999995, 
+          46.800048599999997
         ]
       }, 
       "type": "Feature", 
@@ -896,7 +896,7 @@
         "description": "http://www.kroentenhuette.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Kr\u00f6nten H\u00fctte (SAC)"
       }
@@ -905,8 +905,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.005443, 
-          46.5933282
+          9.0054429999999996, 
+          46.593328200000002
         ]
       }, 
       "type": "Feature", 
@@ -914,7 +914,7 @@
         "description": "http://www.capannamotterascio.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Motterascio"
       }
@@ -923,8 +923,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8924532, 
-          46.4995006
+          7.8924532000000003, 
+          46.499500599999998
         ]
       }, 
       "type": "Feature", 
@@ -932,7 +932,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Schmadrih\u00fctte (AACB www.aacb.ch/schmadri)"
       }
@@ -941,8 +941,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4877387, 
-          46.6905297
+          8.4877386999999995, 
+          46.690529699999999
         ]
       }, 
       "type": "Feature", 
@@ -950,7 +950,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Voralph\u00fctte SAC"
       }
@@ -959,8 +959,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1883517, 
-          46.8925335
+          9.1883517000000001, 
+          46.892533499999999
         ]
       }, 
       "type": "Feature", 
@@ -968,7 +968,7 @@
         "description": "http://www.sac-randen.ch/Huetten_Martinsmad.htm", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Martinsmadh\u00fctte"
       }
@@ -977,7 +977,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.018789, 
+          9.0187889999999999, 
           46.8575582
         ]
       }, 
@@ -986,7 +986,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Muttseeh\u00fctte SAC"
       }
@@ -995,8 +995,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.029308, 
-          46.840313
+          9.0293080000000003, 
+          46.840313000000002
         ]
       }, 
       "type": "Feature", 
@@ -1004,7 +1004,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Kistenpassh\u00fctte SAC"
       }
@@ -1014,7 +1014,7 @@
         "type": "Point", 
         "coordinates": [
           9.1280009, 
-          46.1610833
+          46.161083300000001
         ]
       }, 
       "type": "Feature", 
@@ -1022,7 +1022,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alpe di Giumello"
       }
@@ -1031,8 +1031,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.120836, 
-          46.1814054
+          9.1208360000000006, 
+          46.181405400000003
         ]
       }, 
       "type": "Feature", 
@@ -1040,7 +1040,7 @@
         "description": "http://www.utoe.ch/?id=470", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Gesero"
       }
@@ -1049,8 +1049,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7196139, 
-          46.5465894
+          8.7196139000000006, 
+          46.546589400000002
         ]
       }, 
       "type": "Feature", 
@@ -1058,7 +1058,7 @@
         "description": "www.satritom.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Cadagno"
       }
@@ -1068,7 +1068,7 @@
         "type": "Point", 
         "coordinates": [
           7.8170408, 
-          46.394999
+          46.394998999999999
         ]
       }, 
       "type": "Feature", 
@@ -1076,7 +1076,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bietschhornh\u00fctte"
       }
@@ -1085,7 +1085,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8382057, 
+          7.8382056999999996, 
           46.5451932
         ]
       }, 
@@ -1094,7 +1094,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rotstockh\u00fctte"
       }
@@ -1103,7 +1103,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8740173, 
+          7.8740173000000002, 
           46.5488462
         ]
       }, 
@@ -1112,7 +1112,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Spielboden"
       }
@@ -1121,7 +1121,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7984837, 
+          8.7984837000000002, 
           46.7795427
         ]
       }, 
@@ -1130,7 +1130,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Hinterbalmh\u00fctte"
       }
@@ -1140,7 +1140,7 @@
         "type": "Point", 
         "coordinates": [
           8.8142692, 
-          46.742437
+          46.742437000000002
         ]
       }, 
       "type": "Feature", 
@@ -1148,7 +1148,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cavardirash\u00fctte"
       }
@@ -1157,8 +1157,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8796271, 
-          46.5316414
+          8.8796271000000004, 
+          46.531641399999998
         ]
       }, 
       "type": "Feature", 
@@ -1166,7 +1166,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna D\u00f6tra"
       }
@@ -1175,8 +1175,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2154746, 
-          46.3386913
+          7.2154746000000003, 
+          46.338691300000001
         ]
       }, 
       "type": "Feature", 
@@ -1184,7 +1184,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Diablerets"
       }
@@ -1193,8 +1193,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.1948249, 
-          46.3212719
+          7.1948249000000004, 
+          46.321271899999999
         ]
       }, 
       "type": "Feature", 
@@ -1202,7 +1202,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Pierredar"
       }
@@ -1211,8 +1211,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.368479, 
-          46.0405371
+          7.3684789999999998, 
+          46.040537100000002
         ]
       }, 
       "type": "Feature", 
@@ -1220,7 +1220,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bivoucac des Pantalons-blancs"
       }
@@ -1229,8 +1229,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.813062, 
-          46.1964911
+          6.8130620000000004, 
+          46.196491100000003
         ]
       }, 
       "type": "Feature", 
@@ -1238,7 +1238,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Ch\u00e9sery"
       }
@@ -1247,8 +1247,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4642399, 
-          46.9149045
+          8.4642399000000008, 
+          46.914904499999999
         ]
       }, 
       "type": "Feature", 
@@ -1256,7 +1256,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Brisenhaus"
       }
@@ -1265,7 +1265,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8059672, 
+          7.8059672000000004, 
           46.1056715
         ]
       }, 
@@ -1274,7 +1274,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Europah\u00fctte"
       }
@@ -1283,8 +1283,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.0206851, 
-          46.5667797
+          8.0206850999999997, 
+          46.566779699999998
         ]
       }, 
       "type": "Feature", 
@@ -1292,7 +1292,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berglih\u00fctte SAC"
       }
@@ -1301,8 +1301,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2274559, 
-          47.1983112
+          9.2274559000000007, 
+          47.198311199999999
         ]
       }, 
       "type": "Feature", 
@@ -1310,7 +1310,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Ochsenlager"
       }
@@ -1319,7 +1319,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1206293, 
+          9.1206292999999992, 
           46.8339438
         ]
       }, 
@@ -1328,7 +1328,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Ranasca"
       }
@@ -1337,8 +1337,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.9781227, 
-          46.1438957
+          7.9781227000000001, 
+          46.143895700000002
         ]
       }, 
       "type": "Feature", 
@@ -1346,7 +1346,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Weissmiesh\u00fctte SAC"
       }
@@ -1355,8 +1355,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.96505, 
-          46.4122405
+          9.9650499999999997, 
+          46.412240500000003
         ]
       }, 
       "type": "Feature", 
@@ -1364,7 +1364,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berghaus Diavolezza"
       }
@@ -1373,7 +1373,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.8799822, 
+          9.8799822000000006, 
           46.4039863
         ]
       }, 
@@ -1382,7 +1382,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chamanna da Tschierva"
       }
@@ -1391,8 +1391,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1669634, 
-          46.6214933
+          9.1669634000000002, 
+          46.621493299999997
         ]
       }, 
       "type": "Feature", 
@@ -1400,7 +1400,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "H\u00e4ngela"
       }
@@ -1409,8 +1409,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2754977, 
-          46.9155142
+          9.2754977000000007, 
+          46.915514199999997
         ]
       }, 
       "type": "Feature", 
@@ -1418,7 +1418,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Sardonah\u00fctte"
       }
@@ -1427,8 +1427,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0496537, 
-          46.0554783
+          7.0496537000000004, 
+          46.055478299999997
         ]
       }, 
       "type": "Feature", 
@@ -1436,7 +1436,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bovine"
       }
@@ -1445,8 +1445,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.0077309, 
-          46.1076085
+          8.0077309000000003, 
+          46.107608499999998
         ]
       }, 
       "type": "Feature", 
@@ -1454,7 +1454,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Almagellerh\u00fctte"
       }
@@ -1463,8 +1463,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.9848001, 
-          46.1011476
+          7.9848001000000002, 
+          46.101147599999997
         ]
       }, 
       "type": "Feature", 
@@ -1472,7 +1472,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Almagelleralp"
       }
@@ -1481,8 +1481,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.1522305, 
-          46.5555214
+          8.1522304999999999, 
+          46.555521400000003
         ]
       }, 
       "type": "Feature", 
@@ -1490,7 +1490,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Aarbiwak"
       }
@@ -1499,8 +1499,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.995737, 
-          46.4990926
+          8.9957370000000001, 
+          46.499092599999997
         ]
       }, 
       "type": "Feature", 
@@ -1508,7 +1508,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Adula CAS"
       }
@@ -1517,8 +1517,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.6551066, 
-          46.3299396
+          9.6551065999999999, 
+          46.329939600000003
         ]
       }, 
       "type": "Feature", 
@@ -1526,7 +1526,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna da l'Albigna CAS"
       }
@@ -1535,8 +1535,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.5892916, 
-          46.2712887
+          8.5892915999999992, 
+          46.271288699999999
         ]
       }, 
       "type": "Feature", 
@@ -1544,7 +1544,7 @@
         "description": "http://www.cas-locarno.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Alzasca"
       }
@@ -1554,7 +1554,7 @@
         "type": "Point", 
         "coordinates": [
           8.2825761, 
-          46.5869668
+          46.586966799999999
         ]
       }, 
       "type": "Feature", 
@@ -1562,7 +1562,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "B\u00e4chlitalh\u00fctte SAC"
       }
@@ -1571,8 +1571,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.889788, 
-          46.3949746
+          7.8897880000000002, 
+          46.394974599999998
         ]
       }, 
       "type": "Feature", 
@@ -1580,7 +1580,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Baltschiederklause SAC"
       }
@@ -1589,8 +1589,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.514129, 
-          46.439542
+          8.5141290000000005, 
+          46.439542000000003
         ]
       }, 
       "type": "Feature", 
@@ -1598,7 +1598,7 @@
         "description": "http://www.cas-locarno.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Basodino CAS"
       }
@@ -1607,8 +1607,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.9250798, 
-          46.4152334
+          9.9250798000000007, 
+          46.415233399999998
         ]
       }, 
       "type": "Feature", 
@@ -1616,7 +1616,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chamanna da Boval CAS"
       }
@@ -1625,8 +1625,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.5306963, 
-          45.9709143
+          7.5306962999999998, 
+          45.970914299999997
         ]
       }, 
       "type": "Feature", 
@@ -1634,7 +1634,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Bouquetins CAS"
       }
@@ -1643,7 +1643,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7326694, 
+          8.7326694000000007, 
           46.4442266
         ]
       }, 
@@ -1652,7 +1652,7 @@
         "description": "http://www.campotencia.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Campo Tencia"
       }
@@ -1661,7 +1661,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.935567, 
+          8.9355670000000007, 
           46.859479
         ]
       }, 
@@ -1670,7 +1670,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Claridenh\u00fctte SAC"
       }
@@ -1679,7 +1679,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4100474, 
+          8.4100473999999998, 
           46.4670761
         ]
       }, 
@@ -1688,7 +1688,7 @@
         "description": "http://www.casbellinzona.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Corno Gries CAS"
       }
@@ -1697,8 +1697,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4577823, 
-          46.6448663
+          8.4577822999999999, 
+          46.644866299999997
         ]
       }, 
       "type": "Feature", 
@@ -1706,7 +1706,7 @@
         "description": "http://www.sac-pilatus.ch/huetten/dammahuette/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Dammah\u00fctte SAC"
       }
@@ -1715,7 +1715,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.8354088, 
+          9.8354087999999997, 
           46.3838188
         ]
       }, 
@@ -1724,7 +1724,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chamanna Coaz CAS"
       }
@@ -1733,8 +1733,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.5261924, 
-          46.4718542
+          8.5261923999999993, 
+          46.471854200000003
         ]
       }, 
       "type": "Feature", 
@@ -1742,7 +1742,7 @@
         "description": "http://www.capannacristallina.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Cristallina"
       }
@@ -1751,7 +1751,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.60082, 
+          7.6008199999999997, 
           46.0202089
         ]
       }, 
@@ -1760,7 +1760,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de la Dent Blanche CAS"
       }
@@ -1769,8 +1769,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.3590157, 
-          46.5933288
+          9.3590157000000005, 
+          46.593328800000002
         ]
       }, 
       "type": "Feature", 
@@ -1778,7 +1778,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cufercalh\u00fctte SAC"
       }
@@ -1787,7 +1787,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.1693892, 
+          8.1693891999999995, 
           46.655113
         ]
       }, 
@@ -1796,7 +1796,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Dossenh\u00fctte SAC"
       }
@@ -1806,7 +1806,7 @@
         "type": "Point", 
         "coordinates": [
           7.6070395, 
-          46.0419192
+          46.041919200000002
         ]
       }, 
       "type": "Feature", 
@@ -1814,7 +1814,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Col de la Dent Blanche CAS Bivouac"
       }
@@ -1823,8 +1823,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8176427, 
-          46.1027787
+          7.8176427000000004, 
+          46.102778700000002
         ]
       }, 
       "type": "Feature", 
@@ -1832,7 +1832,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Domh\u00fctte SAC"
       }
@@ -1841,8 +1841,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9500233, 
-          46.821305
+          8.9500232999999998, 
+          46.821305000000002
         ]
       }, 
       "type": "Feature", 
@@ -1850,7 +1850,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Fridolinsh\u00fctten SAC"
       }
@@ -1859,7 +1859,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9635939, 
+          8.9635938999999993, 
           47.0016058
         ]
       }, 
@@ -1868,7 +1868,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gl\u00e4rnischh\u00fctte SAC"
       }
@@ -1877,8 +1877,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.9743995, 
-          46.5627465
+          7.9743994999999996, 
+          46.562746500000003
         ]
       }, 
       "type": "Feature", 
@@ -1886,7 +1886,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Guggih\u00fctte"
       }
@@ -1895,8 +1895,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.7094883, 
-          46.3318317
+          9.7094883000000003, 
+          46.331831700000002
         ]
       }, 
       "type": "Feature", 
@@ -1904,7 +1904,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna del Forno CAS"
       }
@@ -1913,8 +1913,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8750058, 
-          46.9168403
+          8.8750058000000003, 
+          46.916840299999997
         ]
       }, 
       "type": "Feature", 
@@ -1922,7 +1922,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Glattalph\u00fctte SAC"
       }
@@ -1931,8 +1931,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6926599, 
-          46.9351593
+          8.6926599000000007, 
+          46.935159300000002
         ]
       }, 
       "type": "Feature", 
@@ -1940,7 +1940,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Lidernenh\u00fctte SAC"
       }
@@ -1949,8 +1949,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8189945, 
-          46.8018251
+          8.8189945000000005, 
+          46.801825100000002
         ]
       }, 
       "type": "Feature", 
@@ -1958,7 +1958,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "H\u00fcfih\u00fctte SAC"
       }
@@ -1967,8 +1967,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.0965635, 
-          46.6251051
+          8.0965635000000002, 
+          46.625105099999999
         ]
       }, 
       "type": "Feature", 
@@ -1976,7 +1976,7 @@
         "description": "http://www.gleckstein.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Glecksteinh\u00fctte SAC"
       }
@@ -1985,7 +1985,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9412257, 
+          8.9412257000000004, 
           46.8104637
         ]
       }, 
@@ -1994,7 +1994,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gr\u00fcnhornh\u00fctte"
       }
@@ -2004,7 +2004,7 @@
         "type": "Point", 
         "coordinates": [
           9.0417828, 
-          46.5415668
+          46.541566799999998
         ]
       }, 
       "type": "Feature", 
@@ -2012,7 +2012,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "L\u00e4ntah\u00fctte SAC"
       }
@@ -2021,8 +2021,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8102482, 
-          46.5127552
+          7.8102482000000002, 
+          46.512755200000001
         ]
       }, 
       "type": "Feature", 
@@ -2030,7 +2030,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gspaltenhornh\u00fctte SAC"
       }
@@ -2040,7 +2040,7 @@
         "type": "Point", 
         "coordinates": [
           10.0829135, 
-          46.7793865
+          46.779386500000001
         ]
       }, 
       "type": "Feature", 
@@ -2048,7 +2048,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chamanna dal Linard CAS"
       }
@@ -2057,8 +2057,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.0803184, 
-          46.2607415
+          8.0803183999999995, 
+          46.260741500000002
         ]
       }, 
       "type": "Feature", 
@@ -2066,7 +2066,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Monte Leone-H\u00fctte"
       }
@@ -2075,8 +2075,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9138109, 
-          46.6405072
+          8.9138108999999996, 
+          46.640507200000002
         ]
       }, 
       "type": "Feature", 
@@ -2084,7 +2084,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Camona da Medel CAS"
       }
@@ -2093,8 +2093,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6901242, 
-          46.6253633
+          8.6901241999999996, 
+          46.625363299999997
         ]
       }, 
       "type": "Feature", 
@@ -2102,7 +2102,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Camona da Maighels CAS"
       }
@@ -2111,8 +2111,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4627601, 
-          46.8461925
+          8.4627601000000006, 
+          46.846192500000001
         ]
       }, 
       "type": "Feature", 
@@ -2120,7 +2120,7 @@
         "description": "http://www.rugghubel.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rugghubelh\u00fctte SAC"
       }
@@ -2129,8 +2129,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.3806466, 
-          46.8657736
+          9.3806466000000004, 
+          46.865773599999997
         ]
       }, 
       "type": "Feature", 
@@ -2138,7 +2138,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Ringelspitzh\u00fctte SAC"
       }
@@ -2148,7 +2148,7 @@
         "type": "Point", 
         "coordinates": [
           8.8805581, 
-          46.8199797
+          46.819979699999998
         ]
       }, 
       "type": "Feature", 
@@ -2156,7 +2156,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Planurah\u00fctte SAC"
       }
@@ -2165,8 +2165,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9560326, 
-          46.7772891
+          8.9560326000000003, 
+          46.777289099999997
         ]
       }, 
       "type": "Feature", 
@@ -2174,7 +2174,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Camona da Punteglias CAS"
       }
@@ -2183,8 +2183,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.973836, 
-          46.4249019
+          7.9738360000000004, 
+          46.424901900000002
         ]
       }, 
       "type": "Feature", 
@@ -2192,7 +2192,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Oberaletschh\u00fctte"
       }
@@ -2201,8 +2201,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.5824307, 
-          46.3153207
+          9.5824306999999997, 
+          46.315320700000001
         ]
       }, 
       "type": "Feature", 
@@ -2210,7 +2210,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Sasc Fur\u00e4 CAS"
       }
@@ -2219,8 +2219,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.0414541, 
-          46.8545438
+          10.041454099999999, 
+          46.854543800000002
         ]
       }, 
       "type": "Feature", 
@@ -2228,7 +2228,7 @@
         "description": "http://www.silvrettahuette.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Silvrettah\u00fctte SAC"
       }
@@ -2237,8 +2237,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0939342, 
-          46.5000489
+          9.0939341999999996, 
+          46.500048900000003
         ]
       }, 
       "type": "Feature", 
@@ -2246,7 +2246,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Zapporth\u00fctte SAC"
       }
@@ -2255,8 +2255,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8300141, 
-          46.0515706
+          7.8300140999999996, 
+          46.051570599999998
         ]
       }, 
       "type": "Feature", 
@@ -2264,7 +2264,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "T\u00e4schh\u00fctte"
       }
@@ -2273,8 +2273,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.4541099, 
-          45.9414253
+          7.4541098999999997, 
+          45.941425299999999
         ]
       }, 
       "type": "Feature", 
@@ -2282,7 +2282,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "L'Aiguillette \u00e0 la Singla CAS Bivouac"
       }
@@ -2291,7 +2291,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.0094258, 
+          10.009425800000001, 
           46.8739007
         ]
       }, 
@@ -2300,7 +2300,7 @@
         "description": "http://www.sac-stgallen.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Seetalh\u00fctte SAC"
       }
@@ -2309,7 +2309,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.9335823, 
+          7.9335823000000003, 
           46.5489879
         ]
       }, 
@@ -2318,7 +2318,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Silberhornh\u00fctte SAC"
       }
@@ -2327,7 +2327,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.7435489, 
+          7.7435489000000004, 
           46.0859594
         ]
       }, 
@@ -2336,7 +2336,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Weisshornh\u00fctte SAC"
       }
@@ -2345,8 +2345,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.3480882, 
-          46.6950101
+          8.3480881999999994, 
+          46.695010099999998
         ]
       }, 
       "type": "Feature", 
@@ -2354,7 +2354,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Windeggh\u00fctten SAC"
       }
@@ -2363,8 +2363,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.4756753, 
-          45.9898152
+          7.4756752999999998, 
+          45.989815200000002
         ]
       }, 
       "type": "Feature", 
@@ -2372,7 +2372,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane des Vignettes CAS"
       }
@@ -2381,8 +2381,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.7620513, 
-          46.1568813
+          7.7620513000000004, 
+          46.156881300000002
         ]
       }, 
       "type": "Feature", 
@@ -2390,7 +2390,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Topalih\u00fctte SAC"
       }
@@ -2399,8 +2399,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.649453, 
-          46.7186045
+          8.6494529999999994, 
+          46.718604499999998
         ]
       }, 
       "type": "Feature", 
@@ -2408,7 +2408,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Treschh\u00fctte SAC"
       }
@@ -2417,8 +2417,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.1728265, 
-          46.6831781
+          8.1728264999999993, 
+          46.683178099999999
         ]
       }, 
       "type": "Feature", 
@@ -2426,7 +2426,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Engelhornh\u00fctte"
       }
@@ -2435,8 +2435,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.0414212, 
-          46.6003091
+          8.0414212000000003, 
+          46.600309099999997
         ]
       }, 
       "type": "Feature", 
@@ -2444,7 +2444,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Eiger-Osteggh\u00fctte"
       }
@@ -2453,8 +2453,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4267758, 
-          46.597464
+          8.4267757999999997, 
+          46.597464000000002
         ]
       }, 
       "type": "Feature", 
@@ -2462,7 +2462,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Sidelenh\u00fctte"
       }
@@ -2472,7 +2472,7 @@
         "type": "Point", 
         "coordinates": [
           7.8618115, 
-          46.3447073
+          46.344707300000003
         ]
       }, 
       "type": "Feature", 
@@ -2480,7 +2480,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Wiwanni-H\u00fctte"
       }
@@ -2490,7 +2490,7 @@
         "type": "Point", 
         "coordinates": [
           10.203896, 
-          46.824407
+          46.824407000000001
         ]
       }, 
       "type": "Feature", 
@@ -2498,7 +2498,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Valmala"
       }
@@ -2508,7 +2508,7 @@
         "type": "Point", 
         "coordinates": [
           10.2449704, 
-          46.8143889
+          46.814388899999997
         ]
       }, 
       "type": "Feature", 
@@ -2516,7 +2516,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Cl\u00fcnas"
       }
@@ -2525,8 +2525,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8957631, 
-          46.084786
+          7.8957630999999999, 
+          46.084786000000001
         ]
       }, 
       "type": "Feature", 
@@ -2534,7 +2534,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "L\u00e4ngflueh\u00fctte"
       }
@@ -2543,8 +2543,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6143013, 
-          46.2328879
+          7.6143013000000002, 
+          46.232887900000001
         ]
       }, 
       "type": "Feature", 
@@ -2552,7 +2552,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane Bella Tola"
       }
@@ -2561,8 +2561,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.4476311, 
-          47.266992
+          9.4476311000000006, 
+          47.266992000000002
         ]
       }, 
       "type": "Feature", 
@@ -2570,7 +2570,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Tannh\u00fctte NFS"
       }
@@ -2579,8 +2579,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2055861, 
-          45.9024798
+          7.2055860999999997, 
+          45.902479800000002
         ]
       }, 
       "type": "Feature", 
@@ -2588,7 +2588,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane du Plan du Jeu"
       }
@@ -2597,8 +2597,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9250628, 
-          46.2295352
+          8.9250627999999992, 
+          46.229535200000001
         ]
       }, 
       "type": "Feature", 
@@ -2606,7 +2606,7 @@
         "description": "http://www.fondazioneverzasca.ch/it/41/borgna.aspx", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Borgna"
       }
@@ -2615,8 +2615,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8989243, 
-          46.2970307
+          8.8989242999999991, 
+          46.297030700000001
         ]
       }, 
       "type": "Feature", 
@@ -2624,7 +2624,7 @@
         "description": "http://www.fondazioneverzasca.ch/it/45/fumegna.aspx", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Alpe F\u00fcmegna"
       }
@@ -2633,8 +2633,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8514679, 
-          46.3384422
+          8.8514678999999994, 
+          46.338442200000003
         ]
       }, 
       "type": "Feature", 
@@ -2642,7 +2642,7 @@
         "description": "http://www.fondazioneverzasca.ch/it/44/efra.aspx", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Efra"
       }
@@ -2652,7 +2652,7 @@
         "type": "Point", 
         "coordinates": [
           8.8131781, 
-          46.3764712
+          46.376471199999997
         ]
       }, 
       "type": "Feature", 
@@ -2660,7 +2660,7 @@
         "description": "http://www.fondazioneverzasca.ch/it/42/cogn%C3%B3ra.aspx", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Cogn\u00f3ra"
       }
@@ -2669,8 +2669,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1840971, 
-          47.0109783
+          9.1840971000000007, 
+          47.010978299999998
         ]
       }, 
       "type": "Feature", 
@@ -2678,7 +2678,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Skih\u00fctte M\u00fclibachtal"
       }
@@ -2687,8 +2687,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8663787, 
-          47.3603315
+          7.8663787000000003, 
+          47.360331500000001
         ]
       }, 
       "type": "Feature", 
@@ -2696,7 +2696,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Naturfreundehaus Rumpel"
       }
@@ -2705,8 +2705,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.9829347, 
-          46.8141561
+          9.9829346999999995, 
+          46.814156099999998
         ]
       }, 
       "type": "Feature", 
@@ -2714,7 +2714,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berghaus Vereina"
       }
@@ -2723,8 +2723,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.8144145, 
-          46.7473464
+          9.8144144999999998, 
+          46.747346399999998
         ]
       }, 
       "type": "Feature", 
@@ -2732,7 +2732,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Hubelh\u00fctte"
       }
@@ -2742,7 +2742,7 @@
         "type": "Point", 
         "coordinates": [
           10.0217709, 
-          46.822175
+          46.822175000000001
         ]
       }, 
       "type": "Feature", 
@@ -2750,7 +2750,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Vernela-H\u00fctte"
       }
@@ -2759,8 +2759,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.2166385, 
-          46.6237521
+          8.2166385000000002, 
+          46.623752099999997
         ]
       }, 
       "type": "Feature", 
@@ -2768,7 +2768,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gaulih\u00fctte SAC"
       }
@@ -2777,8 +2777,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4712184, 
-          46.316514
+          8.4712183999999997, 
+          46.316513999999998
         ]
       }, 
       "type": "Feature", 
@@ -2786,7 +2786,7 @@
         "description": "http://www.capannagrossalp.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Grossalp"
       }
@@ -2795,8 +2795,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.3323946, 
-          46.098095
+          7.3323945999999998, 
+          46.098095000000001
         ]
       }, 
       "type": "Feature", 
@@ -2804,7 +2804,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Saint-Laurent"
       }
@@ -2813,8 +2813,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.384664, 
-          47.2223309
+          7.3846639999999999, 
+          47.222330900000003
         ]
       }, 
       "type": "Feature", 
@@ -2822,7 +2822,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Clubhaus SAC Grenchen"
       }
@@ -2831,7 +2831,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6679764, 
+          8.6679764000000006, 
           46.5330218
         ]
       }, 
@@ -2840,7 +2840,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio F\u00f6isc"
       }
@@ -2849,8 +2849,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0075287, 
-          46.5277449
+          7.0075286999999999, 
+          46.527744900000002
         ]
       }, 
       "type": "Feature", 
@@ -2858,7 +2858,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Les Moilles"
       }
@@ -2867,8 +2867,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.2186355, 
-          46.5374589
+          6.2186355000000004, 
+          46.537458899999997
         ]
       }, 
       "type": "Feature", 
@@ -2876,7 +2876,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de l'Ecureuil"
       }
@@ -2885,8 +2885,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0811966, 
-          47.1690125
+          9.0811966000000002, 
+          47.169012500000001
         ]
       }, 
       "type": "Feature", 
@@ -2894,7 +2894,7 @@
         "description": "http://federihuette.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Federih\u00fctte"
       }
@@ -2903,8 +2903,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2246313, 
-          46.9021783
+          9.2246313000000004, 
+          46.902178300000003
         ]
       }, 
       "type": "Feature", 
@@ -2912,7 +2912,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Mountain Lodge Segnespass"
       }
@@ -2921,8 +2921,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2074489, 
-          46.7088135
+          7.2074489000000002, 
+          46.708813499999998
         ]
       }, 
       "type": "Feature", 
@@ -2930,7 +2930,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -2939,8 +2939,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2085239, 
-          46.7110976
+          7.2085239000000003, 
+          46.711097600000002
         ]
       }, 
       "type": "Feature", 
@@ -2948,7 +2948,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Crau"
       }
@@ -2957,7 +2957,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1138619, 
+          9.1138618999999998, 
           46.8993197
         ]
       }, 
@@ -2966,7 +2966,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Skih\u00fctte Erbs"
       }
@@ -2976,7 +2976,7 @@
         "type": "Point", 
         "coordinates": [
           9.5523761, 
-          47.0246137
+          47.024613700000003
         ]
       }, 
       "type": "Feature", 
@@ -2984,7 +2984,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Heidialp"
       }
@@ -2993,8 +2993,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.9557591, 
-          46.4871562
+          9.9557590999999999, 
+          46.487156200000001
         ]
       }, 
       "type": "Feature", 
@@ -3002,7 +3002,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Georgy's H\u00fctte"
       }
@@ -3011,8 +3011,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6333661, 
-          46.092277
+          7.6333660999999999, 
+          46.092277000000003
         ]
       }, 
       "type": "Feature", 
@@ -3020,7 +3020,7 @@
         "description": "http://petitmountet.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cab. Petit Mountet"
       }
@@ -3029,8 +3029,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.7380066, 
-          46.0222764
+          7.7380066000000003, 
+          46.022276400000003
         ]
       }, 
       "type": "Feature", 
@@ -3038,7 +3038,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Edelweissh\u00fctte"
       }
@@ -3047,8 +3047,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9939012, 
-          46.0466343
+          6.9939011999999998, 
+          46.046634300000001
         ]
       }, 
       "type": "Feature", 
@@ -3056,7 +3056,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite d'etape du Peuty (Dortoir Peuty)"
       }
@@ -3065,8 +3065,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8109732, 
-          46.0128467
+          7.8109732000000003, 
+          46.012846699999997
         ]
       }, 
       "type": "Feature", 
@@ -3074,7 +3074,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Fluhalp"
       }
@@ -3083,7 +3083,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.002767, 
+          7.0027670000000004, 
           46.5527394
         ]
       }, 
@@ -3092,7 +3092,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le Gros Plan\u00e9"
       }
@@ -3101,7 +3101,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0138244, 
+          9.0138244000000007, 
           46.0999835
         ]
       }, 
@@ -3110,7 +3110,7 @@
         "description": "http://www.capannamontebar.ch/index.php", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Monte Bar"
       }
@@ -3120,7 +3120,7 @@
         "type": "Point", 
         "coordinates": [
           10.1755122, 
-          46.7968433
+          46.796843299999999
         ]
       }, 
       "type": "Feature", 
@@ -3128,7 +3128,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Maranguns"
       }
@@ -3137,7 +3137,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.1841982, 
+          10.184198200000001, 
           46.7997923
         ]
       }, 
@@ -3146,7 +3146,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chamanna Cler"
       }
@@ -3156,7 +3156,7 @@
         "type": "Point", 
         "coordinates": [
           10.1726291, 
-          46.7921898
+          46.792189800000003
         ]
       }, 
       "type": "Feature", 
@@ -3164,7 +3164,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Murtera Dadoura"
       }
@@ -3174,7 +3174,7 @@
         "type": "Point", 
         "coordinates": [
           10.1804121, 
-          46.7930243
+          46.793024299999999
         ]
       }, 
       "type": "Feature", 
@@ -3182,7 +3182,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Murtera Dadaint"
       }
@@ -3191,8 +3191,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.0936893, 
-          46.793036
+          10.093689299999999, 
+          46.793036000000001
         ]
       }, 
       "type": "Feature", 
@@ -3200,7 +3200,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp d'immez"
       }
@@ -3209,7 +3209,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.5391415, 
+          8.5391414999999995, 
           47.0020764
         ]
       }, 
@@ -3218,7 +3218,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Arche Ruchenberg"
       }
@@ -3228,7 +3228,7 @@
         "type": "Point", 
         "coordinates": [
           9.2974207, 
-          47.2611422
+          47.261142200000002
         ]
       }, 
       "type": "Feature", 
@@ -3236,7 +3236,7 @@
         "description": "http://www.chraezerli.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berggasthaus Chr\u00e4zerli"
       }
@@ -3245,7 +3245,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1596309, 
+          9.1596308999999998, 
           47.6329232
         ]
       }, 
@@ -3254,7 +3254,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Waldh\u00fctte Pfaffenwies"
       }
@@ -3263,8 +3263,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.8139069, 
-          46.8808585
+          9.8139068999999992, 
+          46.880858500000002
         ]
       }, 
       "type": "Feature", 
@@ -3272,7 +3272,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Skihaus Schifer"
       }
@@ -3281,8 +3281,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.3597165, 
-          46.9744364
+          10.359716499999999, 
+          46.974436400000002
         ]
       }, 
       "type": "Feature", 
@@ -3290,7 +3290,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -3299,8 +3299,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.2774599, 
-          46.5489051
+          8.2774599000000002, 
+          46.548905099999999
         ]
       }, 
       "type": "Feature", 
@@ -3308,7 +3308,7 @@
         "description": "http://www.grimselwelt.ch/grimselhotels/oberaar/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berghaus Oberaar"
       }
@@ -3317,8 +3317,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.5131916, 
-          47.305714
+          9.5131916000000007, 
+          47.305714000000002
         ]
       }, 
       "type": "Feature", 
@@ -3326,7 +3326,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Inneralp"
       }
@@ -3335,8 +3335,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.5022738, 
-          47.3117896
+          9.5022737999999993, 
+          47.311789599999997
         ]
       }, 
       "type": "Feature", 
@@ -3344,7 +3344,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Eichenwieser Schwamm"
       }
@@ -3353,7 +3353,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7187647, 
+          8.7187646999999995, 
           46.4669515
         ]
       }, 
@@ -3362,7 +3362,7 @@
         "description": "http://www.capanna-leit.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Leit"
       }
@@ -3371,8 +3371,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.4848586, 
-          47.2758308
+          9.4848586000000008, 
+          47.275830800000001
         ]
       }, 
       "type": "Feature", 
@@ -3380,7 +3380,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rohralpe"
       }
@@ -3389,8 +3389,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.1554957, 
-          45.9533069
+          7.1554957000000003, 
+          45.953306900000001
         ]
       }, 
       "type": "Feature", 
@@ -3398,7 +3398,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de la Tsissette"
       }
@@ -3407,8 +3407,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6888051, 
-          46.3660957
+          8.6888050999999997, 
+          46.366095700000002
         ]
       }, 
       "type": "Feature", 
@@ -3416,7 +3416,7 @@
         "description": "http://www.vialtavallemaggia.ch/rifugi_e_capanne.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio Tomeo"
       }
@@ -3425,8 +3425,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8975657, 
-          46.2794388
+          8.8975656999999995, 
+          46.279438800000001
         ]
       }, 
       "type": "Feature", 
@@ -3434,7 +3434,7 @@
         "description": "http://www.fondazioneverzasca.ch/it/58/cornavosa.aspx", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Cornavosa"
       }
@@ -3443,8 +3443,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.5667524, 
-          46.8899974
+          8.5667524000000004, 
+          46.889997399999999
         ]
       }, 
       "type": "Feature", 
@@ -3452,7 +3452,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Geisshittae"
       }
@@ -3461,8 +3461,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.9060843, 
-          46.7825744
+          7.9060842999999998, 
+          46.782574400000001
         ]
       }, 
       "type": "Feature", 
@@ -3470,7 +3470,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Hohganth\u00fctte SAC"
       }
@@ -3479,8 +3479,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1058501, 
-          47.2201601
+          9.1058500999999996, 
+          47.220160100000001
         ]
       }, 
       "type": "Feature", 
@@ -3488,7 +3488,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Tanzbodenh\u00fctte"
       }
@@ -3497,8 +3497,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4707938, 
-          46.7517064
+          8.4707937999999992, 
+          46.751706400000003
         ]
       }, 
       "type": "Feature", 
@@ -3506,7 +3506,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Sustlih\u00fctte SAC"
       }
@@ -3515,8 +3515,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.2328374, 
-          47.4070336
+          8.2328373999999993, 
+          47.407033599999998
         ]
       }, 
       "type": "Feature", 
@@ -3524,7 +3524,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Ortsb\u00fcrgerhaus (Naturfreundehaus)"
       }
@@ -3533,8 +3533,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.2327807, 
-          47.4080322
+          8.2327806999999993, 
+          47.408032200000001
         ]
       }, 
       "type": "Feature", 
@@ -3542,7 +3542,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Turnerh\u00fctte"
       }
@@ -3551,8 +3551,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2177238, 
-          47.2084201
+          7.2177237999999999, 
+          47.208420099999998
         ]
       }, 
       "type": "Feature", 
@@ -3560,7 +3560,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane Rochette"
       }
@@ -3569,8 +3569,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8430224, 
-          47.022972
+          6.8430223999999997, 
+          47.022972000000003
         ]
       }, 
       "type": "Feature", 
@@ -3578,7 +3578,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -3587,8 +3587,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4026783, 
-          46.5797702
+          6.4026782999999998, 
+          46.579770199999999
         ]
       }, 
       "type": "Feature", 
@@ -3596,7 +3596,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Bouennaz"
       }
@@ -3605,8 +3605,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7044351, 
-          46.8414376
+          8.7044350999999995, 
+          46.841437599999999
         ]
       }, 
       "type": "Feature", 
@@ -3614,7 +3614,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Stafelalp"
       }
@@ -3623,8 +3623,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8316, 
-          46.19906
+          8.8315999999999999, 
+          46.199060000000003
         ]
       }, 
       "type": "Feature", 
@@ -3632,7 +3632,7 @@
         "description": "http://www.fondazioneverzasca.ch/it/46/monti_di_lego.aspx", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna dei Monti di Lego"
       }
@@ -3641,7 +3641,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0236643, 
+          9.0236643000000001, 
           46.4730931
         ]
       }, 
@@ -3650,7 +3650,7 @@
         "description": "http://www.quarnei.ch/SABB/sabb/index.htm", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Quarnei"
       }
@@ -3659,8 +3659,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.9416032, 
-          46.9939041
+          7.9416032000000003, 
+          46.993904100000002
         ]
       }, 
       "type": "Feature", 
@@ -3668,7 +3668,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gruppenunterkunft Mettlenalp"
       }
@@ -3677,8 +3677,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.7817908, 
-          46.6257797
+          7.7817907999999996, 
+          46.625779700000002
         ]
       }, 
       "type": "Feature", 
@@ -3686,7 +3686,7 @@
         "description": "www.scleissigen.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Brunnialp"
       }
@@ -3695,7 +3695,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6559179, 
+          7.6559179000000004, 
           46.4643297
         ]
       }, 
@@ -3704,7 +3704,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Stock"
       }
@@ -3713,7 +3713,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.649417, 
+          7.6494169999999997, 
           46.4602906
         ]
       }, 
@@ -3722,7 +3722,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Wintereggh\u00fctte"
       }
@@ -3731,8 +3731,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2634787, 
-          46.5764612
+          7.2634787000000003, 
+          46.576461199999997
         ]
       }, 
       "type": "Feature", 
@@ -3740,7 +3740,7 @@
         "description": "www.chaletdusoldat.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet Du Soldat"
       }
@@ -3749,7 +3749,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2962218, 
+          7.2962217999999996, 
           46.5921363
         ]
       }, 
@@ -3758,7 +3758,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet Grat"
       }
@@ -3767,7 +3767,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6019817, 
+          8.6019816999999996, 
           47.7473496
         ]
       }, 
@@ -3776,7 +3776,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Buechberghuus"
       }
@@ -3785,8 +3785,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.6025792, 
-          46.5613763
+          9.6025791999999992, 
+          46.561376299999999
         ]
       }, 
       "type": "Feature", 
@@ -3794,7 +3794,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Tscharnoz"
       }
@@ -3803,8 +3803,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8933302, 
-          46.523176
+          7.8933302000000003, 
+          46.523175999999999
         ]
       }, 
       "type": "Feature", 
@@ -3812,7 +3812,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berggasthaus Tschingelhorn"
       }
@@ -3821,8 +3821,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6936617, 
-          46.5647784
+          7.6936616999999998, 
+          46.564778400000002
         ]
       }, 
       "type": "Feature", 
@@ -3830,7 +3830,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Grath\u00fctte"
       }
@@ -3839,7 +3839,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0076299, 
+          9.0076298999999995, 
           46.4953103
         ]
       }, 
@@ -3848,7 +3848,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Adula UTOE"
       }
@@ -3857,8 +3857,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9507598, 
-          46.1963953
+          8.9507598000000002, 
+          46.196395299999999
         ]
       }, 
       "type": "Feature", 
@@ -3866,7 +3866,7 @@
         "description": "http://www.patriziato-sementina.ch/beni-patriziali/capanna-mognone/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Mognone"
       }
@@ -3875,8 +3875,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9325464, 
-          46.1969831
+          8.9325463999999997, 
+          46.196983099999997
         ]
       }, 
       "type": "Feature", 
@@ -3884,7 +3884,7 @@
         "description": "http://www.patriziatodigudo.ch/la%20capanna%20di%20orino.htm", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Orino"
       }
@@ -3893,8 +3893,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9564198, 
-          46.2224779
+          8.9564198000000008, 
+          46.222477900000001
         ]
       }, 
       "type": "Feature", 
@@ -3902,7 +3902,7 @@
         "description": "http://www.utoe.ch/?id=472", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Albagno"
       }
@@ -3911,8 +3911,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.414399, 
-          47.109515
+          9.4143989999999995, 
+          47.109515000000002
         ]
       }, 
       "type": "Feature", 
@@ -3920,7 +3920,7 @@
         "description": "http://www.vs-wallis.ch/stgallen/huetverz/alvier.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gipfelh\u00fctte Alvier"
       }
@@ -3929,8 +3929,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1636242, 
-          46.3816304
+          9.1636241999999992, 
+          46.381630399999999
         ]
       }, 
       "type": "Feature", 
@@ -3938,7 +3938,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rif. Ganan"
       }
@@ -3947,8 +3947,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1484316, 
-          46.3510431
+          9.1484316000000003, 
+          46.351043099999998
         ]
       }, 
       "type": "Feature", 
@@ -3956,7 +3956,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cap. Buffalora ASAC"
       }
@@ -3965,8 +3965,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1392059, 
-          46.297043
+          9.1392059000000003, 
+          46.297043000000002
         ]
       }, 
       "type": "Feature", 
@@ -3974,7 +3974,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp di Fora"
       }
@@ -3984,7 +3984,7 @@
         "type": "Point", 
         "coordinates": [
           9.5208613, 
-          46.9615594
+          46.961559399999999
         ]
       }, 
       "type": "Feature", 
@@ -3992,7 +3992,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Naturfreunde Haus"
       }
@@ -4002,7 +4002,7 @@
         "type": "Point", 
         "coordinates": [
           7.4676662, 
-          46.3830189
+          46.383018900000003
         ]
       }, 
       "type": "Feature", 
@@ -4010,7 +4010,7 @@
         "description": "http://www.wildstrubelhuette.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Wildstrubelh\u00fctte"
       }
@@ -4019,8 +4019,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4151788, 
-          46.5724732
+          8.4151787999999996, 
+          46.572473199999997
         ]
       }, 
       "type": "Feature", 
@@ -4028,7 +4028,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Furkapassh\u00f6he"
       }
@@ -4037,7 +4037,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8071258, 
+          7.8071257999999997, 
           46.0885386
         ]
       }, 
@@ -4046,7 +4046,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Kinh\u00fctte"
       }
@@ -4055,8 +4055,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9229054, 
-          47.0561655
+          8.9229053999999994, 
+          47.056165499999999
         ]
       }, 
       "type": "Feature", 
@@ -4064,7 +4064,7 @@
         "description": "www.jo-bachtel.ch/lufthuette.php", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Lufth\u00fctte"
       }
@@ -4073,8 +4073,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.5503536, 
-          46.7837067
+          6.5503536000000002, 
+          46.783706700000003
         ]
       }, 
       "type": "Feature", 
@@ -4082,7 +4082,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Champvent"
       }
@@ -4091,8 +4091,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1553807, 
-          47.6394821
+          9.1553807000000003, 
+          47.639482100000002
         ]
       }, 
       "type": "Feature", 
@@ -4100,7 +4100,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Blockh\u00fctte Bernrain"
       }
@@ -4109,8 +4109,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7540427, 
-          46.6903405
+          6.7540427000000003, 
+          46.690340499999998
         ]
       }, 
       "type": "Feature", 
@@ -4118,7 +4118,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Buvette des Brigands"
       }
@@ -4127,8 +4127,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.2428788, 
-          46.489219
+          8.2428787999999997, 
+          46.489218999999999
         ]
       }, 
       "type": "Feature", 
@@ -4136,7 +4136,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Galmihornhuette 2113m"
       }
@@ -4145,8 +4145,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2588441, 
-          46.6377342
+          7.2588441000000001, 
+          46.637734199999997
         ]
       }, 
       "type": "Feature", 
@@ -4154,7 +4154,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cerniets"
       }
@@ -4163,8 +4163,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2853529, 
-          46.6332031
+          7.2853529000000004, 
+          46.633203100000003
         ]
       }, 
       "type": "Feature", 
@@ -4172,7 +4172,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Obere Euschels"
       }
@@ -4181,8 +4181,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2897731, 
-          46.6412989
+          7.2897730999999997, 
+          46.641298900000002
         ]
       }, 
       "type": "Feature", 
@@ -4190,7 +4190,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Untere Euschels"
       }
@@ -4200,7 +4200,7 @@
         "type": "Point", 
         "coordinates": [
           7.2828906, 
-          46.6295452
+          46.629545200000003
         ]
       }, 
       "type": "Feature", 
@@ -4208,7 +4208,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Ritzlialp"
       }
@@ -4226,7 +4226,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Sch\u00f6nenboden"
       }
@@ -4235,8 +4235,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.3357455, 
-          46.6757824
+          7.3357454999999998, 
+          46.675782400000003
         ]
       }, 
       "type": "Feature", 
@@ -4244,7 +4244,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Hohberg"
       }
@@ -4253,8 +4253,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.7944505, 
-          46.491475
+          9.7944504999999999, 
+          46.491475000000001
         ]
       }, 
       "type": "Feature", 
@@ -4262,7 +4262,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Suvretta"
       }
@@ -4271,8 +4271,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.8180486, 
-          46.4980854
+          9.8180485999999991, 
+          46.498085400000001
         ]
       }, 
       "type": "Feature", 
@@ -4280,7 +4280,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Giop"
       }
@@ -4289,8 +4289,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.8289958, 
-          46.5047641
+          9.8289957999999995, 
+          46.504764100000003
         ]
       }, 
       "type": "Feature", 
@@ -4298,7 +4298,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Nova"
       }
@@ -4307,8 +4307,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.3841567, 
-          46.34345
+          7.3841567000000001, 
+          46.343449999999997
         ]
       }, 
       "type": "Feature", 
@@ -4316,7 +4316,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane des Audannes"
       }
@@ -4325,8 +4325,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.1323733, 
-          46.4044007
+          7.1323733000000002, 
+          46.404400699999997
         ]
       }, 
       "type": "Feature", 
@@ -4334,7 +4334,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Pra Cornet"
       }
@@ -4343,8 +4343,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.4994647, 
-          46.4112612
+          7.4994646999999999, 
+          46.411261199999998
         ]
       }, 
       "type": "Feature", 
@@ -4352,7 +4352,7 @@
         "description": "www.fluhsee.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Flueseeh\u00fctte, Fluhseeh\u00fctte"
       }
@@ -4361,8 +4361,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.5995257, 
-          46.4745442
+          7.5995257000000001, 
+          46.474544199999997
         ]
       }, 
       "type": "Feature", 
@@ -4370,7 +4370,7 @@
         "description": "http://www.sac-wildstrubel.ch/Organisation/Lohnerhuette/lohnerhuette.htm", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Lohnerh\u00fctte SAC"
       }
@@ -4379,8 +4379,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.6927017, 
-          46.5714327
+          9.6927017000000006, 
+          46.571432700000003
         ]
       }, 
       "type": "Feature", 
@@ -4388,7 +4388,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp d'Err"
       }
@@ -4397,8 +4397,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.5530208, 
-          46.5611024
+          9.5530208000000005, 
+          46.561102400000003
         ]
       }, 
       "type": "Feature", 
@@ -4406,7 +4406,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berghaus Radons"
       }
@@ -4415,7 +4415,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.652005, 
+          9.6520050000000008, 
           46.4928284
         ]
       }, 
@@ -4424,7 +4424,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Natons"
       }
@@ -4433,8 +4433,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.0986915, 
-          46.581836
+          8.0986914999999993, 
+          46.581836000000003
         ]
       }, 
       "type": "Feature", 
@@ -4442,7 +4442,7 @@
         "description": "http://www.sac-basel.ch/huetten/schreckhornhuette/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Schreckhornh\u00fctte SAC"
       }
@@ -4451,8 +4451,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.6449978, 
-          46.5754884
+          6.6449977999999996, 
+          46.575488399999998
         ]
       }, 
       "type": "Feature", 
@@ -4460,7 +4460,7 @@
         "description": "http://filac.croisee.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet Scout"
       }
@@ -4469,7 +4469,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9397199, 
+          8.9397199000000001, 
           47.0818023
         ]
       }, 
@@ -4478,7 +4478,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Hohfl\u00e4schenh\u00fctte"
       }
@@ -4487,8 +4487,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.9814478, 
-          46.8509793
+          7.9814477999999998, 
+          46.850979299999999
         ]
       }, 
       "type": "Feature", 
@@ -4496,7 +4496,7 @@
         "description": "http://www.sac-emmental.ch/heftihuette/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Heftih\u00fctte"
       }
@@ -4505,8 +4505,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7885444, 
-          46.0996504
+          8.7885443999999993, 
+          46.099650400000002
         ]
       }, 
       "type": "Feature", 
@@ -4514,7 +4514,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio Alpetto di Caviano"
       }
@@ -4523,8 +4523,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.4417406, 
-          46.6966782
+          7.4417406000000001, 
+          46.696678200000001
         ]
       }, 
       "type": "Feature", 
@@ -4532,7 +4532,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Obriste Morgeten"
       }
@@ -4541,8 +4541,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.9156622, 
-          47.3302523
+          7.9156621999999999, 
+          47.330252299999998
         ]
       }, 
       "type": "Feature", 
@@ -4550,7 +4550,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "H\u00fchnerweid"
       }
@@ -4559,7 +4559,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.4381964, 
+          7.4381963999999998, 
           46.6923247
         ]
       }, 
@@ -4568,7 +4568,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Mittliste Morgete"
       }
@@ -4577,8 +4577,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2460245, 
-          47.1426112
+          9.2460245000000008, 
+          47.142611199999997
         ]
       }, 
       "type": "Feature", 
@@ -4586,7 +4586,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Schwaldis"
       }
@@ -4596,7 +4596,7 @@
         "type": "Point", 
         "coordinates": [
           9.2386485, 
-          47.1378928
+          47.137892800000003
         ]
       }, 
       "type": "Feature", 
@@ -4604,7 +4604,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "S\u00e4ls"
       }
@@ -4613,8 +4613,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6868072, 
-          46.5416874
+          7.6868071999999996, 
+          46.541687400000001
         ]
       }, 
       "type": "Feature", 
@@ -4622,7 +4622,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -4631,8 +4631,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.7973171, 
-          46.5933957
+          9.7973171000000008, 
+          46.593395700000002
         ]
       }, 
       "type": "Feature", 
@@ -4640,7 +4640,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Zavretta"
       }
@@ -4649,8 +4649,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.0933482, 
-          46.2938617
+          8.0933481999999994, 
+          46.293861700000001
         ]
       }, 
       "type": "Feature", 
@@ -4658,7 +4658,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bortelh\u00fctten"
       }
@@ -4667,8 +4667,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9693586, 
-          46.9425091
+          8.9693585999999996, 
+          46.942509100000002
         ]
       }, 
       "type": "Feature", 
@@ -4676,7 +4676,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Ober Stafel"
       }
@@ -4685,8 +4685,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9726099, 
-          46.9264241
+          8.9726099000000001, 
+          46.926424099999998
         ]
       }, 
       "type": "Feature", 
@@ -4694,7 +4694,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rieter Ortsstafel"
       }
@@ -4703,8 +4703,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.155919, 
-          46.7886969
+          10.155919000000001, 
+          46.788696899999998
         ]
       }, 
       "type": "Feature", 
@@ -4712,7 +4712,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Sura"
       }
@@ -4721,8 +4721,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          10.1006355, 
-          46.7813395
+          10.100635499999999, 
+          46.781339500000001
         ]
       }, 
       "type": "Feature", 
@@ -4730,7 +4730,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Lavinuoz Dadoura"
       }
@@ -4739,7 +4739,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2246239, 
+          7.2246239000000001, 
           46.7054221
         ]
       }, 
@@ -4748,7 +4748,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Feyersaga"
       }
@@ -4757,8 +4757,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.1761769, 
-          46.9782289
+          8.1761768999999997, 
+          46.978228899999998
         ]
       }, 
       "type": "Feature", 
@@ -4766,7 +4766,7 @@
         "description": "www.sc-malters.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "M\u00f6sere H\u00fctte"
       }
@@ -4775,8 +4775,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2817225, 
-          46.6588023
+          9.2817225000000008, 
+          46.658802299999998
         ]
       }, 
       "type": "Feature", 
@@ -4784,7 +4784,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Camaner-St\u00e4lli"
       }
@@ -4793,8 +4793,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.5742163, 
-          47.76176
+          8.5742162999999998, 
+          47.761760000000002
         ]
       }, 
       "type": "Feature", 
@@ -4802,7 +4802,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Hasenbuckh\u00fctte"
       }
@@ -4811,8 +4811,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0303116, 
-          46.3575123
+          9.0303115999999992, 
+          46.357512300000003
         ]
       }, 
       "type": "Feature", 
@@ -4820,7 +4820,7 @@
         "description": "http://www.utoe-biasca.ch/index.php?page=capanna-cava-3", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna di Cava"
       }
@@ -4829,8 +4829,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.88549, 
-          46.5181558
+          7.8854899999999999, 
+          46.518155800000002
         ]
       }, 
       "type": "Feature", 
@@ -4838,7 +4838,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berghotel Obersteinberg"
       }
@@ -4847,8 +4847,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.414385, 
-          47.2834049
+          9.4143849999999993, 
+          47.283404900000001
         ]
       }, 
       "type": "Feature", 
@@ -4856,7 +4856,7 @@
         "description": "http://www.aescher-ai.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Berggasthaus Aescher-Wildkirchli"
       }
@@ -4865,8 +4865,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.5832053, 
-          47.0177953
+          9.5832052999999995, 
+          47.017795300000003
         ]
       }, 
       "type": "Feature", 
@@ -4874,7 +4874,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Mittels\u00e4ss"
       }
@@ -4883,8 +4883,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2614107, 
-          47.1411648
+          9.2614107000000008, 
+          47.141164799999999
         ]
       }, 
       "type": "Feature", 
@@ -4892,7 +4892,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Schrina"
       }
@@ -4901,8 +4901,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2746129, 
-          46.2663815
+          7.2746129000000002, 
+          46.266381500000001
         ]
       }, 
       "type": "Feature", 
@@ -4910,7 +4910,7 @@
         "description": "http://www.alpe-airoz.com", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge d\u2019 Airoz (Refuge d\u2019 A\u00efroz)"
       }
@@ -4919,8 +4919,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.5416081, 
-          46.2513252
+          8.5416080999999995, 
+          46.251325199999997
         ]
       }, 
       "type": "Feature", 
@@ -4928,7 +4928,7 @@
         "description": "http://www.onsernone.ch/index.php?option=com_hotelguide&view=hotel&id=6%3Arifugio-ribia&Itemid=190&lang=it", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Ribia"
       }
@@ -4937,7 +4937,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7979487, 
+          8.7979486999999992, 
           46.7826095
         ]
       }, 
@@ -4946,7 +4946,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "D\u00fcssi Ald"
       }
@@ -4955,8 +4955,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1823747, 
-          46.1905041
+          9.1823747000000004, 
+          46.190504099999998
         ]
       }, 
       "type": "Feature", 
@@ -4964,7 +4964,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio Cortin"
       }
@@ -4982,7 +4982,7 @@
         "description": "http://www.capannasalei.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Alpe Sal\u00e9i"
       }
@@ -4991,8 +4991,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9520333, 
-          46.2528669
+          8.9520333000000001, 
+          46.252866900000001
         ]
       }, 
       "type": "Feature", 
@@ -5000,7 +5000,7 @@
         "description": "http://www.patriziatopreonzo.ch/capanne.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio Alpe di Lai"
       }
@@ -5010,7 +5010,7 @@
         "type": "Point", 
         "coordinates": [
           7.1125973, 
-          45.8986239
+          45.898623899999997
         ]
       }, 
       "type": "Feature", 
@@ -5018,7 +5018,7 @@
         "description": "lapeulaz.skyrock.com", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Peule"
       }
@@ -5027,8 +5027,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6684224, 
-          46.6365569
+          8.6684224000000007, 
+          46.636556900000002
         ]
       }, 
       "type": "Feature", 
@@ -5036,7 +5036,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Badush\u00fctte SAC Manegg"
       }
@@ -5045,8 +5045,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2247246, 
-          46.2581748
+          9.2247246000000001, 
+          46.258174799999999
         ]
       }, 
       "type": "Feature", 
@@ -5054,7 +5054,7 @@
         "description": "http://www.valcama.ch/unterkunft_it.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Miralago"
       }
@@ -5063,8 +5063,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2837098, 
-          46.5955682
+          7.2837097999999996, 
+          46.595568200000002
         ]
       }, 
       "type": "Feature", 
@@ -5072,7 +5072,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "B\u00e4rghus Gastlosen"
       }
@@ -5081,7 +5081,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7109309, 
+          8.7109308999999993, 
           46.4060743
         ]
       }, 
@@ -5090,7 +5090,7 @@
         "description": "http://www.sav-vallemaggia.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Soveltra"
       }
@@ -5099,8 +5099,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.2766981, 
-          46.5713012
+          6.2766980999999999, 
+          46.571301200000001
         ]
       }, 
       "type": "Feature", 
@@ -5108,7 +5108,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane du Grand-Cunay"
       }
@@ -5117,8 +5117,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.288722, 
-          46.5795639
+          6.2887219999999999, 
+          46.579563899999997
         ]
       }, 
       "type": "Feature", 
@@ -5126,7 +5126,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane du Cunay"
       }
@@ -5135,8 +5135,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.295781, 
-          46.5865134
+          6.2957809999999998, 
+          46.586513400000001
         ]
       }, 
       "type": "Feature", 
@@ -5144,7 +5144,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane La Pivette"
       }
@@ -5153,8 +5153,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.1679021, 
-          46.4981459
+          6.1679021000000001, 
+          46.498145899999997
         ]
       }, 
       "type": "Feature", 
@@ -5162,7 +5162,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Les Pralets"
       }
@@ -5171,8 +5171,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8256438, 
-          46.3505856
+          8.8256437999999999, 
+          46.350585600000002
         ]
       }, 
       "type": "Feature", 
@@ -5180,7 +5180,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rif. Alpe Costa"
       }
@@ -5189,8 +5189,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.2777277, 
-          46.3855359
+          8.2777276999999998, 
+          46.385535900000001
         ]
       }, 
       "type": "Feature", 
@@ -5198,7 +5198,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Mittlenbergh\u00fctte"
       }
@@ -5207,8 +5207,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0793746, 
-          46.0500834
+          7.0793746000000004, 
+          46.050083399999998
         ]
       }, 
       "type": "Feature", 
@@ -5216,7 +5216,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Plan de l'Au"
       }
@@ -5225,8 +5225,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.3663244, 
-          46.5706547
+          9.3663243999999999, 
+          46.570654699999999
         ]
       }, 
       "type": "Feature", 
@@ -5234,7 +5234,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Menn's Buurast\u00fcbli"
       }
@@ -5243,8 +5243,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6033536, 
-          46.37953
+          8.6033536000000002, 
+          46.379530000000003
         ]
       }, 
       "type": "Feature", 
@@ -5252,7 +5252,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio Fiorasca"
       }
@@ -5261,8 +5261,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.4871572, 
-          46.3910545
+          8.4871572000000004, 
+          46.391054500000003
         ]
       }, 
       "type": "Feature", 
@@ -5270,7 +5270,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Piano delle Creste"
       }
@@ -5279,7 +5279,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.1143034, 
+          8.1143034000000007, 
           46.1622105
         ]
       }, 
@@ -5288,7 +5288,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Lager"
       }
@@ -5297,8 +5297,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.6408212, 
-          46.5701596
+          6.6408212000000004, 
+          46.570159599999997
         ]
       }, 
       "type": "Feature", 
@@ -5306,7 +5306,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la m\u00e8bre"
       }
@@ -5315,8 +5315,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.6778631, 
-          46.533087
+          6.6778630999999997, 
+          46.533087000000002
         ]
       }, 
       "type": "Feature", 
@@ -5324,7 +5324,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -5333,8 +5333,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.5146727, 
-          46.2325154
+          8.5146727000000002, 
+          46.232515399999997
         ]
       }, 
       "type": "Feature", 
@@ -5342,7 +5342,7 @@
         "description": "http://www.capanneti.ch/huts/main.jsp?id_language=1&id_hut=50", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Alpe Arena"
       }
@@ -5351,8 +5351,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.925821, 
-          46.3156322
+          8.9258209999999991, 
+          46.315632200000003
         ]
       }, 
       "type": "Feature", 
@@ -5360,7 +5360,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio Alpe Repiano"
       }
@@ -5369,7 +5369,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.2592015, 
+          8.2592014999999996, 
           46.6058904
         ]
       }, 
@@ -5378,7 +5378,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gruebenh\u00fctte"
       }
@@ -5387,8 +5387,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9527854, 
-          46.2999975
+          8.9527853999999998, 
+          46.299997500000003
         ]
       }, 
       "type": "Feature", 
@@ -5396,7 +5396,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Alpe d'Alva"
       }
@@ -5405,8 +5405,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0287094, 
-          46.0622526
+          9.0287094000000003, 
+          46.062252600000001
         ]
       }, 
       "type": "Feature", 
@@ -5414,7 +5414,7 @@
         "description": "http://www.casticino.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Baita del Luca"
       }
@@ -5423,8 +5423,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7487565, 
-          46.3957467
+          8.7487565000000007, 
+          46.395746699999997
         ]
       }, 
       "type": "Feature", 
@@ -5432,7 +5432,7 @@
         "description": "http://www.fondazioneverzasca.ch/it/40/barone.aspx", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Barone"
       }
@@ -5441,8 +5441,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6952501, 
-          46.571636
+          8.6952501000000009, 
+          46.571635999999998
         ]
       }, 
       "type": "Feature", 
@@ -5450,7 +5450,7 @@
         "description": "http://www.cadlimohuette.ch/index.php?id=160", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Cadlimo"
       }
@@ -5459,8 +5459,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8457079, 
-          46.5063465
+          8.8457079000000007, 
+          46.506346499999999
         ]
       }, 
       "type": "Feature", 
@@ -5468,7 +5468,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Gana Rossa"
       }
@@ -5477,8 +5477,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6614013, 
-          46.4989736
+          8.6614012999999996, 
+          46.498973599999999
         ]
       }, 
       "type": "Feature", 
@@ -5486,7 +5486,7 @@
         "description": "http://www.satritom.ch/5RG-garzonera.htm", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Garzonera"
       }
@@ -5495,8 +5495,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9109304, 
-          46.4980084
+          8.9109303999999998, 
+          46.498008400000003
         ]
       }, 
       "type": "Feature", 
@@ -5504,7 +5504,7 @@
         "description": "http://capannagorda.blogspot.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Gorda"
       }
@@ -5513,7 +5513,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7624044, 
+          8.7624043999999994, 
           46.2763396
         ]
       }, 
@@ -5522,7 +5522,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Alpe Masnee"
       }
@@ -5531,8 +5531,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7673913, 
-          46.2520744
+          8.7673912999999999, 
+          46.252074399999998
         ]
       }, 
       "type": "Feature", 
@@ -5540,7 +5540,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Alpe di Nimi"
       }
@@ -5549,8 +5549,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8789196, 
-          46.2285548
+          8.8789195999999997, 
+          46.228554799999998
         ]
       }, 
       "type": "Feature", 
@@ -5558,7 +5558,7 @@
         "description": "http://www.odro.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Nucleo di Odro"
       }
@@ -5567,8 +5567,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.938496, 
-          46.394603
+          8.9384960000000007, 
+          46.394602999999996
         ]
       }, 
       "type": "Feature", 
@@ -5576,7 +5576,7 @@
         "description": "http://www.utoe-biasca.ch/index.php?page=capanna-pian-d-alpe-2", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Pian d'Alpe"
       }
@@ -5585,8 +5585,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.47149, 
-          46.4944149
+          8.4714899999999993, 
+          46.494414900000002
         ]
       }, 
       "type": "Feature", 
@@ -5594,7 +5594,7 @@
         "description": "http://www.casbellinzona.ch/new/index.php?option=com_content&view=article&id=50:capanna-piansecco&catid=39:capanne&Itemid=58", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Piansecco"
       }
@@ -5603,7 +5603,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9402902, 
+          8.9402901999999997, 
           46.6077133
         ]
       }, 
@@ -5612,7 +5612,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Scaletta"
       }
@@ -5621,8 +5621,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7248928, 
-          46.4816609
+          8.7248927999999992, 
+          46.481660900000001
         ]
       }, 
       "type": "Feature", 
@@ -5630,7 +5630,7 @@
         "description": "http://www.capannatremorgio.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Tremorgio"
       }
@@ -5639,8 +5639,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2505272, 
-          47.034249
+          9.2505272000000005, 
+          47.034249000000003
         ]
       }, 
       "type": "Feature", 
@@ -5648,7 +5648,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Spitzmeilen H\u00fctte"
       }
@@ -5657,7 +5657,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.6652302, 
+          9.6652301999999999, 
           46.8544397
         ]
       }, 
@@ -5666,7 +5666,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Skihaus Hochwang"
       }
@@ -5675,8 +5675,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2760238, 
-          46.6247056
+          9.2760238000000008, 
+          46.624705599999999
         ]
       }, 
       "type": "Feature", 
@@ -5684,7 +5684,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Turrahus"
       }
@@ -5693,8 +5693,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.6919131, 
-          46.6187485
+          9.6919131000000007, 
+          46.618748500000002
         ]
       }, 
       "type": "Feature", 
@@ -5702,7 +5702,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chamonas d'Ela CAS"
       }
@@ -5711,8 +5711,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.4392013, 
-          47.1269863
+          9.4392013000000006, 
+          47.126986299999999
         ]
       }, 
       "type": "Feature", 
@@ -5720,7 +5720,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Arin"
       }
@@ -5729,8 +5729,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.4475301, 
-          47.1252284
+          9.4475300999999998, 
+          47.125228399999997
         ]
       }, 
       "type": "Feature", 
@@ -5738,7 +5738,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Alp Wisliboda"
       }
@@ -5747,7 +5747,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.4476517, 
+          9.4476516999999998, 
           47.1243233
         ]
       }, 
@@ -5756,7 +5756,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Schihus Wisliboda"
       }
@@ -5766,7 +5766,7 @@
         "type": "Point", 
         "coordinates": [
           8.9819461, 
-          46.0867228
+          46.086722799999997
         ]
       }, 
       "type": "Feature", 
@@ -5774,7 +5774,7 @@
         "description": "http://www.amicidellanatura-lugano.ch/capanna.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna La Ginestra"
       }
@@ -5783,8 +5783,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.2220231, 
-          46.5700844
+          8.2220230999999995, 
+          46.570084399999999
         ]
       }, 
       "type": "Feature", 
@@ -5792,7 +5792,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Lauteraarh\u00fctte"
       }
@@ -5801,8 +5801,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.689896, 
-          46.4512226
+          7.6898960000000001, 
+          46.451222600000001
         ]
       }, 
       "type": "Feature", 
@@ -5810,7 +5810,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Balmhornh\u00fctte SAC"
       }
@@ -5819,8 +5819,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.964737, 
-          46.86897
+          9.9647369999999995, 
+          46.868969999999997
         ]
       }, 
       "type": "Feature", 
@@ -5828,7 +5828,7 @@
         "description": "http://www.sac-praettigau.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Fergenh\u00fctte SAC"
       }
@@ -5837,8 +5837,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0860631, 
-          46.4374912
+          7.0860630999999996, 
+          46.437491199999997
         ]
       }, 
       "type": "Feature", 
@@ -5846,7 +5846,7 @@
         "description": "http://www.monts-chevreuils.ch/cabane.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane des Monts-Chevreuils"
       }
@@ -5856,7 +5856,7 @@
         "type": "Point", 
         "coordinates": [
           10.1177302, 
-          46.6629057
+          46.662905700000003
         ]
       }, 
       "type": "Feature", 
@@ -5864,7 +5864,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chamanna Cluozza"
       }
@@ -5873,7 +5873,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0056697, 
+          7.0056697000000003, 
           46.3428027
         ]
       }, 
@@ -5882,7 +5882,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -5891,8 +5891,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0622676, 
-          46.1790896
+          9.0622676000000002, 
+          46.179089599999998
         ]
       }, 
       "type": "Feature", 
@@ -5900,7 +5900,7 @@
         "description": "http://www.amicidellanatura-lugano.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Genzianella"
       }
@@ -5909,8 +5909,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9884589, 
-          45.8866772
+          8.9884588999999995, 
+          45.886677200000001
         ]
       }, 
       "type": "Feature", 
@@ -5918,7 +5918,7 @@
         "description": "http://www.scoutmomo.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna La Piana"
       }
@@ -5928,7 +5928,7 @@
         "type": "Point", 
         "coordinates": [
           7.2520723, 
-          46.5493114
+          46.549311400000001
         ]
       }, 
       "type": "Feature", 
@@ -5936,7 +5936,7 @@
         "description": "http://www.grubenberg.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Grubenbergh\u00fctte"
       }
@@ -5945,8 +5945,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2236734, 
-          46.2579895
+          9.2236733999999991, 
+          46.257989500000001
         ]
       }, 
       "type": "Feature", 
@@ -5954,7 +5954,7 @@
         "description": "http://www.valcama.ch/unterkunft_it.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Capanna Righetti Fibbioli"
       }
@@ -5972,7 +5972,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Sewenh\u00fctte SAC"
       }
@@ -5981,8 +5981,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6793987, 
-          46.1302933
+          7.6793987000000001, 
+          46.130293299999998
         ]
       }, 
       "type": "Feature", 
@@ -5990,7 +5990,7 @@
         "description": "http://www.tracuit.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Tracuit CAS"
       }
@@ -5999,8 +5999,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6535327, 
-          46.0600507
+          7.6535327000000004, 
+          46.060050699999998
         ]
       }, 
       "type": "Feature", 
@@ -6008,7 +6008,7 @@
         "description": "http://www.cas-diablerets.ch/mountet.htm", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane du Mountet CAS"
       }
@@ -6017,8 +6017,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6793646, 
-          46.1008939
+          7.6793646000000004, 
+          46.100893900000003
         ]
       }, 
       "type": "Feature", 
@@ -6026,7 +6026,7 @@
         "description": "http://www.arpitettaz.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane d'Arpitettaz"
       }
@@ -6035,8 +6035,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.5954924, 
-          46.0906851
+          7.5954924000000004, 
+          46.090685100000002
         ]
       }, 
       "type": "Feature", 
@@ -6044,7 +6044,7 @@
         "description": "http://www.cabane-de-moiry.ch/home.php", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Moiry"
       }
@@ -6053,7 +6053,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.5038158, 
+          7.5038157999999999, 
           46.0303483
         ]
       }, 
@@ -6062,7 +6062,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de la Tsa"
       }
@@ -6071,8 +6071,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.7418656, 
-          46.4836385
+          7.7418655999999997, 
+          46.483638499999998
         ]
       }, 
       "type": "Feature", 
@@ -6080,7 +6080,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Fr\u00fcndenh\u00fctte"
       }
@@ -6089,7 +6089,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8923105, 
+          7.8923104999999998, 
           46.4991445
         ]
       }, 
@@ -6098,7 +6098,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Schmadri H\u00fctte"
       }
@@ -6107,7 +6107,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.9603805, 
+          7.9603805000000003, 
           46.4752686
         ]
       }, 
@@ -6116,7 +6116,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Hollandiah\u00fctte"
       }
@@ -6125,8 +6125,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9474906, 
-          46.1791185
+          6.9474906000000001, 
+          46.179118500000001
         ]
       }, 
       "type": "Feature", 
@@ -6134,7 +6134,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Chalin"
       }
@@ -6143,8 +6143,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9042907, 
-          46.1657706
+          6.9042906999999998, 
+          46.165770600000002
         ]
       }, 
       "type": "Feature", 
@@ -6152,7 +6152,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane d'Ant\u00e8me"
       }
@@ -6161,7 +6161,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8980975, 
+          6.8980975000000004, 
           46.1394272
         ]
       }, 
@@ -6170,7 +6170,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Susanfe"
       }
@@ -6179,8 +6179,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8664751, 
-          46.1508102
+          6.8664750999999997, 
+          46.150810200000002
         ]
       }, 
       "type": "Feature", 
@@ -6188,7 +6188,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Bonavau"
       }
@@ -6197,8 +6197,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.1443524, 
-          46.2519727
+          7.1443523999999998, 
+          46.251972700000003
         ]
       }, 
       "type": "Feature", 
@@ -6206,7 +6206,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabanne de Plan N\u00e9v\u00e9"
       }
@@ -6215,8 +6215,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.3555548, 
-          46.9357637
+          7.3555548000000002, 
+          46.935763700000003
         ]
       }, 
       "type": "Feature", 
@@ -6224,7 +6224,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Oberi rippa"
       }
@@ -6233,7 +6233,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.3081251, 
+          6.3081250999999998, 
           46.6857428
         ]
       }, 
@@ -6242,7 +6242,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "hotel des b\u00fbcherons"
       }
@@ -6251,8 +6251,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9933911, 
-          47.1636963
+          6.9933911000000002, 
+          47.163696299999998
         ]
       }, 
       "type": "Feature", 
@@ -6260,7 +6260,7 @@
         "description": "http://www.laserment.com/montsoleil/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet de Mont-Soleil - Amis de la Nature"
       }
@@ -6269,8 +6269,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.8217329, 
-          46.7040852
+          7.8217328999999998, 
+          46.704085200000002
         ]
       }, 
       "type": "Feature", 
@@ -6278,7 +6278,7 @@
         "description": "http://www.hubelhuus.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Hubelhuus Beatenberg"
       }
@@ -6287,8 +6287,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4474168, 
-          46.8306233
+          6.4474168000000001, 
+          46.830623299999999
         ]
       }, 
       "type": "Feature", 
@@ -6296,7 +6296,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la gare d'Olten"
       }
@@ -6305,8 +6305,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.9028553, 
-          46.6114306
+          9.9028553000000006, 
+          46.611430599999998
         ]
       }, 
       "type": "Feature", 
@@ -6314,7 +6314,7 @@
         "description": "http://www.sac-bernina.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chamanna d'Es-cha"
       }
@@ -6323,8 +6323,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.9606012, 
-          46.7100833
+          9.9606011999999993, 
+          46.710083300000001
         ]
       }, 
       "type": "Feature", 
@@ -6332,7 +6332,7 @@
         "description": "http://www.grialetsch.ch/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Grialetschh\u00fctte"
       }
@@ -6341,8 +6341,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.5593874, 
-          46.692516
+          9.5593874000000003, 
+          46.692515999999998
         ]
       }, 
       "type": "Feature", 
@@ -6350,7 +6350,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -6359,8 +6359,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9405515, 
-          46.2465662
+          8.9405514999999998, 
+          46.246566199999997
         ]
       }, 
       "type": "Feature", 
@@ -6368,7 +6368,7 @@
         "description": "http://www.patriziatopreonzo.ch/capanne.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio Alpe di Confi\u00e9nn"
       }
@@ -6377,8 +6377,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9301687, 
-          46.2426357
+          8.9301686999999994, 
+          46.242635700000001
         ]
       }, 
       "type": "Feature", 
@@ -6386,7 +6386,7 @@
         "description": "http://www.patriziatopreonzo.ch/capanne.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio Alpe Moroscetto"
       }
@@ -6395,7 +6395,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9532128, 
+          8.9532127999999993, 
           46.2359996
         ]
       }, 
@@ -6404,7 +6404,7 @@
         "description": "http://www.patriziatopreonzo.ch/capanne.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio Alpe di Cusale"
       }
@@ -6413,8 +6413,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.5485953, 
-          46.8069532
+          6.5485952999999997, 
+          46.806953200000002
         ]
       }, 
       "type": "Feature", 
@@ -6422,7 +6422,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "thibaud\u7684\u5bb6"
       }
@@ -6431,8 +6431,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.6011893, 
-          46.7836764
+          8.6011892999999997, 
+          46.783676399999997
         ]
       }, 
       "type": "Feature", 
@@ -6440,7 +6440,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Leutschachh\u00fctte SAC"
       }
@@ -6449,8 +6449,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.0249344, 
-          46.7342851
+          8.0249343999999994, 
+          46.734285100000001
         ]
       }, 
       "type": "Feature", 
@@ -6458,7 +6458,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "giessbach cascada"
       }
@@ -6467,8 +6467,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9930572, 
-          46.1943921
+          8.9930572000000009, 
+          46.194392100000002
         ]
       }, 
       "type": "Feature", 
@@ -6476,7 +6476,7 @@
         "description": "http://www.curzutt.ch", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Curz\u00fatt"
       }

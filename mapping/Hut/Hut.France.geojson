@@ -5,8 +5,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7249451, 
-          45.8168426
+          6.7249451000000002, 
+          45.816842600000001
         ]
       }, 
       "type": "Feature", 
@@ -14,7 +14,7 @@
         "description": "http://chaletdescontamines.ffcam.fr/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet du CAF Contamines"
       }
@@ -23,8 +23,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9216426, 
-          45.5543571
+          6.9216426000000002, 
+          45.554357099999997
         ]
       }, 
       "type": "Feature", 
@@ -32,7 +32,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Le Monal"
       }
@@ -41,8 +41,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.434711, 
-          45.2643588
+          6.4347110000000001, 
+          45.264358799999997
         ]
       }, 
       "type": "Feature", 
@@ -50,7 +50,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Baraque de Bonnant"
       }
@@ -60,7 +60,7 @@
         "type": "Point", 
         "coordinates": [
           7.3563627, 
-          44.0957537
+          44.095753700000003
         ]
       }, 
       "type": "Feature", 
@@ -68,7 +68,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Madone de Fenestre"
       }
@@ -77,8 +77,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4156203, 
-          44.9177196
+          6.4156202999999996, 
+          44.917719599999998
         ]
       }, 
       "type": "Feature", 
@@ -86,7 +86,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet Refuge du Pr\u00e9 de Madame Carle"
       }
@@ -95,8 +95,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8826998, 
-          45.9055659
+          6.8826998000000001, 
+          45.905565899999999
         ]
       }, 
       "type": "Feature", 
@@ -104,7 +104,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Plan de L'Aiguille"
       }
@@ -113,8 +113,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7791862, 
-          45.7373243
+          6.7791861999999998, 
+          45.737324299999997
         ]
       }, 
       "type": "Feature", 
@@ -122,7 +122,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Mottets"
       }
@@ -131,8 +131,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9742146, 
-          42.2367985
+          8.9742145999999998, 
+          42.236798499999999
         ]
       }, 
       "type": "Feature", 
@@ -140,7 +140,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bergerie de Vaccaghia"
       }
@@ -149,8 +149,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.5143653, 
-          44.8008901
+          6.5143652999999997, 
+          44.800890099999997
         ]
       }, 
       "type": "Feature", 
@@ -158,7 +158,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de La Pousterle"
       }
@@ -167,8 +167,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.9078123, 
-          42.3530025
+          8.9078122999999998, 
+          42.353002500000002
         ]
       }, 
       "type": "Feature", 
@@ -176,7 +176,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -185,7 +185,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.6918046, 
+          6.6918046000000002, 
           45.780991
         ]
       }, 
@@ -194,7 +194,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet/Refuge La Roselette"
       }
@@ -203,7 +203,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.5846386, 
+          5.5846385999999999, 
           45.189318
         ]
       }, 
@@ -212,7 +212,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Feneys"
       }
@@ -221,8 +221,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9471058, 
-          46.0015908
+          6.9471058000000001, 
+          46.001590800000002
         ]
       }, 
       "type": "Feature", 
@@ -230,7 +230,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Tour (CAF)"
       }
@@ -239,8 +239,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.3572067, 
-          42.4455915
+          2.3572066999999999, 
+          42.445591499999999
         ]
       }, 
       "type": "Feature", 
@@ -248,7 +248,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Da Silva"
       }
@@ -257,8 +257,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.1011544, 
-          47.8079174
+          7.1011544000000004, 
+          47.807917400000001
         ]
       }, 
       "type": "Feature", 
@@ -266,7 +266,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'\u00e9tape Thann"
       }
@@ -275,7 +275,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0192593, 
+          7.0192592999999999, 
           47.9523388
         ]
       }, 
@@ -284,7 +284,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Hahnenbrunnen"
       }
@@ -293,8 +293,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0256727, 
-          48.0532503
+          7.0256727000000003, 
+          48.053250300000002
         ]
       }, 
       "type": "Feature", 
@@ -302,7 +302,7 @@
         "description": "http://www.chaletrefuge3fours.ffcam.fr", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Trois Fours"
       }
@@ -311,7 +311,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8541842, 
+          8.8541842000000006, 
           42.4421933
         ]
       }, 
@@ -320,7 +320,7 @@
         "description": "auberge-foret-bonifatu.com", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Auberge Bonifatu"
       }
@@ -329,8 +329,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.9673664, 
-          45.1924497
+          5.9673664000000004, 
+          45.192449699999997
         ]
       }, 
       "type": "Feature", 
@@ -338,7 +338,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Jean Collet"
       }
@@ -347,8 +347,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.5128543, 
-          44.0702733
+          7.5128542999999999, 
+          44.070273299999997
         ]
       }, 
       "type": "Feature", 
@@ -356,7 +356,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite Neige et Merveilles"
       }
@@ -365,7 +365,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.4946951, 
+          7.4946951000000004, 
           44.0684313
         ]
       }, 
@@ -374,7 +374,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Grange de Valaure"
       }
@@ -383,8 +383,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.4518778, 
-          44.0574452
+          7.4518778000000001, 
+          44.057445199999997
         ]
       }, 
       "type": "Feature", 
@@ -392,7 +392,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Merveilles"
       }
@@ -410,7 +410,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Manganu"
       }
@@ -419,8 +419,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8368588, 
-          42.2888107
+          8.8368587999999999, 
+          42.288810699999999
         ]
       }, 
       "type": "Feature", 
@@ -428,7 +428,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bergerie de Piazze"
       }
@@ -437,8 +437,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.923814, 
-          42.3498761
+          8.9238140000000001, 
+          42.349876100000003
         ]
       }, 
       "type": "Feature", 
@@ -446,7 +446,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bergerie de Tilarba"
       }
@@ -455,8 +455,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.0101357, 
-          42.38063
+          9.0101356999999993, 
+          42.380629999999996
         ]
       }, 
       "type": "Feature", 
@@ -464,7 +464,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bergerie d\u00b4Urcula"
       }
@@ -473,8 +473,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8405839, 
-          42.3157041
+          8.8405839000000004, 
+          42.315704099999998
         ]
       }, 
       "type": "Feature", 
@@ -482,7 +482,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Puscaghia"
       }
@@ -491,8 +491,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.7654645, 
-          42.278598
+          8.7654645000000002, 
+          42.278598000000002
         ]
       }, 
       "type": "Feature", 
@@ -500,7 +500,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bergerie de Corgola"
       }
@@ -509,8 +509,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.752967, 
-          42.2730262
+          8.7529669999999999, 
+          42.273026199999997
         ]
       }, 
       "type": "Feature", 
@@ -518,7 +518,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bergerie de Larata"
       }
@@ -527,8 +527,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.6638269, 
-          45.6482732
+          6.6638269000000001, 
+          45.648273199999998
         ]
       }, 
       "type": "Feature", 
@@ -536,7 +536,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Presset"
       }
@@ -545,8 +545,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.9627256, 
-          45.0657425
+          5.9627255999999997, 
+          45.065742499999999
         ]
       }, 
       "type": "Feature", 
@@ -554,7 +554,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet communal"
       }
@@ -563,8 +563,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.314675, 
-          44.9058046
+          6.3146750000000003, 
+          44.905804600000003
         ]
       }, 
       "type": "Feature", 
@@ -572,7 +572,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Carrelet"
       }
@@ -581,8 +581,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.3320198, 
-          44.8700285
+          6.3320198000000003, 
+          44.870028499999997
         ]
       }, 
       "type": "Feature", 
@@ -590,7 +590,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Pilatte"
       }
@@ -599,7 +599,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7905185, 
+          6.7905185000000001, 
           45.3919079
         ]
       }, 
@@ -608,7 +608,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Col de la Vanoise (Felix Faure)"
       }
@@ -617,8 +617,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7329286, 
-          45.4165054
+          6.7329286000000002, 
+          45.416505399999998
         ]
       }, 
       "type": "Feature", 
@@ -626,7 +626,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Grand Bec"
       }
@@ -635,7 +635,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7527105, 
+          6.7527105000000001, 
           45.3895634
         ]
       }, 
@@ -644,7 +644,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Barmettes"
       }
@@ -654,7 +654,7 @@
         "type": "Point", 
         "coordinates": [
           1.2694007, 
-          42.7826787
+          42.782678699999998
         ]
       }, 
       "type": "Feature", 
@@ -662,7 +662,7 @@
         "description": "http://lescolan.com/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite de Bidous (L'escolan)"
       }
@@ -671,8 +671,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4433145, 
-          44.7360991
+          6.4433144999999996, 
+          44.736099099999997
         ]
       }, 
       "type": "Feature", 
@@ -680,7 +680,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Les Enflous"
       }
@@ -689,8 +689,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4443039, 
-          44.7376101
+          6.4443039000000004, 
+          44.737610099999998
         ]
       }, 
       "type": "Feature", 
@@ -698,7 +698,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete/refuge L'\u00e9cole de Dormillouse"
       }
@@ -707,8 +707,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7599346, 
-          45.8391236
+          6.7599346000000002, 
+          45.839123600000001
         ]
       }, 
       "type": "Feature", 
@@ -716,7 +716,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Auberge de Miage"
       }
@@ -725,8 +725,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7142514, 
-          45.7784449
+          6.7142514000000002, 
+          45.778444899999997
         ]
       }, 
       "type": "Feature", 
@@ -734,7 +734,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet - Refuge de Nant Borrant"
       }
@@ -743,8 +743,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.0123302, 
-          42.719909
+          0.012330199999999999, 
+          42.719909000000001
         ]
       }, 
       "type": "Feature", 
@@ -752,7 +752,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Espuguettes"
       }
@@ -761,8 +761,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.078495, 
-          45.2490845
+          6.0784950000000002, 
+          45.249084500000002
         ]
       }, 
       "type": "Feature", 
@@ -770,7 +770,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des 7 Laux"
       }
@@ -779,8 +779,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.1241508, 
-          42.7793901
+          -0.12415080000000001, 
+          42.779390100000001
         ]
       }, 
       "type": "Feature", 
@@ -788,7 +788,7 @@
         "description": "http://refugebayssellance.ffcam.fr/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Bayssellance"
       }
@@ -798,7 +798,7 @@
         "type": "Point", 
         "coordinates": [
           0.4199078, 
-          42.7226795
+          42.722679499999998
         ]
       }, 
       "type": "Feature", 
@@ -806,7 +806,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Soula"
       }
@@ -815,8 +815,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.5081315, 
-          42.7038337
+          0.50813149999999996, 
+          42.703833699999997
         ]
       }, 
       "type": "Feature", 
@@ -824,7 +824,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Portillon (Jean Arlaud)"
       }
@@ -834,7 +834,7 @@
         "type": "Point", 
         "coordinates": [
           6.0975082, 
-          44.9529649
+          44.952964899999998
         ]
       }, 
       "type": "Feature", 
@@ -842,7 +842,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Muzelle"
       }
@@ -852,7 +852,7 @@
         "type": "Point", 
         "coordinates": [
           6.955241, 
-          45.9241143
+          45.924114299999999
         ]
       }, 
       "type": "Feature", 
@@ -860,7 +860,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Charpoua"
       }
@@ -869,8 +869,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9807628, 
-          45.8949992
+          6.9807627999999999, 
+          45.894999200000001
         ]
       }, 
       "type": "Feature", 
@@ -878,7 +878,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Leschaux"
       }
@@ -887,7 +887,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          1.1746415, 
+          1.1746414999999999, 
           42.8510822
         ]
       }, 
@@ -896,7 +896,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite d'Aunac"
       }
@@ -905,8 +905,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          1.7950874, 
-          42.8540835
+          1.7950874000000001, 
+          42.854083500000002
         ]
       }, 
       "type": "Feature", 
@@ -914,7 +914,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de la Taulat"
       }
@@ -923,8 +923,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          1.8016564, 
-          42.8289517
+          1.8016563999999999, 
+          42.828951699999998
         ]
       }, 
       "type": "Feature", 
@@ -932,7 +932,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Jasse de Pratmau"
       }
@@ -942,7 +942,7 @@
         "type": "Point", 
         "coordinates": [
           2.4710972, 
-          42.5718211
+          42.571821100000001
         ]
       }, 
       "type": "Feature", 
@@ -950,7 +950,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Mas Malet"
       }
@@ -968,7 +968,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Mouline"
       }
@@ -977,8 +977,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.1647298, 
-          42.6257067
+          2.1647297999999999, 
+          42.625706700000002
         ]
       }, 
       "type": "Feature", 
@@ -986,7 +986,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Estanyols"
       }
@@ -996,7 +996,7 @@
         "type": "Point", 
         "coordinates": [
           2.1756704, 
-          42.4606413
+          42.460641299999999
         ]
       }, 
       "type": "Feature", 
@@ -1004,7 +1004,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de l'Orri"
       }
@@ -1013,8 +1013,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0514305, 
-          44.7004568
+          7.0514305000000004, 
+          44.700456799999998
         ]
       }, 
       "type": "Feature", 
@@ -1022,7 +1022,7 @@
         "description": "http://clubalpin.briancon.free.fr/viso.html", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Viso"
       }
@@ -1031,8 +1031,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.8702031, 
-          46.1879595
+          5.8702031000000003, 
+          46.187959499999998
         ]
       }, 
       "type": "Feature", 
@@ -1040,7 +1040,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Poutouille"
       }
@@ -1049,8 +1049,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.3245596, 
-          45.0112896
+          6.3245595999999997, 
+          45.011289599999998
         ]
       }, 
       "type": "Feature", 
@@ -1058,7 +1058,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de l'Aigle"
       }
@@ -1068,7 +1068,7 @@
         "type": "Point", 
         "coordinates": [
           2.2359092, 
-          42.6031953
+          42.603195300000003
         ]
       }, 
       "type": "Feature", 
@@ -1076,7 +1076,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Les Corts d'Avall"
       }
@@ -1085,8 +1085,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.2396096, 
-          42.6185707
+          2.2396096000000001, 
+          42.618570699999999
         ]
       }, 
       "type": "Feature", 
@@ -1094,7 +1094,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Mouline"
       }
@@ -1103,8 +1103,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.4015948, 
-          42.5288414
+          2.4015947999999998, 
+          42.528841399999997
         ]
       }, 
       "type": "Feature", 
@@ -1112,7 +1112,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Saint-Martin du Canigou"
       }
@@ -1121,7 +1121,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8822055, 
+          6.8822055000000004, 
           45.396946
         ]
       }, 
@@ -1130,7 +1130,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Leisse"
       }
@@ -1139,8 +1139,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7240279, 
-          45.3534696
+          6.7240279000000003, 
+          45.353469599999997
         ]
       }, 
       "type": "Feature", 
@@ -1148,7 +1148,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Valette"
       }
@@ -1157,8 +1157,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.687148, 
-          45.3510598
+          6.6871479999999996, 
+          45.351059800000002
         ]
       }, 
       "type": "Feature", 
@@ -1166,7 +1166,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -1175,8 +1175,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.1866994, 
-          46.6251038
+          6.1866994000000002, 
+          46.625103799999998
         ]
       }, 
       "type": "Feature", 
@@ -1184,7 +1184,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Jaique"
       }
@@ -1193,8 +1193,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.1472555, 
-          42.8519137
+          -0.14725550000000001, 
+          42.851913699999997
         ]
       }, 
       "type": "Feature", 
@@ -1202,7 +1202,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet du Clot"
       }
@@ -1211,8 +1211,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.031222, 
-          46.425083
+          6.0312219999999996, 
+          46.425083000000001
         ]
       }, 
       "type": "Feature", 
@@ -1220,7 +1220,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet de la frasse"
       }
@@ -1230,7 +1230,7 @@
         "type": "Point", 
         "coordinates": [
           -0.601742, 
-          42.9749478
+          42.974947800000002
         ]
       }, 
       "type": "Feature", 
@@ -1238,7 +1238,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Despourrins"
       }
@@ -1247,8 +1247,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.6190864, 
-          42.9105258
+          -0.61908640000000004, 
+          42.910525800000002
         ]
       }, 
       "type": "Feature", 
@@ -1256,7 +1256,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'Etape de Lhers"
       }
@@ -1265,8 +1265,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          4.6435522, 
-          46.9764261
+          4.6435522000000002, 
+          46.976426099999998
         ]
       }, 
       "type": "Feature", 
@@ -1274,7 +1274,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "CAF - Refuge de Vauchignon"
       }
@@ -1283,7 +1283,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.2590277, 
+          9.2590277000000007, 
           41.9624898
         ]
       }, 
@@ -1292,7 +1292,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Catastaghju"
       }
@@ -1301,8 +1301,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.5874396, 
-          45.9687813
+          6.5874395999999997, 
+          45.968781300000003
         ]
       }, 
       "type": "Feature", 
@@ -1310,7 +1310,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Doran"
       }
@@ -1319,8 +1319,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.670552, 
-          45.979054
+          6.6705519999999998, 
+          45.979053999999998
         ]
       }, 
       "type": "Feature", 
@@ -1328,7 +1328,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de V\u00e9ran"
       }
@@ -1337,8 +1337,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.592611, 
-          45.948814
+          6.5926109999999998, 
+          45.948813999999999
         ]
       }, 
       "type": "Feature", 
@@ -1346,7 +1346,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Tornieux"
       }
@@ -1356,7 +1356,7 @@
         "type": "Point", 
         "coordinates": [
           6.5998085, 
-          45.1234353
+          45.123435299999997
         ]
       }, 
       "type": "Feature", 
@@ -1364,7 +1364,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Mont Thabor"
       }
@@ -1373,8 +1373,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.6738768, 
-          43.6914173
+          2.6738767999999999, 
+          43.691417299999998
         ]
       }, 
       "type": "Feature", 
@@ -1382,7 +1382,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Picotalen"
       }
@@ -1391,8 +1391,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.3836091, 
-          44.8745084
+          6.3836091000000001, 
+          44.874508400000003
         ]
       }, 
       "type": "Feature", 
@@ -1400,7 +1400,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Ancien Refuge du S\u00e9l\u00e9 Refuge d'Hiver"
       }
@@ -1409,8 +1409,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          4.0599092, 
-          45.036228
+          4.0599091999999999, 
+          45.036228000000001
         ]
       }, 
       "type": "Feature", 
@@ -1418,7 +1418,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite d'Eape Muncipial"
       }
@@ -1427,8 +1427,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.5308563, 
-          45.4301948
+          6.5308562999999999, 
+          45.430194800000002
         ]
       }, 
       "type": "Feature", 
@@ -1436,7 +1436,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Traie"
       }
@@ -1445,8 +1445,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.6324748, 
-          45.3374536
+          6.6324747999999998, 
+          45.337453600000003
         ]
       }, 
       "type": "Feature", 
@@ -1454,7 +1454,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Saut"
       }
@@ -1463,7 +1463,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9919534, 
+          6.9919533999999999, 
           45.4014612
         ]
       }, 
@@ -1472,7 +1472,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Fond des Fours"
       }
@@ -1481,8 +1481,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.5152232, 
-          45.5706842
+          6.5152232000000003, 
+          45.570684200000002
         ]
       }, 
       "type": "Feature", 
@@ -1490,7 +1490,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet de Lachat"
       }
@@ -1499,8 +1499,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7815938, 
-          45.4473423
+          6.7815937999999996, 
+          45.447342300000003
         ]
       }, 
       "type": "Feature", 
@@ -1508,7 +1508,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le Laisonnay"
       }
@@ -1517,8 +1517,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9064098, 
-          47.8322921
+          6.9064097999999996, 
+          47.832292099999997
         ]
       }, 
       "type": "Feature", 
@@ -1526,7 +1526,7 @@
         "description": "www.auberge-refuge-neuweiher.fr", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Auberge du refuge du Neuweiher"
       }
@@ -1536,7 +1536,7 @@
         "type": "Point", 
         "coordinates": [
           7.3740375, 
-          48.375173
+          48.375172999999997
         ]
       }, 
       "type": "Feature", 
@@ -1544,7 +1544,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Gruckert"
       }
@@ -1553,8 +1553,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.809986, 
-          42.9957513
+          -0.80998599999999998, 
+          42.995751300000002
         ]
       }, 
       "type": "Feature", 
@@ -1562,7 +1562,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Auberge Elichalt"
       }
@@ -1571,8 +1571,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.4487192, 
-          42.3553226
+          9.4487191999999993, 
+          42.355322600000001
         ]
       }, 
       "type": "Feature", 
@@ -1580,7 +1580,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gile d'etape"
       }
@@ -1589,8 +1589,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.6421952, 
-          42.6996187
+          0.64219519999999997, 
+          42.699618700000002
         ]
       }, 
       "type": "Feature", 
@@ -1598,7 +1598,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de V\u00e9nasque"
       }
@@ -1607,8 +1607,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8388298, 
-          45.4805675
+          6.8388298000000001, 
+          45.480567499999999
         ]
       }, 
       "type": "Feature", 
@@ -1616,7 +1616,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Entre-le-Lac"
       }
@@ -1625,8 +1625,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.260449, 
-          42.6757698
+          2.2604489999999999, 
+          42.675769799999998
         ]
       }, 
       "type": "Feature", 
@@ -1634,7 +1634,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -1643,8 +1643,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.791969, 
-          45.4629423
+          6.7919689999999999, 
+          45.462942300000002
         ]
       }, 
       "type": "Feature", 
@@ -1652,7 +1652,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Plaisance"
       }
@@ -1661,8 +1661,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4059592, 
-          45.6534051
+          6.4059591999999999, 
+          45.653405100000001
         ]
       }, 
       "type": "Feature", 
@@ -1670,7 +1670,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -1680,7 +1680,7 @@
         "type": "Point", 
         "coordinates": [
           2.801993, 
-          43.5679141
+          43.567914100000003
         ]
       }, 
       "type": "Feature", 
@@ -1688,7 +1688,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Camp Blanc"
       }
@@ -1697,8 +1697,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.215746, 
-          43.00071
+          -0.21574599999999999, 
+          43.000709999999998
         ]
       }, 
       "type": "Feature", 
@@ -1706,7 +1706,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Haugarou"
       }
@@ -1716,7 +1716,7 @@
         "type": "Point", 
         "coordinates": [
           2.4077997, 
-          42.5016914
+          42.501691399999999
         ]
       }, 
       "type": "Feature", 
@@ -1724,7 +1724,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Mariailles"
       }
@@ -1733,8 +1733,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.0111841, 
-          42.6219164
+          2.0111840999999999, 
+          42.621916400000003
         ]
       }, 
       "type": "Feature", 
@@ -1742,7 +1742,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Camporells"
       }
@@ -1752,7 +1752,7 @@
         "type": "Point", 
         "coordinates": [
           1.8635796, 
-          42.7550775
+          42.755077499999999
         ]
       }, 
       "type": "Feature", 
@@ -1760,7 +1760,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Chioula"
       }
@@ -1769,7 +1769,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.2888318, 
+          -0.28883180000000003, 
           42.8582106
         ]
       }, 
@@ -1778,7 +1778,7 @@
         "description": "http://refugedelarribet.ffcam.fr/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Larribet"
       }
@@ -1787,8 +1787,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          1.0724123, 
-          42.7973791
+          1.0724123000000001, 
+          42.797379100000001
         ]
       }, 
       "type": "Feature", 
@@ -1796,7 +1796,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Estagnous - castillonais"
       }
@@ -1805,8 +1805,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.6550131, 
-          42.7210772
+          0.65501310000000001, 
+          42.721077200000003
         ]
       }, 
       "type": "Feature", 
@@ -1814,7 +1814,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Hospice de France"
       }
@@ -1823,8 +1823,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.760641, 
-          42.934346
+          0.76064100000000001, 
+          42.934345999999998
         ]
       }, 
       "type": "Feature", 
@@ -1832,7 +1832,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete de Larreix - luchonais"
       }
@@ -1841,8 +1841,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          3.5360715, 
-          43.7220839
+          3.5360714999999998, 
+          43.722083900000001
         ]
       }, 
       "type": "Feature", 
@@ -1850,7 +1850,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Maison foresti\u00e8re des Pl\u00f4s"
       }
@@ -1859,8 +1859,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.4212344, 
-          44.8701616
+          5.4212344000000003, 
+          44.870161600000003
         ]
       }, 
       "type": "Feature", 
@@ -1868,7 +1868,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete des Liottards"
       }
@@ -1877,8 +1877,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.314814, 
-          44.8099443
+          6.3148140000000001, 
+          44.809944299999998
         ]
       }, 
       "type": "Feature", 
@@ -1886,7 +1886,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Chabourn\u00e9ou"
       }
@@ -1896,7 +1896,7 @@
         "type": "Point", 
         "coordinates": [
           6.2045455, 
-          44.8415031
+          44.841503099999997
         ]
       }, 
       "type": "Feature", 
@@ -1904,7 +1904,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de l'Olan"
       }
@@ -1913,8 +1913,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.1465931, 
-          44.8446321
+          6.1465930999999996, 
+          44.844632099999998
         ]
       }, 
       "type": "Feature", 
@@ -1922,7 +1922,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Souffles"
       }
@@ -1931,8 +1931,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8374955, 
-          45.3460882
+          6.8374955000000002, 
+          45.346088199999997
         ]
       }, 
       "type": "Feature", 
@@ -1940,7 +1940,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Plan du Lac"
       }
@@ -1949,7 +1949,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8650927, 
+          6.8650926999999999, 
           45.1634837
         ]
       }, 
@@ -1958,7 +1958,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge d'Ambin"
       }
@@ -1967,8 +1967,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.361202, 
-          44.8343948
+          6.3612019999999996, 
+          44.834394799999998
         ]
       }, 
       "type": "Feature", 
@@ -1976,7 +1976,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Bans"
       }
@@ -1985,8 +1985,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2901391, 
-          48.6327923
+          7.2901391000000002, 
+          48.632792299999998
         ]
       }, 
       "type": "Feature", 
@@ -1994,7 +1994,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Grand T\u00e9tras"
       }
@@ -2003,8 +2003,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.352073, 
-          46.7471516
+          6.3520729999999999, 
+          46.747151600000002
         ]
       }, 
       "type": "Feature", 
@@ -2012,7 +2012,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet du Gros Morond"
       }
@@ -2021,8 +2021,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.1753673, 
-          45.2038803
+          6.1753672999999996, 
+          45.203880300000002
         ]
       }, 
       "type": "Feature", 
@@ -2030,7 +2030,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de l'\u00c9tendard"
       }
@@ -2039,8 +2039,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.27108, 
-          45.0269656
+          6.2710800000000004, 
+          45.026965599999997
         ]
       }, 
       "type": "Feature", 
@@ -2048,7 +2048,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge \u00c9variste Chancel"
       }
@@ -2057,8 +2057,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.9355356, 
-          45.1892659
+          5.9355355999999997, 
+          45.189265900000002
         ]
       }, 
       "type": "Feature", 
@@ -2066,7 +2066,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Pr\u00e9 du Mollard"
       }
@@ -2075,8 +2075,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.3752459, 
-          45.118213
+          6.3752459000000004, 
+          45.118212999999997
         ]
       }, 
       "type": "Feature", 
@@ -2084,7 +2084,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Aiguilles d'Arves"
       }
@@ -2094,7 +2094,7 @@
         "type": "Point", 
         "coordinates": [
           0.2075389, 
-          42.8244091
+          42.824409099999997
         ]
       }, 
       "type": "Feature", 
@@ -2102,7 +2102,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge-auberge de l'Oule"
       }
@@ -2111,8 +2111,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.2097148, 
-          42.8532231
+          0.20971480000000001, 
+          42.853223100000001
         ]
       }, 
       "type": "Feature", 
@@ -2120,7 +2120,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Bastan"
       }
@@ -2129,8 +2129,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.1692271, 
-          42.8262519
+          0.16922709999999999, 
+          42.826251900000003
         ]
       }, 
       "type": "Feature", 
@@ -2138,7 +2138,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Hotel d'Oredon"
       }
@@ -2147,8 +2147,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.9735076, 
-          48.6875786
+          -0.97350760000000003, 
+          48.687578600000002
         ]
       }, 
       "type": "Feature", 
@@ -2156,7 +2156,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'Etape"
       }
@@ -2165,8 +2165,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.2528265, 
-          42.6691937
+          2.2528264999999998, 
+          42.669193700000001
         ]
       }, 
       "type": "Feature", 
@@ -2174,7 +2174,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Pastoral du Callau"
       }
@@ -2183,8 +2183,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2796747, 
-          44.1157514
+          7.2796747000000002, 
+          44.115751400000001
         ]
       }, 
       "type": "Feature", 
@@ -2192,7 +2192,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -2201,8 +2201,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.1271435, 
-          48.1616733
+          7.1271434999999999, 
+          48.161673299999997
         ]
       }, 
       "type": "Feature", 
@@ -2210,7 +2210,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de l'\u00c9tang du Devin"
       }
@@ -2219,8 +2219,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.9799349, 
-          45.0295722
+          5.9799348999999999, 
+          45.029572199999997
         ]
       }, 
       "type": "Feature", 
@@ -2228,7 +2228,7 @@
         "description": "http://www.giteleschuss.com/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le Schuss"
       }
@@ -2237,7 +2237,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.622684, 
+          6.6226839999999996, 
           45.0706895
         ]
       }, 
@@ -2246,7 +2246,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio I Re Magi"
       }
@@ -2256,7 +2256,7 @@
         "type": "Point", 
         "coordinates": [
           6.6231152, 
-          45.069667
+          45.069667000000003
         ]
       }, 
       "type": "Feature", 
@@ -2264,7 +2264,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Rifugio Terzo Alpini"
       }
@@ -2273,8 +2273,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.159868, 
-          46.6327859
+          6.1598680000000003, 
+          46.632785900000002
         ]
       }, 
       "type": "Feature", 
@@ -2282,7 +2282,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Grande-Verri\u00e8re"
       }
@@ -2291,8 +2291,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9412002, 
-          45.6256814
+          6.9412001999999999, 
+          45.625681399999998
         ]
       }, 
       "type": "Feature", 
@@ -2300,7 +2300,7 @@
         "description": "http://ruitor.com/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Ruitor"
       }
@@ -2309,8 +2309,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4521741, 
-          44.6449734
+          6.4521740999999997, 
+          44.644973399999998
         ]
       }, 
       "type": "Feature", 
@@ -2318,7 +2318,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete Auberge des Charan\u00e7ons"
       }
@@ -2327,8 +2327,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.160442, 
-          41.93681
+          9.1604419999999998, 
+          41.936810000000001
         ]
       }, 
       "type": "Feature", 
@@ -2336,7 +2336,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Bella Vista"
       }
@@ -2345,8 +2345,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9588701, 
-          45.6024926
+          6.9588701000000004, 
+          45.602492599999998
         ]
       }, 
       "type": "Feature", 
@@ -2354,7 +2354,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de l'Archeboc"
       }
@@ -2363,8 +2363,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7433437, 
-          45.0156921
+          6.7433436999999996, 
+          45.015692100000003
         ]
       }, 
       "type": "Feature", 
@@ -2372,7 +2372,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bivacco Ugo Blanchetti"
       }
@@ -2381,8 +2381,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.3331292, 
-          42.3603243
+          9.3331292000000001, 
+          42.360324300000002
         ]
       }, 
       "type": "Feature", 
@@ -2390,7 +2390,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Calleruccio"
       }
@@ -2399,8 +2399,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.3230378, 
-          42.3839661
+          9.3230377999999998, 
+          42.383966100000002
         ]
       }, 
       "type": "Feature", 
@@ -2408,7 +2408,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Favalta"
       }
@@ -2417,8 +2417,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.3298025, 
-          42.3664169
+          9.3298024999999996, 
+          42.366416899999997
         ]
       }, 
       "type": "Feature", 
@@ -2426,7 +2426,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Prato"
       }
@@ -2435,8 +2435,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          1.8956751, 
-          44.6061301
+          1.8956751000000001, 
+          44.606130100000001
         ]
       }, 
       "type": "Feature", 
@@ -2444,7 +2444,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -2453,8 +2453,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.0084937, 
-          48.8811126
+          2.0084936999999998, 
+          48.881112600000002
         ]
       }, 
       "type": "Feature", 
@@ -2462,7 +2462,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -2471,8 +2471,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0466916, 
-          44.1393316
+          7.0466915999999999, 
+          44.139331599999998
         ]
       }, 
       "type": "Feature", 
@@ -2480,7 +2480,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Longon"
       }
@@ -2490,7 +2490,7 @@
         "type": "Point", 
         "coordinates": [
           5.7767127, 
-          45.8522707
+          45.852270699999998
         ]
       }, 
       "type": "Feature", 
@@ -2498,7 +2498,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite d\u00b4Etape Le Cabiolon"
       }
@@ -2507,8 +2507,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7020939, 
-          45.348004
+          6.7020939000000004, 
+          45.348004000000003
         ]
       }, 
       "type": "Feature", 
@@ -2516,7 +2516,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Le Repoju"
       }
@@ -2525,8 +2525,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.2361367, 
-          44.8414224
+          6.2361367000000003, 
+          44.841422399999999
         ]
       }, 
       "type": "Feature", 
@@ -2534,7 +2534,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Chalance"
       }
@@ -2543,8 +2543,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.2756012, 
-          44.8292336
+          6.2756011999999997, 
+          44.829233600000002
         ]
       }, 
       "type": "Feature", 
@@ -2552,7 +2552,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Clot ou Xavier Blanc"
       }
@@ -2561,8 +2561,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.1828807, 
-          45.043598
+          6.1828807000000001, 
+          45.043598000000003
         ]
       }, 
       "type": "Feature", 
@@ -2570,7 +2570,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Clots"
       }
@@ -2579,8 +2579,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.8569368, 
-          45.0308555
+          5.8569367999999997, 
+          45.030855500000001
         ]
       }, 
       "type": "Feature", 
@@ -2588,7 +2588,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite de l'Alpe du Grand Serre"
       }
@@ -2597,8 +2597,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.817454, 
-          45.3188183
+          6.8174539999999997, 
+          45.318818299999997
         ]
       }, 
       "type": "Feature", 
@@ -2606,7 +2606,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Lac Blanc"
       }
@@ -2615,8 +2615,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7443977, 
-          45.4595486
+          6.7443977000000004, 
+          45.459548599999998
         ]
       }, 
       "type": "Feature", 
@@ -2624,7 +2624,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Bois"
       }
@@ -2633,8 +2633,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.889112, 
-          43.864038
+          6.8891119999999999, 
+          43.864038000000001
         ]
       }, 
       "type": "Feature", 
@@ -2642,7 +2642,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Abdoun"
       }
@@ -2651,7 +2651,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.8858827, 
+          5.8858826999999998, 
           45.1480204
         ]
       }, 
@@ -2660,7 +2660,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane \u00e0 Bonnet"
       }
@@ -2669,8 +2669,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.2751254, 
-          42.5671744
+          2.2751253999999999, 
+          42.567174399999999
         ]
       }, 
       "type": "Feature", 
@@ -2678,7 +2678,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Coumeilles Hautes"
       }
@@ -2687,8 +2687,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.5980562, 
-          45.2826131
+          5.5980562000000003, 
+          45.282613099999999
         ]
       }, 
       "type": "Feature", 
@@ -2696,7 +2696,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Renardiere"
       }
@@ -2705,8 +2705,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.6187855, 
-          43.5302234
+          5.6187855000000004, 
+          43.530223399999997
         ]
       }, 
       "type": "Feature", 
@@ -2714,7 +2714,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Baudino"
       }
@@ -2723,8 +2723,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0047617, 
-          45.9463101
+          7.0047617000000004, 
+          45.946310099999998
         ]
       }, 
       "type": "Feature", 
@@ -2732,7 +2732,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge d'Argenti\u00e8re"
       }
@@ -2742,7 +2742,7 @@
         "type": "Point", 
         "coordinates": [
           3.7181411, 
-          43.7525268
+          43.752526799999998
         ]
       }, 
       "type": "Feature", 
@@ -2750,7 +2750,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite d'\u00e9tape de Roussi\u00e8res"
       }
@@ -2759,8 +2759,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.4781941, 
-          42.9626476
+          -0.47819410000000001, 
+          42.962647599999997
         ]
       }, 
       "type": "Feature", 
@@ -2768,7 +2768,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Besse"
       }
@@ -2777,8 +2777,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.4827489, 
-          43.044009
+          -0.48274889999999998, 
+          43.044009000000003
         ]
       }, 
       "type": "Feature", 
@@ -2786,7 +2786,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane des Bordes"
       }
@@ -2795,7 +2795,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.5960724, 
+          6.5960723999999997, 
           44.6322264
         ]
       }, 
@@ -2804,7 +2804,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -2813,8 +2813,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.2982197, 
-          45.8155102
+          6.2982196999999998, 
+          45.815510199999999
         ]
       }, 
       "type": "Feature", 
@@ -2822,7 +2822,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Les Paz d'Zeures"
       }
@@ -2831,8 +2831,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8047852, 
-          45.5182022
+          6.8047852000000004, 
+          45.518202199999998
         ]
       }, 
       "type": "Feature", 
@@ -2840,7 +2840,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Rosuel"
       }
@@ -2849,8 +2849,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0710063, 
-          47.8309857
+          7.0710062999999996, 
+          47.830985699999999
         ]
       }, 
       "type": "Feature", 
@@ -2858,7 +2858,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -2867,8 +2867,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0428626, 
-          47.8301146
+          7.0428626000000003, 
+          47.830114600000002
         ]
       }, 
       "type": "Feature", 
@@ -2876,7 +2876,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Vogesapfad husla"
       }
@@ -2886,7 +2886,7 @@
         "type": "Point", 
         "coordinates": [
           8.8310309, 
-          42.2779628
+          42.277962799999997
         ]
       }, 
       "type": "Feature", 
@@ -2894,7 +2894,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Abri forestier bocca u Saltu"
       }
@@ -2903,8 +2903,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9267521, 
-          47.9905493
+          6.9267520999999999, 
+          47.990549299999998
         ]
       }, 
       "type": "Feature", 
@@ -2912,7 +2912,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet de l'Union"
       }
@@ -2921,8 +2921,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9837351, 
-          44.7664504
+          6.9837350999999996, 
+          44.766450399999997
         ]
       }, 
       "type": "Feature", 
@@ -2930,7 +2930,7 @@
         "description": "http://www.gitedelamonta.com", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Monta"
       }
@@ -2939,7 +2939,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.3626003, 
+          6.3626003000000004, 
           45.0308238
         ]
       }, 
@@ -2948,7 +2948,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le Pas de l'Ane"
       }
@@ -2957,8 +2957,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.114018, 
-          45.2647319
+          6.1140179999999997, 
+          45.264731900000001
         ]
       }, 
       "type": "Feature", 
@@ -2966,7 +2966,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Combe madame"
       }
@@ -2975,8 +2975,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.2386734, 
-          42.6203673
+          2.2386734000000001, 
+          42.620367299999998
         ]
       }, 
       "type": "Feature", 
@@ -2984,7 +2984,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -2994,7 +2994,7 @@
         "type": "Point", 
         "coordinates": [
           2.2556851, 
-          42.509589
+          42.509588999999998
         ]
       }, 
       "type": "Feature", 
@@ -3002,7 +3002,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "En Goudeil"
       }
@@ -3012,7 +3012,7 @@
         "type": "Point", 
         "coordinates": [
           1.7896402, 
-          43.0187311
+          43.018731099999997
         ]
       }, 
       "type": "Feature", 
@@ -3020,7 +3020,7 @@
         "description": "http://www.equipyrene.org/fr/index.php", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Ferme \u00c9questre La Bayche"
       }
@@ -3029,8 +3029,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -4.5091657, 
-          48.2848502
+          -4.5091656999999996, 
+          48.284850200000001
         ]
       }, 
       "type": "Feature", 
@@ -3038,7 +3038,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Point Accueil Plaisance et g\u00eete d'Etape"
       }
@@ -3048,7 +3048,7 @@
         "type": "Point", 
         "coordinates": [
           2.5813253, 
-          43.3533014
+          43.353301399999999
         ]
       }, 
       "type": "Feature", 
@@ -3056,7 +3056,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "ventajou"
       }
@@ -3065,8 +3065,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8264281, 
-          45.2976644
+          6.8264281000000002, 
+          45.297664400000002
         ]
       }, 
       "type": "Feature", 
@@ -3074,7 +3074,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Abri forestier du Suffet"
       }
@@ -3083,8 +3083,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.4846207, 
-          43.0408066
+          -0.48462070000000002, 
+          43.040806600000003
         ]
       }, 
       "type": "Feature", 
@@ -3092,7 +3092,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Crambots"
       }
@@ -3101,8 +3101,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.8981538, 
-          46.214545
+          5.8981538000000002, 
+          46.214545000000001
         ]
       }, 
       "type": "Feature", 
@@ -3110,7 +3110,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le Gralet"
       }
@@ -3119,8 +3119,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2906009, 
-          48.4889746
+          7.2906009000000003, 
+          48.488974599999999
         ]
       }, 
       "type": "Feature", 
@@ -3128,7 +3128,7 @@
         "description": "http://www.muckenbach.org/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le Muckenbach"
       }
@@ -3137,8 +3137,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.8481142, 
-          45.1151244
+          5.8481142000000004, 
+          45.115124399999999
         ]
       }, 
       "type": "Feature", 
@@ -3146,7 +3146,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Recoud"
       }
@@ -3155,8 +3155,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.8955398, 
-          44.7354769
+          5.8955397999999999, 
+          44.735476900000002
         ]
       }, 
       "type": "Feature", 
@@ -3164,7 +3164,7 @@
         "description": "http://www.gite-devoluy.com/accueil.htm", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete de Saint-Disdier"
       }
@@ -3174,7 +3174,7 @@
         "type": "Point", 
         "coordinates": [
           1.6987854, 
-          44.9343151
+          44.934315099999999
         ]
       }, 
       "type": "Feature", 
@@ -3182,7 +3182,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Federation des Oeuvres Laiques du Lot (FOL)"
       }
@@ -3191,8 +3191,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.3275537, 
-          44.7652925
+          6.3275537000000002, 
+          44.765292500000001
         ]
       }, 
       "type": "Feature", 
@@ -3200,7 +3200,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Pr\u00e9 la Chaumette"
       }
@@ -3209,8 +3209,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.2866427, 
-          42.9984035
+          -0.28664269999999997, 
+          42.998403500000002
         ]
       }, 
       "type": "Feature", 
@@ -3218,7 +3218,7 @@
         "description": "http://lapetitejeanne.fr/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite d'\u00e9tape La Petite Jeanne"
       }
@@ -3228,7 +3228,7 @@
         "type": "Point", 
         "coordinates": [
           2.5653606, 
-          42.5280193
+          42.528019299999997
         ]
       }, 
       "type": "Feature", 
@@ -3236,7 +3236,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -3245,7 +3245,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.8610965, 
+          2.8610964999999999, 
           45.7882715
         ]
       }, 
@@ -3254,7 +3254,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite d'\u00c9tape"
       }
@@ -3263,8 +3263,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4548439, 
-          45.338497
+          6.4548439000000002, 
+          45.338496999999997
         ]
       }, 
       "type": "Feature", 
@@ -3272,7 +3272,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet de Varlossi\u00e8re"
       }
@@ -3281,8 +3281,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4090633, 
-          44.4018476
+          6.4090632999999997, 
+          44.401847600000004
         ]
       }, 
       "type": "Feature", 
@@ -3290,7 +3290,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La cabane du lac"
       }
@@ -3299,8 +3299,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.2622956, 
-          45.8241251
+          6.2622955999999999, 
+          45.824125100000003
         ]
       }, 
       "type": "Feature", 
@@ -3308,7 +3308,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Pr\u00e9 Verel"
       }
@@ -3317,8 +3317,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.7238299, 
-          45.0965358
+          2.7238299000000001, 
+          45.096535799999998
         ]
       }, 
       "type": "Feature", 
@@ -3326,7 +3326,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Meije Coste"
       }
@@ -3335,8 +3335,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.147698, 
-          45.0877405
+          6.1476980000000001, 
+          45.087740500000002
         ]
       }, 
       "type": "Feature", 
@@ -3344,7 +3344,7 @@
         "description": "http://www.refuge7.com/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Col de Sarenne"
       }
@@ -3353,8 +3353,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.405679, 
-          44.8826535
+          6.4056790000000001, 
+          44.882653500000004
         ]
       }, 
       "type": "Feature", 
@@ -3362,7 +3362,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Pelvoux"
       }
@@ -3371,8 +3371,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.3905106, 
-          44.8733266
+          6.3905105999999998, 
+          44.873326599999999
         ]
       }, 
       "type": "Feature", 
@@ -3380,7 +3380,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du S\u00e9l\u00e9"
       }
@@ -3390,7 +3390,7 @@
         "type": "Point", 
         "coordinates": [
           6.928496, 
-          44.797914
+          44.797913999999999
         ]
       }, 
       "type": "Feature", 
@@ -3398,7 +3398,7 @@
         "description": "http://ancolie-bleue-queyras.com", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Ancolie bleue"
       }
@@ -3407,8 +3407,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.4262356, 
-          49.041205
+          -0.42623559999999999, 
+          49.041204999999998
         ]
       }, 
       "type": "Feature", 
@@ -3416,7 +3416,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet des Granges"
       }
@@ -3425,8 +3425,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4680345, 
-          45.3511046
+          6.4680344999999999, 
+          45.351104599999999
         ]
       }, 
       "type": "Feature", 
@@ -3434,7 +3434,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Gitamelon"
       }
@@ -3452,7 +3452,7 @@
         "description": "http://www.gitelesviellettes.com/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'\u00c9tape les Viellettes"
       }
@@ -3461,8 +3461,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.8103621, 
-          45.3401631
+          5.8103620999999999, 
+          45.340163099999998
         ]
       }, 
       "type": "Feature", 
@@ -3470,7 +3470,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite d'\u00e9tape des 4 chemins"
       }
@@ -3480,7 +3480,7 @@
         "type": "Point", 
         "coordinates": [
           6.8606539, 
-          47.7796942
+          47.779694200000002
         ]
       }, 
       "type": "Feature", 
@@ -3488,7 +3488,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Abri col Chantoiseau"
       }
@@ -3497,7 +3497,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.897658, 
+          6.8976579999999998, 
           47.7650419
         ]
       }, 
@@ -3506,7 +3506,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Abri col des 7 Chemins"
       }
@@ -3515,8 +3515,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.2801951, 
-          43.0860691
+          0.28019509999999997, 
+          43.086069100000003
         ]
       }, 
       "type": "Feature", 
@@ -3524,7 +3524,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le Moulin des Baronnies"
       }
@@ -3533,8 +3533,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.3854121, 
-          44.9955828
+          6.3854120999999999, 
+          44.995582800000001
         ]
       }, 
       "type": "Feature", 
@@ -3542,7 +3542,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet-Refuge de Chamoissi\u00e8re"
       }
@@ -3551,8 +3551,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.1829854, 
-          42.6780457
+          2.1829854000000002, 
+          42.678045699999998
         ]
       }, 
       "type": "Feature", 
@@ -3560,7 +3560,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge Pastoral du Madres"
       }
@@ -3569,7 +3569,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.6078173, 
+          6.6078172999999998, 
           45.6135935
         ]
       }, 
@@ -3578,7 +3578,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge le Cormet"
       }
@@ -3587,8 +3587,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8872948, 
-          45.9599953
+          6.8872948000000003, 
+          45.959995300000003
         ]
       }, 
       "type": "Feature", 
@@ -3596,7 +3596,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Fl\u00e9g\u00e8re"
       }
@@ -3605,8 +3605,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8295951, 
-          45.9221919
+          6.8295950999999997, 
+          45.922191900000001
         ]
       }, 
       "type": "Feature", 
@@ -3614,7 +3614,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Bellachat"
       }
@@ -3623,8 +3623,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.2607633, 
-          48.6305887
+          7.2607632999999998, 
+          48.630588699999997
         ]
       }, 
       "type": "Feature", 
@@ -3632,7 +3632,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -3641,8 +3641,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          4.5803861, 
-          45.3827238
+          4.5803861000000001, 
+          45.382723800000001
         ]
       }, 
       "type": "Feature", 
@@ -3650,7 +3650,7 @@
         "description": "http://www.refuges.info/point/3738/cabane-non-gardee/Pilat-Velay-Vivarais/Chalet-Bourguisan-G-Duclos/", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet bourguisan"
       }
@@ -3659,8 +3659,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8159399, 
-          44.8447218
+          6.8159399000000001, 
+          44.844721800000002
         ]
       }, 
       "type": "Feature", 
@@ -3668,7 +3668,7 @@
         "description": "http://www.alpes-guide.com/sources/services/detail.asp?cle=19667", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge des Fonts de Cervi\u00e8res"
       }
@@ -3677,8 +3677,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.8223218, 
-          44.7609611
+          6.8223218000000001, 
+          44.760961100000003
         ]
       }, 
       "type": "Feature", 
@@ -3686,7 +3686,7 @@
         "description": "www.gitelesastragales.fr", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'\u00c9tape Les Astragales"
       }
@@ -3696,7 +3696,7 @@
         "type": "Point", 
         "coordinates": [
           -1.0344301, 
-          43.3236832
+          43.323683199999998
         ]
       }, 
       "type": "Feature", 
@@ -3704,7 +3704,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Les Franciscains"
       }
@@ -3714,7 +3714,7 @@
         "type": "Point", 
         "coordinates": [
           -1.2113341, 
-          43.0499
+          43.049900000000001
         ]
       }, 
       "type": "Feature", 
@@ -3722,7 +3722,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane d'Orgambide"
       }
@@ -3731,8 +3731,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          1.1376437, 
-          43.0013315
+          1.1376436999999999, 
+          43.001331499999999
         ]
       }, 
       "type": "Feature", 
@@ -3740,7 +3740,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Halte Jacquaire"
       }
@@ -3749,8 +3749,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.8668419, 
-          42.9396374
+          0.86684190000000005, 
+          42.939637400000002
         ]
       }, 
       "type": "Feature", 
@@ -3758,7 +3758,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Gite Etape Chez Jo"
       }
@@ -3767,8 +3767,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.1467799, 
-          43.0664676
+          0.14677989999999999, 
+          43.066467600000003
         ]
       }, 
       "type": "Feature", 
@@ -3776,7 +3776,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Halte Jacquaire Accueil Notre-Dame"
       }
@@ -3786,7 +3786,7 @@
         "type": "Point", 
         "coordinates": [
           2.1200299, 
-          45.6944111
+          45.694411100000004
         ]
       }, 
       "type": "Feature", 
@@ -3794,7 +3794,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -3803,7 +3803,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.5941261, 
+          6.5941261000000004, 
           45.3573898
         ]
       }, 
@@ -3812,7 +3812,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chalet du Plan"
       }
@@ -3821,8 +3821,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.5233937, 
-          43.4274656
+          2.5233937000000002, 
+          43.427465599999998
         ]
       }, 
       "type": "Feature", 
@@ -3830,7 +3830,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -3839,8 +3839,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.3313867, 
-          48.4046295
+          7.3313867000000004, 
+          48.404629499999999
         ]
       }, 
       "type": "Feature", 
@@ -3848,7 +3848,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'\u00c9tape"
       }
@@ -3857,8 +3857,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          3.7816488, 
-          46.0603718
+          3.7816488000000001, 
+          46.060371799999999
         ]
       }, 
       "type": "Feature", 
@@ -3866,7 +3866,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Bourbonni\u00e8re"
       }
@@ -3876,7 +3876,7 @@
         "type": "Point", 
         "coordinates": [
           2.658121, 
-          43.4782076
+          43.478207599999998
         ]
       }, 
       "type": "Feature", 
@@ -3884,7 +3884,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'\u00c9tape"
       }
@@ -3893,8 +3893,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.6758075, 
-          42.9684998
+          2.6758074999999999, 
+          42.968499799999996
         ]
       }, 
       "type": "Feature", 
@@ -3902,7 +3902,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le Maou"
       }
@@ -3911,8 +3911,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.1035636, 
-          46.5768924
+          6.1035636000000002, 
+          46.576892399999998
         ]
       }, 
       "type": "Feature", 
@@ -3920,7 +3920,7 @@
         "description": "http://chez-l-aime.magix.net/website", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Chez l'Aim\u00e9"
       }
@@ -3929,8 +3929,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.8311737, 
-          48.7109747
+          -0.83117370000000002, 
+          48.710974700000001
         ]
       }, 
       "type": "Feature", 
@@ -3938,7 +3938,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'Etape"
       }
@@ -3947,8 +3947,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.9401606, 
-          45.243989
+          6.9401605999999996, 
+          45.243988999999999
         ]
       }, 
       "type": "Feature", 
@@ -3956,7 +3956,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le To\u00ebt"
       }
@@ -3965,8 +3965,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.2509117, 
-          48.9742106
+          -0.25091170000000002, 
+          48.974210599999999
         ]
       }, 
       "type": "Feature", 
@@ -3974,7 +3974,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete du Suvez"
       }
@@ -3984,7 +3984,7 @@
         "type": "Point", 
         "coordinates": [
           -0.4211165, 
-          49.0113163
+          49.011316299999997
         ]
       }, 
       "type": "Feature", 
@@ -3992,7 +3992,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Grange d'Espins"
       }
@@ -4001,8 +4001,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.6790767, 
-          48.9377878
+          -0.67907669999999998, 
+          48.937787800000002
         ]
       }, 
       "type": "Feature", 
@@ -4010,7 +4010,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Ferme d'Escure"
       }
@@ -4020,7 +4020,7 @@
         "type": "Point", 
         "coordinates": [
           -1.0097642, 
-          48.7907349
+          48.790734899999997
         ]
       }, 
       "type": "Feature", 
@@ -4028,7 +4028,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'Etape"
       }
@@ -4037,8 +4037,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          -0.4014264, 
-          49.0793408
+          -0.40142640000000002, 
+          49.079340799999997
         ]
       }, 
       "type": "Feature", 
@@ -4046,7 +4046,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "La Colinerie"
       }
@@ -4055,8 +4055,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.0815198, 
-          47.8026928
+          7.0815197999999997, 
+          47.802692800000003
         ]
       }, 
       "type": "Feature", 
@@ -4064,7 +4064,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Zuber"
       }
@@ -4073,8 +4073,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.6823498, 
-          43.67235
+          2.6823497999999999, 
+          43.672350000000002
         ]
       }, 
       "type": "Feature", 
@@ -4082,7 +4082,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Martinou"
       }
@@ -4091,8 +4091,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.6584307, 
-          43.7044594
+          5.6584307000000003, 
+          43.704459399999998
         ]
       }, 
       "type": "Feature", 
@@ -4100,7 +4100,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'\u00e9tape"
       }
@@ -4109,8 +4109,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          8.8932005, 
-          42.2865715
+          8.8932005000000007, 
+          42.286571500000001
         ]
       }, 
       "type": "Feature", 
@@ -4118,7 +4118,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete Castel De Vergio"
       }
@@ -4127,8 +4127,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.458673, 
-          48.9382897
+          7.4586730000000001, 
+          48.938289699999999
         ]
       }, 
       "type": "Feature", 
@@ -4136,7 +4136,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00efte d'\u00e9tape du Kiesb\u00e4chel"
       }
@@ -4154,7 +4154,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de l'Erco"
       }
@@ -4163,8 +4163,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.9156717, 
-          43.7557678
+          2.9156716999999999, 
+          43.755767800000001
         ]
       }, 
       "type": "Feature", 
@@ -4172,7 +4172,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le Presbyt\u00e8re"
       }
@@ -4181,8 +4181,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          1.0328991, 
-          42.8307874
+          1.0328991000000001, 
+          42.830787399999998
         ]
       }, 
       "type": "Feature", 
@@ -4190,7 +4190,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete d'\u00e9tape \"La Maison du Valier\""
       }
@@ -4199,8 +4199,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.1012047, 
-          42.6906056
+          2.1012046999999998, 
+          42.690605599999998
         ]
       }, 
       "type": "Feature", 
@@ -4208,7 +4208,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -4218,7 +4218,7 @@
         "type": "Point", 
         "coordinates": [
           5.6143383, 
-          43.2290977
+          43.229097699999997
         ]
       }, 
       "type": "Feature", 
@@ -4226,7 +4226,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -4235,8 +4235,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          3.9298166, 
-          44.4560444
+          3.9298166000000001, 
+          44.456044400000003
         ]
       }, 
       "type": "Feature", 
@@ -4244,7 +4244,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "H\u00f4tel du Lac"
       }
@@ -4253,7 +4253,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          9.1647404, 
+          9.1647403999999995, 
           42.034112
         ]
       }, 
@@ -4262,7 +4262,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Bergerie de Ghjalcone"
       }
@@ -4271,8 +4271,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          0.8580953, 
-          42.9938489
+          0.85809530000000001, 
+          42.993848900000003
         ]
       }, 
       "type": "Feature", 
@@ -4280,7 +4280,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -4289,8 +4289,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.9663538, 
-          47.4709189
+          5.9663538000000003, 
+          47.470918900000001
         ]
       }, 
       "type": "Feature", 
@@ -4298,7 +4298,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -4307,8 +4307,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.61845, 
-          43.1845266
+          5.6184500000000002, 
+          43.184526599999998
         ]
       }, 
       "type": "Feature", 
@@ -4316,7 +4316,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": ""
       }
@@ -4325,8 +4325,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          2.5075145, 
-          42.4720301
+          2.5075145000000001, 
+          42.472030099999998
         ]
       }, 
       "type": "Feature", 
@@ -4334,7 +4334,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de la Devesa"
       }
@@ -4343,8 +4343,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.4033974, 
-          45.8939686
+          6.4033974000000002, 
+          45.893968600000001
         ]
       }, 
       "type": "Feature", 
@@ -4352,7 +4352,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Le Piste Bleue"
       }
@@ -4361,8 +4361,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.7754468, 
-          45.2238737
+          6.7754468000000001, 
+          45.223873699999999
         ]
       }, 
       "type": "Feature", 
@@ -4370,7 +4370,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Les Glaciers"
       }
@@ -4380,7 +4380,7 @@
         "type": "Point", 
         "coordinates": [
           0.2388757, 
-          43.0138902
+          43.013890199999999
         ]
       }, 
       "type": "Feature", 
@@ -4388,7 +4388,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Cabane de Cot Dessus"
       }
@@ -4397,7 +4397,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          3.8682152, 
+          3.8682151999999999, 
           45.6341386
         ]
       }, 
@@ -4406,7 +4406,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Garnier"
       }
@@ -4415,8 +4415,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          6.5199405, 
-          44.7809565
+          6.5199404999999997, 
+          44.780956500000002
         ]
       }, 
       "type": "Feature", 
@@ -4424,7 +4424,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge du Kern"
       }
@@ -4433,8 +4433,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          5.9675758, 
-          45.0078878
+          5.9675757999999997, 
+          45.007887799999999
         ]
       }, 
       "type": "Feature", 
@@ -4442,7 +4442,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "G\u00eete Le Chamois"
       }
@@ -4451,7 +4451,7 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.6909379, 
+          7.6909378999999998, 
           49.0356047
         ]
       }, 
@@ -4460,7 +4460,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Maison du randonneur"
       }
@@ -4469,8 +4469,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.4465435, 
-          44.1081549
+          7.4465434999999998, 
+          44.108154900000002
         ]
       }, 
       "type": "Feature", 
@@ -4478,7 +4478,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Valmasque"
       }
@@ -4487,8 +4487,8 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
-          7.4806875, 
-          44.0861164
+          7.4806875000000002, 
+          44.086116400000002
         ]
       }, 
       "type": "Feature", 
@@ -4496,7 +4496,7 @@
         "description": "", 
         "_storage_options": {
           "iconClass": "Circle", 
-          "color": "DarkViolet"
+          "color": "DarkBlue"
         }, 
         "name": "Refuge de Fontanalbe"
       }
