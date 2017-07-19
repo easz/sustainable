@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API",
   "osm3s": {
-    "timestamp_osm_base": "2017-06-14T17:07:05Z",
-    "timestamp_areas_base": "2017-06-14T14:24:08Z",
+    "timestamp_osm_base": "2017-07-19T06:18:02Z",
+    "timestamp_areas_base": "2017-07-19T05:25:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -240,8 +240,8 @@
 {
   "type": "node",
   "id": 280889033,
-  "lat": 47.3311234,
-  "lon": 11.2676517,
+  "lat": 47.3310480,
+  "lon": 11.2672440,
   "tags": {
     "amenity": "restaurant",
     "cuisine": "regional",
@@ -345,6 +345,22 @@
   "lon": 11.1520401,
   "tags": {
     "name": "Inzinger Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 292047294,
+  "lat": 47.4610918,
+  "lon": 10.1846714,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1513",
+    "name": "Berghaus Schwaben",
+    "note:opening_hours": "ganzjährig",
+    "opening_hours": "jan-dec: \"Öffnungszeit fehlt\"",
+    "phone": "+49 832 438",
     "tourism": "alpine_hut"
   }
 },
@@ -510,34 +526,15 @@
 },
 {
   "type": "node",
-  "id": 296240001,
-  "lat": 46.9949024,
-  "lon": 11.2633370,
-  "tags": {
-    "addr:country": "AT",
-    "amenity": "restaurant",
-    "cuisine": "alpine_hut",
-    "ele": "2413",
-    "name": "Bremer Hütte",
-    "opening_hours": "Jun 30-Sep 30: open",
-    "operator": "Raimund Pranger",
-    "tourism": "alpine_hut",
-    "url": "www.bremerhuette.at",
-    "website": "www.bremerhuette.at",
-    "wikidata": "Q907654",
-    "wikipedia": "de:Bremer Hütte (Gschnitztal)"
-  }
-},
-{
-  "type": "node",
   "id": 297028008,
-  "lat": 47.0945707,
-  "lon": 11.1935574,
+  "lat": 47.0955823,
+  "lon": 11.1946491,
   "tags": {
     "ele": "1742",
     "name": "Oberissalm",
     "operator": "OeAV Sektion Innsbruck",
-    "tourism": "alpine_hut"
+    "tourism": "alpine_hut",
+    "website": "http://www.oberissalm.tirol/"
   }
 },
 {
@@ -576,6 +573,28 @@
 },
 {
   "type": "node",
+  "id": 300960331,
+  "lat": 47.5260251,
+  "lon": 10.0146459,
+  "tags": {
+    "addr:city": "Oberstaufen",
+    "addr:country": "DE",
+    "addr:housenumber": "36",
+    "addr:postcode": "87534",
+    "addr:street": "Im Dorf",
+    "ele": "950",
+    "name": "Ravensburger Haus",
+    "note": "Selbstversorgerhütte",
+    "operator": "DAV",
+    "operator:tenant": "Andreas Burtscher",
+    "phone": "+498386962199",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-ravensburg.de/"
+  }
+},
+{
+  "type": "node",
   "id": 301000243,
   "lat": 46.9348077,
   "lon": 12.7465478,
@@ -584,6 +603,48 @@
     "tourism": "alpine_hut",
     "wikidata": "Q1746967",
     "wikipedia": "de:Lienzer Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 301919929,
+  "lat": 47.5499002,
+  "lon": 10.1445173,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "ele": "1201",
+    "name": "Alpe Obere Kalle",
+    "opening_hours": "Mo-Su",
+    "phone": "+49 8325 487",
+    "tourism": "alpine_hut",
+    "website": "http://www.obere-kalle.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 304317994,
+  "lat": 47.4916377,
+  "lon": 10.0692148,
+  "tags": {
+    "addr:city": "Oberstaufen",
+    "addr:country": "DE",
+    "addr:postcode": "87534",
+    "addr:street": "Am Hochgrat",
+    "amenity": "restaurant",
+    "cuisine": "regional;lokal;bavarian",
+    "ele": "1634",
+    "name": "Staufner Haus",
+    "operator": "DAV",
+    "operator:tenant": "Christoph Erd",
+    "outdoor_seating": "yes",
+    "phone": "+4983868255",
+    "smoking": "outside",
+    "tourism": "alpine_hut",
+    "website": "http://www.staufner-haus.de",
+    "wheelchair": "no",
+    "wikidata": "Q2334566",
+    "wikipedia": "de:Staufner Haus"
   }
 },
 {
@@ -602,6 +663,18 @@
     "phone": "+43 (5375) 6053",
     "tourism": "alpine_hut",
     "website": "http://www.scheibenwald.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 306392070,
+  "lat": 49.7721830,
+  "lon": 11.4151463,
+  "tags": {
+    "name": "Bergwachthütte",
+    "opening_hours": "Su 12:00-18:00",
+    "outdoor_seating": "yes",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -680,6 +753,117 @@
 },
 {
   "type": "node",
+  "id": 317727272,
+  "lat": 49.1133824,
+  "lon": 13.1148908,
+  "tags": {
+    "designation": "Am kleinen Arber",
+    "ele": "1289",
+    "name": "Chamer Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 320450923,
+  "lat": 47.5073647,
+  "lon": 10.0373263,
+  "tags": {
+    "name": "Alpe Remmelegg",
+    "opening_hours": "11:00-17:00; Tu Off",
+    "operator": "J. Milz",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 320522382,
+  "lat": 47.5760984,
+  "lon": 10.0847613,
+  "tags": {
+    "ele": "1080",
+    "name": "Hirnbein Alpe Eibele",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 320522642,
+  "lat": 47.5837274,
+  "lon": 10.1396791,
+  "tags": {
+    "name": "Pfarr Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 322058651,
+  "lat": 49.0467619,
+  "lon": 12.7540521,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Kreuzhaus",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 322058652,
+  "lat": 49.0409395,
+  "lon": 12.7603316,
+  "tags": {
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Hanslhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 322697600,
+  "lat": 49.0262273,
+  "lon": 12.8192887,
+  "tags": {
+    "addr:city": "St Englmar",
+    "addr:country": "DE",
+    "addr:housenumber": "4",
+    "addr:postcode": "94379",
+    "addr:street": "Hinterwies",
+    "amenity": "restaurant",
+    "cuisine": "regional",
+    "name": "Naturfreundehaus Viechtacher Hütte",
+    "operator": "NaturFreunde Deutschland",
+    "ref": "N 046",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 323850377,
+  "lat": 48.9155188,
+  "lon": 12.9996689,
+  "tags": {
+    "addr:city": "Deggendorf",
+    "addr:country": "DE",
+    "addr:pobox": "Postfach 1511",
+    "amenity": "restaurant",
+    "biergarten": "yes",
+    "contact:postcode": "94469",
+    "description": "Naturfreundehaus",
+    "name": "Berghaus Loderhart",
+    "operator": "NaturFreunde Deutschland",
+    "phone": "09929/1064",
+    "ref": "N 042",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut",
+    "url": "http://www.loderhart.de/frameseite.htm"
+  }
+},
+{
+  "type": "node",
   "id": 324222931,
   "lat": 47.7366765,
   "lon": 11.8332021,
@@ -695,6 +879,27 @@
     "service": "yes",
     "tourism": "alpine_hut",
     "website": "http://www.almbad.de"
+  }
+},
+{
+  "type": "node",
+  "id": 324239029,
+  "lat": 48.9377643,
+  "lon": 13.5076098,
+  "tags": {
+    "amenity": "restaurant",
+    "beds": "21",
+    "biergarten": "yes",
+    "cuisine": "regional",
+    "email": "heinz@lusenwirt.de",
+    "name": "Lusenschutzhaus",
+    "opening_hours": "May-Oct: Mo-Su 10:00-18:00; Dec 25-Jan 06: 10:00-18:00",
+    "operator": "Bayerischer Wald - Verein",
+    "phone": "08553 / 1212",
+    "rooms": "5",
+    "tourism": "alpine_hut",
+    "url": "http://lusenwirt.de/",
+    "website": "http://lusenwirt.de"
   }
 },
 {
@@ -720,6 +925,17 @@
 },
 {
   "type": "node",
+  "id": 343668227,
+  "lat": 49.6642724,
+  "lon": 11.4053560,
+  "tags": {
+    "ele": "505",
+    "name": "Hersbrucker Hütte (DAV)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 345627472,
   "lat": 47.1734327,
   "lon": 11.2174425,
@@ -728,6 +944,27 @@
     "ele": "1464",
     "name": "Bergheim",
     "opening_hours": "off",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 347330675,
+  "lat": 47.5412706,
+  "lon": 10.2185410,
+  "tags": {
+    "name": "Schwander Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 347330676,
+  "lat": 47.5430794,
+  "lon": 10.2176566,
+  "tags": {
+    "ele": "1210",
+    "name": "Alpe Mittag",
     "tourism": "alpine_hut"
   }
 },
@@ -764,6 +1001,26 @@
 },
 {
   "type": "node",
+  "id": 373261900,
+  "lat": 50.2983307,
+  "lon": 9.9283904,
+  "tags": {
+    "name": "Hütte TSV Bad Kissingen",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 384842839,
+  "lat": 47.6186156,
+  "lon": 10.1190574,
+  "tags": {
+    "name": "Rist Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 389526819,
   "lat": 46.9178019,
   "lon": 10.5244088,
@@ -776,18 +1033,17 @@
 },
 {
   "type": "node",
-  "id": 389785644,
-  "lat": 47.5495480,
-  "lon": 12.3495262,
+  "id": 389654396,
+  "lat": 50.4231736,
+  "lon": 9.9682780,
   "tags": {
-    "ele": "1465",
-    "massif": "Kaisergebirge",
-    "name": "Ackerlhütte",
-    "note": "Koordinaten von wikipedia",
-    "operator": "Sektion Kitzbühel",
+    "beds": "45",
+    "email": "bergbund-wuerzburg@online.de",
+    "name": "Würzburger Bergbundhütte",
+    "source": "http://www.bergbund-wuerzburg.de/",
+    "source:date": "2014-11-06",
     "tourism": "alpine_hut",
-    "wikidata": "Q341773",
-    "wikipedia": "de:Ackerlhütte"
+    "website": "http://www.bergbund-wuerzburg.de/"
   }
 },
 {
@@ -915,6 +1171,16 @@
 },
 {
   "type": "node",
+  "id": 394826710,
+  "lat": 48.6869014,
+  "lon": 13.6595714,
+  "tags": {
+    "name": "Bergwachthütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 395228513,
   "lat": 47.3547674,
   "lon": 11.4771775,
@@ -935,6 +1201,16 @@
     "website": "http://www.hallerangerhaus.at/",
     "wikidata": "Q1571597",
     "wikipedia": "de:Hallerangerhaus"
+  }
+},
+{
+  "type": "node",
+  "id": 409589279,
+  "lat": 47.5553563,
+  "lon": 10.1740026,
+  "tags": {
+    "name": "CvjM Bierlein Hütte",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -1021,6 +1297,45 @@
     "website": "http://www.bettelwurfhuette.at/",
     "wikidata": "Q832325",
     "wikipedia": "de:Bettelwurf Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 414632032,
+  "lat": 47.5449079,
+  "lon": 10.1827160,
+  "tags": {
+    "addr:city": "Immenstadt im Allgäu",
+    "addr:country": "DE",
+    "addr:postcode": "87509",
+    "addr:street": "Im Steigbachtal",
+    "ele": "1325",
+    "name": "Alpe-Alp",
+    "operator": "NaturFreunde Deutschland",
+    "ref": "N 085",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 419294893,
+  "lat": 47.5111641,
+  "lon": 10.0064526,
+  "tags": {
+    "name": "Fluhalpe Vordere",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 420436190,
+  "lat": 49.7125527,
+  "lon": 9.8193139,
+  "tags": {
+    "amenity": "shelter",
+    "name": "Schutzhütte",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -1153,6 +1468,26 @@
 },
 {
   "type": "node",
+  "id": 457008110,
+  "lat": 47.5452299,
+  "lon": 10.0830509,
+  "tags": {
+    "addr:city": "Oberstaufen",
+    "addr:postcode": "87534",
+    "ele": "935",
+    "name": "Schwand-Alpe",
+    "note": "Selbstversorgerhütte",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV",
+    "operator:tenant": "Manfred Korger",
+    "phone": "+497319216777",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "url": "http://www.dav-ulm.de/index.php?option=com_content&task=view&id=23&Itemid=45"
+  }
+},
+{
+  "type": "node",
   "id": 458773699,
   "lat": 47.0675912,
   "lon": 11.7020494,
@@ -1217,6 +1552,94 @@
     "tourism": "alpine_hut",
     "wikidata": "Q821559",
     "wikipedia": "de:Berliner Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 459461955,
+  "lat": 47.5379410,
+  "lon": 10.1689649,
+  "tags": {
+    "ele": "1302",
+    "name": "Rosshuette",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 459466329,
+  "lat": 47.5693881,
+  "lon": 10.1040322,
+  "tags": {
+    "name": "Schneidersalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461147270,
+  "lat": 47.5262115,
+  "lon": 10.1794859,
+  "tags": {
+    "ele": "1358",
+    "name": "Hintere Krumbachalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461147285,
+  "lat": 47.5315464,
+  "lon": 10.1313217,
+  "tags": {
+    "ele": "1113",
+    "name": "Untere Eck Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461147289,
+  "lat": 47.5547711,
+  "lon": 10.1597810,
+  "tags": {
+    "ele": "1213",
+    "name": "Alpe Starkatsgund",
+    "note": "Alpe Starkatsgund dient von Oktober bis April der Bergwachtgruppe der Alpenvereinssektion Landsberg als Stuetzpunkt",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461147298,
+  "lat": 47.5451515,
+  "lon": 10.1543460,
+  "tags": {
+    "ele": "1365",
+    "name": "Obere Gündelalpe (verlassen)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461157641,
+  "lat": 47.5448938,
+  "lon": 10.1154838,
+  "tags": {
+    "ele": "1060",
+    "name": "Leutenschwandalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 461157644,
+  "lat": 47.5528248,
+  "lon": 10.1338000,
+  "tags": {
+    "ele": "1069",
+    "name": "Rauhgrundalpe",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -1384,6 +1807,39 @@
 },
 {
   "type": "node",
+  "id": 477710306,
+  "lat": 47.4856573,
+  "lon": 10.0491787,
+  "tags": {
+    "ele": "1480",
+    "name": "Hohenfluhealpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 477710590,
+  "lat": 47.4857526,
+  "lon": 10.0775034,
+  "tags": {
+    "ele": "1480",
+    "name": "Obere Berggundalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 477710623,
+  "lat": 47.4759151,
+  "lon": 10.0730336,
+  "tags": {
+    "ele": "1180",
+    "name": "Holzschlagalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 480889449,
   "lat": 47.4969870,
   "lon": 10.5835386,
@@ -1439,6 +1895,17 @@
 },
 {
   "type": "node",
+  "id": 484881698,
+  "lat": 47.5103725,
+  "lon": 10.0190653,
+  "tags": {
+    "ele": "1213",
+    "name": "Imberghaus",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 488396381,
   "lat": 47.1918216,
   "lon": 11.4763107,
@@ -1469,6 +1936,27 @@
   "tags": {
     "ele": "1746",
     "name": "Lahntaler Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 501826426,
+  "lat": 49.4560146,
+  "lon": 11.5416023,
+  "tags": {
+    "name": "Thalheimer Hütte",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-nuernberg.de/v4/do.php?content=23"
+  }
+},
+{
+  "type": "node",
+  "id": 503714435,
+  "lat": 50.0660953,
+  "lon": 9.4430090,
+  "tags": {
+    "name": "Wanderhütte",
     "tourism": "alpine_hut"
   }
 },
@@ -1541,6 +2029,17 @@
 },
 {
   "type": "node",
+  "id": 514941030,
+  "lat": 47.5738071,
+  "lon": 10.0689451,
+  "tags": {
+    "ele": "1050",
+    "name": "Sennalpe Hompessen",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 524217582,
   "lat": 47.2984932,
   "lon": 11.3668698,
@@ -1600,6 +2099,28 @@
 },
 {
   "type": "node",
+  "id": 528980776,
+  "lat": 47.5386195,
+  "lon": 10.7764406,
+  "tags": {
+    "addr:city": "Schwangau",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "87645",
+    "addr:street": "Bleckenau",
+    "amenity": "restaurant",
+    "ele": "1167",
+    "name": "Berggasthaus Bleckenau",
+    "operator": "DAV",
+    "operator:tenant": "Florian Schweiger",
+    "phone": "+49836281181",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.berggasthaus-bleckenau.de"
+  }
+},
+{
+  "type": "node",
   "id": 528983385,
   "lat": 47.5818786,
   "lon": 10.9271776,
@@ -1618,6 +2139,50 @@
     "smoking": "no",
     "tourism": "alpine_hut",
     "website": "http://www.dav-bergland.de/Brunnenkopf.html"
+  }
+},
+{
+  "type": "node",
+  "id": 528992044,
+  "lat": 47.5594339,
+  "lon": 10.7781593,
+  "tags": {
+    "amenity": "restaurant",
+    "brewery": "König Ludwig",
+    "ele": "1707",
+    "name": "Tegelberghaus",
+    "operator": "DAV",
+    "operator:tenant": "Hynek Bednar",
+    "phone": "+4983628980",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.tegelberghaus.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 529085399,
+  "lat": 47.5056016,
+  "lon": 10.1967896,
+  "tags": {
+    "addr:city": "Gunzesried",
+    "addr:country": "DE",
+    "addr:housenumber": "5",
+    "addr:postcode": "87544",
+    "addr:street": "Gunzesried Säge",
+    "name": "Altes Höfle",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "Deutscher Alpenverein Neu-Ulm",
+    "operator:addr:city": "Neu-Ulm",
+    "operator:addr:country": "DE",
+    "operator:addr:housenumber": "55",
+    "operator:addr:postcode": "89231",
+    "operator:addr:street": "Bahnhofstraße",
+    "operator:phone": "+4973174885",
+    "operator:tenant": "Jürgen Seeberger",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "url": "http://www.dav-neu-ulm.de/index.php?option=com_content&view=article&id=66&Itemid=75"
   }
 },
 {
@@ -1667,6 +2232,28 @@
     "smoking": "no",
     "tourism": "alpine_hut",
     "website": "http://www.alpenverein-geislingen.de/"
+  }
+},
+{
+  "type": "node",
+  "id": 529268937,
+  "lat": 47.3898515,
+  "lon": 10.2543695,
+  "tags": {
+    "addr:city": "Oberstdorf",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "87561",
+    "addr:street": "Höllwiesenweg",
+    "amenity": "restaurant",
+    "name": "Höllwiesenweg",
+    "operator": "NaturFreunde Deutschland",
+    "operator:tenant": "Anja & Tim ???",
+    "phone": "+4983222285",
+    "ref": "M 060",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut",
+    "website": "http://www.naturfreundehaus-freibergsee.de/"
   }
 },
 {
@@ -1764,6 +2351,18 @@
 },
 {
   "type": "node",
+  "id": 534912502,
+  "lat": 48.9459849,
+  "lon": 13.2584659,
+  "tags": {
+    "addr:street": "Kohlau",
+    "designation": "Skihütte",
+    "name": "Skihütte-Kohlau",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 539660905,
   "lat": 46.9826622,
   "lon": 11.4067339,
@@ -1790,6 +2389,25 @@
     "ele": "1698",
     "name": "Patscher Alm",
     "phone": "+43 664 4053026",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 563834740,
+  "lat": 49.9578590,
+  "lon": 11.7439700,
+  "tags": {
+    "addr:city": "Weidenberg",
+    "addr:country": "DE",
+    "addr:housenumber": "13",
+    "addr:postcode": "95466",
+    "addr:street": "Rügersberg",
+    "ele": "650",
+    "name": "Naturfreundehaus \"An der Königsheide\"",
+    "operator": "NaturFreunde Deutschland",
+    "ref": "N 093",
+    "source": "Datenspende der NaturFreunde Deutschland",
     "tourism": "alpine_hut"
   }
 },
@@ -1834,6 +2452,16 @@
   "tags": {
     "amenity": "restaurant",
     "name": "Tiefentalalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 667027084,
+  "lat": 49.8404655,
+  "lon": 11.0711483,
+  "tags": {
+    "name": "Almadlerhütte",
     "tourism": "alpine_hut"
   }
 },
@@ -1952,6 +2580,30 @@
 },
 {
   "type": "node",
+  "id": 833885363,
+  "lat": 47.5662206,
+  "lon": 10.7578204,
+  "tags": {
+    "alt_name": "Reith-Alpe",
+    "amenity": "restaurant",
+    "name": "Alpe Reith",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 850214448,
+  "lat": 47.4948960,
+  "lon": 9.9988793,
+  "tags": {
+    "building": "yes",
+    "ele": "1228",
+    "name": "Alpe Hinter-Hochwies",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 858377222,
   "lat": 47.3979104,
   "lon": 10.6957806,
@@ -1972,6 +2624,16 @@
     "tourism": "alpine_hut",
     "wikidata": "Q1464263",
     "wikipedia": "de:Friedrichshafener Hütte"
+  }
+},
+{
+  "type": "node",
+  "id": 903490412,
+  "lat": 47.5872106,
+  "lon": 10.4611881,
+  "tags": {
+    "name": "Alpe Obere Reuterwanne",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -2074,6 +2736,17 @@
 },
 {
   "type": "node",
+  "id": 946907440,
+  "lat": 47.5837283,
+  "lon": 10.0674324,
+  "tags": {
+    "ele": "996 m",
+    "name": "Ochsenberg Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 952182404,
   "lat": 46.9471671,
   "lon": 10.8904734,
@@ -2081,6 +2754,30 @@
     "ele": "1891",
     "name": "Gletscher-Stüberl",
     "note": "I measured an elevation of 1934m by GPS. Please confirm and update elevation value.",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 961284865,
+  "lat": 47.5677443,
+  "lon": 10.0596897,
+  "tags": {
+    "ele": "901 m",
+    "name": "Wuchers Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 978223025,
+  "lat": 47.5993100,
+  "lon": 10.0562684,
+  "tags": {
+    "amenity": "biergarten",
+    "ele": "906m",
+    "internet_access": "no",
+    "name": "Königsalpe",
     "tourism": "alpine_hut"
   }
 },
@@ -2103,6 +2800,17 @@
     "designation": "Kieler Wetterhütte",
     "name": "Kieler Wetter Hütte 2800m",
     "source": "www.dav-kiel.de",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 993676098,
+  "lat": 49.3408485,
+  "lon": 12.4399154,
+  "tags": {
+    "name": "Max Stadlbauer Hütte",
+    "operator": "Neunburger Yacht Club",
     "tourism": "alpine_hut"
   }
 },
@@ -2193,6 +2901,17 @@
 },
 {
   "type": "node",
+  "id": 1194481318,
+  "lat": 48.9526945,
+  "lon": 12.0058428,
+  "tags": {
+    "name": "Ludwig-Hanisch-Hütte",
+    "operator": "DAV",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1208640448,
   "lat": 47.1830909,
   "lon": 10.6692518,
@@ -2208,6 +2927,27 @@
   "lon": 10.8123814,
   "tags": {
     "name": "Brandhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1252222104,
+  "lat": 47.5452245,
+  "lon": 10.1273146,
+  "tags": {
+    "name": "Alpe Im Riemle",
+    "source": "Own Survey",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1282788507,
+  "lat": 50.2841567,
+  "lon": 11.7534714,
+  "tags": {
+    "name": "Frankenwaldverein Schauenstein",
     "tourism": "alpine_hut"
   }
 },
@@ -2263,6 +3003,26 @@
 },
 {
   "type": "node",
+  "id": 1313562338,
+  "lat": 47.6203417,
+  "lon": 10.1080291,
+  "tags": {
+    "name": "Talhofer Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1336099112,
+  "lat": 50.0827587,
+  "lon": 11.8541750,
+  "tags": {
+    "name": "Edelweißhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1340474535,
   "lat": 47.3249682,
   "lon": 11.3137948,
@@ -2280,6 +3040,15 @@
     "amenity": "restaurant",
     "ele": "1510",
     "name": "Kögelehütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1350577431,
+  "lat": 49.2927817,
+  "lon": 12.6137562,
+  "tags": {
     "tourism": "alpine_hut"
   }
 },
@@ -2356,6 +3125,21 @@
     "outdoor_seating": "yes",
     "tourism": "alpine_hut",
     "website": "http://www.arzleralm.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 1423333186,
+  "lat": 49.5321507,
+  "lon": 11.5444694,
+  "tags": {
+    "ele": "635",
+    "internet_access": "no",
+    "name": "Carl Semler Hütte",
+    "operator": "DAV Sektion Nürnberg",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-nuernberg.de",
+    "wheelchair": "no"
   }
 },
 {
@@ -2480,6 +3264,16 @@
     "tourism": "alpine_hut",
     "wikidata": "Q1622351",
     "wikipedia": "de:Hochsteinhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1538391847,
+  "lat": 47.5751893,
+  "lon": 10.1166157,
+  "tags": {
+    "name": "Neuschwandalpe",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -2625,6 +3419,17 @@
   "tags": {
     "ele": "1884",
     "name": "Volkzeiner Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1635177738,
+  "lat": 49.8775019,
+  "lon": 12.0354192,
+  "tags": {
+    "ele": "705",
+    "name": "DAV Sektion Weiden",
     "tourism": "alpine_hut"
   }
 },
@@ -2814,6 +3619,17 @@
 },
 {
   "type": "node",
+  "id": 1699285837,
+  "lat": 49.9940370,
+  "lon": 11.7971567,
+  "tags": {
+    "name": "Wagenthalhütte",
+    "operator": "Deutscher Alpenverein Bayreuth",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 1704341525,
   "lat": 46.7594324,
   "lon": 12.7665605,
@@ -2833,6 +3649,16 @@
   "lon": 12.6136299,
   "tags": {
     "name": "Skihütte Compedal",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 1758116677,
+  "lat": 49.8633600,
+  "lon": 9.6081257,
+  "tags": {
+    "name": "Elisabethenhütte",
     "tourism": "alpine_hut"
   }
 },
@@ -2884,14 +3710,27 @@
 {
   "type": "node",
   "id": 1883991593,
-  "lat": 46.7700838,
-  "lon": 12.7402660,
+  "lat": 46.7700829,
+  "lon": 12.7402377,
   "tags": {
     "ele": "2683",
     "name": "Linderhütte",
+    "operator": "ÖTK - Österreichischer Touristenklub, Sektion Lienz",
+    "source": "ÖTK-Sektion Lienz",
     "tourism": "alpine_hut",
+    "website": "http://linder.schutz.haus",
     "wikidata": "Q1826168",
     "wikipedia": "de:Linderhütte"
+  }
+},
+{
+  "type": "node",
+  "id": 1920559002,
+  "lat": 47.5675351,
+  "lon": 10.0489919,
+  "tags": {
+    "name": "Alpe Mohr",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -2926,6 +3765,39 @@
 },
 {
   "type": "node",
+  "id": 1976860895,
+  "lat": 47.5467179,
+  "lon": 10.1219060,
+  "tags": {
+    "name": "Alpe Huberschwändle",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2066314208,
+  "lat": 49.5748590,
+  "lon": 11.5080392,
+  "tags": {
+    "name": "Naturfreundehaus",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2069759840,
+  "lat": 47.5982015,
+  "lon": 10.5041453,
+  "tags": {
+    "ele": "1500",
+    "email": "info@berglodge.de",
+    "name": "BergLodge",
+    "tourism": "alpine_hut",
+    "website": "http://www.berglodge.de/"
+  }
+},
+{
+  "type": "node",
   "id": 2072610428,
   "lat": 47.0624777,
   "lon": 10.3159885,
@@ -2941,6 +3813,33 @@
     "phone": "+43 676 41 52 355",
     "tourism": "alpine_hut",
     "website": "http://www.niederelbehuette.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 2076540600,
+  "lat": 49.8092305,
+  "lon": 11.2410730,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2092451145,
+  "lat": 49.1692631,
+  "lon": 12.9462370,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2092451147,
+  "lat": 49.1693831,
+  "lon": 12.9446148,
+  "tags": {
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -2961,6 +3860,29 @@
 },
 {
   "type": "node",
+  "id": 2329470851,
+  "lat": 49.9433806,
+  "lon": 9.7541268,
+  "tags": {
+    "name": "Wanderhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2339464519,
+  "lat": 47.5577845,
+  "lon": 10.1689938,
+  "tags": {
+    "designation": "Alpe",
+    "name": "Alpe Gschwenderberg",
+    "source": "Bing",
+    "tourism": "alpine_hut",
+    "website": "www.alpegschwenderberg.de"
+  }
+},
+{
+  "type": "node",
   "id": 2368392910,
   "lat": 47.3086047,
   "lon": 12.2010209,
@@ -2971,6 +3893,16 @@
     "addr:postcode": "6363",
     "addr:street": "Hinterwindau",
     "name": "Rotwand Grundalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2380342235,
+  "lat": 47.5469841,
+  "lon": 10.0832526,
+  "tags": {
+    "name": "Berghaus Carl Zeiss",
     "tourism": "alpine_hut"
   }
 },
@@ -2999,6 +3931,18 @@
 },
 {
   "type": "node",
+  "id": 2402628696,
+  "lat": 50.0010551,
+  "lon": 11.9970931,
+  "tags": {
+    "internet_access": "no",
+    "name": "Steinberghütte",
+    "operator": "nicht geöffnet",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 2415975822,
   "lat": 47.5742617,
   "lon": 12.1963548,
@@ -3011,8 +3955,10 @@
     "ele": "1135",
     "fax": "+43 5372 63963",
     "name": "Aschenbrenner",
+    "operator": "Alois Taxauer",
     "phone": "+43 5372 62220",
-    "source": "geoimage.at MaxRes",
+    "source": "http://www.berghaus-aschenbrenner.com/",
+    "source:date": "2017-07-05",
     "tourism": "alpine_hut",
     "website": "http://www.berghaus-aschenbrenner.com/"
   }
@@ -3030,9 +3976,13 @@
     "addr:street": "Stadtberg",
     "alt_name": "Brentenjochhütte",
     "ele": "1272",
+    "email": "mail@weinbergerhaus.at",
     "name": "Weinbergerhaus",
+    "opening_hours": "May-Oct 10:00+",
     "phone": "+43 5372 65148",
-    "source": "knowledge",
+    "phone:mobile": "+43 664 2564760",
+    "source": "http://www.weinbergerhaus.at/",
+    "source:date": "2017-07-05",
     "tourism": "alpine_hut",
     "website": "http://www.weinbergerhaus.at/",
     "wikidata": "Q1772467",
@@ -3062,6 +4012,7 @@
   "lat": 47.1950417,
   "lon": 11.3161279,
   "tags": {
+    "amenity": "restaurant",
     "ele": "2098",
     "email": "birgitzkoepflhaus@aon.at",
     "name": "Birgitzerköpflhaus",
@@ -3089,11 +4040,79 @@
 },
 {
   "type": "node",
+  "id": 2489187219,
+  "lat": 49.9246822,
+  "lon": 9.2365237,
+  "tags": {
+    "name": "Wanderheim Soden",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2499492744,
+  "lat": 50.3126739,
+  "lon": 9.9050160,
+  "tags": {
+    "description": "Hütte des Rhönklubs Würzburg",
+    "name": "Würzburger Haus",
+    "operator": "Rbobert Voll",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2502842376,
+  "lat": 49.8216440,
+  "lon": 11.3126628,
+  "tags": {
+    "access": "private",
+    "alt_name": "Rabenecker Hütte",
+    "name": "Hans-Putschky-Haus",
+    "operator": "DAV Sekton Bayreuth",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2537608563,
+  "lat": 49.8756924,
+  "lon": 9.2005534,
+  "tags": {
+    "amenity": "shelter",
+    "shelter_type": "weather_shelter",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 2661066008,
   "lat": 47.5240319,
   "lon": 10.5808832,
   "tags": {
     "name": "Seebenalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 2820361226,
+  "lat": 47.5561481,
+  "lon": 10.1735473,
+  "tags": {
+    "ele": "1070",
+    "name": "Berghütte Hornklause",
+    "tourism": "alpine_hut",
+    "website": "www.berghuette-hornklause.de"
+  }
+},
+{
+  "type": "node",
+  "id": 2916044443,
+  "lat": 47.5530494,
+  "lon": 10.1541870,
+  "tags": {
+    "name": "Kleine Starkatsgund Alpe",
     "tourism": "alpine_hut"
   }
 },
@@ -3176,6 +4195,17 @@
 },
 {
   "type": "node",
+  "id": 3574612493,
+  "lat": 47.6000992,
+  "lon": 10.4686188,
+  "tags": {
+    "ele": "1150",
+    "name": "Haslach-Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 3666572493,
   "lat": 46.8286670,
   "lon": 10.9919142,
@@ -3201,11 +4231,104 @@
 },
 {
   "type": "node",
+  "id": 3742777445,
+  "lat": 49.0847260,
+  "lon": 13.2805732,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3750133035,
+  "lat": 48.9740913,
+  "lon": 12.8832382,
+  "tags": {
+    "name": "Fosthaus Ödwies",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3785851604,
+  "lat": 49.8717712,
+  "lon": 11.9207417,
+  "tags": {
+    "access": "private",
+    "name": "Hütte Anzenberg",
+    "operator": "Fichtelgebirgsverein",
+    "start_date": "1927",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 3815591877,
+  "lat": 49.0262487,
+  "lon": 12.8192596,
+  "tags": {
+    "name": "Naturfreundehaus Viechtacher Hütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
   "id": 4252158087,
   "lat": 47.3631536,
   "lon": 10.8294061,
   "tags": {
     "name": "AlpenRetreat",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4301874729,
+  "lat": 49.8130408,
+  "lon": 11.3592336,
+  "tags": {
+    "description": "In Form eines Pilzes ",
+    "name": "Schutzhütte ",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4307334991,
+  "lat": 47.5414654,
+  "lon": 10.1034261,
+  "tags": {
+    "ele": "1045",
+    "name": "Alpe Kuhschwand",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4332684409,
+  "lat": 47.5810894,
+  "lon": 10.0556155,
+  "tags": {
+    "name": "Juget Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4360003466,
+  "lat": 48.9969457,
+  "lon": 10.6981890,
+  "tags": {
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4360487622,
+  "lat": 48.7139841,
+  "lon": 13.6071605,
+  "tags": {
+    "name": "Haller-Alm",
     "tourism": "alpine_hut"
   }
 },
@@ -3217,6 +4340,16 @@
   "tags": {
     "name": "Roswitha's House",
     "name:de": "Roswitha's House",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4383657207,
+  "lat": 49.4556982,
+  "lon": 10.7946718,
+  "tags": {
+    "name": "Waldkeller",
     "tourism": "alpine_hut"
   }
 },
@@ -3238,6 +4371,17 @@
     "rooms": "2",
     "tourism": "alpine_hut",
     "website": "http://www.hinterbichl.at/lodges/zunigalm.php"
+  }
+},
+{
+  "type": "node",
+  "id": 4413147393,
+  "lat": 47.5355997,
+  "lon": 10.0682867,
+  "tags": {
+    "name": "Ochsenschwand-Alpe",
+    "name:de": "Ochsenschwand-Alpe",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -3317,6 +4461,103 @@
     "cuisine": "regional",
     "name": "Streuböden",
     "source": "bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4920834017,
+  "lat": 47.0114834,
+  "lon": 10.9632797,
+  "tags": {
+    "name": "Vordere Pollesalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4946862084,
+  "lat": 47.3095712,
+  "lon": 11.4347965,
+  "tags": {
+    "ele": "1587",
+    "name": "Vintl Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 4973681638,
+  "lat": 47.4302180,
+  "lon": 12.3535043,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Maierl",
+    "name:de": "Maierl",
+    "tourism": "alpine_hut",
+    "website": "http://www.maierl.at/"
+  }
+},
+{
+  "type": "node",
+  "id": 4976135421,
+  "lat": 47.2467292,
+  "lon": 10.8086056,
+  "tags": {
+    "name": "Haiminger Alm",
+    "name:de": "Haiminger Alm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 25804487,
+  "nodes": [
+    281462493,
+    281464941,
+    281462426,
+    2405514253,
+    2405514252,
+    2405514250,
+    2405514251,
+    281464943,
+    884294153,
+    281462493
+  ],
+  "tags": {
+    "addr:city": "Hindelang",
+    "addr:country": "DE",
+    "addr:postcode": "87541",
+    "addr:street": "Hinterstein",
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity:overnight": "280",
+    "capacity:winterroom": "16",
+    "ele": "1846",
+    "name": "Prinz-Luitpold-Haus",
+    "operator": "DAV Sektion Allgäu-Immenstadt",
+    "operator:tenant": "Andreas Berktold",
+    "phone": "+49 8322 700154",
+    "ref:avf": "408",
+    "smoking": "no",
+    "staff": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.prinz-luitpoldhaus.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 26312947,
+  "nodes": [
+    288278563,
+    288278564,
+    288278565,
+    288278567,
+    288278563
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Berggasthof Dreisessel",
     "tourism": "alpine_hut"
   }
 },
@@ -3518,6 +4759,7 @@
     "cuisine": "regional",
     "ele": "1846",
     "fax": "+43 5245 245",
+    "internet_access": "no",
     "name": "Falkenhütte",
     "operator": "DAV Sektion Oberland",
     "operator:tenant": "Fritz Kostenzer",
@@ -3548,6 +4790,22 @@
     "cuisine": "regional",
     "ele": "1747",
     "name": "Karalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 27428798,
+  "nodes": [
+    301132994,
+    301132996,
+    301133000,
+    301133003,
+    301132994
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Juget-Alpe",
     "tourism": "alpine_hut"
   }
 },
@@ -3736,6 +4994,71 @@
 },
 {
   "type": "way",
+  "id": 32619135,
+  "nodes": [
+    366818335,
+    366818337,
+    366818339,
+    366818342,
+    366818335
+  ],
+  "tags": {
+    "name": "Zwieseler Hütte",
+    "operator": "TV Zwiesel",
+    "source": "DOP_LVA_BY_01",
+    "tourism": "alpine_hut",
+    "website": "http://www.tv-zwiesel.de/index.php/de/tv-huette.html"
+  }
+},
+{
+  "type": "way",
+  "id": 32639765,
+  "nodes": [
+    366961102,
+    366961106,
+    366961136,
+    366961139,
+    2466964691,
+    2466964701,
+    366961133,
+    366961111,
+    366961102
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "ele": "1358",
+    "name": "Arberschutzhaus",
+    "opening_hours": "10:00-16:00; Nov,Apr off",
+    "operator": "Bayerischer Wald Verein",
+    "phone": "+49 992594 140",
+    "tourism": "alpine_hut",
+    "website": "http://www.arber.de/gastronomie/arberschutzhaus.html",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 33420038,
+  "nodes": [
+    380254721,
+    380254724,
+    380254723,
+    380254722,
+    380254721
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "ele": "1350",
+    "name": "Kappeler Alp",
+    "tourism": "alpine_hut",
+    "website": "http://www.kappeler-alp.de/"
+  }
+},
+{
+  "type": "way",
   "id": 33556062,
   "nodes": [
     383032592,
@@ -3873,6 +5196,36 @@
     "website": "http://www.willi-merkl-huette.de/",
     "wikidata": "Q18029738",
     "wikipedia": "de:Willi-Merkl-Gedächtnis-Hütte"
+  }
+},
+{
+  "type": "way",
+  "id": 33640066,
+  "nodes": [
+    384842646,
+    1518246660,
+    1518246661,
+    384842651,
+    384842646
+  ],
+  "tags": {
+    "access": "private",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 34549600,
+  "nodes": [
+    400899670,
+    400899671,
+    400899672,
+    400899673,
+    400899670
+  ],
+  "tags": {
+    "name": "Sonneckhütte",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -4166,6 +5519,87 @@
 },
 {
   "type": "way",
+  "id": 37715435,
+  "nodes": [
+    442325095,
+    442325109,
+    442325105,
+    442325099,
+    442325095
+  ],
+  "tags": {
+    "addr:city": "Rettenberg",
+    "addr:country": "DE",
+    "addr:housenumber": "16",
+    "addr:postcode": "87549",
+    "addr:street": "Kammeregger Weg",
+    "addr:suburb": "Kranzegg",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "ele": "1130",
+    "email": "info@alpe-kammeregg.de",
+    "name": "Alpe Kammeregg",
+    "note": "Hof der Kammereggalpe",
+    "operator:tenant": "Stefan Schwarz",
+    "phone": "08327/1049",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpe-kammeregg.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 37715471,
+  "nodes": [
+    442327241,
+    442327243,
+    442327245,
+    442327246,
+    442327241
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1237",
+    "name": "Obere Kammeregg Alpe",
+    "note": "Selbstversorgerhütte",
+    "operator:tenant": "Hüttenvermietung Müller",
+    "source": "www.huettenvermietung.de",
+    "tourism": "alpine_hut",
+    "website": "www.huettenvermietung.de"
+  }
+},
+{
+  "type": "way",
+  "id": 37715688,
+  "nodes": [
+    442328045,
+    442328046,
+    1607244694,
+    442328047,
+    442328048,
+    442328045
+  ],
+  "tags": {
+    "addr:city": "Rettenberg",
+    "addr:housenumber": "17",
+    "addr:postcode": "87549",
+    "addr:street": "Kammeregger Weg",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "ele": "1477",
+    "email": "info@gruenten-huette.de",
+    "fax": "+49 (0) 8327 - 7474",
+    "name": "Grüntenhütte",
+    "operator": "Weidegenossenschaft ....",
+    "operator:tenant": "Norbert Zeberle",
+    "phone": "+49 (0) 8327 - 7474",
+    "tourism": "alpine_hut",
+    "website": "http://gruentenhuette.de/"
+  }
+},
+{
+  "type": "way",
   "id": 37895782,
   "nodes": [
     444718258,
@@ -4254,6 +5688,45 @@
     "tourism": "alpine_hut",
     "url": "http://www.dav-weilheim.de/",
     "winter_room": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 38431259,
+  "nodes": [
+    454341516,
+    454341517,
+    4457254901,
+    4457254900,
+    454341518,
+    3080414418,
+    4457256050,
+    4457256051,
+    3080414419,
+    454341515,
+    454341516
+  ],
+  "tags": {
+    "addr:city": "Oberstdorf",
+    "addr:country": "DE",
+    "addr:postcode": "87561",
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity:overnight": "140",
+    "cuisine": "alpine_hut",
+    "ele": "2058",
+    "name": "Mindelheimer Hütte",
+    "opening_hours": "Jun 1-Oct 15",
+    "operator": "DAV Sektion Mindelheim",
+    "operator:tenant": "Jochen Krupinski",
+    "phone": "+49 8322 700153",
+    "ref:avf": "257",
+    "shower": "yes",
+    "smoking": "no",
+    "source": "survey",
+    "staff": "season",
+    "tourism": "alpine_hut",
+    "url:official": "http://www.mindelheimer-huette.de"
   }
 },
 {
@@ -4549,6 +6022,56 @@
 },
 {
   "type": "way",
+  "id": 40772439,
+  "nodes": [
+    495553651,
+    495553658,
+    495553662,
+    1922365617,
+    495553655,
+    1934040359,
+    495553651
+  ],
+  "tags": {
+    "addr:city": "Pfronten/Allgäu",
+    "addr:country": "DE",
+    "addr:housenumber": "6",
+    "addr:postcode": "87459",
+    "addr:street": "Auf dem Breitenberg",
+    "amenity": "biergarten",
+    "building": "yes",
+    "capacity:overnight": "63",
+    "contact:email": "info@huette-mit-herz.de",
+    "contact:phone": "+49 174 7009124",
+    "contact:website": "http://www.huette-mit-herz.de/",
+    "ele": "1838",
+    "name": "Ostlerhütte",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "Andrea Heiligensetzer",
+    "outdoor_seating": "yes",
+    "ref:avf": "315",
+    "smoking": "no",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 42701384,
+  "nodes": [
+    533979163,
+    533979178,
+    533979186,
+    533979193,
+    533979163
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Angfeldhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 43092179,
   "nodes": [
     1830243006,
@@ -4612,6 +6135,22 @@
     "website": "http://www.dav-kaufering.de/",
     "wikidata": "Q1553297",
     "wikipedia": "de:Gufferthütte"
+  }
+},
+{
+  "type": "way",
+  "id": 47448378,
+  "nodes": [
+    603861735,
+    603861737,
+    603861738,
+    603861736,
+    603861735
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Metzeler-Hütte",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -5016,6 +6555,100 @@
 },
 {
   "type": "way",
+  "id": 67388171,
+  "nodes": [
+    813853941,
+    813853967,
+    813854021,
+    813854020,
+    813853933,
+    813853939,
+    813853941
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1287",
+    "name": "Hubertushaus",
+    "note": "Pension und Schullandheim",
+    "tourism": "alpine_hut",
+    "website": "http://hubertushaus.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 67416571,
+  "nodes": [
+    814167538,
+    814167535,
+    814167514,
+    814167474,
+    814167534,
+    814167456,
+    814167538
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alpe Glutschwanden",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 67416573,
+  "nodes": [
+    814167548,
+    814167510,
+    814167463,
+    814167414,
+    814167548
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Gasthaus z. Hochwies",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 67416576,
+  "nodes": [
+    814167420,
+    4439534160,
+    4439534162,
+    814167469,
+    4439534161,
+    4439534159,
+    814167541,
+    814167532,
+    814167420
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1271",
+    "name": "Alpengasthof Hörmoos",
+    "tourism": "alpine_hut",
+    "website": "http://www.hoermoos.de"
+  }
+},
+{
+  "type": "way",
+  "id": 67567113,
+  "nodes": [
+    815999330,
+    815999395,
+    815998910,
+    815999140,
+    815999330
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1278",
+    "name": "Schneeloch Alpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 69658146,
   "nodes": [
     833266503,
@@ -5053,6 +6686,27 @@
     "building": "yes",
     "name": "Wiesle Alm",
     "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 70232832,
+  "nodes": [
+    838587327,
+    838587325,
+    838587324,
+    838587322,
+    838587327
+  ],
+  "tags": {
+    "building": "yes",
+    "capacity": "31",
+    "ele": "1502",
+    "name": "Alpe Gund",
+    "opening_hours": "We off",
+    "shower": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpe-gund-huette-immenstadt-allgaeu.de/"
   }
 },
 {
@@ -5245,6 +6899,44 @@
 },
 {
   "type": "way",
+  "id": 75133409,
+  "nodes": [
+    886826967,
+    886828652,
+    246539716,
+    886828083,
+    1087077154,
+    886827391,
+    886829384,
+    886827718,
+    1087077168,
+    886827227,
+    1087077199,
+    1087077231,
+    886826967
+  ],
+  "tags": {
+    "building": "yes",
+    "capacity:overnight": "285",
+    "capacity:winterroom": "26",
+    "cuisine": "regional",
+    "ele": "1846",
+    "name": "Kemptner Hütte",
+    "operator": "DAV Sektion Allgäu-Kempten",
+    "operator:tenant": "Gabriele Braxmair",
+    "phone": "+498322700152",
+    "ref:avf": "290",
+    "shower": "yes",
+    "smoking": "no",
+    "staff": "season",
+    "tourism": "alpine_hut",
+    "url:official": "http://www.kemptner-huette.de/",
+    "wikidata": "Q1229849",
+    "wikipedia": "de:Kemptner Hütte"
+  }
+},
+{
+  "type": "way",
   "id": 75312949,
   "nodes": [
     1603780882,
@@ -5270,6 +6962,117 @@
     "website": "http://www.alpenverein-pforzheim.de/pages/huetten/pfhuette_info.html",
     "wikidata": "Q1669183",
     "wikipedia": "de:Neue Pforzheimer Hütte"
+  }
+},
+{
+  "type": "way",
+  "id": 75318759,
+  "nodes": [
+    455395306,
+    1942798912,
+    1942798914,
+    1942798908,
+    1942798906,
+    889417281,
+    889417060,
+    889417232,
+    889417175,
+    889417149,
+    889417267,
+    889417212,
+    455395306
+  ],
+  "tags": {
+    "capacity:overnight": "82",
+    "capacity:winterroom": "9",
+    "construction:tourism": "construction",
+    "ele": "2085",
+    "email": "huettenwirt@waltenbergerhaus.de",
+    "name": "Waltenberger-Haus",
+    "note": "Abriss und Neubau ab 09.2015 bis mind. 06.2017",
+    "operator": "DAV Sektion Allgäu-Immenstadt",
+    "operator:tenant": "Markus Karlinger",
+    "phone": "+49832165621",
+    "ref:avf": "287",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-allgaeu-immenstadt.de/html/waltenberger_haus.html"
+  }
+},
+{
+  "type": "way",
+  "id": 75472593,
+  "nodes": [
+    890990600,
+    955680961,
+    890990557,
+    890990634,
+    529281198,
+    890990632,
+    890990625,
+    890990612,
+    890990593,
+    890990585,
+    890990571,
+    890990600
+  ],
+  "tags": {
+    "addr:city": "Oberstdorf",
+    "addr:country": "DE",
+    "addr:housenumber": "1412",
+    "addr:postcode": "87561",
+    "addr:street": "Postfach",
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity:overnight": "342",
+    "capacity:winterroom": "none",
+    "ele": "2091",
+    "name": "Rappenseehütte",
+    "opening_hours": "Jun 15-Sep 15: 06:00-23:00",
+    "operator": "DAV Sektion Allgäu-Kempten",
+    "operator:tenant": "Andreas Greiner",
+    "phone": "+498322700155",
+    "ref:avf": "280",
+    "shower": "yes",
+    "staff": "season",
+    "tourism": "alpine_hut",
+    "website": "http://www.rappenseehuette.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 75922177,
+  "nodes": [
+    896365930,
+    896365952,
+    896365961,
+    896365966,
+    896365970,
+    896365977,
+    896365930
+  ],
+  "tags": {
+    "addr:city": "Oberstdorf",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "87561",
+    "addr:street": "Nebelhorn",
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity:overnight": "108",
+    "delivery": "no",
+    "ele": "1932",
+    "name": "Edmund-Probst-Haus",
+    "operator": "DAV Sektion Immenstadt",
+    "operator:tenant": "Georg Säckl",
+    "outdoor_seating": "yes",
+    "phone": "+4983224795",
+    "ref:avf": "386",
+    "smoking": "outside",
+    "tourism": "alpine_hut",
+    "website": "http://www.dav-allgaeu-immenstadt.de/html/edmund-probst-haus.html",
+    "wikidata": "Q1285911",
+    "wikipedia": "de:Edmund-Probst-Haus"
   }
 },
 {
@@ -5524,15 +7327,45 @@
     "alt_name": "Hinterbärenbad",
     "building": "yes",
     "ele": "829",
+    "facebook": "https://www.facebook.com/Hinterb%C3%A4renbad-Anton-karg-Haus-402855212424",
     "is_in": "Kufstein,KufsteinTirol,Österreich,Europe",
     "massif": "Kaisergebirge",
     "name": "Anton-Karg-Haus",
     "operator": "Sektion Kufstein",
-    "source": "survey,geoimage.at",
+    "phone": "+43 5372 62578",
+    "source": "http://www.hinterbaerenbad.at/",
+    "source:date": "2017-07-05",
     "tourism": "alpine_hut",
     "website": "http://www.hinterbaerenbad.at/",
     "wikidata": "Q587757",
     "wikipedia": "de:Anton-Karg-Haus"
+  }
+},
+{
+  "type": "way",
+  "id": 78167535,
+  "nodes": [
+    918201950,
+    918201974,
+    918201939,
+    1911648800,
+    1911648803,
+    1911648806,
+    1911648805,
+    1616462979,
+    918201950
+  ],
+  "tags": {
+    "addr:city": "Kals am Großglockner",
+    "addr:country": "AT",
+    "addr:housenumber": "17",
+    "addr:place": "Glor-Berg",
+    "addr:postcode": "9981",
+    "amenity": "restaurant",
+    "building": "yes",
+    "ele": "2241",
+    "name": "Lucknerhütte",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -5691,6 +7524,82 @@
     "website": "http://www.westfalenhaus.at/",
     "wikidata": "Q2565126",
     "wikipedia": "de:Westfalenhaus"
+  }
+},
+{
+  "type": "way",
+  "id": 82295519,
+  "nodes": [
+    958411183,
+    958411249,
+    958411234,
+    958411175,
+    958411159,
+    958411205,
+    958411183
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "alpine_hut",
+    "ele": "1178",
+    "name": "Oberstiegalpe",
+    "source": "Geoimages.at",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 82295524,
+  "nodes": [
+    958411157,
+    958411227,
+    958411212,
+    958411242,
+    958411230,
+    958411171,
+    958411157
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alpe Schilpere",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 82295574,
+  "nodes": [
+    958413450,
+    958413471,
+    958413469,
+    958413442,
+    958413431,
+    958413457,
+    958413446,
+    958413462,
+    958413450
+  ],
+  "tags": {
+    "building": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 82295659,
+  "nodes": [
+    958415622,
+    958415653,
+    958415649,
+    958415657,
+    958415622
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Schloßalpe",
+    "source": "Geoimages.at",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -5961,70 +7870,6 @@
 },
 {
   "type": "way",
-  "id": 83122431,
-  "nodes": [
-    967140200,
-    1596297043,
-    1596297037,
-    967140201,
-    967140219,
-    967140221,
-    967140222,
-    967140226,
-    1942827529,
-    1596297017,
-    1596297032,
-    967140200
-  ],
-  "tags": {
-    "addr:city": "Scheffau am Wilden Kaiser",
-    "addr:country": "AT",
-    "addr:housenumber": "91",
-    "addr:postcode": "6351",
-    "addr:street": "Hinterstein",
-    "amenity": "restaurant",
-    "building": "yes",
-    "cuisine": "regional",
-    "ele": "1199",
-    "name": "Walleralm",
-    "tourism": "alpine_hut",
-    "wikidata": "Q2542735",
-    "wikipedia": "de:Walleralm"
-  }
-},
-{
-  "type": "way",
-  "id": 83122437,
-  "nodes": [
-    967140363,
-    967140366,
-    3051608119,
-    967140388,
-    967140390,
-    967140363
-  ],
-  "tags": {
-    "addr:city": "Ellmau",
-    "addr:country": "AT",
-    "addr:housenumber": "12",
-    "addr:postcode": "6352",
-    "addr:street": "Kaisern",
-    "amenity": "restaurant",
-    "building": "yes",
-    "cuisine": "regional",
-    "ele": "1620",
-    "email": "info@gruttenhuette.at",
-    "name": "Gruttenhütte",
-    "phone": "+43 5358 2242",
-    "source": "geoimage.at MaxRes",
-    "tourism": "alpine_hut",
-    "website": "http://www.gruttenhuette.at",
-    "wikidata": "Q1551137",
-    "wikipedia": "de:Gruttenhütte"
-  }
-},
-{
-  "type": "way",
   "id": 83191748,
   "nodes": [
     968035614,
@@ -6040,12 +7885,17 @@
     "addr:housenumber": "10",
     "addr:postcode": "6352",
     "addr:street": "Kaisern",
+    "amenity": "fast_food",
     "building": "yes",
+    "contact:phone": "+43 664 2770697",
+    "contact:website": "http://www.riedlhuette.at/",
     "cuisine": "regional",
     "ele": "1268",
     "name": "Riedlhütte",
     "operator": "B.Wieser",
-    "source": "geoimage.at MaxRes",
+    "rooms": "4",
+    "source": "http://www.riedlhuette.at/",
+    "source:date": "2017-06-25",
     "tourism": "alpine_hut"
   }
 },
@@ -6108,10 +7958,15 @@
     "addr:street": "Am Kaiser",
     "amenity": "restaurant",
     "building": "yes",
+    "contact:email": "gaudeamus@dav-main-spessart.de",
+    "contact:phone": "+43 5358 2262",
+    "contact:website": "http://www.dav-main-spessart.de/",
     "ele": "1263",
     "inscription": "Gaudeamushütte - Seehöhe 1263m - Erbaut im Jahre 1927 durch den Akademischen Zweig Berlin des Deutschen und Österreichischen Alpenvereins. 1999 übernommen durch die D.A.V.S. Main-Spessart",
     "name": "Gaudeamushütte",
-    "source": "geoimage.at",
+    "outdoor_seating": "terrace",
+    "source": "http://www.dav-main-spessart.de/",
+    "source:date": "2017-07-03",
     "source:ele": "inscription",
     "tourism": "alpine_hut",
     "wikidata": "Q187379",
@@ -6141,9 +7996,11 @@
     "amenity": "restaurant",
     "building": "yes",
     "ele": "1293",
+    "email": "info@kaindlhuette.com",
     "name": "Kaindlhütte",
-    "phone": "+43 664 16 86 568",
-    "source": "geoimage.at MaxRes",
+    "phone": "+49 174 8067449",
+    "source": "http://www.kaindlhuette.com/",
+    "source:date": "2017-06-26",
     "tourism": "alpine_hut",
     "website": "http://www.kaindlhuette.com/",
     "wikidata": "Q1438118",
@@ -6198,6 +8055,28 @@
     "opening_hours": "Mo off; Oct-Apr off",
     "source": "geoimage.at",
     "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 83602417,
+  "nodes": [
+    973596889,
+    973597514,
+    973598119,
+    973596969,
+    973596798,
+    973598204,
+    973596552,
+    973597942,
+    973596889
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1130",
+    "name": "Alpe Untere Reuterwanne",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpen-allgaeu.de/alpe-untere-reuterwanne"
   }
 },
 {
@@ -6925,6 +8804,22 @@
 },
 {
   "type": "way",
+  "id": 88699423,
+  "nodes": [
+    1029774382,
+    1029774151,
+    1029738015,
+    1029775288,
+    1029774382
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Hintere Sorgalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 88700230,
   "nodes": [
     1029749843,
@@ -6996,6 +8891,34 @@
     "ele": "1658",
     "name": "Autenalm",
     "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 89473156,
+  "nodes": [
+    1037564743,
+    1037565099,
+    1037564314,
+    1037564393,
+    1037564743
+  ],
+  "tags": {
+    "FIXME": "Bitte nicht löschen; siehe http://wiki.openstreetmap.org/index.php?title=DE:Naturfreundehäuser",
+    "addr:city": "Naila-Culmitz",
+    "addr:country": "DE",
+    "addr:housenumber": "3",
+    "addr:postcode": "95119",
+    "addr:street": "Bärenhäuser Nr.",
+    "building": "yes",
+    "ele": "600",
+    "name": "Naturfreundehaus Bärenhäusl",
+    "operator": "NaturFreunde Deutschland",
+    "ref": "N 018",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut",
+    "wikidata": "Q1928761",
+    "wikipedia": "de:Naturfreunde"
   }
 },
 {
@@ -7486,6 +9409,26 @@
 },
 {
   "type": "way",
+  "id": 95281546,
+  "nodes": [
+    1105258571,
+    1105258565,
+    1105258599,
+    1105258573,
+    1105258561,
+    4625220563,
+    1105258591,
+    1105258571
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Buchenbergalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 95534520,
   "nodes": [
     1107805283,
@@ -7638,6 +9581,163 @@
 },
 {
   "type": "way",
+  "id": 96751890,
+  "nodes": [
+    1120370690,
+    1120369837,
+    1120370769,
+    1120370412,
+    1120370690
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1244",
+    "name": "Rindalpe",
+    "source": "Bing",
+    "tourism": "alpine_hut",
+    "website": "http://rindalpe-oberstaufen.de"
+  }
+},
+{
+  "type": "way",
+  "id": 96841603,
+  "nodes": [
+    1122151836,
+    1122151905,
+    1122151629,
+    1122151858,
+    1122151557,
+    1122151815,
+    1122151836
+  ],
+  "tags": {
+    "addr:city": "Immenstadt im Allgäu",
+    "addr:country": "DE",
+    "addr:housenumber": "12",
+    "addr:postcode": "87509",
+    "addr:street": "Steigbachtal",
+    "building": "yes",
+    "capacity": "50",
+    "name": "Kemptener Naturfreundehaus",
+    "operator": "NaturFreunde Deutschland",
+    "ref": "N 086",
+    "source": "Datenspende der NaturFreunde Deutschland",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 96841604,
+  "nodes": [
+    1122151823,
+    1122151843,
+    1122151683,
+    1122151800,
+    1122151823
+  ],
+  "tags": {
+    "access": "private",
+    "building": "yes",
+    "name": "Altusrieder Hütte",
+    "source": "Bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 96841608,
+  "nodes": [
+    1122151847,
+    1122151516,
+    1122151538,
+    1122151633,
+    1122151847
+  ],
+  "tags": {
+    "addr:housename": "Seifenmoos Alpe",
+    "building": "yes",
+    "designation": "Bergwacht",
+    "name": "Seifenmoos",
+    "source": "Bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 96841609,
+  "nodes": [
+    1122151860,
+    1122151532,
+    1122151789,
+    1122151879,
+    1122151860
+  ],
+  "tags": {
+    "building": "yes",
+    "capacity": "24",
+    "ele": "1370",
+    "name": "Sennalpe Mittelberg",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpe-mittelberg.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 96841618,
+  "nodes": [
+    1122151558,
+    1122151654,
+    1122151883,
+    1122151584,
+    1122151558
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1140",
+    "name": "Almagmach",
+    "source": "Bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 96862629,
+  "nodes": [
+    1122409345,
+    1122409169,
+    1122409332,
+    1122409038,
+    1122409345
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1300",
+    "name": "Alpe Häuslers - Gschwend",
+    "note": "am Haus zwei Schreibweisen vorhanden",
+    "source": "Bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 96991319,
+  "nodes": [
+    1123800038,
+    1123800567,
+    1123800711,
+    1123800418,
+    1123800038
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1313",
+    "name": "Vordere Krumbach-Alpe",
+    "source": "Bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 97030582,
   "nodes": [
     1124064953,
@@ -7698,6 +9798,41 @@
     "rooms:single": "5",
     "tourism": "alpine_hut",
     "url": "http://www.blomberghaus.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 97542864,
+  "nodes": [
+    1129340264,
+    1129340274,
+    2149623330,
+    2149623332,
+    1262272580,
+    420789964,
+    1129340276,
+    2149623331,
+    1129340278,
+    1129340270,
+    2149623345,
+    2149623343,
+    1129340277,
+    1129340255,
+    1129340268,
+    1129340259,
+    1129340272,
+    1129340264
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "hotel",
+    "capacity:overnight": "60",
+    "cuisine": "regional",
+    "ele": "1500",
+    "name": "Berghaus Allgäu",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.berghaus-allgaeu.de/"
   }
 },
 {
@@ -7765,6 +9900,74 @@
 },
 {
   "type": "way",
+  "id": 98029976,
+  "nodes": [
+    1134327883,
+    1134328411,
+    1134329842,
+    1134329851,
+    1134328777,
+    529088037,
+    1134329385,
+    1134328526,
+    1134327883
+  ],
+  "tags": {
+    "addr:city": "Mittelberg",
+    "addr:country": "AT",
+    "addr:housenumber": "88",
+    "addr:postcode": "6993",
+    "addr:street": "Walserstrasse",
+    "building": "yes",
+    "capacity:overnight": "134",
+    "capacity:winterroom": "15",
+    "cuisine": "alpine_hut",
+    "ele": "2070",
+    "name": "Fiderepasshütte",
+    "note": "Postfachanschrift: Postfach 1363, D-87561 Oberstdorf",
+    "operator": "DAV Sektion Oberstdorf",
+    "operator:tenant": "Hubert Kaufmann",
+    "phone": "+43-5517-20626;+43-664-320-3676",
+    "ref:avf": "249",
+    "shower": "no",
+    "staff": "season",
+    "tourism": "alpine_hut",
+    "website": "http://www.fiderepasshuette.de"
+  }
+},
+{
+  "type": "way",
+  "id": 99182939,
+  "nodes": [
+    1147283450,
+    1147283657,
+    1445506095,
+    1147283482,
+    1147283561,
+    1445506096,
+    1147283450
+  ],
+  "tags": {
+    "addr:city": "Hindelang",
+    "addr:country": "DE",
+    "addr:housenumber": "17",
+    "addr:postcode": "87541",
+    "addr:street": "Schwarzenberg",
+    "building": "yes",
+    "capacity:overnight": "54",
+    "ele": "1380",
+    "name": "Schwarzenberghütte",
+    "opening_hours": "Dec 25-Oct 31 open",
+    "operator": "DAV Sektion Illertissen",
+    "operator:tenant": "Albert Hanschek",
+    "phone": "+491733927766",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.alpenverein-illertissen.de/Schwarzenberghutte/SBHInfo.htm"
+  }
+},
+{
+  "type": "way",
   "id": 99318407,
   "nodes": [
     1148962147,
@@ -7809,16 +10012,11 @@
     "building": "yes",
     "cuisine": "regional",
     "ele": "1196",
-    "email": "info@amtssaege.at",
     "internet_access": "no",
     "name": "Amtsäge",
-    "note": "Seit 2011 wieder zur Übernachtung geöffnet",
-    "opening_hours": "May 1-Oct 15: open",
-    "operator": "Edith Haberl und Michael Puntigam",
-    "phone": "+43 664 2818914",
+    "opening_hours": "closed",
     "source": "bing",
-    "tourism": "alpine_hut",
-    "website": "http://www.amtssaege.at"
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -7911,6 +10109,31 @@
 },
 {
   "type": "way",
+  "id": 100108452,
+  "nodes": [
+    1445568298,
+    21635976,
+    1157251841,
+    1157252385,
+    1157251585,
+    1445568297,
+    1445568299,
+    1445568301,
+    1445568298
+  ],
+  "tags": {
+    "amenity": "biergarten",
+    "building": "yes",
+    "capacity:overnight": "30",
+    "ele": "1456",
+    "name": "Willersalpe",
+    "operator": "privat",
+    "ref:avf": "356",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 100452081,
   "nodes": [
     1161247852,
@@ -7969,6 +10192,40 @@
     "wikidata": "Q2464003",
     "wikipedia": "de:Tölzer Hütte",
     "winter_room": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 100592534,
+  "nodes": [
+    1162986885,
+    1162986886,
+    1162986883,
+    1162986884,
+    1162986885
+  ],
+  "tags": {
+    "addr:city": "Sandberg",
+    "addr:housenumber": "1",
+    "addr:postcode": "97657",
+    "addr:street": "Kissinger Hütte",
+    "addr:suburb": "Langenleiten",
+    "amenity": "restaurant",
+    "beds": "57",
+    "building": "yes",
+    "email": "kontakt@kissinger-huette.de",
+    "name": "Kissinger Hütte",
+    "opening_hours": "Tu-Su 10:00-22:00",
+    "operator": "Diana & Dennis Tisma",
+    "phone": "+49 9701 286",
+    "rooms": "16",
+    "shelter": "yes",
+    "smoking": "no",
+    "source": "http://www.kissinger-huette.de/",
+    "source:date": "2014-11-06",
+    "toilets": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.kissinger-huette.de"
   }
 },
 {
@@ -8636,6 +10893,27 @@
 },
 {
   "type": "way",
+  "id": 110145454,
+  "nodes": [
+    1258791732,
+    1258791747,
+    1258791720,
+    1258791725,
+    1258791728,
+    1258791749,
+    1258791723,
+    1258791718,
+    1258791732
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Enzianstüble",
+    "source": "bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 110221196,
   "nodes": [
     1259353241,
@@ -8712,6 +10990,22 @@
 },
 {
   "type": "way",
+  "id": 111502292,
+  "nodes": [
+    1270213486,
+    1270213487,
+    1270213484,
+    1270213488,
+    1270213486
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Vordere Sorgalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 111592856,
   "nodes": [
     1271021942,
@@ -8769,6 +11063,30 @@
     "building": "yes",
     "name": "Enzianhütte",
     "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 117391485,
+  "nodes": [
+    1322353610,
+    1322353600,
+    4406150858,
+    4406150859,
+    1322353605,
+    1322353612,
+    1322353610
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Seehaus",
+    "note": "auch Unterkunft",
+    "opening_hours": "We-Sa 09:30-22:00; Su 09:30-18:00",
+    "phone": "+49 9272 222",
+    "tourism": "alpine_hut",
+    "website": "www.seehaus-fichtelgebirge.com",
+    "wheelchair": "no"
   }
 },
 {
@@ -8852,6 +11170,56 @@
 },
 {
   "type": "way",
+  "id": 119050644,
+  "nodes": [
+    1338422288,
+    2406996820,
+    2406996822,
+    1338421956,
+    1338422029,
+    1338422260,
+    1338422288
+  ],
+  "tags": {
+    "building": "yes",
+    "contact:phone": "+49 8328 1008",
+    "name": "Köpflehütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 119089633,
+  "nodes": [
+    253060065,
+    1338895078,
+    2990612592,
+    2990612593,
+    1338895073,
+    1338895076,
+    253060065
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity:beds": "21",
+    "capacity:restaurant": "127",
+    "cuisine": "regional",
+    "email": "koesseinehaus@gmx.net",
+    "fax": "+49 9232 70630",
+    "name": "Kösseinehaus",
+    "note": "auch Unterkunft: 21 Betten, Montag Ruhetag",
+    "opening_hours": "TU-FR 10:00-22:00; SA 09:00-22:00; SU 09:00-18:00",
+    "operator": "Hans Söldner",
+    "phone": "+49 9232 2061",
+    "tourism": "alpine_hut",
+    "url": "http://fgv.bayern-fichtelgebirge.de/index.php/fgv-einrichtungen/unterkunftshauser/kosseinehaus",
+    "website": "http://www.koesseinehaus.de",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
   "id": 119830339,
   "nodes": [
     1345201074,
@@ -8926,6 +11294,60 @@
 },
 {
   "type": "way",
+  "id": 120209544,
+  "nodes": [
+    1348371032,
+    1348371046,
+    1348371012,
+    1348371027,
+    1862823956,
+    1348371032
+  ],
+  "tags": {
+    "addr:city": "Burgberg im Allgäu",
+    "addr:housenumber": "2",
+    "addr:postcode": "87545",
+    "addr:street": "Auf dem Grünten",
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity": "44",
+    "cuisine": "regional",
+    "ele": "1535",
+    "name": "Grüntenhaus",
+    "operator": "Familie Egenrieder",
+    "tourism": "alpine_hut",
+    "website": "http://www.gruentenhaus.de/index.html",
+    "wikidata": "Q1552376",
+    "wikipedia": "de:Grüntenhaus"
+  }
+},
+{
+  "type": "way",
+  "id": 120297107,
+  "nodes": [
+    1349164802,
+    1349164806,
+    1349164805,
+    1349164804,
+    1349164802
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "ele": "1250m",
+    "email": "info@buronhuette.de",
+    "fax": "08365 - 1234",
+    "name": "Buronhütte",
+    "opening_hours": "Tu closed",
+    "operator": "Bellazzo OHG",
+    "phone": "08365 - 290",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "www.buronhuette.de"
+  }
+},
+{
+  "type": "way",
   "id": 120580866,
   "nodes": [
     1351706621,
@@ -8989,8 +11411,8 @@
     "addr:city": "Tux",
     "addr:country": "AT",
     "addr:housenumber": "798",
-    "addr:postcode": "6294",
-    "addr:street": "Tuxerjochhaus",
+    "addr:postcode": "6293",
+    "addr:street": "Sommerbergalm",
     "amenity": "restaurant",
     "building": "yes",
     "ele": "2319",
@@ -10088,6 +12510,27 @@
 },
 {
   "type": "way",
+  "id": 129731030,
+  "nodes": [
+    1430644977,
+    1430644978,
+    1430644974,
+    1430644973,
+    1430644977
+  ],
+  "tags": {
+    "addr:city": "Gunzesried",
+    "addr:country": "DE",
+    "addr:housenumber": "2",
+    "addr:postcode": "87544",
+    "addr:street": "Ostertalweg",
+    "building": "yes",
+    "name": "Buhlsalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 130300721,
   "nodes": [
     1435552135,
@@ -10558,7 +13001,9 @@
     "ele": "3454",
     "name": "Erzherzog-Johann-Hütte",
     "source": "geoimage.at",
-    "tourism": "alpine_hut"
+    "tourism": "alpine_hut",
+    "wikidata": "Q1366186",
+    "wikipedia": "de:Erzherzog-Johann-Hütte"
   }
 },
 {
@@ -10849,20 +13294,32 @@
     1578290495,
     1578290496,
     1578290497,
+    4958528104,
+    4958528103,
     1578290498,
-    1578290499,
     1578290500,
     1578290501,
     1578290502,
     1578290495
   ],
   "tags": {
-    "amenity": "alp",
+    "addr:city": "Ötz",
+    "addr:housenumber": "37",
+    "addr:postcode": "6433",
+    "addr:street": "Ochsengarten",
+    "amenity": "restaurant",
     "building": "yes",
+    "cuisine": "regional",
+    "delivery": "no",
     "ele": "1888",
     "name": "Feldringalm",
+    "opening_hours": "Mo-Fr 10:00-17:00",
+    "operator": "Familie Neurauter",
+    "outdoor_seating": "yes",
+    "phone": "+43 699 13375291",
     "source": "geoimage.at",
-    "tourism": "alpine_hut"
+    "tourism": "alpine_hut",
+    "website": "http://www.feldringalm.at/"
   }
 },
 {
@@ -11020,6 +13477,27 @@
     "name": "Lärchfilzhochalm",
     "tourism": "alpine_hut",
     "website": "http://www.laerchfilzhochalm.at"
+  }
+},
+{
+  "type": "way",
+  "id": 146815884,
+  "nodes": [
+    1600504206,
+    1600504207,
+    1600504203,
+    1600504202,
+    3964784605,
+    1600504192,
+    1600504189,
+    1600504204,
+    1600504205,
+    3964779118,
+    1600504206
+  ],
+  "tags": {
+    "name": "Schutzhaus-Gr. Falkenstein",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -11619,6 +14097,25 @@
 },
 {
   "type": "way",
+  "id": 155309872,
+  "nodes": [
+    1677085373,
+    1677085372,
+    1677085360,
+    1677085371,
+    1677085373
+  ],
+  "tags": {
+    "access": "private",
+    "building": "yes",
+    "name": "Weisses Haus",
+    "note": "i don't know if name=Weisses Haus is a official name. In our mountaineering group we use this name",
+    "source": "bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 156083807,
   "nodes": [
     1683857820,
@@ -11701,6 +14198,22 @@
 },
 {
   "type": "way",
+  "id": 161845041,
+  "nodes": [
+    1737992936,
+    1737992937,
+    1737992935,
+    1737992934,
+    1737992936
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Hohenschwandalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 161846242,
   "nodes": [
     1738003220,
@@ -11746,6 +14259,23 @@
     "tourism": "alpine_hut",
     "wikidata": "Q1665727",
     "wikipedia": "de:Simmshütte"
+  }
+},
+{
+  "type": "way",
+  "id": 162802113,
+  "nodes": [
+    1746180533,
+    1746180542,
+    1746180438,
+    1746180573,
+    1746180533
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1150",
+    "name": "Trähers-Alpe",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -11832,6 +14362,23 @@
   "tags": {
     "building": "yes",
     "name": "Schwarzwaldhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 163739810,
+  "nodes": [
+    1754170303,
+    1754170300,
+    1754170304,
+    1754170299,
+    1754170303
+  ],
+  "tags": {
+    "name": "Wurzhütte",
+    "note": "Im Winter sonntags bewirtschaftet",
+    "opening_hours": "Dec-Mar Su 13:00+",
     "tourism": "alpine_hut"
   }
 },
@@ -11996,6 +14543,43 @@
 },
 {
   "type": "way",
+  "id": 169731728,
+  "nodes": [
+    1808922133,
+    1808922154,
+    1808922153,
+    1808922174,
+    1808922164,
+    1808922130,
+    1808922122,
+    1808922107,
+    1808922133
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1360",
+    "name": "Seelenalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 169736831,
+  "nodes": [
+    1808972227,
+    1808972214,
+    1808972221,
+    1808972238,
+    1808972227
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Farnachalpe",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 170479508,
   "nodes": [
     1816129635,
@@ -12038,6 +14622,31 @@
     "name": "Grießenbodenalm",
     "operator": "Resi und Hans Grander",
     "phone": "+43664/9170441",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 171564734,
+  "nodes": [
+    1825763103,
+    1825763117,
+    2866721163,
+    2866721164,
+    2866721162,
+    2866721161,
+    1825763102,
+    1825763116,
+    1825763103
+  ],
+  "tags": {
+    "addr:city": "Herrieden",
+    "addr:postcode": "91567",
+    "building": "yes",
+    "contact:website": "http://www.alpenverein-herrieden.de/",
+    "name": "Bärenlochhütte DAV",
+    "source": "http://www.alpenverein-herrieden.de/",
+    "source:date": "2016-06-13",
     "tourism": "alpine_hut"
   }
 },
@@ -12136,8 +14745,7 @@
   "nodes": [
     1844504654,
     1844504652,
-    1078829612,
-    1844504655,
+    4938221414,
     1844504653,
     1844504654
   ],
@@ -12184,6 +14792,92 @@
     "tourism": "alpine_hut",
     "wikidata": "Q1625181",
     "wikipedia": "de:Jamtalhütte"
+  }
+},
+{
+  "type": "way",
+  "id": 174962964,
+  "nodes": [
+    1856015366,
+    1856015364,
+    3718697852,
+    3718694416,
+    3718697829,
+    3718697850,
+    1856015343,
+    1856015345,
+    3718694418,
+    3718697830,
+    1856015366
+  ],
+  "tags": {
+    "addr:city": "Halblech",
+    "addr:country": "DE",
+    "addr:postcode": "87642",
+    "amenity": "restaurant",
+    "building": "yes",
+    "ele": "1294",
+    "name": "Kenzenhütte",
+    "operator": "Corinna und Pamela Linder",
+    "phone": "+498368390",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "website": "http://www.kenzenhuette-ammergebirge.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 177842326,
+  "nodes": [
+    1882450220,
+    1882450224,
+    1882450226,
+    1882450216,
+    1882450218,
+    1882450213,
+    1882450212,
+    1882450203,
+    1882450201,
+    1882450214,
+    1882450215,
+    1882450220
+  ],
+  "tags": {
+    "addr:city": "Bischofsheim an der Rhön",
+    "addr:housenumber": "1",
+    "addr:postcode": "97653",
+    "addr:street": "Neustädter Haus",
+    "building": "yes",
+    "email": "info@neustaedterhaus.de",
+    "name": "Berggasthof Neustädter Haus",
+    "operator": "Familie Kneipp",
+    "phone": "+49 9772 1220",
+    "source": "http://www.neustaedter-haus.de/",
+    "source:date": "2014-11-07",
+    "tourism": "alpine_hut",
+    "website": "http://www.neustaedter-haus.de/"
+  }
+},
+{
+  "type": "way",
+  "id": 177943539,
+  "nodes": [
+    1883439773,
+    1883439756,
+    1883439757,
+    1883439758,
+    1883439759,
+    1883439781,
+    1883439775,
+    1883439778,
+    1883439773
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "name": "Hörnerhaus",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -12299,6 +14993,75 @@
 },
 {
   "type": "way",
+  "id": 180145337,
+  "nodes": [
+    1905760691,
+    1905760689,
+    1905760685,
+    1905760687,
+    1905760691
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Anger-Hütte",
+    "operator": "DAV Augsburg (Selbstversorgerhütte)",
+    "source": "ALPregio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 180145385,
+  "nodes": [
+    1905760693,
+    1905760695,
+    2472124380,
+    2472124379,
+    1905760709,
+    1905760699,
+    1905760693
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Mittelbergalpe",
+    "source": "bing",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 180145390,
+  "nodes": [
+    1905760713,
+    3984537388,
+    3984537387,
+    1905760712,
+    1905760710,
+    1905760711,
+    1905760713
+  ],
+  "tags": {
+    "addr:city": "Gunzesried",
+    "addr:country": "DE",
+    "addr:housenumber": "6",
+    "addr:postcode": "87544",
+    "addr:street": "Ostertalweg",
+    "building": "yes",
+    "ele": "1070",
+    "name": "Otto-Schwegler-Hütte",
+    "note": "Selbstversorgerhütte",
+    "note:de": "FIXME: Rauchverbot prüfen",
+    "operator": "DAV",
+    "operator:tenant": "Marion Meyer",
+    "phone": "+4983212509",
+    "smoking": "no",
+    "source": "bing",
+    "tourism": "alpine_hut",
+    "website": "http://www.otto-schwegler-huette.de/"
+  }
+},
+{
+  "type": "way",
   "id": 180985122,
   "nodes": [
     1914252081,
@@ -12366,6 +15129,24 @@
     "name": "Enzianhütte",
     "opening_hours": "Mo-Tu,Th-Su 09:00-20:00",
     "outdoor_seating": "yes",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 183964702,
+  "nodes": [
+    1943982220,
+    1943982214,
+    1943982215,
+    1943982222,
+    1943982220
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Hochwaldhütte",
+    "opening_hours": "May-Oct: Fr-Su; Jan-Mar: Fr-Su",
+    "operator": "DAV Sektion Deggendorf",
     "tourism": "alpine_hut"
   }
 },
@@ -12450,6 +15231,60 @@
 },
 {
   "type": "way",
+  "id": 185991095,
+  "nodes": [
+    1966797440,
+    1966797443,
+    1966797446,
+    1966797442,
+    1966797440
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Diensthütte - Hoher Bogen",
+    "source": "Bayern(2m)",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 187097600,
+  "nodes": [
+    1978500866,
+    1978500863,
+    1978500861,
+    1978500862,
+    1978500866
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "contact:website": "http://www.gundhuette.de",
+    "ele": "1180",
+    "name": "Gundhütte",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 187097605,
+  "nodes": [
+    1978500906,
+    1978500908,
+    1978500907,
+    1978500905,
+    1978500906
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1495",
+    "name": "Dinserhütte",
+    "opening_hours": "Jun-Sep",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 188128107,
   "nodes": [
     1987537822,
@@ -12501,6 +15336,22 @@
     "tourism": "alpine_hut",
     "wikidata": "Q1182756",
     "wikipedia": "de:Defreggerhaus"
+  }
+},
+{
+  "type": "way",
+  "id": 192670935,
+  "nodes": [
+    2032110893,
+    2032110895,
+    2032110889,
+    2032110894,
+    2032110893
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Alpe Hohenegg",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -12571,6 +15422,52 @@
     "website": "http://www.hexenseehuette.at",
     "wikidata": "Q15056662",
     "wikipedia": "de:Hexenseehütte"
+  }
+},
+{
+  "type": "way",
+  "id": 204506136,
+  "nodes": [
+    2145048533,
+    2145048530,
+    2145048535,
+    2145048537,
+    2145048533
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "name": "Gänskopfhütte",
+    "opening_hours": "Sa 11:00-24:00; Su 00:00-18:00",
+    "tourism": "alpine_hut",
+    "website": "www.fgv-weidenberg.de/gaenskopf.html"
+  }
+},
+{
+  "type": "way",
+  "id": 204983717,
+  "nodes": [
+    2149623295,
+    465629545,
+    1129340275,
+    1129340254,
+    2149623310,
+    2149623311,
+    2149623307,
+    2149623292,
+    2149623295
+  ],
+  "tags": {
+    "amenity": "restaurant",
+    "building": "yes",
+    "capacity:overnight": "49",
+    "ele": "1510",
+    "name": "Hochalphütte",
+    "phone": "+49 8363 1654",
+    "ref:avf": "316",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.breitenbergbahn.de/huetten-gastronomie-breitenberg.html"
   }
 },
 {
@@ -12774,6 +15671,46 @@
     "ele": "1964",
     "name": "Hintere Fundusalm",
     "source": "geoimage.at",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 223250934,
+  "nodes": [
+    2321702511,
+    4248217896,
+    4248217895,
+    2321702525,
+    2321702536,
+    2321702575,
+    2321702511
+  ],
+  "tags": {
+    "addr:city": "Grafhütte",
+    "building": "yes",
+    "description": "Ski-Club Burglengenfeld e.V.\nPostfach 1129\n93129 Burglengenfeld",
+    "ele": "900m",
+    "name": "Burglengenfelder-Hütte (SCB-Hütte)",
+    "operator": "Ski-Club Burglengenfeld e.V.",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 225419375,
+  "nodes": [
+    2341991026,
+    2341991023,
+    2341991024,
+    2341991020,
+    2341991026
+  ],
+  "tags": {
+    "addr:city": "Üchtelshausen",
+    "addr:postcode": "97532",
+    "building": "yes",
+    "name": "DAV-Hütte An der Haselstaude",
     "tourism": "alpine_hut"
   }
 },
@@ -13054,6 +15991,22 @@
 },
 {
   "type": "way",
+  "id": 259323909,
+  "nodes": [
+    2647216339,
+    2647216340,
+    2647216341,
+    2647216342,
+    2647216339
+  ],
+  "tags": {
+    "building": "house",
+    "name": "Bärwurz-Resl-Hüttn",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 260594923,
   "nodes": [
     2661205384,
@@ -13320,6 +16273,35 @@
 },
 {
   "type": "way",
+  "id": 274445636,
+  "nodes": [
+    2791609336,
+    2791609338,
+    2791609339,
+    2791609342,
+    2791609336
+  ],
+  "tags": {
+    "addr:city": "Obermaiselstein",
+    "addr:country": "DE",
+    "addr:housenumber": "8",
+    "addr:postcode": "87538",
+    "addr:street": "Paßstraße",
+    "building": "yes",
+    "capacity": "60",
+    "ele": "1350",
+    "email": "info@wannenkopfhuette.de",
+    "fax": "+49 8322 978 510",
+    "name": "Wannenkopfhütte",
+    "phone": "+49 8322 978 520",
+    "reservation": "yes",
+    "shower": "yes",
+    "tourism": "alpine_hut",
+    "website": "http://www.wannenkopfhuette.de/"
+  }
+},
+{
+  "type": "way",
   "id": 283396333,
   "nodes": [
     2872607211,
@@ -13360,6 +16342,33 @@
     "website": "http://www.alpenverein-frankfurtmain.de/",
     "wikidata": "Q2133181",
     "wikipedia": "de:Rauhekopfhütte"
+  }
+},
+{
+  "type": "way",
+  "id": 295807688,
+  "nodes": [
+    2995672982,
+    2995672983,
+    2995672981,
+    2995672980,
+    2995672982
+  ],
+  "tags": {
+    "access": "yes",
+    "addr:city": "Karlstadt",
+    "addr:country": "DE",
+    "addr:postcode": "97753",
+    "amenity": "biergarten",
+    "building": "yes",
+    "capacity": "24",
+    "contact:email": "info@dav-wuerzburg.de",
+    "contact:phone": "+49 9353 983030",
+    "contact:website": "http://www.falteshuette.de/",
+    "name": "Faltes-Hütte",
+    "opening_hours": "Mar 1-Dec 24: Su 11:00-18:00; easter,easter +1 day,easter +49 days,easter +50 days,easter +60 days 11:00-18:00",
+    "operator": "DAV Würzburg",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -13465,6 +16474,24 @@
   "tags": {
     "building": "yes",
     "name": "Tarrentonalm",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
+  "id": 301875440,
+  "nodes": [
+    3060413608,
+    3060413609,
+    3060413610,
+    3060413611,
+    3060413608
+  ],
+  "tags": {
+    "access": "private",
+    "building": "yes",
+    "name": "Jugendheim am Tippach",
+    "reservation": "required",
     "tourism": "alpine_hut"
   }
 },
@@ -13613,6 +16640,23 @@
 },
 {
   "type": "way",
+  "id": 365167998,
+  "nodes": [
+    3692063334,
+    3692063333,
+    3692063327,
+    3692063328,
+    3692063334
+  ],
+  "tags": {
+    "building": "yes",
+    "name": "Vordermühlberger Älpele",
+    "note": "nicht bewirtschaftet",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "way",
   "id": 366295874,
   "nodes": [
     3702713023,
@@ -13658,6 +16702,34 @@
 },
 {
   "type": "way",
+  "id": 370557315,
+  "nodes": [
+    3742527775,
+    3742527776,
+    3742527782,
+    3742527781,
+    3742527767,
+    3742527769,
+    3742527773,
+    3742527775
+  ],
+  "tags": {
+    "addr:city": "Nesselwang",
+    "addr:housenumber": "100",
+    "addr:street": "Maria-Trost-Allee",
+    "beds": "24",
+    "building": "yes",
+    "ele": "1123",
+    "name": "Bergheim Maria Trost",
+    "operator": "Bischöfliches Jugendamt Augsburg",
+    "rooms": "6",
+    "smoking": "no",
+    "tourism": "alpine_hut",
+    "url": "http://www.gruppenhaus.de/bergheim-maria-trost-nesselwang-hs3754.html"
+  }
+},
+{
+  "type": "way",
   "id": 370669072,
   "nodes": [
     3743647424,
@@ -13678,6 +16750,7 @@
     "addr:city": "Grainau",
     "addr:country": "DE",
     "addr:postcode": "82491",
+    "amenity": "restaurant",
     "building": "yes",
     "ele": "1387",
     "name": "Höllentalangerhütte",
@@ -13688,6 +16761,24 @@
     "website": "http://www.hoellentalangerhuette.de/",
     "wikidata": "Q183323",
     "wikipedia": "de:Höllentalangerhütte"
+  }
+},
+{
+  "type": "way",
+  "id": 377874628,
+  "nodes": [
+    3812815021,
+    3812815022,
+    3812815025,
+    3812815024,
+    3812815021
+  ],
+  "tags": {
+    "building": "yes",
+    "ele": "1417",
+    "name": "Südliche Lauchalpe",
+    "source": "Land Vorarlberg",
+    "tourism": "alpine_hut"
   }
 },
 {
@@ -13731,6 +16822,30 @@
 },
 {
   "type": "way",
+  "id": 428075767,
+  "nodes": [
+    2104238959,
+    358184774,
+    4272221933,
+    2104238961,
+    2104238959
+  ],
+  "tags": {
+    "addr:city": "Etzelwang",
+    "addr:housenumber": "46",
+    "addr:postcode": "92268",
+    "addr:street": "Lehendorf",
+    "beds": "16",
+    "building": "yes",
+    "ele": "479",
+    "name": "Röthenbacherhütte (DAV)",
+    "operator": "DAV Sektion Röthenbach",
+    "tourism": "alpine_hut",
+    "website": "http://dav-roethenbach.de/unsere-vereinshuette/huetten-info"
+  }
+},
+{
+  "type": "way",
   "id": 477497580,
   "nodes": [
     4708395352,
@@ -13742,7 +16857,7 @@
     4708395346,
     4708395345,
     4708395344,
-    4708395343,
+    296240001,
     4708395352
   ],
   "tags": {
@@ -13756,14 +16871,447 @@
     "cuisine": "alpine_hut",
     "ele": "2413",
     "name": "Bremer Hütte",
-    "opening_hours": "Jun 30-Sep 30: open",
+    "opening_hours": "Jun 30-Sep 30",
     "operator": "Raimund Pranger",
+    "phone": "+43 664 2728071",
     "tourism": "alpine_hut",
     "url": "www.bremerhuette.at",
     "website": "www.bremerhuette.at",
     "wikidata": "Q907654",
     "wikipedia": "de:Bremer Hütte (Gschnitztal)"
   }
+},
+{
+  "type": "node",
+  "id": 813853933,
+  "lat": 47.4888204,
+  "lon": 10.0035646
+},
+{
+  "type": "node",
+  "id": 813853939,
+  "lat": 47.4888210,
+  "lon": 10.0037330
+},
+{
+  "type": "node",
+  "id": 813853941,
+  "lat": 47.4889484,
+  "lon": 10.0037320
+},
+{
+  "type": "node",
+  "id": 813853967,
+  "lat": 47.4889472,
+  "lon": 10.0033895
+},
+{
+  "type": "node",
+  "id": 813854020,
+  "lat": 47.4887953,
+  "lon": 10.0035648
+},
+{
+  "type": "node",
+  "id": 813854021,
+  "lat": 47.4887947,
+  "lon": 10.0033907
+},
+{
+  "type": "node",
+  "id": 814167456,
+  "lat": 47.4986032,
+  "lon": 9.9933692
+},
+{
+  "type": "node",
+  "id": 814167474,
+  "lat": 47.4985963,
+  "lon": 9.9935307
+},
+{
+  "type": "node",
+  "id": 814167514,
+  "lat": 47.4987469,
+  "lon": 9.9934593
+},
+{
+  "type": "node",
+  "id": 814167534,
+  "lat": 47.4985652,
+  "lon": 9.9933873
+},
+{
+  "type": "node",
+  "id": 814167535,
+  "lat": 47.4986318,
+  "lon": 9.9929282
+},
+{
+  "type": "node",
+  "id": 814167538,
+  "lat": 47.4985193,
+  "lon": 9.9929816
+},
+{
+  "type": "node",
+  "id": 814167414,
+  "lat": 47.4959364,
+  "lon": 10.0022930
+},
+{
+  "type": "node",
+  "id": 814167420,
+  "lat": 47.4914173,
+  "lon": 10.0058581
+},
+{
+  "type": "node",
+  "id": 814167463,
+  "lat": 47.4958736,
+  "lon": 10.0024049
+},
+{
+  "type": "node",
+  "id": 814167469,
+  "lat": 47.4915299,
+  "lon": 10.0064209
+},
+{
+  "type": "node",
+  "id": 814167510,
+  "lat": 47.4961118,
+  "lon": 10.0026977
+},
+{
+  "type": "node",
+  "id": 814167532,
+  "lat": 47.4912712,
+  "lon": 10.0059532
+},
+{
+  "type": "node",
+  "id": 814167541,
+  "lat": 47.4913785,
+  "lon": 10.0063145
+},
+{
+  "type": "node",
+  "id": 814167548,
+  "lat": 47.4961746,
+  "lon": 10.0025858
+},
+{
+  "type": "node",
+  "id": 4439534159,
+  "lat": 47.4913436,
+  "lon": 10.0063372
+},
+{
+  "type": "node",
+  "id": 4439534160,
+  "lat": 47.4914644,
+  "lon": 10.0060169
+},
+{
+  "type": "node",
+  "id": 4439534161,
+  "lat": 47.4913946,
+  "lon": 10.0065089
+},
+{
+  "type": "node",
+  "id": 4439534162,
+  "lat": 47.4914187,
+  "lon": 10.0060466
+},
+{
+  "type": "node",
+  "id": 1122409169,
+  "lat": 47.5037482,
+  "lon": 10.0048049
+},
+{
+  "type": "node",
+  "id": 1122409038,
+  "lat": 47.5039398,
+  "lon": 10.0051367
+},
+{
+  "type": "node",
+  "id": 1122409332,
+  "lat": 47.5038319,
+  "lon": 10.0051883
+},
+{
+  "type": "node",
+  "id": 1122409345,
+  "lat": 47.5038561,
+  "lon": 10.0047533
+},
+{
+  "type": "node",
+  "id": 2032110889,
+  "lat": 47.5153551,
+  "lon": 10.0100904
+},
+{
+  "type": "node",
+  "id": 2032110893,
+  "lat": 47.5153757,
+  "lon": 10.0096354
+},
+{
+  "type": "node",
+  "id": 2032110894,
+  "lat": 47.5154813,
+  "lon": 10.0100130
+},
+{
+  "type": "node",
+  "id": 2032110895,
+  "lat": 47.5152495,
+  "lon": 10.0097127
+},
+{
+  "type": "node",
+  "id": 3812815021,
+  "lat": 47.4872660,
+  "lon": 10.0642146
+},
+{
+  "type": "node",
+  "id": 3812815022,
+  "lat": 47.4872729,
+  "lon": 10.0645085
+},
+{
+  "type": "node",
+  "id": 3812815024,
+  "lat": 47.4873761,
+  "lon": 10.0642045
+},
+{
+  "type": "node",
+  "id": 3812815025,
+  "lat": 47.4873820,
+  "lon": 10.0644983
+},
+{
+  "type": "node",
+  "id": 815998910,
+  "lat": 47.4911111,
+  "lon": 10.0236737
+},
+{
+  "type": "node",
+  "id": 815999140,
+  "lat": 47.4908957,
+  "lon": 10.0234012
+},
+{
+  "type": "node",
+  "id": 815999330,
+  "lat": 47.4909738,
+  "lon": 10.0232660
+},
+{
+  "type": "node",
+  "id": 815999395,
+  "lat": 47.4911892,
+  "lon": 10.0235385
+},
+{
+  "type": "node",
+  "id": 958411234,
+  "lat": 47.4971496,
+  "lon": 10.0400903
+},
+{
+  "type": "node",
+  "id": 958411175,
+  "lat": 47.4972720,
+  "lon": 10.0400671
+},
+{
+  "type": "node",
+  "id": 958415622,
+  "lat": 47.5074677,
+  "lon": 10.0306521
+},
+{
+  "type": "node",
+  "id": 958415649,
+  "lat": 47.5072570,
+  "lon": 10.0304257
+},
+{
+  "type": "node",
+  "id": 958415653,
+  "lat": 47.5073387,
+  "lon": 10.0307281
+},
+{
+  "type": "node",
+  "id": 958415657,
+  "lat": 47.5073860,
+  "lon": 10.0303497
+},
+{
+  "type": "node",
+  "id": 958413431,
+  "lat": 47.5072085,
+  "lon": 10.0370189
+},
+{
+  "type": "node",
+  "id": 958413442,
+  "lat": 47.5072506,
+  "lon": 10.0371165
+},
+{
+  "type": "node",
+  "id": 958413446,
+  "lat": 47.5072980,
+  "lon": 10.0370476
+},
+{
+  "type": "node",
+  "id": 958413450,
+  "lat": 47.5075234,
+  "lon": 10.0374856
+},
+{
+  "type": "node",
+  "id": 958413457,
+  "lat": 47.5072634,
+  "lon": 10.0369674
+},
+{
+  "type": "node",
+  "id": 958413462,
+  "lat": 47.5073241,
+  "lon": 10.0370231
+},
+{
+  "type": "node",
+  "id": 958413469,
+  "lat": 47.5072185,
+  "lon": 10.0371467
+},
+{
+  "type": "node",
+  "id": 958413471,
+  "lat": 47.5074103,
+  "lon": 10.0375918
+},
+{
+  "type": "node",
+  "id": 958411249,
+  "lat": 47.4971849,
+  "lon": 10.0404990
+},
+{
+  "type": "node",
+  "id": 958411159,
+  "lat": 47.4972845,
+  "lon": 10.0402124
+},
+{
+  "type": "node",
+  "id": 958411183,
+  "lat": 47.4973284,
+  "lon": 10.0404719
+},
+{
+  "type": "node",
+  "id": 958411205,
+  "lat": 47.4973056,
+  "lon": 10.0402084
+},
+{
+  "type": "node",
+  "id": 958411157,
+  "lat": 47.4974189,
+  "lon": 10.0477263
+},
+{
+  "type": "node",
+  "id": 958411171,
+  "lat": 47.4974102,
+  "lon": 10.0473697
+},
+{
+  "type": "node",
+  "id": 958411212,
+  "lat": 47.4973249,
+  "lon": 10.0475230
+},
+{
+  "type": "node",
+  "id": 958411227,
+  "lat": 47.4973299,
+  "lon": 10.0477310
+},
+{
+  "type": "node",
+  "id": 958411230,
+  "lat": 47.4973021,
+  "lon": 10.0473754
+},
+{
+  "type": "node",
+  "id": 958411242,
+  "lat": 47.4973057,
+  "lon": 10.0475240
+},
+{
+  "type": "node",
+  "id": 1808922107,
+  "lat": 47.4931131,
+  "lon": 10.0545324
+},
+{
+  "type": "node",
+  "id": 1808922122,
+  "lat": 47.4931755,
+  "lon": 10.0546320
+},
+{
+  "type": "node",
+  "id": 1808922130,
+  "lat": 47.4931875,
+  "lon": 10.0546155
+},
+{
+  "type": "node",
+  "id": 1808922133,
+  "lat": 47.4932119,
+  "lon": 10.0543969
+},
+{
+  "type": "node",
+  "id": 1808922153,
+  "lat": 47.4932493,
+  "lon": 10.0545149
+},
+{
+  "type": "node",
+  "id": 1808922154,
+  "lat": 47.4932690,
+  "lon": 10.0544880
+},
+{
+  "type": "node",
+  "id": 1808922164,
+  "lat": 47.4932758,
+  "lon": 10.0547565
+},
+{
+  "type": "node",
+  "id": 1808922174,
+  "lat": 47.4933430,
+  "lon": 10.0546644
 },
 {
   "type": "node",
@@ -15183,6 +18731,180 @@
 },
 {
   "type": "node",
+  "id": 454341515,
+  "lat": 47.2922717,
+  "lon": 10.1950282
+},
+{
+  "type": "node",
+  "id": 454341516,
+  "lat": 47.2923040,
+  "lon": 10.1950925
+},
+{
+  "type": "node",
+  "id": 454341517,
+  "lat": 47.2924537,
+  "lon": 10.1949294
+},
+{
+  "type": "node",
+  "id": 454341518,
+  "lat": 47.2923165,
+  "lon": 10.1946959
+},
+{
+  "type": "node",
+  "id": 3080414418,
+  "lat": 47.2922183,
+  "lon": 10.1948030
+},
+{
+  "type": "node",
+  "id": 3080414419,
+  "lat": 47.2923212,
+  "lon": 10.1949743
+},
+{
+  "type": "node",
+  "id": 4457254900,
+  "lat": 47.2923462,
+  "lon": 10.1947551
+},
+{
+  "type": "node",
+  "id": 4457254901,
+  "lat": 47.2923592,
+  "lon": 10.1947410
+},
+{
+  "type": "node",
+  "id": 4457256050,
+  "lat": 47.2922730,
+  "lon": 10.1949122
+},
+{
+  "type": "node",
+  "id": 4457256051,
+  "lat": 47.2922840,
+  "lon": 10.1949002
+},
+{
+  "type": "node",
+  "id": 529281198,
+  "lat": 47.2889547,
+  "lon": 10.2551292
+},
+{
+  "type": "node",
+  "id": 890990557,
+  "lat": 47.2890845,
+  "lon": 10.2552685
+},
+{
+  "type": "node",
+  "id": 890990571,
+  "lat": 47.2890133,
+  "lon": 10.2549696
+},
+{
+  "type": "node",
+  "id": 890990585,
+  "lat": 47.2890087,
+  "lon": 10.2548578
+},
+{
+  "type": "node",
+  "id": 890990593,
+  "lat": 47.2889374,
+  "lon": 10.2548641
+},
+{
+  "type": "node",
+  "id": 890990600,
+  "lat": 47.2890721,
+  "lon": 10.2549644
+},
+{
+  "type": "node",
+  "id": 890990612,
+  "lat": 47.2889418,
+  "lon": 10.2549726
+},
+{
+  "type": "node",
+  "id": 890990625,
+  "lat": 47.2888716,
+  "lon": 10.2549788
+},
+{
+  "type": "node",
+  "id": 890990632,
+  "lat": 47.2888780,
+  "lon": 10.2551360
+},
+{
+  "type": "node",
+  "id": 890990634,
+  "lat": 47.2889608,
+  "lon": 10.2552796
+},
+{
+  "type": "node",
+  "id": 955680961,
+  "lat": 47.2890749,
+  "lon": 10.2550328
+},
+{
+  "type": "node",
+  "id": 529088037,
+  "lat": 47.3157970,
+  "lon": 10.2124894
+},
+{
+  "type": "node",
+  "id": 1134327883,
+  "lat": 47.3156464,
+  "lon": 10.2122800
+},
+{
+  "type": "node",
+  "id": 1134328411,
+  "lat": 47.3155007,
+  "lon": 10.2123999
+},
+{
+  "type": "node",
+  "id": 1134328526,
+  "lat": 47.3156935,
+  "lon": 10.2123905
+},
+{
+  "type": "node",
+  "id": 1134328777,
+  "lat": 47.3157233,
+  "lon": 10.2125567
+},
+{
+  "type": "node",
+  "id": 1134329385,
+  "lat": 47.3157373,
+  "lon": 10.2123498
+},
+{
+  "type": "node",
+  "id": 1134329842,
+  "lat": 47.3155838,
+  "lon": 10.2125876
+},
+{
+  "type": "node",
+  "id": 1134329851,
+  "lat": 47.3156928,
+  "lon": 10.2124864
+},
+{
+  "type": "node",
   "id": 1174820993,
   "lat": 47.2160265,
   "lon": 10.3011565
@@ -15270,6 +18992,78 @@
   "id": 3061843024,
   "lat": 47.2103225,
   "lon": 10.3557701
+},
+{
+  "type": "node",
+  "id": 455395306,
+  "lat": 47.2977883,
+  "lon": 10.2822846
+},
+{
+  "type": "node",
+  "id": 889417060,
+  "lat": 47.2976280,
+  "lon": 10.2822040
+},
+{
+  "type": "node",
+  "id": 889417149,
+  "lat": 47.2977525,
+  "lon": 10.2821422
+},
+{
+  "type": "node",
+  "id": 889417175,
+  "lat": 47.2976913,
+  "lon": 10.2821537
+},
+{
+  "type": "node",
+  "id": 889417212,
+  "lat": 47.2977772,
+  "lon": 10.2821579
+},
+{
+  "type": "node",
+  "id": 889417232,
+  "lat": 47.2976946,
+  "lon": 10.2821914
+},
+{
+  "type": "node",
+  "id": 889417267,
+  "lat": 47.2977543,
+  "lon": 10.2821622
+},
+{
+  "type": "node",
+  "id": 889417281,
+  "lat": 47.2976375,
+  "lon": 10.2823132
+},
+{
+  "type": "node",
+  "id": 1942798906,
+  "lat": 47.2976482,
+  "lon": 10.2823101
+},
+{
+  "type": "node",
+  "id": 1942798908,
+  "lat": 47.2976497,
+  "lon": 10.2823278
+},
+{
+  "type": "node",
+  "id": 1942798912,
+  "lat": 47.2976840,
+  "lon": 10.2823032
+},
+{
+  "type": "node",
+  "id": 1942798914,
+  "lat": 47.2976856,
+  "lon": 10.2823210
 },
 {
   "type": "node",
@@ -15372,6 +19166,78 @@
   "id": 1875493825,
   "lat": 47.2975339,
   "lon": 10.4279590
+},
+{
+  "type": "node",
+  "id": 246539716,
+  "lat": 47.3133674,
+  "lon": 10.3277069
+},
+{
+  "type": "node",
+  "id": 886826967,
+  "lat": 47.3132159,
+  "lon": 10.3277827
+},
+{
+  "type": "node",
+  "id": 886827227,
+  "lat": 47.3133184,
+  "lon": 10.3278525
+},
+{
+  "type": "node",
+  "id": 886827391,
+  "lat": 47.3134951,
+  "lon": 10.3277480
+},
+{
+  "type": "node",
+  "id": 886827718,
+  "lat": 47.3134684,
+  "lon": 10.3278835
+},
+{
+  "type": "node",
+  "id": 886828083,
+  "lat": 47.3134393,
+  "lon": 10.3276313
+},
+{
+  "type": "node",
+  "id": 886828652,
+  "lat": 47.3133412,
+  "lon": 10.3276525
+},
+{
+  "type": "node",
+  "id": 886829384,
+  "lat": 47.3134340,
+  "lon": 10.3278115
+},
+{
+  "type": "node",
+  "id": 1087077154,
+  "lat": 47.3134558,
+  "lon": 10.3276658
+},
+{
+  "type": "node",
+  "id": 1087077168,
+  "lat": 47.3133781,
+  "lon": 10.3279774
+},
+{
+  "type": "node",
+  "id": 1087077199,
+  "lat": 47.3132738,
+  "lon": 10.3278990
+},
+{
+  "type": "node",
+  "id": 1087077231,
+  "lat": 47.3132364,
+  "lon": 10.3278240
 },
 {
   "type": "node",
@@ -15492,6 +19358,60 @@
   "id": 1455218770,
   "lat": 47.3417670,
   "lon": 10.4570238
+},
+{
+  "type": "node",
+  "id": 281464943,
+  "lat": 47.3923432,
+  "lon": 10.4199480
+},
+{
+  "type": "node",
+  "id": 2405514250,
+  "lat": 47.3923290,
+  "lon": 10.4200097
+},
+{
+  "type": "node",
+  "id": 2405514251,
+  "lat": 47.3923575,
+  "lon": 10.4199866
+},
+{
+  "type": "node",
+  "id": 281462426,
+  "lat": 47.3924906,
+  "lon": 10.4202207
+},
+{
+  "type": "node",
+  "id": 281462493,
+  "lat": 47.3924967,
+  "lon": 10.4198233
+},
+{
+  "type": "node",
+  "id": 281464941,
+  "lat": 47.3926089,
+  "lon": 10.4201246
+},
+{
+  "type": "node",
+  "id": 884294153,
+  "lat": 47.3924629,
+  "lon": 10.4198508
+},
+{
+  "type": "node",
+  "id": 2405514252,
+  "lat": 47.3923733,
+  "lon": 10.4201288
+},
+{
+  "type": "node",
+  "id": 2405514253,
+  "lat": 47.3924371,
+  "lon": 10.4200770
 },
 {
   "type": "node",
@@ -18255,7 +22175,7 @@
 },
 {
   "type": "node",
-  "id": 4708395343,
+  "id": 296240001,
   "lat": 46.9949444,
   "lon": 11.2633279
 },
@@ -18478,50 +22398,56 @@
 {
   "type": "node",
   "id": 1578290495,
-  "lat": 47.2418560,
-  "lon": 10.9403418
+  "lat": 47.2418551,
+  "lon": 10.9403417
 },
 {
   "type": "node",
   "id": 1578290496,
-  "lat": 47.2419511,
-  "lon": 10.9403637
+  "lat": 47.2419675,
+  "lon": 10.9403638
 },
 {
   "type": "node",
   "id": 1578290497,
-  "lat": 47.2419460,
-  "lon": 10.9404169
+  "lat": 47.2419627,
+  "lon": 10.9404173
 },
 {
   "type": "node",
   "id": 1578290498,
-  "lat": 47.2419338,
-  "lon": 10.9405219
-},
-{
-  "type": "node",
-  "id": 1578290499,
-  "lat": 47.2419329,
-  "lon": 10.9405361
+  "lat": 47.2419358,
+  "lon": 10.9405338
 },
 {
   "type": "node",
   "id": 1578290500,
-  "lat": 47.2418499,
-  "lon": 10.9405171
+  "lat": 47.2418504,
+  "lon": 10.9405169
 },
 {
   "type": "node",
   "id": 1578290501,
-  "lat": 47.2418561,
-  "lon": 10.9404586
+  "lat": 47.2418557,
+  "lon": 10.9404583
 },
 {
   "type": "node",
   "id": 1578290502,
-  "lat": 47.2418439,
-  "lon": 10.9404558
+  "lat": 47.2418447,
+  "lon": 10.9404562
+},
+{
+  "type": "node",
+  "id": 4958528103,
+  "lat": 47.2419408,
+  "lon": 10.9404782
+},
+{
+  "type": "node",
+  "id": 4958528104,
+  "lat": 47.2419568,
+  "lon": 10.9404814
 },
 {
   "type": "node",
@@ -18843,12 +22769,6 @@
 },
 {
   "type": "node",
-  "id": 1078829612,
-  "lat": 47.4052520,
-  "lon": 11.0357239
-},
-{
-  "type": "node",
   "id": 1844504652,
   "lat": 47.4052526,
   "lon": 11.0355612
@@ -18867,7 +22787,7 @@
 },
 {
   "type": "node",
-  "id": 1844504655,
+  "id": 4938221414,
   "lat": 47.4052518,
   "lon": 11.0357989
 },
@@ -20901,6 +24821,978 @@
 },
 {
   "type": "node",
+  "id": 1338422260,
+  "lat": 47.4537476,
+  "lon": 10.1120489
+},
+{
+  "type": "node",
+  "id": 1338422288,
+  "lat": 47.4538885,
+  "lon": 10.1121425
+},
+{
+  "type": "node",
+  "id": 1338421956,
+  "lat": 47.4538170,
+  "lon": 10.1124632
+},
+{
+  "type": "node",
+  "id": 1338422029,
+  "lat": 47.4536545,
+  "lon": 10.1123552
+},
+{
+  "type": "node",
+  "id": 2406996820,
+  "lat": 47.4538467,
+  "lon": 10.1122802
+},
+{
+  "type": "node",
+  "id": 2406996822,
+  "lat": 47.4538683,
+  "lon": 10.1122946
+},
+{
+  "type": "node",
+  "id": 1808972214,
+  "lat": 47.5017080,
+  "lon": 10.0753784
+},
+{
+  "type": "node",
+  "id": 1808972221,
+  "lat": 47.5017755,
+  "lon": 10.0755846
+},
+{
+  "type": "node",
+  "id": 1808972227,
+  "lat": 47.5018141,
+  "lon": 10.0753023
+},
+{
+  "type": "node",
+  "id": 1808972238,
+  "lat": 47.5018816,
+  "lon": 10.0755085
+},
+{
+  "type": "node",
+  "id": 1120369837,
+  "lat": 47.5130743,
+  "lon": 10.1112516
+},
+{
+  "type": "node",
+  "id": 1120370412,
+  "lat": 47.5133030,
+  "lon": 10.1116213
+},
+{
+  "type": "node",
+  "id": 1120370690,
+  "lat": 47.5131851,
+  "lon": 10.1111858
+},
+{
+  "type": "node",
+  "id": 1120370769,
+  "lat": 47.5131922,
+  "lon": 10.1116870
+},
+{
+  "type": "node",
+  "id": 2791609336,
+  "lat": 47.4378075,
+  "lon": 10.1973602
+},
+{
+  "type": "node",
+  "id": 2791609338,
+  "lat": 47.4377090,
+  "lon": 10.1972415
+},
+{
+  "type": "node",
+  "id": 2791609339,
+  "lat": 47.4375993,
+  "lon": 10.1974404
+},
+{
+  "type": "node",
+  "id": 2791609342,
+  "lat": 47.4376979,
+  "lon": 10.1975592
+},
+{
+  "type": "node",
+  "id": 1883439756,
+  "lat": 47.4603917,
+  "lon": 10.2117263
+},
+{
+  "type": "node",
+  "id": 1883439757,
+  "lat": 47.4604302,
+  "lon": 10.2119156
+},
+{
+  "type": "node",
+  "id": 1883439758,
+  "lat": 47.4604881,
+  "lon": 10.2118867
+},
+{
+  "type": "node",
+  "id": 1883439759,
+  "lat": 47.4605607,
+  "lon": 10.2122051
+},
+{
+  "type": "node",
+  "id": 1883439773,
+  "lat": 47.4606017,
+  "lon": 10.2116158
+},
+{
+  "type": "node",
+  "id": 1883439775,
+  "lat": 47.4606480,
+  "lon": 10.2119898
+},
+{
+  "type": "node",
+  "id": 1883439778,
+  "lat": 47.4606725,
+  "lon": 10.2119776
+},
+{
+  "type": "node",
+  "id": 1883439781,
+  "lat": 47.4606832,
+  "lon": 10.2121440
+},
+{
+  "type": "node",
+  "id": 1905760693,
+  "lat": 47.4965750,
+  "lon": 10.1828366
+},
+{
+  "type": "node",
+  "id": 1905760695,
+  "lat": 47.4966632,
+  "lon": 10.1827264
+},
+{
+  "type": "node",
+  "id": 1905760699,
+  "lat": 47.4967750,
+  "lon": 10.1831870
+},
+{
+  "type": "node",
+  "id": 1905760709,
+  "lat": 47.4968529,
+  "lon": 10.1830896
+},
+{
+  "type": "node",
+  "id": 2472124379,
+  "lat": 47.4966888,
+  "lon": 10.1828020
+},
+{
+  "type": "node",
+  "id": 2472124380,
+  "lat": 47.4966990,
+  "lon": 10.1827892
+},
+{
+  "type": "node",
+  "id": 1905760710,
+  "lat": 47.4968617,
+  "lon": 10.1897490
+},
+{
+  "type": "node",
+  "id": 1905760711,
+  "lat": 47.4969002,
+  "lon": 10.1895887
+},
+{
+  "type": "node",
+  "id": 1905760712,
+  "lat": 47.4969974,
+  "lon": 10.1898205
+},
+{
+  "type": "node",
+  "id": 1905760713,
+  "lat": 47.4970359,
+  "lon": 10.1896603
+},
+{
+  "type": "node",
+  "id": 3984537387,
+  "lat": 47.4970113,
+  "lon": 10.1897646
+},
+{
+  "type": "node",
+  "id": 3984537388,
+  "lat": 47.4970324,
+  "lon": 10.1896725
+},
+{
+  "type": "node",
+  "id": 1905760685,
+  "lat": 47.4956045,
+  "lon": 10.1947808
+},
+{
+  "type": "node",
+  "id": 1905760687,
+  "lat": 47.4956661,
+  "lon": 10.1946011
+},
+{
+  "type": "node",
+  "id": 1905760689,
+  "lat": 47.4957431,
+  "lon": 10.1948849
+},
+{
+  "type": "node",
+  "id": 1905760691,
+  "lat": 47.4958047,
+  "lon": 10.1947052
+},
+{
+  "type": "node",
+  "id": 1430644973,
+  "lat": 47.4995247,
+  "lon": 10.1930114
+},
+{
+  "type": "node",
+  "id": 1430644974,
+  "lat": 47.4995600,
+  "lon": 10.1928371
+},
+{
+  "type": "node",
+  "id": 1430644977,
+  "lat": 47.4997197,
+  "lon": 10.1930978
+},
+{
+  "type": "node",
+  "id": 1430644978,
+  "lat": 47.4997550,
+  "lon": 10.1929235
+},
+{
+  "type": "node",
+  "id": 838587322,
+  "lat": 47.5235978,
+  "lon": 10.1648014
+},
+{
+  "type": "node",
+  "id": 838587324,
+  "lat": 47.5235761,
+  "lon": 10.1652771
+},
+{
+  "type": "node",
+  "id": 838587325,
+  "lat": 47.5237345,
+  "lon": 10.1652929
+},
+{
+  "type": "node",
+  "id": 838587327,
+  "lat": 47.5237562,
+  "lon": 10.1648172
+},
+{
+  "type": "node",
+  "id": 1122151532,
+  "lat": 47.5341442,
+  "lon": 10.1661538
+},
+{
+  "type": "node",
+  "id": 1122151789,
+  "lat": 47.5342173,
+  "lon": 10.1665153
+},
+{
+  "type": "node",
+  "id": 1122151860,
+  "lat": 47.5342711,
+  "lon": 10.1660975
+},
+{
+  "type": "node",
+  "id": 1122151879,
+  "lat": 47.5343442,
+  "lon": 10.1664591
+},
+{
+  "type": "node",
+  "id": 603861735,
+  "lat": 47.5561910,
+  "lon": 10.1405408
+},
+{
+  "type": "node",
+  "id": 603861737,
+  "lat": 47.5561113,
+  "lon": 10.1405800
+},
+{
+  "type": "node",
+  "id": 603861738,
+  "lat": 47.5561475,
+  "lon": 10.1407419
+},
+{
+  "type": "node",
+  "id": 1122151683,
+  "lat": 47.5502879,
+  "lon": 10.1445537
+},
+{
+  "type": "node",
+  "id": 1122151800,
+  "lat": 47.5504066,
+  "lon": 10.1444616
+},
+{
+  "type": "node",
+  "id": 1122151823,
+  "lat": 47.5503173,
+  "lon": 10.1442088
+},
+{
+  "type": "node",
+  "id": 1122151843,
+  "lat": 47.5501986,
+  "lon": 10.1443009
+},
+{
+  "type": "node",
+  "id": 603861736,
+  "lat": 47.5562273,
+  "lon": 10.1407027
+},
+{
+  "type": "node",
+  "id": 1677085360,
+  "lat": 47.5439910,
+  "lon": 10.1663958
+},
+{
+  "type": "node",
+  "id": 1677085371,
+  "lat": 47.5440532,
+  "lon": 10.1662800
+},
+{
+  "type": "node",
+  "id": 1677085372,
+  "lat": 47.5440522,
+  "lon": 10.1664679
+},
+{
+  "type": "node",
+  "id": 1677085373,
+  "lat": 47.5441144,
+  "lon": 10.1663522
+},
+{
+  "type": "node",
+  "id": 1746180533,
+  "lat": 47.5777079,
+  "lon": 10.0988081
+},
+{
+  "type": "node",
+  "id": 1746180542,
+  "lat": 47.5775854,
+  "lon": 10.0988214
+},
+{
+  "type": "node",
+  "id": 1746180438,
+  "lat": 47.5776089,
+  "lon": 10.0992996
+},
+{
+  "type": "node",
+  "id": 1746180573,
+  "lat": 47.5777316,
+  "lon": 10.0992863
+},
+{
+  "type": "node",
+  "id": 1737992934,
+  "lat": 47.5761554,
+  "lon": 10.1346067
+},
+{
+  "type": "node",
+  "id": 1737992935,
+  "lat": 47.5762677,
+  "lon": 10.1349950
+},
+{
+  "type": "node",
+  "id": 1737992936,
+  "lat": 47.5762883,
+  "lon": 10.1345223
+},
+{
+  "type": "node",
+  "id": 1737992937,
+  "lat": 47.5764006,
+  "lon": 10.1349106
+},
+{
+  "type": "node",
+  "id": 301132994,
+  "lat": 47.5872741,
+  "lon": 10.1552596
+},
+{
+  "type": "node",
+  "id": 301132996,
+  "lat": 47.5874040,
+  "lon": 10.1552144
+},
+{
+  "type": "node",
+  "id": 301133000,
+  "lat": 47.5874503,
+  "lon": 10.1555069
+},
+{
+  "type": "node",
+  "id": 301133003,
+  "lat": 47.5873205,
+  "lon": 10.1555522
+},
+{
+  "type": "node",
+  "id": 1122151558,
+  "lat": 47.5338231,
+  "lon": 10.1780360
+},
+{
+  "type": "node",
+  "id": 1122151584,
+  "lat": 47.5339452,
+  "lon": 10.1783078
+},
+{
+  "type": "node",
+  "id": 1122151654,
+  "lat": 47.5336890,
+  "lon": 10.1781682
+},
+{
+  "type": "node",
+  "id": 1122151883,
+  "lat": 47.5338111,
+  "lon": 10.1784400
+},
+{
+  "type": "node",
+  "id": 1122151516,
+  "lat": 47.5377856,
+  "lon": 10.1727383
+},
+{
+  "type": "node",
+  "id": 1122151538,
+  "lat": 47.5376798,
+  "lon": 10.1731171
+},
+{
+  "type": "node",
+  "id": 1122151633,
+  "lat": 47.5378203,
+  "lon": 10.1732031
+},
+{
+  "type": "node",
+  "id": 1122151847,
+  "lat": 47.5379260,
+  "lon": 10.1728244
+},
+{
+  "type": "node",
+  "id": 1123800038,
+  "lat": 47.5275168,
+  "lon": 10.2080236
+},
+{
+  "type": "node",
+  "id": 1123800418,
+  "lat": 47.5275194,
+  "lon": 10.2082322
+},
+{
+  "type": "node",
+  "id": 1123800567,
+  "lat": 47.5271828,
+  "lon": 10.2080327
+},
+{
+  "type": "node",
+  "id": 1123800711,
+  "lat": 47.5271854,
+  "lon": 10.2082413
+},
+{
+  "type": "node",
+  "id": 1122151557,
+  "lat": 47.5446778,
+  "lon": 10.1738184
+},
+{
+  "type": "node",
+  "id": 1122151629,
+  "lat": 47.5445600,
+  "lon": 10.1738524
+},
+{
+  "type": "node",
+  "id": 1122151815,
+  "lat": 47.5447938,
+  "lon": 10.1738698
+},
+{
+  "type": "node",
+  "id": 1122151836,
+  "lat": 47.5448203,
+  "lon": 10.1737391
+},
+{
+  "type": "node",
+  "id": 1122151858,
+  "lat": 47.5446618,
+  "lon": 10.1738975
+},
+{
+  "type": "node",
+  "id": 1122151905,
+  "lat": 47.5446024,
+  "lon": 10.1736425
+},
+{
+  "type": "node",
+  "id": 896365930,
+  "lat": 47.4136023,
+  "lon": 10.3470077
+},
+{
+  "type": "node",
+  "id": 896365952,
+  "lat": 47.4134573,
+  "lon": 10.3469494
+},
+{
+  "type": "node",
+  "id": 896365961,
+  "lat": 47.4134323,
+  "lon": 10.3470853
+},
+{
+  "type": "node",
+  "id": 896365966,
+  "lat": 47.4134725,
+  "lon": 10.3471015
+},
+{
+  "type": "node",
+  "id": 896365970,
+  "lat": 47.4134409,
+  "lon": 10.3472729
+},
+{
+  "type": "node",
+  "id": 896365977,
+  "lat": 47.4135457,
+  "lon": 10.3473151
+},
+{
+  "type": "node",
+  "id": 1147283450,
+  "lat": 47.4291929,
+  "lon": 10.4066872
+},
+{
+  "type": "node",
+  "id": 1147283482,
+  "lat": 47.4291979,
+  "lon": 10.4070653
+},
+{
+  "type": "node",
+  "id": 1147283561,
+  "lat": 47.4292938,
+  "lon": 10.4070153
+},
+{
+  "type": "node",
+  "id": 1147283657,
+  "lat": 47.4291034,
+  "lon": 10.4067672
+},
+{
+  "type": "node",
+  "id": 1445506095,
+  "lat": 47.4291658,
+  "lon": 10.4069070
+},
+{
+  "type": "node",
+  "id": 1445506096,
+  "lat": 47.4292598,
+  "lon": 10.4068367
+},
+{
+  "type": "node",
+  "id": 21635976,
+  "lat": 47.4764687,
+  "lon": 10.4538794
+},
+{
+  "type": "node",
+  "id": 1157251585,
+  "lat": 47.4763996,
+  "lon": 10.4542518
+},
+{
+  "type": "node",
+  "id": 1157251841,
+  "lat": 47.4763276,
+  "lon": 10.4538220
+},
+{
+  "type": "node",
+  "id": 1157252385,
+  "lat": 47.4762585,
+  "lon": 10.4541944
+},
+{
+  "type": "node",
+  "id": 1445568297,
+  "lat": 47.4764403,
+  "lon": 10.4540329
+},
+{
+  "type": "node",
+  "id": 1445568298,
+  "lat": 47.4764546,
+  "lon": 10.4539549
+},
+{
+  "type": "node",
+  "id": 1445568299,
+  "lat": 47.4764627,
+  "lon": 10.4540420
+},
+{
+  "type": "node",
+  "id": 1445568301,
+  "lat": 47.4764772,
+  "lon": 10.4539641
+},
+{
+  "type": "node",
+  "id": 1348371012,
+  "lat": 47.5511668,
+  "lon": 10.3129288
+},
+{
+  "type": "node",
+  "id": 1348371027,
+  "lat": 47.5510927,
+  "lon": 10.3128239
+},
+{
+  "type": "node",
+  "id": 1348371032,
+  "lat": 47.5512692,
+  "lon": 10.3125502
+},
+{
+  "type": "node",
+  "id": 1348371046,
+  "lat": 47.5513433,
+  "lon": 10.3126551
+},
+{
+  "type": "node",
+  "id": 1862823956,
+  "lat": 47.5512351,
+  "lon": 10.3126031
+},
+{
+  "type": "node",
+  "id": 442325095,
+  "lat": 47.5657413,
+  "lon": 10.3106184
+},
+{
+  "type": "node",
+  "id": 442325099,
+  "lat": 47.5659236,
+  "lon": 10.3108412
+},
+{
+  "type": "node",
+  "id": 442325105,
+  "lat": 47.5658507,
+  "lon": 10.3109721
+},
+{
+  "type": "node",
+  "id": 442325109,
+  "lat": 47.5656684,
+  "lon": 10.3107493
+},
+{
+  "type": "node",
+  "id": 442327241,
+  "lat": 47.5641295,
+  "lon": 10.3205246
+},
+{
+  "type": "node",
+  "id": 442327243,
+  "lat": 47.5641439,
+  "lon": 10.3208909
+},
+{
+  "type": "node",
+  "id": 442327245,
+  "lat": 47.5640344,
+  "lon": 10.3209004
+},
+{
+  "type": "node",
+  "id": 442327246,
+  "lat": 47.5640200,
+  "lon": 10.3205341
+},
+{
+  "type": "node",
+  "id": 442328045,
+  "lat": 47.5622986,
+  "lon": 10.3302534
+},
+{
+  "type": "node",
+  "id": 442328046,
+  "lat": 47.5622223,
+  "lon": 10.3303361
+},
+{
+  "type": "node",
+  "id": 442328047,
+  "lat": 47.5623659,
+  "lon": 10.3306274
+},
+{
+  "type": "node",
+  "id": 442328048,
+  "lat": 47.5624423,
+  "lon": 10.3305448
+},
+{
+  "type": "node",
+  "id": 1607244694,
+  "lat": 47.5623543,
+  "lon": 10.3306039
+},
+{
+  "type": "node",
+  "id": 1029738015,
+  "lat": 47.5600890,
+  "lon": 10.4404539
+},
+{
+  "type": "node",
+  "id": 1029774151,
+  "lat": 47.5603833,
+  "lon": 10.4403348
+},
+{
+  "type": "node",
+  "id": 1029774382,
+  "lat": 47.5603481,
+  "lon": 10.4401439
+},
+{
+  "type": "node",
+  "id": 1029775288,
+  "lat": 47.5600538,
+  "lon": 10.4402631
+},
+{
+  "type": "node",
+  "id": 1270213484,
+  "lat": 47.5654766,
+  "lon": 10.4362791
+},
+{
+  "type": "node",
+  "id": 1270213486,
+  "lat": 47.5653046,
+  "lon": 10.4365098
+},
+{
+  "type": "node",
+  "id": 1270213487,
+  "lat": 47.5652867,
+  "lon": 10.4363180
+},
+{
+  "type": "node",
+  "id": 1270213488,
+  "lat": 47.5654945,
+  "lon": 10.4364708
+},
+{
+  "type": "node",
+  "id": 973596552,
+  "lat": 47.5882841,
+  "lon": 10.4460345
+},
+{
+  "type": "node",
+  "id": 973596798,
+  "lat": 47.5879529,
+  "lon": 10.4461743
+},
+{
+  "type": "node",
+  "id": 973596889,
+  "lat": 47.5884140,
+  "lon": 10.4459645
+},
+{
+  "type": "node",
+  "id": 973596969,
+  "lat": 47.5882578,
+  "lon": 10.4459352
+},
+{
+  "type": "node",
+  "id": 973597514,
+  "lat": 47.5883589,
+  "lon": 10.4458111
+},
+{
+  "type": "node",
+  "id": 973597942,
+  "lat": 47.5882930,
+  "lon": 10.4460593
+},
+{
+  "type": "node",
+  "id": 973598119,
+  "lat": 47.5882452,
+  "lon": 10.4459002
+},
+{
+  "type": "node",
+  "id": 973598204,
+  "lat": 47.5879865,
+  "lon": 10.4462679
+},
+{
+  "type": "node",
+  "id": 1349164802,
+  "lat": 47.6009376,
+  "lon": 10.4597160
+},
+{
+  "type": "node",
+  "id": 1349164804,
+  "lat": 47.6010004,
+  "lon": 10.4599939
+},
+{
+  "type": "node",
+  "id": 1349164805,
+  "lat": 47.6009086,
+  "lon": 10.4600395
+},
+{
+  "type": "node",
+  "id": 1349164806,
+  "lat": 47.6008458,
+  "lon": 10.4597616
+},
+{
+  "type": "node",
+  "id": 384842646,
+  "lat": 47.6319110,
+  "lon": 10.1231811
+},
+{
+  "type": "node",
+  "id": 384842651,
+  "lat": 47.6319059,
+  "lon": 10.1233177
+},
+{
+  "type": "node",
+  "id": 1518246660,
+  "lat": 47.6318508,
+  "lon": 10.1231761
+},
+{
+  "type": "node",
+  "id": 1518246661,
+  "lat": 47.6318457,
+  "lon": 10.1233128
+},
+{
+  "type": "node",
+  "id": 400899670,
+  "lat": 47.6534130,
+  "lon": 10.1318035
+},
+{
+  "type": "node",
+  "id": 400899671,
+  "lat": 47.6533688,
+  "lon": 10.1318249
+},
+{
+  "type": "node",
+  "id": 400899672,
+  "lat": 47.6533853,
+  "lon": 10.1319000
+},
+{
+  "type": "node",
+  "id": 400899673,
+  "lat": 47.6534295,
+  "lon": 10.1318786
+},
+{
+  "type": "node",
   "id": 800084741,
   "lat": 47.4584669,
   "lon": 10.4905065
@@ -21621,6 +26513,354 @@
 },
 {
   "type": "node",
+  "id": 495553651,
+  "lat": 47.5487093,
+  "lon": 10.5512132
+},
+{
+  "type": "node",
+  "id": 495553655,
+  "lat": 47.5486298,
+  "lon": 10.5511972
+},
+{
+  "type": "node",
+  "id": 1934040359,
+  "lat": 47.5486624,
+  "lon": 10.5512044
+},
+{
+  "type": "node",
+  "id": 495553658,
+  "lat": 47.5486765,
+  "lon": 10.5514831
+},
+{
+  "type": "node",
+  "id": 495553662,
+  "lat": 47.5485982,
+  "lon": 10.5514622
+},
+{
+  "type": "node",
+  "id": 1922365617,
+  "lat": 47.5486042,
+  "lon": 10.5514127
+},
+{
+  "type": "node",
+  "id": 420789964,
+  "lat": 47.5484653,
+  "lon": 10.5700425
+},
+{
+  "type": "node",
+  "id": 465629545,
+  "lat": 47.5476627,
+  "lon": 10.5684306
+},
+{
+  "type": "node",
+  "id": 1129340254,
+  "lat": 47.5479548,
+  "lon": 10.5686792
+},
+{
+  "type": "node",
+  "id": 1129340255,
+  "lat": 47.5487751,
+  "lon": 10.5702209
+},
+{
+  "type": "node",
+  "id": 1129340259,
+  "lat": 47.5487535,
+  "lon": 10.5704213
+},
+{
+  "type": "node",
+  "id": 1129340264,
+  "lat": 47.5486498,
+  "lon": 10.5702869
+},
+{
+  "type": "node",
+  "id": 1129340268,
+  "lat": 47.5487787,
+  "lon": 10.5702220
+},
+{
+  "type": "node",
+  "id": 1129340270,
+  "lat": 47.5486199,
+  "lon": 10.5700054
+},
+{
+  "type": "node",
+  "id": 1129340272,
+  "lat": 47.5486368,
+  "lon": 10.5703888
+},
+{
+  "type": "node",
+  "id": 1129340274,
+  "lat": 47.5484880,
+  "lon": 10.5702419
+},
+{
+  "type": "node",
+  "id": 1129340275,
+  "lat": 47.5477242,
+  "lon": 10.5683390
+},
+{
+  "type": "node",
+  "id": 1129340276,
+  "lat": 47.5484797,
+  "lon": 10.5699286
+},
+{
+  "type": "node",
+  "id": 1129340277,
+  "lat": 47.5487892,
+  "lon": 10.5701097
+},
+{
+  "type": "node",
+  "id": 1129340278,
+  "lat": 47.5486245,
+  "lon": 10.5699689
+},
+{
+  "type": "node",
+  "id": 1262272580,
+  "lat": 47.5485117,
+  "lon": 10.5700554
+},
+{
+  "type": "node",
+  "id": 2149623292,
+  "lat": 47.5476855,
+  "lon": 10.5685158
+},
+{
+  "type": "node",
+  "id": 2149623295,
+  "lat": 47.5477029,
+  "lon": 10.5684899
+},
+{
+  "type": "node",
+  "id": 2149623307,
+  "lat": 47.5478771,
+  "lon": 10.5687989
+},
+{
+  "type": "node",
+  "id": 2149623310,
+  "lat": 47.5479239,
+  "lon": 10.5687251
+},
+{
+  "type": "node",
+  "id": 2149623311,
+  "lat": 47.5479254,
+  "lon": 10.5687272
+},
+{
+  "type": "node",
+  "id": 2149623330,
+  "lat": 47.5484923,
+  "lon": 10.5702081
+},
+{
+  "type": "node",
+  "id": 2149623331,
+  "lat": 47.5484950,
+  "lon": 10.5699329
+},
+{
+  "type": "node",
+  "id": 2149623332,
+  "lat": 47.5484995,
+  "lon": 10.5701514
+},
+{
+  "type": "node",
+  "id": 2149623343,
+  "lat": 47.5487034,
+  "lon": 10.5700858
+},
+{
+  "type": "node",
+  "id": 2149623345,
+  "lat": 47.5487104,
+  "lon": 10.5700306
+},
+{
+  "type": "node",
+  "id": 1978500906,
+  "lat": 47.5892679,
+  "lon": 10.4921323
+},
+{
+  "type": "node",
+  "id": 1978500908,
+  "lat": 47.5893458,
+  "lon": 10.4921725
+},
+{
+  "type": "node",
+  "id": 1978500905,
+  "lat": 47.5892135,
+  "lon": 10.4923640
+},
+{
+  "type": "node",
+  "id": 1978500907,
+  "lat": 47.5892915,
+  "lon": 10.4924042
+},
+{
+  "type": "node",
+  "id": 1978500861,
+  "lat": 47.5834413,
+  "lon": 10.5106454
+},
+{
+  "type": "node",
+  "id": 1978500862,
+  "lat": 47.5834411,
+  "lon": 10.5103989
+},
+{
+  "type": "node",
+  "id": 1978500863,
+  "lat": 47.5835516,
+  "lon": 10.5106452
+},
+{
+  "type": "node",
+  "id": 1978500866,
+  "lat": 47.5835513,
+  "lon": 10.5103986
+},
+{
+  "type": "node",
+  "id": 1258791718,
+  "lat": 47.6068098,
+  "lon": 10.4968523
+},
+{
+  "type": "node",
+  "id": 1258791720,
+  "lat": 47.6066895,
+  "lon": 10.4969489
+},
+{
+  "type": "node",
+  "id": 1258791723,
+  "lat": 47.6069065,
+  "lon": 10.4965825
+},
+{
+  "type": "node",
+  "id": 1258791725,
+  "lat": 47.6068006,
+  "lon": 10.4966387
+},
+{
+  "type": "node",
+  "id": 1258791728,
+  "lat": 47.6066880,
+  "lon": 10.4965500
+},
+{
+  "type": "node",
+  "id": 1258791732,
+  "lat": 47.6068428,
+  "lon": 10.4968783
+},
+{
+  "type": "node",
+  "id": 1258791747,
+  "lat": 47.6067893,
+  "lon": 10.4970276
+},
+{
+  "type": "node",
+  "id": 1258791749,
+  "lat": 47.6067271,
+  "lon": 10.4964410
+},
+{
+  "type": "node",
+  "id": 3742527767,
+  "lat": 47.6080312,
+  "lon": 10.5112495
+},
+{
+  "type": "node",
+  "id": 3742527769,
+  "lat": 47.6080325,
+  "lon": 10.5111404
+},
+{
+  "type": "node",
+  "id": 3742527773,
+  "lat": 47.6080561,
+  "lon": 10.5111410
+},
+{
+  "type": "node",
+  "id": 3742527775,
+  "lat": 47.6081266,
+  "lon": 10.5111427
+},
+{
+  "type": "node",
+  "id": 3742527776,
+  "lat": 47.6081272,
+  "lon": 10.5110905
+},
+{
+  "type": "node",
+  "id": 3742527781,
+  "lat": 47.6081616,
+  "lon": 10.5112527
+},
+{
+  "type": "node",
+  "id": 3742527782,
+  "lat": 47.6081635,
+  "lon": 10.5110914
+},
+{
+  "type": "node",
+  "id": 380254721,
+  "lat": 47.6010244,
+  "lon": 10.5127086
+},
+{
+  "type": "node",
+  "id": 380254722,
+  "lat": 47.6010676,
+  "lon": 10.5131320
+},
+{
+  "type": "node",
+  "id": 380254723,
+  "lat": 47.6011566,
+  "lon": 10.5131120
+},
+{
+  "type": "node",
+  "id": 380254724,
+  "lat": 47.6011134,
+  "lon": 10.5126886
+},
+{
+  "type": "node",
   "id": 1463543498,
   "lat": 47.4900439,
   "lon": 10.7210623
@@ -21720,6 +26960,132 @@
   "id": 968879609,
   "lat": 47.5344944,
   "lon": 10.7493384
+},
+{
+  "type": "node",
+  "id": 3692063327,
+  "lat": 47.5726098,
+  "lon": 10.7996697
+},
+{
+  "type": "node",
+  "id": 3692063328,
+  "lat": 47.5726100,
+  "lon": 10.7995851
+},
+{
+  "type": "node",
+  "id": 3692063333,
+  "lat": 47.5727150,
+  "lon": 10.7996704
+},
+{
+  "type": "node",
+  "id": 3692063334,
+  "lat": 47.5727152,
+  "lon": 10.7995858
+},
+{
+  "type": "node",
+  "id": 1856015343,
+  "lat": 47.5663432,
+  "lon": 10.8572237
+},
+{
+  "type": "node",
+  "id": 1856015345,
+  "lat": 47.5663546,
+  "lon": 10.8571076
+},
+{
+  "type": "node",
+  "id": 1856015364,
+  "lat": 47.5665647,
+  "lon": 10.8572691
+},
+{
+  "type": "node",
+  "id": 1856015366,
+  "lat": 47.5665795,
+  "lon": 10.8571177
+},
+{
+  "type": "node",
+  "id": 3718694416,
+  "lat": 47.5665063,
+  "lon": 10.8573518
+},
+{
+  "type": "node",
+  "id": 3718694418,
+  "lat": 47.5664350,
+  "lon": 10.8571249
+},
+{
+  "type": "node",
+  "id": 3718697829,
+  "lat": 47.5664344,
+  "lon": 10.8573364
+},
+{
+  "type": "node",
+  "id": 3718697830,
+  "lat": 47.5664387,
+  "lon": 10.8570875
+},
+{
+  "type": "node",
+  "id": 3718697850,
+  "lat": 47.5664433,
+  "lon": 10.8572452
+},
+{
+  "type": "node",
+  "id": 3718697852,
+  "lat": 47.5665154,
+  "lon": 10.8572585
+},
+{
+  "type": "node",
+  "id": 1105258561,
+  "lat": 47.6061223,
+  "lon": 10.8107618
+},
+{
+  "type": "node",
+  "id": 1105258565,
+  "lat": 47.6064046,
+  "lon": 10.8108331
+},
+{
+  "type": "node",
+  "id": 1105258571,
+  "lat": 47.6062989,
+  "lon": 10.8105444
+},
+{
+  "type": "node",
+  "id": 1105258573,
+  "lat": 47.6062067,
+  "lon": 10.8109925
+},
+{
+  "type": "node",
+  "id": 1105258591,
+  "lat": 47.6061475,
+  "lon": 10.8106664
+},
+{
+  "type": "node",
+  "id": 1105258599,
+  "lat": 47.6063235,
+  "lon": 10.8108984
+},
+{
+  "type": "node",
+  "id": 4625220563,
+  "lat": 47.6061688,
+  "lon": 10.8107244
 },
 {
   "type": "node",
@@ -25971,6 +31337,54 @@
 },
 {
   "type": "node",
+  "id": 918201939,
+  "lat": 47.0395149,
+  "lon": 12.6904159
+},
+{
+  "type": "node",
+  "id": 918201950,
+  "lat": 47.0397489,
+  "lon": 12.6906449
+},
+{
+  "type": "node",
+  "id": 918201974,
+  "lat": 47.0395200,
+  "lon": 12.6906460
+},
+{
+  "type": "node",
+  "id": 1616462979,
+  "lat": 47.0397493,
+  "lon": 12.6904228
+},
+{
+  "type": "node",
+  "id": 1911648800,
+  "lat": 47.0395886,
+  "lon": 12.6904181
+},
+{
+  "type": "node",
+  "id": 1911648803,
+  "lat": 47.0395920,
+  "lon": 12.6903095
+},
+{
+  "type": "node",
+  "id": 1911648805,
+  "lat": 47.0397063,
+  "lon": 12.6904216
+},
+{
+  "type": "node",
+  "id": 1911648806,
+  "lat": 47.0397096,
+  "lon": 12.6903176
+},
+{
+  "type": "node",
   "id": 1398698570,
   "lat": 47.0309598,
   "lon": 12.7154437
@@ -27087,72 +32501,6 @@
 },
 {
   "type": "node",
-  "id": 967140200,
-  "lat": 47.5567783,
-  "lon": 12.2057287
-},
-{
-  "type": "node",
-  "id": 967140201,
-  "lat": 47.5568951,
-  "lon": 12.2060518
-},
-{
-  "type": "node",
-  "id": 967140219,
-  "lat": 47.5567900,
-  "lon": 12.2061608
-},
-{
-  "type": "node",
-  "id": 967140221,
-  "lat": 47.5567447,
-  "lon": 12.2060649
-},
-{
-  "type": "node",
-  "id": 967140222,
-  "lat": 47.5567761,
-  "lon": 12.2060324
-},
-{
-  "type": "node",
-  "id": 967140226,
-  "lat": 47.5567243,
-  "lon": 12.2059227
-},
-{
-  "type": "node",
-  "id": 1596297017,
-  "lat": 47.5567743,
-  "lon": 12.2058709
-},
-{
-  "type": "node",
-  "id": 1596297032,
-  "lat": 47.5567305,
-  "lon": 12.2057782
-},
-{
-  "type": "node",
-  "id": 1596297037,
-  "lat": 47.5568573,
-  "lon": 12.2059717
-},
-{
-  "type": "node",
-  "id": 1596297043,
-  "lat": 47.5568813,
-  "lon": 12.2059469
-},
-{
-  "type": "node",
-  "id": 1942827529,
-  "lat": 47.5567627,
-  "lon": 12.2058829
-},
-{
-  "type": "node",
   "id": 968035680,
   "lat": 47.5661228,
   "lon": 12.2314172
@@ -27486,36 +32834,6 @@
   "id": 1947354217,
   "lat": 47.5409921,
   "lon": 12.2976778
-},
-{
-  "type": "node",
-  "id": 967140363,
-  "lat": 47.5535785,
-  "lon": 12.3109297
-},
-{
-  "type": "node",
-  "id": 967140366,
-  "lat": 47.5535640,
-  "lon": 12.3111408
-},
-{
-  "type": "node",
-  "id": 967140388,
-  "lat": 47.5533738,
-  "lon": 12.3111121
-},
-{
-  "type": "node",
-  "id": 967140390,
-  "lat": 47.5533884,
-  "lon": 12.3109010
-},
-{
-  "type": "node",
-  "id": 3051608119,
-  "lat": 47.5534954,
-  "lon": 12.3111304
 },
 {
   "type": "node",
@@ -29316,6 +34634,672 @@
   "id": 926574548,
   "lat": 48.8324339,
   "lon": 11.0974872
+},
+{
+  "type": "node",
+  "id": 1825763102,
+  "lat": 49.2458869,
+  "lon": 10.5005922
+},
+{
+  "type": "node",
+  "id": 1825763103,
+  "lat": 49.2459734,
+  "lon": 10.5003937
+},
+{
+  "type": "node",
+  "id": 1825763116,
+  "lat": 49.2458528,
+  "lon": 10.5005074
+},
+{
+  "type": "node",
+  "id": 1825763117,
+  "lat": 49.2460065,
+  "lon": 10.5004762
+},
+{
+  "type": "node",
+  "id": 2866721161,
+  "lat": 49.2459155,
+  "lon": 10.5005653
+},
+{
+  "type": "node",
+  "id": 2866721162,
+  "lat": 49.2459359,
+  "lon": 10.5006161
+},
+{
+  "type": "node",
+  "id": 2866721163,
+  "lat": 49.2459573,
+  "lon": 10.5005226
+},
+{
+  "type": "node",
+  "id": 2866721164,
+  "lat": 49.2459787,
+  "lon": 10.5005758
+},
+{
+  "type": "node",
+  "id": 533979163,
+  "lat": 49.4736648,
+  "lon": 11.6908935
+},
+{
+  "type": "node",
+  "id": 533979178,
+  "lat": 49.4734749,
+  "lon": 11.6909671
+},
+{
+  "type": "node",
+  "id": 533979186,
+  "lat": 49.4735018,
+  "lon": 11.6911315
+},
+{
+  "type": "node",
+  "id": 533979193,
+  "lat": 49.4736917,
+  "lon": 11.6910579
+},
+{
+  "type": "node",
+  "id": 1754170299,
+  "lat": 49.6277897,
+  "lon": 11.1761915
+},
+{
+  "type": "node",
+  "id": 1754170300,
+  "lat": 49.6277317,
+  "lon": 11.1760058
+},
+{
+  "type": "node",
+  "id": 1754170303,
+  "lat": 49.6278232,
+  "lon": 11.1760622
+},
+{
+  "type": "node",
+  "id": 1754170304,
+  "lat": 49.6276982,
+  "lon": 11.1761351
+},
+{
+  "type": "node",
+  "id": 358184774,
+  "lat": 49.5212616,
+  "lon": 11.5641159
+},
+{
+  "type": "node",
+  "id": 2104238959,
+  "lat": 49.5212613,
+  "lon": 11.5640113
+},
+{
+  "type": "node",
+  "id": 2104238961,
+  "lat": 49.5211920,
+  "lon": 11.5640117
+},
+{
+  "type": "node",
+  "id": 4272221933,
+  "lat": 49.5211922,
+  "lon": 11.5641163
+},
+{
+  "type": "node",
+  "id": 2647216342,
+  "lat": 49.0294546,
+  "lon": 12.8383657
+},
+{
+  "type": "node",
+  "id": 2647216339,
+  "lat": 49.0295856,
+  "lon": 12.8385105
+},
+{
+  "type": "node",
+  "id": 2647216340,
+  "lat": 49.0295100,
+  "lon": 12.8386755
+},
+{
+  "type": "node",
+  "id": 2647216341,
+  "lat": 49.0293772,
+  "lon": 12.8385387
+},
+{
+  "type": "node",
+  "id": 1943982214,
+  "lat": 48.8912130,
+  "lon": 13.0415793
+},
+{
+  "type": "node",
+  "id": 1943982220,
+  "lat": 48.8913444,
+  "lon": 13.0414584
+},
+{
+  "type": "node",
+  "id": 1943982222,
+  "lat": 48.8913941,
+  "lon": 13.0415833
+},
+{
+  "type": "node",
+  "id": 1943982215,
+  "lat": 48.8912627,
+  "lon": 13.0417042
+},
+{
+  "type": "node",
+  "id": 1600504189,
+  "lat": 49.0845375,
+  "lon": 13.2804141
+},
+{
+  "type": "node",
+  "id": 1600504192,
+  "lat": 49.0845362,
+  "lon": 13.2805873
+},
+{
+  "type": "node",
+  "id": 1600504202,
+  "lat": 49.0846976,
+  "lon": 13.2805907
+},
+{
+  "type": "node",
+  "id": 1600504203,
+  "lat": 49.0846955,
+  "lon": 13.2807725
+},
+{
+  "type": "node",
+  "id": 1600504204,
+  "lat": 49.0847221,
+  "lon": 13.2804192
+},
+{
+  "type": "node",
+  "id": 1600504205,
+  "lat": 49.0847930,
+  "lon": 13.2804211
+},
+{
+  "type": "node",
+  "id": 1600504206,
+  "lat": 49.0847908,
+  "lon": 13.2806104
+},
+{
+  "type": "node",
+  "id": 1600504207,
+  "lat": 49.0847889,
+  "lon": 13.2807750
+},
+{
+  "type": "node",
+  "id": 3964779118,
+  "lat": 49.0847910,
+  "lon": 13.2805911
+},
+{
+  "type": "node",
+  "id": 3964784605,
+  "lat": 49.0846343,
+  "lon": 13.2805891
+},
+{
+  "type": "node",
+  "id": 1966797440,
+  "lat": 49.2419189,
+  "lon": 12.9070428
+},
+{
+  "type": "node",
+  "id": 1966797442,
+  "lat": 49.2419193,
+  "lon": 12.9071510
+},
+{
+  "type": "node",
+  "id": 1966797443,
+  "lat": 49.2420264,
+  "lon": 12.9070419
+},
+{
+  "type": "node",
+  "id": 1966797446,
+  "lat": 49.2420268,
+  "lon": 12.9071500
+},
+{
+  "type": "node",
+  "id": 366818335,
+  "lat": 49.1122570,
+  "lon": 13.1355081
+},
+{
+  "type": "node",
+  "id": 366818337,
+  "lat": 49.1121808,
+  "lon": 13.1354823
+},
+{
+  "type": "node",
+  "id": 366818339,
+  "lat": 49.1121519,
+  "lon": 13.1356807
+},
+{
+  "type": "node",
+  "id": 366818342,
+  "lat": 49.1122281,
+  "lon": 13.1357066
+},
+{
+  "type": "node",
+  "id": 366961102,
+  "lat": 49.1135931,
+  "lon": 13.1390728
+},
+{
+  "type": "node",
+  "id": 366961106,
+  "lat": 49.1135531,
+  "lon": 13.1389240
+},
+{
+  "type": "node",
+  "id": 366961111,
+  "lat": 49.1133121,
+  "lon": 13.1392490
+},
+{
+  "type": "node",
+  "id": 366961133,
+  "lat": 49.1132550,
+  "lon": 13.1390366
+},
+{
+  "type": "node",
+  "id": 366961136,
+  "lat": 49.1135014,
+  "lon": 13.1389564
+},
+{
+  "type": "node",
+  "id": 366961139,
+  "lat": 49.1134615,
+  "lon": 13.1388078
+},
+{
+  "type": "node",
+  "id": 2466964691,
+  "lat": 49.1133325,
+  "lon": 13.1388887
+},
+{
+  "type": "node",
+  "id": 2466964701,
+  "lat": 49.1133553,
+  "lon": 13.1389737
+},
+{
+  "type": "node",
+  "id": 2321702511,
+  "lat": 49.1289319,
+  "lon": 13.1543500
+},
+{
+  "type": "node",
+  "id": 2321702525,
+  "lat": 49.1288947,
+  "lon": 13.1544730
+},
+{
+  "type": "node",
+  "id": 2321702536,
+  "lat": 49.1287174,
+  "lon": 13.1543477
+},
+{
+  "type": "node",
+  "id": 2321702575,
+  "lat": 49.1287546,
+  "lon": 13.1542247
+},
+{
+  "type": "node",
+  "id": 4248217895,
+  "lat": 49.1289056,
+  "lon": 13.1544452
+},
+{
+  "type": "node",
+  "id": 4248217896,
+  "lat": 49.1289271,
+  "lon": 13.1543700
+},
+{
+  "type": "node",
+  "id": 2995672980,
+  "lat": 49.9902631,
+  "lon": 9.7603836
+},
+{
+  "type": "node",
+  "id": 2995672981,
+  "lat": 49.9903349,
+  "lon": 9.7602915
+},
+{
+  "type": "node",
+  "id": 2995672982,
+  "lat": 49.9903368,
+  "lon": 9.7605226
+},
+{
+  "type": "node",
+  "id": 2995672983,
+  "lat": 49.9904086,
+  "lon": 9.7604305
+},
+{
+  "type": "node",
+  "id": 1162986883,
+  "lat": 50.3429952,
+  "lon": 9.9416886
+},
+{
+  "type": "node",
+  "id": 1162986884,
+  "lat": 50.3428940,
+  "lon": 9.9419651
+},
+{
+  "type": "node",
+  "id": 1162986885,
+  "lat": 50.3431719,
+  "lon": 9.9422147
+},
+{
+  "type": "node",
+  "id": 1162986886,
+  "lat": 50.3432731,
+  "lon": 9.9419381
+},
+{
+  "type": "node",
+  "id": 1882450201,
+  "lat": 50.3734083,
+  "lon": 10.0018834
+},
+{
+  "type": "node",
+  "id": 1882450203,
+  "lat": 50.3734092,
+  "lon": 10.0020769
+},
+{
+  "type": "node",
+  "id": 1882450212,
+  "lat": 50.3734301,
+  "lon": 10.0020767
+},
+{
+  "type": "node",
+  "id": 1882450213,
+  "lat": 50.3734309,
+  "lon": 10.0022538
+},
+{
+  "type": "node",
+  "id": 1882450214,
+  "lat": 50.3735201,
+  "lon": 10.0018822
+},
+{
+  "type": "node",
+  "id": 1882450215,
+  "lat": 50.3735208,
+  "lon": 10.0020443
+},
+{
+  "type": "node",
+  "id": 1882450216,
+  "lat": 50.3735351,
+  "lon": 10.0022280
+},
+{
+  "type": "node",
+  "id": 1882450218,
+  "lat": 50.3735352,
+  "lon": 10.0022526
+},
+{
+  "type": "node",
+  "id": 1882450220,
+  "lat": 50.3735369,
+  "lon": 10.0020441
+},
+{
+  "type": "node",
+  "id": 1882450224,
+  "lat": 50.3736386,
+  "lon": 10.0020429
+},
+{
+  "type": "node",
+  "id": 1882450226,
+  "lat": 50.3736394,
+  "lon": 10.0022268
+},
+{
+  "type": "node",
+  "id": 2341991020,
+  "lat": 50.1162849,
+  "lon": 10.2791679
+},
+{
+  "type": "node",
+  "id": 2341991023,
+  "lat": 50.1163400,
+  "lon": 10.2794146
+},
+{
+  "type": "node",
+  "id": 2341991024,
+  "lat": 50.1163881,
+  "lon": 10.2792993
+},
+{
+  "type": "node",
+  "id": 2341991026,
+  "lat": 50.1162385,
+  "lon": 10.2792912
+},
+{
+  "type": "node",
+  "id": 1037564314,
+  "lat": 50.2972623,
+  "lon": 11.6693797
+},
+{
+  "type": "node",
+  "id": 1037564393,
+  "lat": 50.2972998,
+  "lon": 11.6692703
+},
+{
+  "type": "node",
+  "id": 1037564743,
+  "lat": 50.2974510,
+  "lon": 11.6693976
+},
+{
+  "type": "node",
+  "id": 1037565099,
+  "lat": 50.2974135,
+  "lon": 11.6695070
+},
+{
+  "type": "node",
+  "id": 3060413608,
+  "lat": 50.4665552,
+  "lon": 11.3759454
+},
+{
+  "type": "node",
+  "id": 3060413609,
+  "lat": 50.4664646,
+  "lon": 11.3758681
+},
+{
+  "type": "node",
+  "id": 3060413610,
+  "lat": 50.4664208,
+  "lon": 11.3759951
+},
+{
+  "type": "node",
+  "id": 3060413611,
+  "lat": 50.4665114,
+  "lon": 11.3760723
+},
+{
+  "type": "node",
+  "id": 2145048530,
+  "lat": 49.9413858,
+  "lon": 11.7878648
+},
+{
+  "type": "node",
+  "id": 2145048533,
+  "lat": 49.9414059,
+  "lon": 11.7877316
+},
+{
+  "type": "node",
+  "id": 2145048535,
+  "lat": 49.9414686,
+  "lon": 11.7878949
+},
+{
+  "type": "node",
+  "id": 2145048537,
+  "lat": 49.9414887,
+  "lon": 11.7877617
+},
+{
+  "type": "node",
+  "id": 1322353600,
+  "lat": 50.0325097,
+  "lon": 11.8722556
+},
+{
+  "type": "node",
+  "id": 1322353605,
+  "lat": 50.0323664,
+  "lon": 11.8723991
+},
+{
+  "type": "node",
+  "id": 1322353610,
+  "lat": 50.0324685,
+  "lon": 11.8720817
+},
+{
+  "type": "node",
+  "id": 1322353612,
+  "lat": 50.0323124,
+  "lon": 11.8721713
+},
+{
+  "type": "node",
+  "id": 4406150858,
+  "lat": 50.0324367,
+  "lon": 11.8722975
+},
+{
+  "type": "node",
+  "id": 4406150859,
+  "lat": 50.0324495,
+  "lon": 11.8723514
+},
+{
+  "type": "node",
+  "id": 1338895076,
+  "lat": 49.9878553,
+  "lon": 11.9799204
+},
+{
+  "type": "node",
+  "id": 253060065,
+  "lat": 49.9880190,
+  "lon": 11.9800654
+},
+{
+  "type": "node",
+  "id": 1338895073,
+  "lat": 49.9878042,
+  "lon": 11.9800601
+},
+{
+  "type": "node",
+  "id": 1338895078,
+  "lat": 49.9879544,
+  "lon": 11.9802419
+},
+{
+  "type": "node",
+  "id": 2990612592,
+  "lat": 49.9878917,
+  "lon": 11.9801864
+},
+{
+  "type": "node",
+  "id": 2990612593,
+  "lat": 49.9879052,
+  "lon": 11.9801496
+},
+{
+  "type": "node",
+  "id": 288278563,
+  "lat": 48.7811535,
+  "lon": 13.8033426
+},
+{
+  "type": "node",
+  "id": 288278564,
+  "lat": 48.7809175,
+  "lon": 13.8033094
+},
+{
+  "type": "node",
+  "id": 288278565,
+  "lat": 48.7809319,
+  "lon": 13.8030730
+},
+{
+  "type": "node",
+  "id": 288278567,
+  "lat": 48.7811680,
+  "lon": 13.8031062
 }
 
   ]
