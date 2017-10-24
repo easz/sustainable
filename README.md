@@ -36,6 +36,7 @@
   - [Swiss Topo](https://map.geo.admin.ch/)
   - [Bayern Atlas](http://geoportal.bayern.de/bayernatlas/)
   - [Austria](http://www.oetk.at/ausr%C3%BCstung/kartenmaterial/digitale-karten/)
+  - [refuges.info](http://maps.refuges.info/)
 - Locals
   - [Oberammergau](http://www.ammergauer-alpen.de/Media/Touren)
   - [Spitzingsee](http://www.alpenbahnen-spitzingsee.de/sommer/sommer/klettern/)
