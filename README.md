@@ -22,6 +22,10 @@
 - [Camp to Camp](http://www.camptocamp.org/)
 - [hikr](http://www.hikr.org/map.php)
 - [alpenvereinaktiv](http://www.alpenvereinaktiv.com/)
+- Report/Info
+  - [gipfelbuch.ch](https://www.gipfelbuch.ch/gipfelbuch/verhaeltnisse)
+  - [alpine-auskunft.at](https://www.alpine-auskunft.at/index.php)
+
 - Ski Touring
   - [skitourengehen.info](http://www.skitourengehen.info/skitouren)
   - [skitourenkarte](http://skitourenkarte.eu/)
