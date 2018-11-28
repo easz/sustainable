@@ -30,6 +30,7 @@
   - [skitourengehen.info](http://www.skitourengehen.info/skitouren)
   - [skitourenkarte](http://skitourenkarte.eu/)
   - [open slope map](http://www.openslopemap.org/karte/)
+  - [skitourenguru.ch](https://www.skitourenguru.ch/)
 - Climbing
   - [The Crag](https://www.thecrag.com/climbing/germany/oberbayern)
   - [27 Crags](http://27crags.com/)
