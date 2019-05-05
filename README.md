@@ -59,3 +59,4 @@
 
 ## Sharing
 - [Linktipps zum Tauschen, teilen, leihen](http://www.fuereinebesserewelt.info/linktipps-zum-tauschen-teilen-leihen/)
+- [Mitfahrgelegenheiten zum Bergsteigen, Skitouren und Wandern](https://www.nature-cab.com/)
