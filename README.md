@@ -54,7 +54,7 @@
 ## Public Transportation
 - Skitouren mit Öffis [ÖAV](http://www.alpenverein.at/portal/news/aktuelle_news/2013_12_19_skitouren-mit-oeffis.php)
 - Skitouren mit Bus und Bahn [DAV](http://www.alpinjournal.de/html/skitouren_mit_bus_und_bahn.html)
-- [Mapping with umap](http://umap.openstreetmap.fr/en/map/mtn_53474)
+- Mapping with [umap](http://umap.openstreetmap.fr/en/map/mtn_53474) or [on observablehq](https://observablehq.com/@easz/my-map)
 
 ## Community
 - [Ride Green](http://www.ridegreener.com/)
