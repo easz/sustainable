@@ -12,7 +12,7 @@
 - [Bergtour Online](http://www.bergtour-online.de/wanderkarte/)
 - [Markus Stadler](http://www.stadler-markus.de/skitouren/tourentipps.htm)
 - [Bergheimat](http://www.bergheimat.net/)
-- [Gamssteig](http://www.gamssteig.de/karte.htm) !! All tours are with publich transportation :)
+- [Gamssteig](http://www.gamssteig.de/karte.htm) !! All tours are with public transportation :)
 - [steinmandl](http://www.steinmandl.de/Homepage.htm?Fahrplan.htm) public transportation :)
 - [sirdar](http://www.sirdar.de/index.php)
 - [MyMountains](http://www.mymountains.de/Karte)
